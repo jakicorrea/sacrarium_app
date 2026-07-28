@@ -7,10 +7,17 @@
       "plataforma": "facebook",
       "tipo": "foto",
       "publish_at": "2026-07-31T08:30:00-03:00",
-      "status": "pendente",
+      "status": "agendado",
       "image_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Post Facebook\\04 Imagens Geradas\\03. S03 Nao E Disciplina.jpg",
       "caption": "Uma coisa que vejo direto: homem se esforçando de verdade, cortando gasto, se sacrificando — e o resultado não aparece. Na maioria das vezes não é falta de força de vontade, é ordem errada de ataque.\n\nEsse carrossel mostra a sequência que realmente funciona.",
-      "first_comment": "Deixei aqui embaixo o Mapa do Protocolo 4D, gratuito, com a sequência completa em uma página, no link no site da página."
+      "first_comment": "Deixei aqui embaixo o Mapa do Protocolo 4D, gratuito, com a sequência completa em uma página, no link no site da página.",
+      "image_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/protocolo4d/facebook/P4D_S03_FB_FOTO_imagem_03. S03 Nao E Disciplina.jpg",
+      "image_url_nuvem_remoto": "protocolo4d/facebook/P4D_S03_FB_FOTO_imagem_03. S03 Nao E Disciplina.jpg",
+      "resultado": {
+        "object_id": "122111036493394338",
+        "agendado": true,
+        "url": "https://www.facebook.com/122111036493394338"
+      }
     },
     {
       "id": "METODOANA_S09_IG",
@@ -22,7 +29,9 @@
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S09_Paguei_6_Mil_e_Devia_Mais.mp4",
       "caption": "Paguei quase R$6 mil de um consignado de R$10 mil.\n\nPedi a simulação de quitação: ainda devia R$10.306.\n\nMais do que peguei emprestado, mesmo pagando direitinho por dois anos e meio.",
       "first_comment": "A calculadora que faz essa conta em segundos tá na bio.",
-      "nota": "catch-up Insta manha - YT/Face ja tem desde 29/07"
+      "nota": "catch-up Insta manha - YT/Face ja tem desde 29/07",
+      "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/instagram/METODOANA_S09_IG_video_S09_Paguei_6_Mil_e_Devia_Mais.mp4",
+      "video_url_nuvem_remoto": "metodoana/instagram/METODOANA_S09_IG_video_S09_Paguei_6_Mil_e_Devia_Mais.mp4"
     },
     {
       "id": "SACRARIUM_S09_IG",
@@ -34,7 +43,9 @@
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S09_jardim_secreto_de_deus.mp4",
       "caption": "Você vive correndo por fora de si mesmo?\n\nSanta Teresa descrevia a alma como um jardim interior — existe, mas a maioria nunca entra nele.",
       "first_comment": "O Sacrarium nasceu dessa imagem, pra te ajudar a cultivar esse jardim. Link na bio.",
-      "nota": "catch-up Insta manha - YT/Face ja tem desde 29/07"
+      "nota": "catch-up Insta manha - YT/Face ja tem desde 29/07",
+      "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/instagram/SACRARIUM_S09_IG_video_S09_jardim_secreto_de_deus.mp4",
+      "video_url_nuvem_remoto": "sacrarium/instagram/SACRARIUM_S09_IG_video_S09_jardim_secreto_de_deus.mp4"
     },
     {
       "id": "METODOANA_S11_YT",
@@ -42,14 +53,27 @@
       "plataforma": "youtube",
       "tipo": "reels",
       "publish_at": "2026-07-31T12:00:00-03:00",
-      "status": "pendente",
+      "status": "agendado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S11_Perigo_do_Cartao_Rotativo.mp4",
       "title": "R$1.000 no Rotativo Pode Virar R$3.000 em 12 Meses",
       "description": "Se você pagou o mínimo da fatura do cartão esse mês, esse vídeo é sobre o que acontece com o restante.\n\nO que sobra da fatura, quando você paga só o mínimo, entra no rotativo do cartão — uma das linhas de crédito mais caras do sistema financeiro, com juros que podem passar de 200% ao ano. Isso significa que uma dívida de R$1.000 pode virar R$3.000 em 12 meses, mesmo sem você colocar mais nada no cartão.\n\nSou Ana, mãe de 4 filhos, servidora pública, e estou quitando R$185 mil em dívidas em tempo real. No Método ANA que criei, o cartão rotativo é a primeira dívida a ser eliminada — antes de qualquer consignado, antes de qualquer outro planejamento. Enquanto ele existe, nenhuma outra estratégia de pagamento compensa uma dívida crescendo nesse ritmo.\n\nEsse vídeo é pra quem paga o mínimo do cartão há meses e nunca parou pra calcular o custo real disso.",
-      "tags": ["educação financeira feminina", "mãe endividada", "servidora pública endividada", "consignado", "sair das dívidas", "método ANA"],
+      "tags": [
+        "educação financeira feminina",
+        "mãe endividada",
+        "servidora pública endividada",
+        "consignado",
+        "sair das dívidas",
+        "método ANA"
+      ],
       "category_id": 27,
       "pinned_comment": "Você sabe quanto está no rotativo do seu cartão agora? Comenta aqui embaixo. No Método ANA que documentei no ebook Mãe, Concursada e Endividada, o rotativo é a prioridade máxima antes de qualquer outra dívida: https://mae-endividada-completo.netlify.app/",
-      "nota": "SEM THUMBNAIL PRONTA"
+      "nota": "SEM THUMBNAIL PRONTA",
+      "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/youtube/METODOANA_S11_YT_video_S11_Perigo_do_Cartao_Rotativo.mp4",
+      "video_url_nuvem_remoto": "metodoana/youtube/METODOANA_S11_YT_video_S11_Perigo_do_Cartao_Rotativo.mp4",
+      "resultado": {
+        "video_id": "7Ua3rCoIbUQ",
+        "url": "https://youtube.com/watch?v=7Ua3rCoIbUQ"
+      }
     },
     {
       "id": "METODOANA_S11_FB",
@@ -57,10 +81,17 @@
       "plataforma": "facebook",
       "tipo": "reels",
       "publish_at": "2026-07-31T12:00:00-03:00",
-      "status": "pendente",
+      "status": "agendado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S11_Perigo_do_Cartao_Rotativo.mp4",
       "caption": "Mil reais no rotativo do cartão.\n\nEm doze meses pode virar três mil. Mesmo sem você gastar mais nada.\n\nNo método que eu uso, o rotativo é a primeira dívida a sair — antes de qualquer consignado.",
-      "first_comment": "O rotativo é a prioridade máxima no método que documentei no ebook — link no site da página."
+      "first_comment": "O rotativo é a prioridade máxima no método que documentei no ebook — link no site da página.",
+      "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/facebook/METODOANA_S11_FB_video_S11_Perigo_do_Cartao_Rotativo.mp4",
+      "video_url_nuvem_remoto": "metodoana/facebook/METODOANA_S11_FB_video_S11_Perigo_do_Cartao_Rotativo.mp4",
+      "resultado": {
+        "video_id": "1995625297752621",
+        "agendado": true,
+        "url": "https://www.facebook.com/reel/1995625297752621"
+      }
     },
     {
       "id": "SACRARIUM_S11_YT",
@@ -68,14 +99,26 @@
       "plataforma": "youtube",
       "tipo": "reels",
       "publish_at": "2026-07-31T12:00:00-03:00",
-      "status": "pendente",
+      "status": "agendado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S11_deus_mora_em_voce.mp4",
       "title": "E Se Deus Já Morasse Dentro de Você? Não Como Metáfora, Como Doutrina",
       "description": "São Paulo escreveu: \"não sabeis que sois templo de Deus, e que o Espírito de Deus habita em vós?\". Esse vídeo explica essa verdade não como uma figura de linguagem bonita, mas como doutrina — e o que Santa Teresa de Ávila construiu a partir dela.\n\nA alma humana não está apenas buscando entrar no céu depois da morte. Ela já carrega dentro de si o que o céu é. A vida espiritual, nessa tradição, não é uma busca de fora para dentro por algo que ainda não chegou — é uma travessia de fora para dentro em direção ao que já está lá.\n\nUm vídeo para quem reza pedindo que Deus \"apareça\" e nunca ouviu que a tradição católica ensina o contrário: Ele já habita ali.\n\nFoi dessa verdade que nasceu o Sacrarium. Uma jornada de formação espiritual pensada para conduzir você, um passo de cada vez, nessa travessia de fora para dentro, até redescobrir a presença de Deus que já habita em sua alma.\n\nSe você deseja percorrer esse caminho, clique no link e conheça o Sacrarium.",
-      "tags": ["oração católica", "vida espiritual", "formação espiritual", "santos católicos", "Sacrarium"],
+      "tags": [
+        "oração católica",
+        "vida espiritual",
+        "formação espiritual",
+        "santos católicos",
+        "Sacrarium"
+      ],
       "category_id": 27,
       "pinned_comment": "Você já tinha ouvido que Deus habita dentro de você, e não só \"no céu\"? Conta aqui embaixo o que essa ideia muda pra sua oração.\nFoi dessa verdade que nasceu o Sacrarium, uma jornada de formação espiritual pensada para conduzir você, um passo de cada vez, até redescobrir essa presença que já habita em sua alma.\nSe você deseja percorrer esse caminho, clique no link e conheça o Sacrarium: https://sacrarium-app.netlify.app/",
-      "nota": "SEM THUMBNAIL"
+      "nota": "SEM THUMBNAIL",
+      "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/youtube/SACRARIUM_S11_YT_video_S11_deus_mora_em_voce.mp4",
+      "video_url_nuvem_remoto": "sacrarium/youtube/SACRARIUM_S11_YT_video_S11_deus_mora_em_voce.mp4",
+      "resultado": {
+        "video_id": "HAZSOijacQg",
+        "url": "https://youtube.com/watch?v=HAZSOijacQg"
+      }
     },
     {
       "id": "SACRARIUM_S11_FB",
@@ -83,10 +126,17 @@
       "plataforma": "facebook",
       "tipo": "reels",
       "publish_at": "2026-07-31T12:00:00-03:00",
-      "status": "pendente",
+      "status": "agendado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S11_deus_mora_em_voce.mp4",
       "caption": "\"Não sabeis que sois templo de Deus?\" — São Paulo escreveu isso.\n\nVocê não precisa gritar pra um Deus distante. Ele já habita o silêncio dentro de você.",
-      "first_comment": "O Sacrarium existe pra te ajudar a redescobrir essa presença. Link no site da nossa página."
+      "first_comment": "O Sacrarium existe pra te ajudar a redescobrir essa presença. Link no site da nossa página.",
+      "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/facebook/SACRARIUM_S11_FB_video_S11_deus_mora_em_voce.mp4",
+      "video_url_nuvem_remoto": "sacrarium/facebook/SACRARIUM_S11_FB_video_S11_deus_mora_em_voce.mp4",
+      "resultado": {
+        "video_id": "1058796383155947",
+        "agendado": true,
+        "url": "https://www.facebook.com/reel/1058796383155947"
+      }
     },
     {
       "id": "P4D_S05_YT",
@@ -94,15 +144,29 @@
       "plataforma": "youtube",
       "tipo": "reels",
       "publish_at": "2026-07-31T12:00:00-03:00",
-      "status": "pendente",
+      "status": "agendado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S05_P4D_renda_nao_e_solucao.mp4",
       "thumb_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\03_Estrutura_Canais\\Protocolo4D\\04-Pack de Postagem\\Thumbnails\\S05_renda_nao_e_solucao.jpeg",
       "title": "Aumento de Salário Não Resolve Dívida. Método Resolve",
       "description": "Tem gente que recebe aumento de salário e termina mais endividada do que antes, porque o padrão de vida cresce junto e a dívida que já existia continua existindo, só num nível diferente.\n\nNeste short, eu mostro por que renda maior com gestão errada é o mesmo buraco num endereço mais caro, e por que o método precisa vir antes do aumento, não depois.\n\nSe você já teve aumento e ainda assim não sobrou nada, esse vídeo é pra você.",
-      "tags": ["educação financeira masculina", "como sair das dívidas", "finanças para homens", "Protocolo 4D", "Forjando Titãs"],
+      "tags": [
+        "educação financeira masculina",
+        "como sair das dívidas",
+        "finanças para homens",
+        "Protocolo 4D",
+        "Forjando Titãs"
+      ],
       "category_id": 27,
       "pinned_comment": "Problema de gestão não some com aumento de salário. Quer ver a sequência completa pra parar de trabalhar no sentido errado? Deixei aqui embaixo o Mapa 4D, gratuito: https://protocolo-4d.netlify.app/lp-mapa",
-      "nota": "Pack original tinha placeholder [LINK] pro video do FT - retirei a frase da descricao. Preencher quando o link do FT existir."
+      "nota": "Pack original tinha placeholder [LINK] pro video do FT - retirei a frase da descricao. Preencher quando o link do FT existir.",
+      "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/protocolo4d/youtube/P4D_S05_YT_video_S05_P4D_renda_nao_e_solucao.mp4",
+      "video_url_nuvem_remoto": "protocolo4d/youtube/P4D_S05_YT_video_S05_P4D_renda_nao_e_solucao.mp4",
+      "thumb_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/protocolo4d/youtube/P4D_S05_YT_thumb_S05_renda_nao_e_solucao.jpeg",
+      "thumb_url_nuvem_remoto": "protocolo4d/youtube/P4D_S05_YT_thumb_S05_renda_nao_e_solucao.jpeg",
+      "resultado": {
+        "video_id": "8JfAayTbmeo",
+        "url": "https://youtube.com/watch?v=8JfAayTbmeo"
+      }
     },
     {
       "id": "P4D_S05_FB",
@@ -110,10 +174,17 @@
       "plataforma": "facebook",
       "tipo": "reels",
       "publish_at": "2026-07-31T12:00:00-03:00",
-      "status": "pendente",
+      "status": "agendado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S05_P4D_renda_nao_e_solucao.mp4",
       "caption": "Tem gente que recebe aumento e termina mais endividado.\n\nRenda maior com gestão errada é o mesmo buraco, só que num endereço mais caro.\n\nO método vem antes do aumento, não depois.",
-      "first_comment": "Mapa 4D grátis com o método completo — link no site da nossa página."
+      "first_comment": "Mapa 4D grátis com o método completo — link no site da nossa página.",
+      "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/protocolo4d/facebook/P4D_S05_FB_video_S05_P4D_renda_nao_e_solucao.mp4",
+      "video_url_nuvem_remoto": "protocolo4d/facebook/P4D_S05_FB_video_S05_P4D_renda_nao_e_solucao.mp4",
+      "resultado": {
+        "video_id": "1713328493294774",
+        "agendado": true,
+        "url": "https://www.facebook.com/reel/1713328493294774"
+      }
     },
     {
       "id": "P4D_S05_IG",
@@ -124,7 +195,9 @@
       "status": "pendente",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S05_P4D_renda_nao_e_solucao.mp4",
       "caption": "Tem gente que recebe aumento e termina mais endividado.\n\nRenda maior com gestão errada é o mesmo buraco, só que num endereço mais caro.\n\nO método vem antes do aumento, não depois.",
-      "first_comment": "Mapa 4D grátis com o método completo — link na bio."
+      "first_comment": "Mapa 4D grátis com o método completo — link na bio.",
+      "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/protocolo4d/instagram/P4D_S05_IG_video_S05_P4D_renda_nao_e_solucao.mp4",
+      "video_url_nuvem_remoto": "protocolo4d/instagram/P4D_S05_IG_video_S05_P4D_renda_nao_e_solucao.mp4"
     },
     {
       "id": "P4D_S03_IG_CARROSSEL",
@@ -141,7 +214,21 @@
         "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Protocolo4D_S03\\05.jpg"
       ],
       "caption": "Você se esforça, corta gasto, tenta poupar — e o resultado nunca aparece? 👇\n\nNão é falta de disciplina. É ordem errada. Cortar antes de diagnosticar, poupar antes de estancar o sangramento: o esforço existe, mas evapora.\n\nA sequência certa é diagnosticar, desativar, destruir, defender — nessa ordem.\n\nSalva esse post pra reler antes de tentar de novo.",
-      "first_comment": "Você já sentiu que se esforçou muito e não saiu do lugar? Comenta aqui."
+      "first_comment": "Você já sentiu que se esforçou muito e não saiu do lugar? Comenta aqui.",
+      "image_urls_nuvem": [
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/protocolo4d/instagram/P4D_S03_IG_CARROSSEL_img0_01.jpg",
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/protocolo4d/instagram/P4D_S03_IG_CARROSSEL_img1_02.jpg",
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/protocolo4d/instagram/P4D_S03_IG_CARROSSEL_img2_03.jpg",
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/protocolo4d/instagram/P4D_S03_IG_CARROSSEL_img3_04.jpg",
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/protocolo4d/instagram/P4D_S03_IG_CARROSSEL_img4_05.jpg"
+      ],
+      "image_urls_nuvem_remoto": [
+        "protocolo4d/instagram/P4D_S03_IG_CARROSSEL_img0_01.jpg",
+        "protocolo4d/instagram/P4D_S03_IG_CARROSSEL_img1_02.jpg",
+        "protocolo4d/instagram/P4D_S03_IG_CARROSSEL_img2_03.jpg",
+        "protocolo4d/instagram/P4D_S03_IG_CARROSSEL_img3_04.jpg",
+        "protocolo4d/instagram/P4D_S03_IG_CARROSSEL_img4_05.jpg"
+      ]
     },
     {
       "id": "METODOANA_S03_IG_CARROSSEL",
@@ -160,7 +247,25 @@
         "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_MetodoANA_S03\\07.jpg"
       ],
       "caption": "Seu consignado saiu aprovado rapidinho? Isso não é sorte. 👇\n\nO banco desconta direto no seu contracheque, antes de qualquer coisa passar pela sua conta. Se você não pagasse, o desconto aconteceria do mesmo jeito — o risco é todo seu, nunca dele.\n\nSou a Ana, servidora pública, mãe de 4, saindo de R$185 mil em dívidas em tempo real.\n\nSalva esse carrossel antes de assinar o próximo contrato. 💾",
-      "first_comment": "Seu consignado saiu aprovado em quanto tempo? Conta aqui embaixo 👇"
+      "first_comment": "Seu consignado saiu aprovado em quanto tempo? Conta aqui embaixo 👇",
+      "image_urls_nuvem": [
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/instagram/METODOANA_S03_IG_CARROSSEL_img0_01.jpg",
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/instagram/METODOANA_S03_IG_CARROSSEL_img1_02.jpg",
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/instagram/METODOANA_S03_IG_CARROSSEL_img2_03.jpg",
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/instagram/METODOANA_S03_IG_CARROSSEL_img3_04.jpg",
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/instagram/METODOANA_S03_IG_CARROSSEL_img4_05.jpg",
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/instagram/METODOANA_S03_IG_CARROSSEL_img5_06.jpg",
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/instagram/METODOANA_S03_IG_CARROSSEL_img6_07.jpg"
+      ],
+      "image_urls_nuvem_remoto": [
+        "metodoana/instagram/METODOANA_S03_IG_CARROSSEL_img0_01.jpg",
+        "metodoana/instagram/METODOANA_S03_IG_CARROSSEL_img1_02.jpg",
+        "metodoana/instagram/METODOANA_S03_IG_CARROSSEL_img2_03.jpg",
+        "metodoana/instagram/METODOANA_S03_IG_CARROSSEL_img3_04.jpg",
+        "metodoana/instagram/METODOANA_S03_IG_CARROSSEL_img4_05.jpg",
+        "metodoana/instagram/METODOANA_S03_IG_CARROSSEL_img5_06.jpg",
+        "metodoana/instagram/METODOANA_S03_IG_CARROSSEL_img6_07.jpg"
+      ]
     },
     {
       "id": "SACRARIUM_S03_IG_CARROSSEL",
@@ -179,7 +284,25 @@
         "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Sacrarium\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Sacrarium_S03\\07.jpg"
       ],
       "caption": "\"Vou rezar uma hora por dia.\" Isso costuma durar dois dias. 👇\n\nO erro mais comum de quem quer criar rotina de oração é começar grande demais — não porque falta vontade, mas porque o sistema montado não cabe na vida real. Cinco minutos todo dia valem mais do que uma hora esporádica.\n\nO Sacrarium começa pequeno, cresce devagar, não pede perfeição.\n\nSalva esse post antes de montar sua próxima rotina impossível. 💾",
-      "first_comment": "Qual foi a rotina de oração mais ambiciosa que você já tentou (e não durou)? Conta aqui embaixo 👇"
+      "first_comment": "Qual foi a rotina de oração mais ambiciosa que você já tentou (e não durou)? Conta aqui embaixo 👇",
+      "image_urls_nuvem": [
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/instagram/SACRARIUM_S03_IG_CARROSSEL_img0_01.jpg",
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/instagram/SACRARIUM_S03_IG_CARROSSEL_img1_02.jpg",
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/instagram/SACRARIUM_S03_IG_CARROSSEL_img2_03.jpg",
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/instagram/SACRARIUM_S03_IG_CARROSSEL_img3_04.jpg",
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/instagram/SACRARIUM_S03_IG_CARROSSEL_img4_05.jpg",
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/instagram/SACRARIUM_S03_IG_CARROSSEL_img5_06.jpg",
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/instagram/SACRARIUM_S03_IG_CARROSSEL_img6_07.jpg"
+      ],
+      "image_urls_nuvem_remoto": [
+        "sacrarium/instagram/SACRARIUM_S03_IG_CARROSSEL_img0_01.jpg",
+        "sacrarium/instagram/SACRARIUM_S03_IG_CARROSSEL_img1_02.jpg",
+        "sacrarium/instagram/SACRARIUM_S03_IG_CARROSSEL_img2_03.jpg",
+        "sacrarium/instagram/SACRARIUM_S03_IG_CARROSSEL_img3_04.jpg",
+        "sacrarium/instagram/SACRARIUM_S03_IG_CARROSSEL_img4_05.jpg",
+        "sacrarium/instagram/SACRARIUM_S03_IG_CARROSSEL_img5_06.jpg",
+        "sacrarium/instagram/SACRARIUM_S03_IG_CARROSSEL_img6_07.jpg"
+      ]
     },
     {
       "id": "METODOANA_S10_IG",
@@ -191,7 +314,9 @@
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S10_IOF_e_Seguro_Embutido.mp4",
       "caption": "Peguei R$10 mil emprestado. O contrato já registrava mais de R$10.500 de saldo devedor — desde o primeiro dia.\n\nIOF e seguro embutido entram antes da primeira parcela, e ninguém te avisa.",
       "first_comment": "O passo a passo pra descobrir o valor real do seu contrato tá na bio.",
-      "nota": "catch-up Insta fim de dia - YT/Face ja tem desde 30/07"
+      "nota": "catch-up Insta fim de dia - YT/Face ja tem desde 30/07",
+      "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/instagram/METODOANA_S10_IG_video_S10_IOF_e_Seguro_Embutido.mp4",
+      "video_url_nuvem_remoto": "metodoana/instagram/METODOANA_S10_IG_video_S10_IOF_e_Seguro_Embutido.mp4"
     },
     {
       "id": "SACRARIUM_S10_IG",
@@ -203,7 +328,9 @@
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S10_por_que_o_nome_sacrarium.mp4",
       "caption": "Sacrarium vem do latim: lugar sagrado, santuário.\n\nÉ a mesma imagem do Castelo Interior de Santa Teresa — a alma como castelo com muitas moradas, e ele não fica no céu. Fica em você.",
       "first_comment": "Se quiser conhecer esse caminho, link na bio.",
-      "nota": "catch-up Insta fim de dia - YT/Face ja tem desde 30/07"
+      "nota": "catch-up Insta fim de dia - YT/Face ja tem desde 30/07",
+      "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/instagram/SACRARIUM_S10_IG_video_S10_por_que_o_nome_sacrarium.mp4",
+      "video_url_nuvem_remoto": "sacrarium/instagram/SACRARIUM_S10_IG_video_S10_por_que_o_nome_sacrarium.mp4"
     }
   ]
 }
