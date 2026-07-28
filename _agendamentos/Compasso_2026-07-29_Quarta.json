@@ -27,7 +27,9 @@
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S05_Como_Fui_Acumulando_Consignados.mp4",
       "caption": "Não peguei seis consignados de uma vez.\n\nPeguei um. Depois outro, porque precisava. Depois mais um pra cobrir o que faltou.\n\nCada decisão isolada fazia sentido — só que juntas, comprometeram 30% do salário sem eu perceber.",
       "first_comment": "Organizei esse processo todo no ebook Mãe, Concursada e Endividada — link na bio.",
-      "nota": "catch-up Insta manha - YT/Face ja tem desde 20/07"
+      "nota": "catch-up Insta manha - YT/Face ja tem desde 20/07",
+      "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/instagram/METODOANA_S05_IG_video_S05_Como_Fui_Acumulando_Consignados.mp4",
+      "video_url_nuvem_remoto": "metodoana/instagram/METODOANA_S05_IG_video_S05_Como_Fui_Acumulando_Consignados.mp4"
     },
     {
       "id": "SACRARIUM_S05_IG",
@@ -39,7 +41,9 @@
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S05_oracao_nao_precisa_ser_perfeita.mp4",
       "caption": "Reza, mas a mente dispersa, foge, viaja — e por isso acha que reza errado?\n\nSanta Teresa rezou 18 anos com a mente se dispersando. Nunca abandonou por causa disso.\n\nOração perfeita não é sem distração. É a que insiste em voltar.",
       "first_comment": "O Sacrarium foi pensado pra quem acha que reza errado por causa da distração. Link na bio.",
-      "nota": "catch-up Insta manha"
+      "nota": "catch-up Insta manha",
+      "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/instagram/SACRARIUM_S05_IG_video_S05_oracao_nao_precisa_ser_perfeita.mp4",
+      "video_url_nuvem_remoto": "sacrarium/instagram/SACRARIUM_S05_IG_video_S05_oracao_nao_precisa_ser_perfeita.mp4"
     },
     {
       "id": "METODOANA_S09_YT",
@@ -174,7 +178,9 @@
       "status": "pendente",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S03_P4D_nao_e_disciplina.mp4",
       "caption": "Você se esforça, corta gasto, tenta poupar — e o resultado nunca aparece?\n\nNão é falta de disciplina. É ordem errada.\n\nA sequência certa: diagnosticar, desativar, destruir, defender.",
-      "first_comment": "Mapa completo com essa sequência — link na bio."
+      "first_comment": "Mapa completo com essa sequência — link na bio.",
+      "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/protocolo4d/instagram/P4D_S03_IG_video_S03_P4D_nao_e_disciplina.mp4",
+      "video_url_nuvem_remoto": "protocolo4d/instagram/P4D_S03_IG_video_S03_P4D_nao_e_disciplina.mp4"
     },
     {
       "id": "METODOANA_V03_YT",
@@ -219,7 +225,23 @@
         "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Protocolo4D_S02\\06.jpg"
       ],
       "caption": "Pagar o mínimo do cartão em dia, todo mês, e nunca sair do buraco. Já passou por isso? 👇\n\nO mínimo foi desenhado pra parecer responsabilidade. Na prática, ele raramente cobre o juro inteiro do mês — o resto vira rotativo, o juro mais caro que existe.\n\nSó tem duas saídas: pagar o valor total da fatura, ou parar de usar o cartão até zerar. Não tem meio-termo.\n\nSalva esse post e passa pro amigo que só paga o mínimo. Bora sair dessa.",
-      "first_comment": "Você paga o mínimo ou a fatura inteira? Sem vergonha, comenta aí."
+      "first_comment": "Você paga o mínimo ou a fatura inteira? Sem vergonha, comenta aí.",
+      "image_urls_nuvem": [
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/protocolo4d/instagram/P4D_S02_IG_CARROSSEL_img0_01.jpg",
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/protocolo4d/instagram/P4D_S02_IG_CARROSSEL_img1_02.jpg",
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/protocolo4d/instagram/P4D_S02_IG_CARROSSEL_img2_03.jpg",
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/protocolo4d/instagram/P4D_S02_IG_CARROSSEL_img3_04.jpg",
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/protocolo4d/instagram/P4D_S02_IG_CARROSSEL_img4_05.jpg",
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/protocolo4d/instagram/P4D_S02_IG_CARROSSEL_img5_06.jpg"
+      ],
+      "image_urls_nuvem_remoto": [
+        "protocolo4d/instagram/P4D_S02_IG_CARROSSEL_img0_01.jpg",
+        "protocolo4d/instagram/P4D_S02_IG_CARROSSEL_img1_02.jpg",
+        "protocolo4d/instagram/P4D_S02_IG_CARROSSEL_img2_03.jpg",
+        "protocolo4d/instagram/P4D_S02_IG_CARROSSEL_img3_04.jpg",
+        "protocolo4d/instagram/P4D_S02_IG_CARROSSEL_img4_05.jpg",
+        "protocolo4d/instagram/P4D_S02_IG_CARROSSEL_img5_06.jpg"
+      ]
     },
     {
       "id": "METODOANA_S02_IG_CARROSSEL",
@@ -236,7 +258,21 @@
         "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_MetodoANA_S02\\05.jpg"
       ],
       "caption": "Você sabe quanto ainda vai pagar só de juro nos seus contratos? 👇\n\nFiz essa conta na minha própria carteira: parcela vezes parcelas restantes, menos o saldo devedor. O resultado foi R$173.244 só em juro — um carro zero indo pro banco.\n\nSou a Ana, servidora pública, mãe de 4, quitando R$185 mil em dívidas em tempo real.\n\nSalva esse post e faz essa conta na sua.",
-      "first_comment": "Você já fez essa conta na sua própria dívida? Comenta o resultado (ou a coragem de fazer)."
+      "first_comment": "Você já fez essa conta na sua própria dívida? Comenta o resultado (ou a coragem de fazer).",
+      "image_urls_nuvem": [
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/instagram/METODOANA_S02_IG_CARROSSEL_img0_01.jpg",
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/instagram/METODOANA_S02_IG_CARROSSEL_img1_02.jpg",
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/instagram/METODOANA_S02_IG_CARROSSEL_img2_03.jpg",
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/instagram/METODOANA_S02_IG_CARROSSEL_img3_04.jpg",
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/instagram/METODOANA_S02_IG_CARROSSEL_img4_05.jpg"
+      ],
+      "image_urls_nuvem_remoto": [
+        "metodoana/instagram/METODOANA_S02_IG_CARROSSEL_img0_01.jpg",
+        "metodoana/instagram/METODOANA_S02_IG_CARROSSEL_img1_02.jpg",
+        "metodoana/instagram/METODOANA_S02_IG_CARROSSEL_img2_03.jpg",
+        "metodoana/instagram/METODOANA_S02_IG_CARROSSEL_img3_04.jpg",
+        "metodoana/instagram/METODOANA_S02_IG_CARROSSEL_img4_05.jpg"
+      ]
     },
     {
       "id": "SACRARIUM_S02_IG_CARROSSEL",
@@ -255,7 +291,25 @@
         "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Sacrarium\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Sacrarium_S02\\07.jpg"
       ],
       "caption": "Começa a rezar, para, começa de novo. Reconhece esse ciclo? 👇\n\nQuando você falha um dia, a cabeça costuma dizer \"quebrou a sequência, recomeça segunda\" — e a segunda vira mês, o mês vira seis meses. O problema nunca foi falhar um dia. Foi o que isso significou pra você.\n\nO Sacrarium não pune quem para. Só espera quem volta.\n\nSalva esse post pra reler no próximo dia que sentir que \"estragou tudo\". 💾",
-      "first_comment": "Você já ficou meses sem rezar por causa de um dia só que falhou? Conta aqui embaixo 👇"
+      "first_comment": "Você já ficou meses sem rezar por causa de um dia só que falhou? Conta aqui embaixo 👇",
+      "image_urls_nuvem": [
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/instagram/SACRARIUM_S02_IG_CARROSSEL_img0_01.jpg",
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/instagram/SACRARIUM_S02_IG_CARROSSEL_img1_02.jpg",
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/instagram/SACRARIUM_S02_IG_CARROSSEL_img2_03.jpg",
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/instagram/SACRARIUM_S02_IG_CARROSSEL_img3_04.jpg",
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/instagram/SACRARIUM_S02_IG_CARROSSEL_img4_05.jpg",
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/instagram/SACRARIUM_S02_IG_CARROSSEL_img5_06.jpg",
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/instagram/SACRARIUM_S02_IG_CARROSSEL_img6_07.jpg"
+      ],
+      "image_urls_nuvem_remoto": [
+        "sacrarium/instagram/SACRARIUM_S02_IG_CARROSSEL_img0_01.jpg",
+        "sacrarium/instagram/SACRARIUM_S02_IG_CARROSSEL_img1_02.jpg",
+        "sacrarium/instagram/SACRARIUM_S02_IG_CARROSSEL_img2_03.jpg",
+        "sacrarium/instagram/SACRARIUM_S02_IG_CARROSSEL_img3_04.jpg",
+        "sacrarium/instagram/SACRARIUM_S02_IG_CARROSSEL_img4_05.jpg",
+        "sacrarium/instagram/SACRARIUM_S02_IG_CARROSSEL_img5_06.jpg",
+        "sacrarium/instagram/SACRARIUM_S02_IG_CARROSSEL_img6_07.jpg"
+      ]
     },
     {
       "id": "METODOANA_S06_IG",
@@ -267,7 +321,9 @@
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S06_Por_que_o_Saldo_Nao_Cai.mp4",
       "caption": "Já pagou mais de dez parcelas e o saldo quase não caiu?\n\nNão é impressão. No Sistema Price, de 85% a 90% da parcela vira juro no começo do contrato — só uma fração pequena abate a dívida de verdade.",
       "first_comment": "A calculadora que mostra exatamente isso tá no link da bio.",
-      "nota": "catch-up Insta fim de dia - YT/Face ja tem desde 21/07"
+      "nota": "catch-up Insta fim de dia - YT/Face ja tem desde 21/07",
+      "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/instagram/METODOANA_S06_IG_video_S06_Por_que_o_Saldo_Nao_Cai.mp4",
+      "video_url_nuvem_remoto": "metodoana/instagram/METODOANA_S06_IG_video_S06_Por_que_o_Saldo_Nao_Cai.mp4"
     },
     {
       "id": "SACRARIUM_S06_IG",
@@ -279,7 +335,9 @@
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S06_deus_parece_distante.mp4",
       "caption": "A sensação de estar distante de Deus, sem resposta, sem consolo — São João da Cruz descreveu isso com precisão.\n\nEle não te afasta. É a fé sendo chamada a crescer além do sentimento.",
       "first_comment": "O Sacrarium acompanha as fases secas, não só as fáceis. Link na bio.",
-      "nota": "catch-up Insta fim de dia"
+      "nota": "catch-up Insta fim de dia",
+      "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/instagram/SACRARIUM_S06_IG_video_S06_deus_parece_distante.mp4",
+      "video_url_nuvem_remoto": "sacrarium/instagram/SACRARIUM_S06_IG_video_S06_deus_parece_distante.mp4"
     }
   ]
 }
