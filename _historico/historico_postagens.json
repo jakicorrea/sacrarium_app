@@ -1049,5 +1049,74 @@
       "agendado": true,
       "url": "https://www.facebook.com/reel/1574349907465292"
     }
+  },
+  "protocolo4d|youtube|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S04_P4D_extrato_que_nao_abre.mp4": {
+    "id": "P4D_S04_YT",
+    "canal": "protocolo4d",
+    "plataforma": "youtube",
+    "publish_at": "2026-07-30T12:00:00-03:00",
+    "postado_em_utc": "2026-07-28T14:02:50Z",
+    "resultado": {
+      "video_id": "96tdBL88BZc",
+      "url": "https://youtube.com/watch?v=96tdBL88BZc"
+    }
+  },
+  "protocolo4d|facebook|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S04_P4D_extrato_que_nao_abre.mp4": {
+    "id": "P4D_S04_FB",
+    "canal": "protocolo4d",
+    "plataforma": "facebook",
+    "publish_at": "2026-07-30T12:00:00-03:00",
+    "postado_em_utc": "2026-07-28T14:03:45Z",
+    "resultado": {
+      "video_id": "1511741296919725",
+      "agendado": true,
+      "url": "https://www.facebook.com/reel/1511741296919725"
+    }
+  },
+  "metodoana|youtube|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S10_IOF_e_Seguro_Embutido.mp4": {
+    "id": "METODOANA_S10_YT",
+    "canal": "metodoana",
+    "plataforma": "youtube",
+    "publish_at": "2026-07-30T12:00:00-03:00",
+    "postado_em_utc": "2026-07-28T14:04:07Z",
+    "resultado": {
+      "video_id": "eUS8VLrTkVI",
+      "url": "https://youtube.com/watch?v=eUS8VLrTkVI"
+    }
+  },
+  "metodoana|facebook|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S10_IOF_e_Seguro_Embutido.mp4": {
+    "id": "METODOANA_S10_FB",
+    "canal": "metodoana",
+    "plataforma": "facebook",
+    "publish_at": "2026-07-30T12:00:00-03:00",
+    "postado_em_utc": "2026-07-28T14:04:46Z",
+    "resultado": {
+      "video_id": "4464769760443711",
+      "agendado": true,
+      "url": "https://www.facebook.com/reel/4464769760443711"
+    }
+  },
+  "sacrarium|youtube|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S10_por_que_o_nome_sacrarium.mp4": {
+    "id": "SACRARIUM_S10_YT",
+    "canal": "sacrarium",
+    "plataforma": "youtube",
+    "publish_at": "2026-07-30T12:00:00-03:00",
+    "postado_em_utc": "2026-07-28T14:05:07Z",
+    "resultado": {
+      "video_id": "2ZxVeWgIxYI",
+      "url": "https://youtube.com/watch?v=2ZxVeWgIxYI"
+    }
+  },
+  "sacrarium|facebook|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S10_por_que_o_nome_sacrarium.mp4": {
+    "id": "SACRARIUM_S10_FB",
+    "canal": "sacrarium",
+    "plataforma": "facebook",
+    "publish_at": "2026-07-30T12:00:00-03:00",
+    "postado_em_utc": "2026-07-28T14:06:09Z",
+    "resultado": {
+      "video_id": "3312407622277252",
+      "agendado": true,
+      "url": "https://www.facebook.com/reel/3312407622277252"
+    }
   }
 }
