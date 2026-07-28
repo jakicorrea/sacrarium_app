@@ -1,0 +1,209 @@
+{
+  "lote": "Compasso entre canais - 01/08/2026 - Sabado (fecha o gap do Insta - todos os canais chegam em compasso: S12 em todas as redes)",
+  "jobs": [
+    {
+      "id": "P4D_S04_FB_FOTO",
+      "canal": "protocolo4d",
+      "plataforma": "facebook",
+      "tipo": "foto",
+      "publish_at": "2026-08-01T08:30:00-03:00",
+      "status": "pendente",
+      "image_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Post Facebook\\04 Imagens Geradas\\04. S04 Extrato Que Nao Abre.jpg",
+      "caption": "Ninguém fala sobre isso, mas evitar olhar o extrato é uma das formas mais comuns de deixar a dívida crescer sem perceber.\n\nEsse carrossel mostra por que o diagnóstico completo é o primeiro passo — antes de qualquer corte de gasto.",
+      "first_comment": "Deixei aqui embaixo a Planilha gratuita do Diagnóstico do Protocolo 4D, no link no site da página."
+    },
+    {
+      "id": "METODOANA_S11_IG",
+      "canal": "metodoana",
+      "plataforma": "instagram",
+      "tipo": "reels",
+      "publish_at": "2026-08-01T09:30:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S11_Perigo_do_Cartao_Rotativo.mp4",
+      "caption": "Mil reais no rotativo do cartão podem virar três mil em doze meses — mesmo sem você gastar mais nada.\n\nNo método que uso, o rotativo é a primeira dívida a sair. Antes de qualquer consignado.",
+      "first_comment": "Ebook completo com essa prioridade — link na bio.",
+      "nota": "catch-up Insta manha - YT/Face ja tem desde 31/07"
+    },
+    {
+      "id": "SACRARIUM_S11_IG",
+      "canal": "sacrarium",
+      "plataforma": "instagram",
+      "tipo": "reels",
+      "publish_at": "2026-08-01T09:30:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S11_deus_mora_em_voce.mp4",
+      "caption": "\"Não sabeis que sois templo de Deus?\" — São Paulo escreveu isso.\n\nVocê não precisa gritar pra um Deus distante. Ele já habita o silêncio dentro de você.",
+      "first_comment": "O Sacrarium existe pra te ajudar a redescobrir essa presença. Link na bio.",
+      "nota": "catch-up Insta manha - YT/Face ja tem desde 31/07"
+    },
+    {
+      "id": "METODOANA_S12_YT",
+      "canal": "metodoana",
+      "plataforma": "youtube",
+      "tipo": "reels",
+      "publish_at": "2026-08-01T12:00:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S12_Diferenca_SAC_Price.mp4",
+      "title": "SAC ou Price: Sua Dívida é de Qual Tipo?",
+      "description": "Se você tem mais de uma dívida e não sabe por qual sistema de amortização ela é calculada, esse vídeo explica a diferença entre SAC e Price — e por que isso muda completamente a ordem de prioridade de pagamento.\n\nNo Sistema SAC, você amortiza uma fração fixa do principal todo mês. As parcelas começam maiores e diminuem com o tempo, e o saldo devedor cai desde o início. No Sistema Price, a parcela é fixa, mas os juros ficam concentrados no começo do contrato — nos primeiros anos, quase nada abate o saldo de verdade.\n\nA maioria dos consignados usa Price. A maioria dos financiamentos habitacionais usa SAC.\n\nSou Ana, mãe de 4 filhos, servidora pública, e estou quitando R$185 mil em dívidas em tempo real. No método que criei, é por isso que meu financiamento habitacional, mesmo sendo minha maior dívida, fica por último na fila de prioridade — porque a parcela dele já diminui sozinha, enquanto os contratos Price seguem sangrando juro em silêncio.\n\nEsse vídeo é pra quem tem mais de um tipo de contrato e precisa entender qual atacar primeiro.",
+      "tags": ["educação financeira feminina", "mãe endividada", "servidora pública endividada", "consignado", "sair das dívidas", "método ANA"],
+      "category_id": 27,
+      "pinned_comment": "Você sabe se a sua dívida é SAC ou Price? Comenta aqui embaixo. Se quiser simular exatamente quanto da sua parcela é juro em cada sistema, testa a calculadora gratuita que criei: https://cofrinhodefe-calculadora-de-juros.netlify.app/",
+      "nota": "SEM THUMBNAIL PRONTA. Esse e o ultimo short do lote atual de ANA (S01-S12 completo apos este) - precisa planejar novo lote de roteiros."
+    },
+    {
+      "id": "METODOANA_S12_FB",
+      "canal": "metodoana",
+      "plataforma": "facebook",
+      "tipo": "reels",
+      "publish_at": "2026-08-01T12:00:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S12_Diferenca_SAC_Price.mp4",
+      "caption": "SAC ou Price: você sabe qual é a sua dívida?\n\nNum sistema a parcela cai sozinha. No outro, parece que nunca termina — e isso muda completamente a ordem de prioridade.",
+      "first_comment": "A calculadora que simula Price, SAC e juros simples tá no link do site da nossa página."
+    },
+    {
+      "id": "SACRARIUM_S12_YT",
+      "canal": "sacrarium",
+      "plataforma": "youtube",
+      "tipo": "reels",
+      "publish_at": "2026-08-01T12:00:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S12_alma_como_jardim.mp4",
+      "title": "A Alma Como Jardim: A Metáfora de Santa Teresa de Ávila no Livro da Vida",
+      "description": "No início do Livro da Vida, Santa Teresa de Ávila compara a alma a um jardim que pertence a Deus — e a pessoa, ao jardineiro. Esse vídeo explica essa imagem e por que ela é mais honesta do que qualquer promessa de resultado espiritual rápido.\n\nO jardineiro não cria nada do nada: ele cuida, rega, remove o que sufoca e cria as condições para que a planta cresça. A oração, nessa metáfora, não é uma performance nem uma corrida — é um cuidado que precisa de tempo, regularidade e consistência ao longo de semanas, meses e anos, não de uma tarde inspirada.\n\nUm vídeo para quem espera resultado espiritual rápido e sente frustração quando a vida de oração não \"floresce\" da noite para o dia.\n\nFoi por isso que o Sacrarium recebeu esse nome. Ele nasceu para ajudar você a cuidar desse jardim interior, com uma jornada guiada de formação espiritual, oração e constância — porque a vida espiritual floresce no cuidado diário, não na pressa.\n\nSe você deseja cultivar esse jardim, clique no link e conheça o Sacrarium.",
+      "tags": ["oração católica", "vida espiritual", "formação espiritual", "santos católicos", "Sacrarium"],
+      "category_id": 27,
+      "pinned_comment": "Como está o seu jardim interior hoje: cuidado, esquecido, ou em algum lugar no meio? Conta aqui embaixo.\nO Sacrarium nasceu para ajudar você a cuidar desse jardim interior, com uma jornada guiada de formação espiritual e constância, porque a vida espiritual floresce no cuidado diário.\nSe você deseja cultivar esse jardim, clique no link e conheça o Sacrarium: https://sacrarium-app.netlify.app/",
+      "nota": "SEM THUMBNAIL. Ultimo short do lote atual de Sacrarium (S01-S12 completo apos este)."
+    },
+    {
+      "id": "SACRARIUM_S12_FB",
+      "canal": "sacrarium",
+      "plataforma": "facebook",
+      "tipo": "reels",
+      "publish_at": "2026-08-01T12:00:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S12_alma_como_jardim.mp4",
+      "caption": "No Livro da Vida, Santa Teresa compara a alma a um jardim que pertence a Deus — e você, ao jardineiro.\n\nA vida espiritual não é corrida. É cultivo, dia após dia.",
+      "first_comment": "O Sacrarium nasceu pra te ajudar a cuidar desse jardim. Link no site da nossa página."
+    },
+    {
+      "id": "P4D_S06_YT",
+      "canal": "protocolo4d",
+      "plataforma": "youtube",
+      "tipo": "reels",
+      "publish_at": "2026-08-01T12:00:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S06_P4D_perfil_endividamento.mp4",
+      "thumb_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\03_Estrutura_Canais\\Protocolo4D\\04-Pack de Postagem\\Thumbnails\\S06_perfil_endividamento.jpeg",
+      "title": "Qual É o Seu Perfil de Endividamento?",
+      "description": "Saber por onde começar a sair da dívida depende de uma informação que a maioria dos homens endividados não tem: o próprio perfil de endividamento.\n\nNeste short, eu apresento os três perfis — quem se endividou por um evento único, quem acumulou dívida por comportamento ao longo do tempo, e quem tem renda genuinamente insuficiente pro custo de vida atual — e explica por que cada perfil exige um ponto de ataque diferente.\n\nSe você nunca parou pra identificar qual desses três perfis é o seu, esse vídeo é pra você.",
+      "tags": ["educação financeira masculina", "como sair das dívidas", "finanças para homens", "Protocolo 4D", "Forjando Titãs"],
+      "category_id": 27,
+      "pinned_comment": "O passo certo depende do diagnóstico certo. Quer descobrir seu perfil de endividamento e o que fazer primeiro? Deixei aqui embaixo o Quiz de Diagnóstico, doze perguntas, gratuito: https://protocolo-4d.netlify.app/lp-quiz",
+      "nota": "Pack original tinha placeholder [LINK] pro video do FT - retirei a frase da descricao. Ultimo short do lote atual de P4D (S01-S11 - falta so o S07 a S11 pra semana que vem, ver providencias)."
+    },
+    {
+      "id": "P4D_S06_FB",
+      "canal": "protocolo4d",
+      "plataforma": "facebook",
+      "tipo": "reels",
+      "publish_at": "2026-08-01T12:00:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S06_P4D_perfil_endividamento.mp4",
+      "caption": "Existem três perfis de endividamento — evento único, comportamento acumulado, ou renda insuficiente.\n\nCada um exige um ponto de ataque diferente. Começar pelo passo errado trava sua saída.",
+      "first_comment": "Quiz de Diagnóstico grátis, doze perguntas — link no site da nossa página."
+    },
+    {
+      "id": "P4D_S06_IG",
+      "canal": "protocolo4d",
+      "plataforma": "instagram",
+      "tipo": "reels",
+      "publish_at": "2026-08-01T12:00:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S06_P4D_perfil_endividamento.mp4",
+      "caption": "Existem três perfis de endividamento — evento único, comportamento acumulado, ou renda insuficiente.\n\nCada um exige um ponto de ataque diferente. Começar pelo passo errado trava sua saída.",
+      "first_comment": "Quiz de Diagnóstico grátis, doze perguntas — link na bio."
+    },
+    {
+      "id": "P4D_S04_IG_CARROSSEL",
+      "canal": "protocolo4d",
+      "plataforma": "instagram",
+      "tipo": "carrossel",
+      "publish_at": "2026-08-01T15:00:00-03:00",
+      "status": "pendente",
+      "image_paths": [
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Protocolo4D_S04\\01.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Protocolo4D_S04\\02.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Protocolo4D_S04\\03.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Protocolo4D_S04\\04.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Protocolo4D_S04\\05.jpg"
+      ],
+      "caption": "Você sabe exatamente quanto deve, com juro e tudo? Ou evita abrir o extrato? 👇\n\nEvitar não elimina a dívida, só apaga a luz enquanto ela continua crescendo no escuro. O primeiro ato de quem sai do buraco não é cortar gasto — é abrir o extrato e ver o número real.\n\nSalva esse post pra quando finalmente for encarar o seu.",
+      "first_comment": "Você já abriu o extrato completo esse mês? Sem vergonha, comenta."
+    },
+    {
+      "id": "METODOANA_S04_IG_CARROSSEL",
+      "canal": "metodoana",
+      "plataforma": "instagram",
+      "tipo": "carrossel",
+      "publish_at": "2026-08-01T15:00:00-03:00",
+      "status": "pendente",
+      "image_paths": [
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_MetodoANA_S04\\01.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_MetodoANA_S04\\02.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_MetodoANA_S04\\03.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_MetodoANA_S04\\04.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_MetodoANA_S04\\05.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_MetodoANA_S04\\06.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_MetodoANA_S04\\07.jpg"
+      ],
+      "caption": "Você já parou pra somar tudo que sai do seu salário antes mesmo de você decidir gastar? 👇\n\nConsignado, plano de saúde, pensão descontam na fonte. Depois vem o que some rápido: aluguel, escola, conta de luz. O que sobra depois disso é o que você realmente tem pra viver — e pra muita gente esse número é menor (ou pior) do que imaginava.\n\nSou a Ana, e fiz essa conta pela primeira vez com muito medo do resultado.\n\nSalva esse carrossel e faz essa conta com calma. 💾",
+      "first_comment": "Você já fez essa conta? O resultado te surpreendeu? Conta aqui embaixo 👇"
+    },
+    {
+      "id": "SACRARIUM_S04_IG_CARROSSEL",
+      "canal": "sacrarium",
+      "plataforma": "instagram",
+      "tipo": "carrossel",
+      "publish_at": "2026-08-01T15:00:00-03:00",
+      "status": "pendente",
+      "image_paths": [
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Sacrarium\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Sacrarium_S04\\01.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Sacrarium\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Sacrarium_S04\\02.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Sacrarium\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Sacrarium_S04\\03.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Sacrarium\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Sacrarium_S04\\04.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Sacrarium\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Sacrarium_S04\\05.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Sacrarium\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Sacrarium_S04\\06.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Sacrarium\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Sacrarium_S04\\07.jpg"
+      ],
+      "caption": "A culpa de não rezar pode estar te afastando ainda mais de Deus. 👇\n\nExiste uma armadilha que os mestres espirituais chamam de falsa humildade: achar que você não é digno de se aproximar de Deus do jeito que está agora. Até Santa Teresa caiu nessa por um ano inteiro.\n\nO Sacrarium começa exatamente onde você está, sem culpa, sem cobrança.\n\nSalva esse post pra reler na próxima vez que a culpa te afastar. 💾",
+      "first_comment": "Você já deixou de rezar por achar que \"não merecia\"? Conta aqui embaixo 👇"
+    },
+    {
+      "id": "METODOANA_S12_IG",
+      "canal": "metodoana",
+      "plataforma": "instagram",
+      "tipo": "reels",
+      "publish_at": "2026-08-01T20:00:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S12_Diferenca_SAC_Price.mp4",
+      "caption": "SAC ou Price: você sabe qual é a sua dívida?\n\nNum sistema a parcela cai sozinha. No outro, parece que nunca termina — e isso muda completamente a ordem de prioridade.",
+      "first_comment": "Testa sua dívida na calculadora do link da bio.",
+      "nota": "catch-up Insta fim de dia - FECHA O GAP. A partir daqui Insta entra no ritmo normal 1x/dia junto com YT/Face."
+    },
+    {
+      "id": "SACRARIUM_S12_IG",
+      "canal": "sacrarium",
+      "plataforma": "instagram",
+      "tipo": "reels",
+      "publish_at": "2026-08-01T20:00:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S12_alma_como_jardim.mp4",
+      "caption": "No Livro da Vida, Santa Teresa compara a alma a um jardim que pertence a Deus — e você, ao jardineiro.\n\nA vida espiritual não é corrida. É cultivo, dia após dia.",
+      "first_comment": "O Sacrarium nasceu pra te ajudar a cuidar desse jardim. Link na bio.",
+      "nota": "catch-up Insta fim de dia - FECHA O GAP. A partir daqui Insta entra no ritmo normal 1x/dia junto com YT/Face."
+    }
+  ]
+}

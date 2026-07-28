@@ -1,0 +1,382 @@
+{
+  "lote": "Compasso entre canais - 28/07/2026 - Terca (checado contra API real, sem duplicar S01-S07 ja postados; horarios espacados - manha/fim de dia quando ha 2 posts na mesma rede no mesmo dia, minimo ~4h entre posts na mesma rede)",
+  "jobs": [
+    {
+      "id": "P4D_S01_FB_FOTO",
+      "canal": "protocolo4d",
+      "plataforma": "facebook",
+      "tipo": "foto",
+      "publish_at": "2026-07-28T08:30:00-03:00",
+      "status": "publicado",
+      "image_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Post Facebook\\04 Imagens Geradas\\01. S01 Cheque Especial.jpg",
+      "caption": "Ninguém avisa isso: o cheque especial não cobra no fim do mês. Ele cobra todo santo dia que o saldo fica negativo. A fatura que chega depois é só a soma da conta que já tava rodando.\n\nSe você usa isso como se fosse parte do salário, esse carrossel mostra o tamanho real do buraco — e a saída simples pra estancar.",
+      "first_comment": "Ebook grátis com as 10 Armadilhas Bancárias e como sair delas, no link no site da página. Comenta se quiser que eu detalhe outra armadilha.",
+      "resultado": {
+        "object_id": "122110987287394338",
+        "agendado": false,
+        "url": "https://www.facebook.com/122110987287394338"
+      }
+    },
+    {
+      "id": "METODOANA_S08_FB_FOTO",
+      "canal": "metodoana",
+      "plataforma": "facebook",
+      "tipo": "foto",
+      "publish_at": "2026-07-28T08:30:00-03:00",
+      "status": "publicado",
+      "image_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Post Facebook\\04 Imagens Geradas\\08. S08 Noventa Por Cento Juro.jpeg",
+      "caption": "Demorei pra entender que minha parcela \"fixa\" escondia uma divisão bem desigual: no começo do contrato, quase tudo que eu pagava virava juro pro banco, quase nada tirava da minha dívida de verdade.\n\nSe você também tem um consignado ou empréstimo parcelado, esse carrossel explica como enxergar isso no seu contrato.\n\nCompartilha com quem também acha que \"a parcela nunca sai do lugar\".",
+      "first_comment": "Ebook gratuito explicando esse cálculo completo, no link no site da página.",
+      "resultado": {
+        "object_id": "122136328833153054",
+        "agendado": false,
+        "url": "https://www.facebook.com/122136328833153054"
+      }
+    },
+    {
+      "id": "SACRARIUM_S10_FB_FOTO",
+      "canal": "sacrarium",
+      "plataforma": "facebook",
+      "tipo": "foto",
+      "publish_at": "2026-07-28T08:30:00-03:00",
+      "status": "publicado",
+      "image_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Sacrarium\\Post Facebook\\04 Imagens Geradas\\S10 Por Que O Nome Sacrarium.jpg",
+      "caption": "Escolhi o nome Sacrarium com cuidado: em latim significa lugar sagrado, santuário. É a mesma ideia que Santa Teresa ensina no Castelo Interior — a alma é um castelo com muitas moradas, e ele não fica no céu, fica em você.\n\nEsse carrossel conta o significado por trás do nome do app.\n\nCompartilha com quem também está em busca desse \"lugar interior\".",
+      "first_comment": "Uma jornada guiada pra dentro do jardim interior. Link no site da nossa página — entra pra lista de espera.",
+      "resultado": {
+        "object_id": "122115980679386492",
+        "agendado": false,
+        "url": "https://www.facebook.com/122115980679386492"
+      }
+    },
+    {
+      "id": "SACRARIUM_S03_IG",
+      "canal": "sacrarium",
+      "plataforma": "instagram",
+      "tipo": "reels",
+      "publish_at": "2026-07-28T09:30:00-03:00",
+      "status": "pulado: ja esta no historico (postado em 2026-07-16T14:31:55Z)",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S03_erro_de_comecar_grande.mp4",
+      "caption": "\"Vou rezar uma hora por dia.\"\n\nSe essa promessa durou só dois ou três dias, o problema não foi falta de vontade — foi o tamanho do plano.\n\nSão Francisco de Sales já ensinava: a devoção precisa caber na vida que você tem, não numa vida ideal que não existe.\n\nCinco minutos todo dia valem mais que uma hora esporádica.",
+      "first_comment": "Criei um app baseado exatamente nesse princípio — começa pequeno, cresce devagar. Link na bio.",
+      "nota": "catch-up Insta - confirmado com a Jaqueline que S01 e S02 ja foram postados certinho, entao proximo e mesmo o S03"
+    },
+    {
+      "id": "METODOANA_S03_IG",
+      "canal": "metodoana",
+      "plataforma": "instagram",
+      "tipo": "reels",
+      "publish_at": "2026-07-28T10:30:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S03_Por_que_o_Banco_Aprova_Facil.mp4",
+      "caption": "Seu consignado saiu aprovado rápido, quase sem burocracia?\n\nNão é confiança do banco. É desconto automático direto no contracheque — risco zero pra ele, risco todo seu.\n\nEntender isso muda como você encara qualquer novo limite.",
+      "first_comment": "Montei o passo a passo completo no ebook Mãe, Concursada e Endividada — link na bio.",
+      "nota": "catch-up Insta - YT/Face ja tem esse desde 13/07"
+    },
+    {
+      "id": "P4D_S01_YT",
+      "canal": "protocolo4d",
+      "plataforma": "youtube",
+      "tipo": "reels",
+      "publish_at": "2026-07-28T11:00:00-03:00",
+      "status": "agendado",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S01_P4D_cheque_especial.mp4",
+      "thumb_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\03_Estrutura_Canais\\Protocolo4D\\04-Pack de Postagem\\Thumbnails\\S01_cheque_especial.jpeg",
+      "title": "Cheque Especial Cobra Até 350% de Juros ao Ano",
+      "description": "Cheque especial pode cobrar até 350% de juros ao ano — e boa parte dos homens endividados usa isso como extensão da renda, sem perceber o tamanho do buraco que está cavando.\n\nNeste short, eu explico por que o cheque especial não é limite extra, é armadilha disfarçada de conveniência, e mostra a saída simples: bloquear o cheque especial direto no aplicativo do banco.\n\nConteúdo direto, sem enrolação, pensado pra homem que está no vermelho, esconde o extrato, sente que falhou como provedor e não sabe por onde começar a sair da dívida.\n\nSe você reconhece esse padrão no seu próprio extrato, esse vídeo é pra você.\n\nAssista ao vídeo completo sobre esse tema no Canal Forjando Titãs: https://youtu.be/0EVb2uZDsWo",
+      "tags": [
+        "educação financeira masculina",
+        "como sair das dívidas",
+        "finanças para homens",
+        "Protocolo 4D",
+        "Forjando Titãs"
+      ],
+      "category_id": 27,
+      "pinned_comment": "Cheque especial usado é dívida cara disfarçada de saldo disponível. Se quer entender os erros bancários que mais pesam no bolso do endividado, deixei um Ebook gratuito com as Armadilhas Bancárias: https://protocolo-4d.netlify.app/lp-armadilhas",
+      "resultado": {
+        "video_id": "MNNAhjtfAl0",
+        "url": "https://youtube.com/watch?v=MNNAhjtfAl0"
+      }
+    },
+    {
+      "id": "P4D_S01_FB",
+      "canal": "protocolo4d",
+      "plataforma": "facebook",
+      "tipo": "reels",
+      "publish_at": "2026-07-28T11:00:00-03:00",
+      "status": "agendado",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S01_P4D_cheque_especial.mp4",
+      "caption": "Cheque especial pode cobrar até 350% de juros ao ano.\n\nNão é limite extra. É a dívida mais cara que você carrega sem perceber, cobrando todo santo dia que o saldo fica no vermelho.\n\nBloqueia isso direto no app do banco. Hoje.",
+      "first_comment": "Ebook grátis com as Armadilhas Bancárias — link no site da nossa página.",
+      "resultado": {
+        "video_id": "2310353086037896",
+        "agendado": true,
+        "url": "https://www.facebook.com/reel/2310353086037896"
+      }
+    },
+    {
+      "id": "P4D_S01_IG",
+      "canal": "protocolo4d",
+      "plataforma": "instagram",
+      "tipo": "reels",
+      "publish_at": "2026-07-28T11:00:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S01_P4D_cheque_especial.mp4",
+      "caption": "Cheque especial pode cobrar até 350% de juros ao ano.\n\nNão é limite extra. É a dívida mais cara que você carrega sem perceber, cobrando todo santo dia que o saldo fica no vermelho.\n\nBloqueia isso direto no app do banco. Hoje.",
+      "first_comment": "Ebook grátis com as Armadilhas Bancárias — link na bio."
+    },
+    {
+      "id": "METODOANA_S08_YT",
+      "canal": "metodoana",
+      "plataforma": "youtube",
+      "tipo": "reels",
+      "publish_at": "2026-07-28T12:00:00-03:00",
+      "status": "agendado",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S08_Noventa_por_cento_da_Parcela_e_Juro.mp4",
+      "title": "O Banco Te Diz a Parcela. Não Te Diz Que 90% Dela é Juro",
+      "description": "Se você tem um consignado ou qualquer empréstimo no Sistema Price e sente que o saldo devedor não anda, esse vídeo explica exatamente por quê.\n\nA parcela do Sistema Price é fixa todo mês, mas a divisão interna dela não é igual ao longo do contrato. No começo, até 90% do valor pago vai direto pro banco em forma de juro — só uma fração pequena abate o que você realmente deve. A amortização real, a parte que reduz de fato a dívida, só aparece com força nos últimos anos do contrato.\n\nSou Ana, mãe de 4 filhos, servidora pública, e estou quitando R$185 mil em dívidas em tempo real. Foi entendendo essa lógica, pensando especificamente nos consignados, que criei o Método ANA — diferente de outros métodos de priorização, o meu leva em conta não só a taxa de juro, mas também o sistema de amortização do contrato.\n\nEsse vídeo é pra quem tem consignado, financiamento ou qualquer parcelamento longo e quer entender por que quitar antecipado nos primeiros anos economiza muito mais do que esperar o contrato correr.",
+      "tags": [
+        "educação financeira feminina",
+        "mãe endividada",
+        "servidora pública endividada",
+        "consignado",
+        "sair das dívidas",
+        "método ANA"
+      ],
+      "category_id": 27,
+      "pinned_comment": "Você já reparou que seu saldo devedor quase não caiu depois de tantas parcelas pagas? Fiz um ebook gratuito que explica exatamente esse cálculo do Sistema Price, \"90% da Sua Parcela É Só Juro\": https://guia-gratis-juros-cofrinhodefe.netlify.app/",
+      "nota": "SEM THUMBNAIL PRONTA - voce vai gerar, eu crio o prompt seguindo as regras novas",
+      "resultado": {
+        "video_id": "aRXOigUZ9xQ",
+        "url": "https://youtube.com/watch?v=aRXOigUZ9xQ"
+      }
+    },
+    {
+      "id": "METODOANA_S08_FB",
+      "canal": "metodoana",
+      "plataforma": "facebook",
+      "tipo": "reels",
+      "publish_at": "2026-07-28T12:00:00-03:00",
+      "status": "agendado",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S08_Noventa_por_cento_da_Parcela_e_Juro.mp4",
+      "caption": "A parcela do seu consignado é fixa. A divisão dela por dentro, não.\n\nNo começo do contrato, até 90% do que você paga vira juro puro — quase nada abate o saldo.\n\nEntendi isso pensando no meu próprio Método.",
+      "first_comment": "O cálculo completo do Sistema Price tá no ebook grátis, link no site da nossa página.",
+      "resultado": {
+        "video_id": "1700312954562360",
+        "agendado": true,
+        "url": "https://www.facebook.com/reel/1700312954562360"
+      }
+    },
+    {
+      "id": "SACRARIUM_S08_YT",
+      "canal": "sacrarium",
+      "plataforma": "youtube",
+      "tipo": "reels",
+      "publish_at": "2026-07-28T12:00:00-03:00",
+      "status": "agendado",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S08_o_que_e_o_sacrarium.mp4",
+      "title": "O Que É o Sacrarium? A Jornada de 230 Dias Baseada nos Grandes Mestres da Oração",
+      "description": "Existem duzentos e trinta dias, oito fases e séculos de tradição espiritual da Igreja resumidos numa jornada estruturada. Esse vídeo explica, em poucos segundos, o que é o Sacrarium e por que ele não é apenas mais um aplicativo de orações prontas.\n\nA jornada percorre o que a Igreja acumulou em dois mil anos de formação espiritual — o Castelo Interior de Santa Teresa de Ávila, a Noite Escura de São João da Cruz, o Exame de Consciência de Santo Inácio de Loyola, a devoção no mundo real de São Francisco de Sales. Cada fase tem rotina diária, guias e conteúdo em áudio, do iniciante ao contemplativo.\n\nEsse vídeo é para quem já ouviu falar do Sacrarium, mas ainda não entendeu exatamente o que ele é e para quem foi pensado.\n\nO Sacrarium é uma jornada de formação espiritual pensada para conduzir você, um passo de cada vez, do despertar da vida espiritual até a contemplação — apoiada nos mestres que a Igreja reconhece como referência em oração.\n\nA primeira fase, de vinte e um dias, é gratuita. Se deseja começar essa caminhada, o link está na descrição.",
+      "tags": [
+        "oração católica",
+        "vida espiritual",
+        "formação espiritual",
+        "santos católicos",
+        "Sacrarium"
+      ],
+      "category_id": 27,
+      "pinned_comment": "Você já tinha ouvido falar de alguma dessas fases da vida espiritual antes desse vídeo? Conta aqui embaixo.\nO Sacrarium é uma jornada de formação espiritual guiada pelos grandes mestres da oração, do despertar até a contemplação, com a primeira fase de vinte e um dias totalmente gratuita.\nSe deseja começar essa caminhada, o link está na descrição: https://sacrarium-app.netlify.app/",
+      "nota": "SEM THUMBNAIL - Sacrarium nao tem nenhuma thumb individual de short ainda, voce vai gerar, eu crio o prompt seguindo as regras novas (sem pessoa, elementos do app)",
+      "resultado": {
+        "video_id": "bW-N1G2h0b8",
+        "url": "https://youtube.com/watch?v=bW-N1G2h0b8"
+      }
+    },
+    {
+      "id": "SACRARIUM_S08_FB",
+      "canal": "sacrarium",
+      "plataforma": "facebook",
+      "tipo": "reels",
+      "publish_at": "2026-07-28T12:00:00-03:00",
+      "status": "agendado",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S08_o_que_e_o_sacrarium.mp4",
+      "caption": "230 dias. 8 fases. Séculos de tradição da Igreja resumidos numa jornada guiada.\n\nNão é mais um app de orações prontas — é formação espiritual passo a passo, do despertar até a contemplação.\n\nA primeira fase, de 21 dias, é gratuita.",
+      "first_comment": "Se quiser começar essa jornada, o link tá no site da nossa página.",
+      "resultado": {
+        "video_id": "1096521289375263",
+        "agendado": true,
+        "url": "https://www.facebook.com/reel/1096521289375263"
+      }
+    },
+    {
+      "id": "METODOANA_V01_REPOST_LONGO",
+      "canal": "metodoana",
+      "plataforma": "youtube",
+      "tipo": "longo",
+      "publish_at": "2026-07-28T13:00:00-03:00",
+      "status": "agendado",
+      "acao_especial": "DELETAR PRIMEIRO o video antigo (id _GCF1vcMDuY, 34 views, tem as 2 mencoes ao Tribunal de Justica) e so depois publicar este novo arquivo, ja com audio corrigido",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\03 Postados\\MetodoANA\\V01_A_mae_que_devia_216_mil.mp4",
+      "title": "A mãe que devia R$216 mil e decidiu contar tudo",
+      "description": "Se você paga a parcela todo mês e sente que a dívida nunca diminui, esse vídeo é pra você. Eu sou Ana, servidora pública, mãe de 4 filhos, e essa é a história real de como cheguei a dever R$216 mil — entre consignados, cheque especial e uma construção que devia custar R$50 mil e passou de R$260 mil. Não é história de quem já resolveu tudo. É o relato de quem abriu o extrato, viu que tinha pagado quase R$6 mil de um empréstimo de R$10 mil e ainda devia mais do que pegou emprestado, e decidiu parar de fingir que estava tudo bem. Se você é mãe, é servidora pública, ou só está cansada de sentir vergonha e ansiedade toda vez que olha o aplicativo do banco, saiba que não está sozinha nisso. A dívida cresce sem a gente perceber, principalmente quando ninguém explica como os juros realmente funcionam. Esse canal existe pra mostrar, com números reais e sem promessa vazia, como estou saindo dessas dívidas — passo a passo, mês a mês. Nos próximos vídeos vou destrinchar o método completo que criei pra organizar essa saída. Comenta aqui embaixo se você também já sentiu que pagava e a dívida não caía.",
+      "tags": [
+        "educação financeira feminina",
+        "mãe endividada",
+        "servidora pública endividada",
+        "consignado",
+        "sair das dívidas",
+        "método ANA"
+      ],
+      "category_id": 27,
+      "pinned_comment": "Você já abriu o extrato de uma dívida e levou um susto parecido com o meu? Conta aqui embaixo. Se você quer entender por que a sua parcela nunca parece diminuir, escrevi um mini eBook gratuito explicando o Sistema Price e como calcular quanto da sua parcela é só juro: https://guia-gratis-juros-cofrinhodefe.netlify.app/",
+      "nota": "Confirmado pela Jaqueline: audio ja foi regravado e corrigido, arquivo em 03 Postados esta atualizado (modificado 27/07 22:48). Proximo V da ANA depois desse repost sera o V03 (V02 ja publicado).",
+      "resultado": {
+        "video_id": "XyZQRs6O5EQ",
+        "url": "https://youtube.com/watch?v=XyZQRs6O5EQ"
+      },
+      "thumb_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\03_Estrutura_Canais\\MetodoANA\\04-Pack de Postagem\\Thumbnails\\Geradas\\V1 A mae que devia 216 mil Teste A.jpeg"
+    },
+    {
+      "id": "P4D_S01_IG_CARROSSEL",
+      "canal": "protocolo4d",
+      "plataforma": "instagram",
+      "tipo": "carrossel",
+      "publish_at": "2026-07-28T15:00:00-03:00",
+      "status": "pendente",
+      "image_paths": [
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Protocolo4D_S01\\01.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Protocolo4D_S01\\02.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Protocolo4D_S01\\03.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Protocolo4D_S01\\04.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Protocolo4D_S01\\05.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Protocolo4D_S01\\06.jpg"
+      ],
+      "caption": "O banco chama de \"saldo disponível\". Tem outro nome: dívida que já nasce cobrando juro. 👇\n\nCheque especial usado não é fôlego. É a dívida mais cara que você carrega sem perceber — cobrando a cada dia que o saldo fica no vermelho, não só no fim do mês.\n\nQuem tá crescendo bloqueia isso. Quem tá afundando usa como se fosse salário extra.\n\nSalva esse post e manda pro amigo que também tá no vermelho. Bora sair dessa.",
+      "first_comment": "Seu cheque especial tá ligado ou você já bloqueou? Responde aqui."
+    },
+    {
+      "id": "METODOANA_S01_IG_CARROSSEL",
+      "canal": "metodoana",
+      "plataforma": "instagram",
+      "tipo": "carrossel",
+      "publish_at": "2026-07-28T15:00:00-03:00",
+      "status": "pendente",
+      "image_paths": [
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_MetodoANA_S01\\01.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_MetodoANA_S01\\02.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_MetodoANA_S01\\03.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_MetodoANA_S01\\04.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_MetodoANA_S01\\05.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_MetodoANA_S01\\06.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_MetodoANA_S01\\07.jpg"
+      ],
+      "caption": "Seu contracheque \"fecha certinho\" e mesmo assim a dívida não sai do lugar? 👇\n\nIsso não é falta de organização sua. É desenho do consignado: ele desconta antes de você decidir qualquer coisa, e quando são vários juntos, pode levar mais de 30% do seu salário sem você perceber o tamanho real disso.\n\nSou a Ana, servidora pública, mãe de 4, e estou saindo de R$185 mil em dívidas em tempo real — nada de fórmula pronta, é a minha rotina mesmo.\n\nSalva esse carrossel pra reler quando for revisar seus consignados. 💾",
+      "first_comment": "Quantos consignados você tem descontando direto no contracheque agora? Conta aqui embaixo 👇"
+    },
+    {
+      "id": "SACRARIUM_S01_IG_CARROSSEL",
+      "canal": "sacrarium",
+      "plataforma": "instagram",
+      "tipo": "carrossel",
+      "publish_at": "2026-07-28T15:00:00-03:00",
+      "status": "pendente",
+      "image_paths": [
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Sacrarium\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Sacrarium_S01\\01.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Sacrarium\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Sacrarium_S01\\02.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Sacrarium\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Sacrarium_S01\\03.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Sacrarium\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Sacrarium_S01\\04.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Sacrarium\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Sacrarium_S01\\05.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Sacrarium\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Sacrarium_S01\\06.jpg"
+      ],
+      "caption": "Você já começou a rezar toda semana... e parou sem nem perceber quando? 👇\n\nIsso não é falta de fé. É tentar manter uma rotina espiritual sem nenhuma estrutura pra sustentar nos dias em que a vontade não vem.\n\nO Sacrarium é uma jornada guiada de formação espiritual, um passo por dia, sem cobrança de perfeição.\n\nSalva esse post pra reler quando sentir que travou de novo. 💾",
+      "first_comment": "Você trava mais no começo, ou no meio da semana? Conta aqui embaixo 👇"
+    },
+    {
+      "id": "METODOANA_S04_IG",
+      "canal": "metodoana",
+      "plataforma": "instagram",
+      "tipo": "reels",
+      "publish_at": "2026-07-28T20:00:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S04_Quanto_Sobra_de_Verdade.mp4",
+      "caption": "Antes de qualquer prioridade de dívida, tem uma conta que quase ninguém faz.\n\nSoma tudo que desconta antes de você tocar no salário. Depois soma o que sai assim que cai na conta.\n\nO que sobra é o que você realmente tem pra viver — e o número costuma ser bem menor do que parece.",
+      "first_comment": "Ensino o passo a passo dessa conta no ebook Mãe, Concursada e Endividada — link na bio.",
+      "nota": "catch-up Insta fim de dia - YT/Face ja tem esse desde 18/07"
+    },
+    {
+      "id": "SACRARIUM_S04_IG",
+      "canal": "sacrarium",
+      "plataforma": "instagram",
+      "tipo": "reels",
+      "publish_at": "2026-07-28T20:00:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S04_culpa_afasta_da_oracao.mp4",
+      "caption": "Você sente que não merece rezar do jeito que está agora?\n\nIsso tem nome: falsa humildade. Até Santa Teresa de Ávila caiu nesse erro — abandonou a oração um ano inteiro por acreditar nisso.\n\nA culpa que te afasta de Deus não é humildade. É o oposto.",
+      "first_comment": "O Sacrarium começa exatamente onde você está, sem culpa, sem cobrança. Link na bio."
+    },
+    {
+      "id": "P4D_S02_YT",
+      "canal": "protocolo4d",
+      "plataforma": "youtube",
+      "tipo": "reels",
+      "publish_at": "2026-07-28T20:00:00-03:00",
+      "status": "agendado",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S02_P4D_minimo_cartao.mp4",
+      "thumb_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\03_Estrutura_Canais\\Protocolo4D\\04-Pack de Postagem\\Thumbnails\\S02_minimo_cartao.jpeg",
+      "title": "Pagar o Mínimo do Cartão Foi Feito Pra Você Nunca Sair",
+      "description": "Pagar o mínimo da fatura do cartão de crédito parece alívio, mas é o caminho mais lento e mais caro pra nunca sair da dívida.\n\nNeste short, eu explico por que o valor mínimo muitas vezes nem cobre o juro do mês, empurrando o restante direto pro crédito rotativo, e mostra a única saída real: pagar o valor total da fatura e parar de usar o cartão enquanto a dívida não for quitada.\n\nSe você reconhece esse padrão na sua própria fatura, esse vídeo é pra você.\n\nAssista ao vídeo completo sobre esse tema no Canal Forjando Titãs: https://youtu.be/wCSFFVt1aJc",
+      "tags": [
+        "educação financeira masculina",
+        "como sair das dívidas",
+        "finanças para homens",
+        "Protocolo 4D",
+        "Forjando Titãs"
+      ],
+      "category_id": 27,
+      "pinned_comment": "Mínimo do cartão não é solução, é extensão da dívida. Quer saber quanto tempo leva pra quitar o que você deve? Deixei aqui embaixo a Calculadora da Liberdade, gratuita: https://protocolo-4d.netlify.app/lp-calculadora",
+      "resultado": {
+        "video_id": "N1Je5FtIf38",
+        "url": "https://youtube.com/watch?v=N1Je5FtIf38"
+      }
+    },
+    {
+      "id": "P4D_S02_FB",
+      "canal": "protocolo4d",
+      "plataforma": "facebook",
+      "tipo": "reels",
+      "publish_at": "2026-07-28T20:00:00-03:00",
+      "status": "agendado",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S02_P4D_minimo_cartao.mp4",
+      "caption": "Pagar só o mínimo da fatura parece alívio.\n\nÉ o caminho mais lento e mais caro pra nunca sair da dívida — o resto vira rotativo, um dos juros mais caros que existe.\n\nPaga o total ou não usa o cartão até quitar.",
+      "first_comment": "Calculadora da Liberdade grátis — link no site da nossa página.",
+      "resultado": {
+        "video_id": "1399131442150386",
+        "agendado": true,
+        "url": "https://www.facebook.com/reel/1399131442150386"
+      }
+    },
+    {
+      "id": "P4D_S02_IG",
+      "canal": "protocolo4d",
+      "plataforma": "instagram",
+      "tipo": "reels",
+      "publish_at": "2026-07-28T20:00:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S02_P4D_minimo_cartao.mp4",
+      "caption": "Pagar só o mínimo da fatura parece alívio.\n\nÉ o caminho mais lento e mais caro pra nunca sair da dívida — o resto vira rotativo, um dos juros mais caros que existe.\n\nPaga o total ou não usa o cartão até quitar.",
+      "first_comment": "Calculadora da Liberdade grátis — link na bio."
+    },
+    {
+      "id": "SACRARIUM_S01_IG",
+      "canal": "sacrarium",
+      "plataforma": "instagram",
+      "tipo": "reels",
+      "publish_at": "2026-07-28T10:00:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S01_por_que_nao_consigo_rezar.mp4",
+      "caption": "Você quer rezar, tenta, mas alguma coisa trava antes de começar.\n\nSanta Teresa de Ávila levou 18 anos lidando com essa mesma dificuldade — e explicou exatamente por quê.\n\nA maioria vive do lado de fora desse silêncio interior. De lá de fora, rezar realmente parece impossível.",
+      "first_comment": "O Sacrarium existe pra te ajudar a entrar nesse silêncio, um passo por dia. Link na bio.",
+      "nota": "faltava - S01 nunca foi postado no Insta (S02 e S03 ja estavam), confirmado via API 28/07"
+    }
+  ]
+}

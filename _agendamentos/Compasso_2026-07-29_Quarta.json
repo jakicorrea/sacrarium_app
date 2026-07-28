@@ -1,0 +1,285 @@
+{
+  "lote": "Compasso entre canais - 29/07/2026 - Quarta",
+  "jobs": [
+    {
+      "id": "P4D_S02_FB_FOTO",
+      "canal": "protocolo4d",
+      "plataforma": "facebook",
+      "tipo": "foto",
+      "publish_at": "2026-07-29T08:30:00-03:00",
+      "status": "agendado",
+      "image_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Post Facebook\\04 Imagens Geradas\\02. S02 Minimo Cartao.jpg",
+      "caption": "O mínimo do cartão é uma das armadilhas mais silenciosas que existem — ele deixa você com a sensação de estar em dia, enquanto o rotativo mais caro do mercado come o resto.\n\nSe você reconhece esse padrão, esse carrossel mostra o tamanho real do problema e o caminho de saída.",
+      "first_comment": "Deixei aqui embaixo a Calculadora da Liberdade, gratuita, pra você ver quanto tempo falta pra quitar, no link no site da página.",
+      "resultado": {
+        "object_id": "122110988283394338",
+        "agendado": true,
+        "url": "https://www.facebook.com/122110988283394338"
+      }
+    },
+    {
+      "id": "METODOANA_S05_IG",
+      "canal": "metodoana",
+      "plataforma": "instagram",
+      "tipo": "reels",
+      "publish_at": "2026-07-29T09:30:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S05_Como_Fui_Acumulando_Consignados.mp4",
+      "caption": "Não peguei seis consignados de uma vez.\n\nPeguei um. Depois outro, porque precisava. Depois mais um pra cobrir o que faltou.\n\nCada decisão isolada fazia sentido — só que juntas, comprometeram 30% do salário sem eu perceber.",
+      "first_comment": "Organizei esse processo todo no ebook Mãe, Concursada e Endividada — link na bio.",
+      "nota": "catch-up Insta manha - YT/Face ja tem desde 20/07"
+    },
+    {
+      "id": "SACRARIUM_S05_IG",
+      "canal": "sacrarium",
+      "plataforma": "instagram",
+      "tipo": "reels",
+      "publish_at": "2026-07-29T09:30:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S05_oracao_nao_precisa_ser_perfeita.mp4",
+      "caption": "Reza, mas a mente dispersa, foge, viaja — e por isso acha que reza errado?\n\nSanta Teresa rezou 18 anos com a mente se dispersando. Nunca abandonou por causa disso.\n\nOração perfeita não é sem distração. É a que insiste em voltar.",
+      "first_comment": "O Sacrarium foi pensado pra quem acha que reza errado por causa da distração. Link na bio.",
+      "nota": "catch-up Insta manha"
+    },
+    {
+      "id": "METODOANA_S09_YT",
+      "canal": "metodoana",
+      "plataforma": "youtube",
+      "tipo": "reels",
+      "publish_at": "2026-07-29T12:00:00-03:00",
+      "status": "agendado",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S09_Paguei_6_Mil_e_Devia_Mais.mp4",
+      "title": "Paguei Quase R$6 Mil num Consignado de R$10 Mil. Ainda Devia Mais",
+      "description": "Se você paga um consignado há anos e sente que a dívida não sai do lugar, esse vídeo mostra a conta real que fiz com o meu próprio contrato.\n\nEu peguei R$10 mil num consignado, com parcelas de R$198,63. Paguei 30 parcelas — quase R$6 mil — e quando pedi a simulação de quitação, o saldo devedor era de R$10.306,18. Mais do que o valor que caiu na minha conta no início.\n\nIsso acontece porque o Sistema Price concentra os juros no começo do contrato. De cada parcela de R$198,63, cerca de R$178 iam pro banco em juro. Só uns R$20 abatiam a dívida de verdade.\n\nSou Ana, mãe de 4 filhos, servidora pública, e estou quitando R$185 mil em dívidas em tempo real. Foi essa conta específica que me fez agir de forma diferente com os meus outros contratos.\n\nEsse vídeo é pra quem tem consignado e nunca parou pra calcular quanto da parcela é juro puro — e quanto tempo de pagamento não está reduzindo em nada o que você deve.",
+      "tags": [
+        "educação financeira feminina",
+        "mãe endividada",
+        "servidora pública endividada",
+        "consignado",
+        "sair das dívidas",
+        "método ANA"
+      ],
+      "category_id": 27,
+      "pinned_comment": "Você já calculou quanto pagou de juro no seu consignado até hoje? Criei uma calculadora gratuita que faz essa conta em segundos, pros sistemas Price, SAC e juros simples: https://cofrinhodefe-calculadora-de-juros.netlify.app/",
+      "nota": "SEM THUMBNAIL PRONTA",
+      "resultado": {
+        "video_id": "EUIrINgLruE",
+        "url": "https://youtube.com/watch?v=EUIrINgLruE"
+      }
+    },
+    {
+      "id": "METODOANA_S09_FB",
+      "canal": "metodoana",
+      "plataforma": "facebook",
+      "tipo": "reels",
+      "publish_at": "2026-07-29T12:00:00-03:00",
+      "status": "agendado",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S09_Paguei_6_Mil_e_Devia_Mais.mp4",
+      "caption": "Peguei dez mil num consignado.\n\nPaguei trinta parcelas, quase seis mil reais. Pedi a simulação de quitação: ainda devia mais do que peguei.\n\nEssa conta mudou como eu lido com todos os meus outros contratos.",
+      "first_comment": "A calculadora que faz essa conta em segundos tá no link do site da nossa página.",
+      "resultado": {
+        "video_id": "1396821078959006",
+        "agendado": true,
+        "url": "https://www.facebook.com/reel/1396821078959006"
+      }
+    },
+    {
+      "id": "SACRARIUM_S09_YT",
+      "canal": "sacrarium",
+      "plataforma": "youtube",
+      "tipo": "reels",
+      "publish_at": "2026-07-29T12:00:00-03:00",
+      "status": "agendado",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S09_jardim_secreto_de_deus.mp4",
+      "title": "O Jardim Secreto Onde Deus Habita: O Que Santa Teresa de Ávila Quis Dizer",
+      "description": "Santa Teresa de Ávila descreveu a alma como um jardim interior — um espaço de profundidade e silêncio que existe em cada pessoa, independente do barulho de fora. Esse vídeo explica essa imagem e por que a maioria nunca chega a entrar nesse jardim.\n\nA maior parte das pessoas passa a vida do lado de fora, na superfície. A oração, nessa tradição, não é uma atividade que se acrescenta ao dia — é a travessia de fora para dentro daquilo que a pessoa já é. O jardim existe, precisa ser cultivado e regado, e o primeiro passo é simplesmente saber que ele está ali.\n\nUm vídeo para quem sente que vive correndo por fora de si mesmo e quer entender o que significa, de fato, entrar em oração.\n\nFoi dessa imagem que nasceu o Sacrarium. Uma jornada de formação espiritual pensada para ajudar você a cultivar esse jardim que já existe dentro de você, um passo de cada vez.\n\nSe deseja entrar nesse jardim, o link está na descrição.",
+      "tags": [
+        "oração católica",
+        "vida espiritual",
+        "formação espiritual",
+        "santos católicos",
+        "Sacrarium"
+      ],
+      "category_id": 27,
+      "pinned_comment": "Você sente que vive mais do lado de fora do que do lado de dentro de si mesmo? Conta aqui embaixo.\nFoi dessa imagem do jardim interior de Santa Teresa de Ávila que nasceu o Sacrarium, uma jornada de formação espiritual para cultivar o que já existe dentro de você.\nSe deseja entrar nesse jardim, o link está na descrição: https://sacrarium-app.netlify.app/",
+      "nota": "SEM THUMBNAIL",
+      "resultado": {
+        "video_id": "JaYs6oxPtuI",
+        "url": "https://youtube.com/watch?v=JaYs6oxPtuI"
+      }
+    },
+    {
+      "id": "SACRARIUM_S09_FB",
+      "canal": "sacrarium",
+      "plataforma": "facebook",
+      "tipo": "reels",
+      "publish_at": "2026-07-29T12:00:00-03:00",
+      "status": "agendado",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S09_jardim_secreto_de_deus.mp4",
+      "caption": "Você vive correndo por fora de si mesmo?\n\nSanta Teresa descrevia a alma como um jardim interior — existe, mas a maioria nunca entra nele.\n\nO jardim precisa ser cultivado. O primeiro passo é só saber que ele está ali.",
+      "first_comment": "O Sacrarium nasceu dessa imagem, pra te ajudar a cultivar esse jardim. Link no site da nossa página.",
+      "resultado": {
+        "video_id": "1519082552754185",
+        "agendado": true,
+        "url": "https://www.facebook.com/reel/1519082552754185"
+      }
+    },
+    {
+      "id": "P4D_S03_YT",
+      "canal": "protocolo4d",
+      "plataforma": "youtube",
+      "tipo": "reels",
+      "publish_at": "2026-07-29T12:00:00-03:00",
+      "status": "agendado",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S03_P4D_nao_e_disciplina.mp4",
+      "thumb_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\03_Estrutura_Canais\\Protocolo4D\\04-Pack de Postagem\\Thumbnails\\S03_nao_e_disciplina.jpeg",
+      "title": "A Ordem Certa Pra Sair da Dívida Mais Rápido",
+      "description": "A maioria dos homens endividados não erra por falta de disciplina, erra por falta de método.\n\nNeste short, eu mostro por que tentar cortar gasto antes de saber qual dívida atacar, ou tentar investir antes de ter reserva, inverte a ordem lógica e faz o esforço real não gerar resultado visível.\n\nA sequência certa é diagnosticar tudo que sai, desativar o que está drenando sem necessidade, destruir as dívidas de custo mais alto primeiro e depois defender o que foi construído.\n\nSe você já tentou de tudo e nada colou, esse vídeo é pra você.\n\nAssista ao vídeo completo sobre esse tema no Canal Forjando Titãs: https://youtu.be/23bGI0G32oM",
+      "tags": [
+        "educação financeira masculina",
+        "como sair das dívidas",
+        "finanças para homens",
+        "Protocolo 4D",
+        "Forjando Titãs"
+      ],
+      "category_id": 27,
+      "pinned_comment": "Disciplina sem método é esforço que não acumula. Quer ver a sequência completa numa página só? Deixei aqui embaixo o Mapa 4D, gratuito: https://protocolo-4d.netlify.app/lp-mapa",
+      "resultado": {
+        "video_id": "96MvDydvN8Y",
+        "url": "https://youtube.com/watch?v=96MvDydvN8Y"
+      }
+    },
+    {
+      "id": "P4D_S03_FB",
+      "canal": "protocolo4d",
+      "plataforma": "facebook",
+      "tipo": "reels",
+      "publish_at": "2026-07-29T12:00:00-03:00",
+      "status": "agendado",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S03_P4D_nao_e_disciplina.mp4",
+      "caption": "Você se esforça, corta gasto, tenta poupar — e o resultado nunca aparece?\n\nNão é falta de disciplina. É ordem errada.\n\nA sequência certa: diagnosticar, desativar, destruir, defender.",
+      "first_comment": "Mapa completo com essa sequência — link no site da nossa página.",
+      "resultado": {
+        "video_id": "1574349907465292",
+        "agendado": true,
+        "url": "https://www.facebook.com/reel/1574349907465292"
+      }
+    },
+    {
+      "id": "P4D_S03_IG",
+      "canal": "protocolo4d",
+      "plataforma": "instagram",
+      "tipo": "reels",
+      "publish_at": "2026-07-29T12:00:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S03_P4D_nao_e_disciplina.mp4",
+      "caption": "Você se esforça, corta gasto, tenta poupar — e o resultado nunca aparece?\n\nNão é falta de disciplina. É ordem errada.\n\nA sequência certa: diagnosticar, desativar, destruir, defender.",
+      "first_comment": "Mapa completo com essa sequência — link na bio."
+    },
+    {
+      "id": "METODOANA_V03_YT",
+      "canal": "metodoana",
+      "plataforma": "youtube",
+      "tipo": "longo",
+      "publish_at": "2026-07-29T13:00:00-03:00",
+      "status": "agendado",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V03_Metodo_ANA.mp4",
+      "title": "O Método ANA: como decidir qual dívida atacar primeiro",
+      "description": "Se você é mãe, servidora pública ou está endividada e já ouviu falar do método Bola de Neve ou do Avalanche, esse vídeo mostra o passo que nenhum dos dois resolve sozinho. Eu sou Ana, e depois de mapear meus R$185 mil em dívidas reais, apliquei o Método ANA — Avaliar, Neutralizar, Avançar — que não é um terceiro método competindo com Bola de Neve e Avalanche, é a etapa de segurança que vem ANTES de escolher qualquer um dos dois: garantir que nenhum rotativo, cheque especial ou parcela atrasada passa despercebido. Nesse vídeo eu explico as três etapas e mostro, com os números reais da minha carteira, por que meu financiamento habitacional de R$101 mil, que é minha maior dívida, fica por último na fila de prioridade mesmo escolhendo o Avalanche. Parece contra-intuitivo, mas é matematicamente correto. Esse não é conteúdo teórico de coach. É o método que estou aplicando agora mesmo pra quitar minhas próprias dívidas, mês a mês, com plano e números na mesa. Assista até o final pra entender como aplicar isso na sua própria situação.",
+      "tags": [
+        "educação financeira feminina",
+        "mãe endividada",
+        "servidora pública endividada",
+        "consignado",
+        "sair das dívidas",
+        "método ANA"
+      ],
+      "category_id": 27,
+      "pinned_comment": "Você sabe por qual dívida deveria começar? Comenta aqui embaixo qual é a sua maior dúvida. O Método ANA completo, com o passo a passo pra classificar qualquer dívida em minutos e a planilha automática de priorização, está no ebook Mãe, Concursada e Endividada: https://mae-endividada-completo.netlify.app/",
+      "nota": "Video ja pronto em 02 Postar. Proximo V da ANA sera V04 (ainda nao existe roteiro/gravacao).",
+      "resultado": {
+        "video_id": "b2dE1-f7TqE",
+        "url": "https://youtube.com/watch?v=b2dE1-f7TqE"
+      },
+      "thumb_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\03_Estrutura_Canais\\MetodoANA\\04-Pack de Postagem\\Thumbnails\\Geradas\\V3 Metodo ANA Teste A.jpeg"
+    },
+    {
+      "id": "P4D_S02_IG_CARROSSEL",
+      "canal": "protocolo4d",
+      "plataforma": "instagram",
+      "tipo": "carrossel",
+      "publish_at": "2026-07-29T15:00:00-03:00",
+      "status": "pendente",
+      "image_paths": [
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Protocolo4D_S02\\01.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Protocolo4D_S02\\02.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Protocolo4D_S02\\03.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Protocolo4D_S02\\04.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Protocolo4D_S02\\05.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Protocolo4D_S02\\06.jpg"
+      ],
+      "caption": "Pagar o mínimo do cartão em dia, todo mês, e nunca sair do buraco. Já passou por isso? 👇\n\nO mínimo foi desenhado pra parecer responsabilidade. Na prática, ele raramente cobre o juro inteiro do mês — o resto vira rotativo, o juro mais caro que existe.\n\nSó tem duas saídas: pagar o valor total da fatura, ou parar de usar o cartão até zerar. Não tem meio-termo.\n\nSalva esse post e passa pro amigo que só paga o mínimo. Bora sair dessa.",
+      "first_comment": "Você paga o mínimo ou a fatura inteira? Sem vergonha, comenta aí."
+    },
+    {
+      "id": "METODOANA_S02_IG_CARROSSEL",
+      "canal": "metodoana",
+      "plataforma": "instagram",
+      "tipo": "carrossel",
+      "publish_at": "2026-07-29T15:00:00-03:00",
+      "status": "pendente",
+      "image_paths": [
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_MetodoANA_S02\\01.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_MetodoANA_S02\\02.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_MetodoANA_S02\\03.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_MetodoANA_S02\\04.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_MetodoANA_S02\\05.jpg"
+      ],
+      "caption": "Você sabe quanto ainda vai pagar só de juro nos seus contratos? 👇\n\nFiz essa conta na minha própria carteira: parcela vezes parcelas restantes, menos o saldo devedor. O resultado foi R$173.244 só em juro — um carro zero indo pro banco.\n\nSou a Ana, servidora pública, mãe de 4, quitando R$185 mil em dívidas em tempo real.\n\nSalva esse post e faz essa conta na sua.",
+      "first_comment": "Você já fez essa conta na sua própria dívida? Comenta o resultado (ou a coragem de fazer)."
+    },
+    {
+      "id": "SACRARIUM_S02_IG_CARROSSEL",
+      "canal": "sacrarium",
+      "plataforma": "instagram",
+      "tipo": "carrossel",
+      "publish_at": "2026-07-29T15:00:00-03:00",
+      "status": "pendente",
+      "image_paths": [
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Sacrarium\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Sacrarium_S02\\01.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Sacrarium\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Sacrarium_S02\\02.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Sacrarium\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Sacrarium_S02\\03.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Sacrarium\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Sacrarium_S02\\04.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Sacrarium\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Sacrarium_S02\\05.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Sacrarium\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Sacrarium_S02\\06.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Sacrarium\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Sacrarium_S02\\07.jpg"
+      ],
+      "caption": "Começa a rezar, para, começa de novo. Reconhece esse ciclo? 👇\n\nQuando você falha um dia, a cabeça costuma dizer \"quebrou a sequência, recomeça segunda\" — e a segunda vira mês, o mês vira seis meses. O problema nunca foi falhar um dia. Foi o que isso significou pra você.\n\nO Sacrarium não pune quem para. Só espera quem volta.\n\nSalva esse post pra reler no próximo dia que sentir que \"estragou tudo\". 💾",
+      "first_comment": "Você já ficou meses sem rezar por causa de um dia só que falhou? Conta aqui embaixo 👇"
+    },
+    {
+      "id": "METODOANA_S06_IG",
+      "canal": "metodoana",
+      "plataforma": "instagram",
+      "tipo": "reels",
+      "publish_at": "2026-07-29T20:00:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S06_Por_que_o_Saldo_Nao_Cai.mp4",
+      "caption": "Já pagou mais de dez parcelas e o saldo quase não caiu?\n\nNão é impressão. No Sistema Price, de 85% a 90% da parcela vira juro no começo do contrato — só uma fração pequena abate a dívida de verdade.",
+      "first_comment": "A calculadora que mostra exatamente isso tá no link da bio.",
+      "nota": "catch-up Insta fim de dia - YT/Face ja tem desde 21/07"
+    },
+    {
+      "id": "SACRARIUM_S06_IG",
+      "canal": "sacrarium",
+      "plataforma": "instagram",
+      "tipo": "reels",
+      "publish_at": "2026-07-29T20:00:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S06_deus_parece_distante.mp4",
+      "caption": "A sensação de estar distante de Deus, sem resposta, sem consolo — São João da Cruz descreveu isso com precisão.\n\nEle não te afasta. É a fé sendo chamada a crescer além do sentimento.",
+      "first_comment": "O Sacrarium acompanha as fases secas, não só as fáceis. Link na bio.",
+      "nota": "catch-up Insta fim de dia"
+    }
+  ]
+}

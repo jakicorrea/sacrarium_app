@@ -1,0 +1,77 @@
+name: Postar conteudo agendado
+
+on:
+  schedule:
+    # a cada 15 min. GitHub as vezes atrasa alguns minutos em horario de
+    # pico mundial — isso e normal e nao quebra nada (o script trata post
+    # atrasado normalmente, so nao publica ANTES da hora).
+    - cron: "*/15 * * * *"
+  workflow_dispatch: {}   # botao "Run workflow" manual na aba Actions, pra testar sem esperar o cron
+
+permissions:
+  contents: write   # precisa pra poder commitar de volta o status dos jobs (pendente -> publicado)
+
+concurrency:
+  group: postar-conteudo
+  cancel-in-progress: false   # nunca cancela uma publicacao no meio — deixa terminar
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25   # menor que o intervalo do cron (15min o dispara, mas da folga se atrasar)
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Instalar ffmpeg
+        run: sudo apt-get update -y && sudo apt-get install -y ffmpeg
+
+      - name: Instalar dependencias Python
+        run: pip install -r requirements.txt
+
+      - name: Escrever credenciais a partir dos Secrets
+        # SO Instagram + Supabase (28/07/2026) — YouTube e Facebook agendam
+        # nativo com UMA chamada de API so, entao continuam rodando local
+        # (nao precisam ficar "esperando" o dia inteiro). Reduz de 10 pra 4
+        # secrets, e os tokens de YT/Face nem chegam a sair do PC da Jaqueline.
+        env:
+          INSTAGRAM_COFRINHODEFE: ${{ secrets.INSTAGRAM_COFRINHODEFE }}
+          INSTAGRAM_SACRARIUM: ${{ secrets.INSTAGRAM_SACRARIUM }}
+          INSTAGRAM_FORJANDOTITAS: ${{ secrets.INSTAGRAM_FORJANDOTITAS }}
+          SUPABASE_TXT: ${{ secrets.SUPABASE_TXT }}
+        run: |
+          mkdir -p /tmp/tokens
+          echo "$INSTAGRAM_COFRINHODEFE" > /tmp/tokens/instagram_cofrinhodefe.txt
+          echo "$INSTAGRAM_SACRARIUM" > /tmp/tokens/instagram_sacrarium.txt
+          echo "$INSTAGRAM_FORJANDOTITAS" > /tmp/tokens/instagram_forjandotitas.txt
+          echo "$SUPABASE_TXT" > /tmp/tokens/supabase.txt
+
+      - name: Manter o Supabase ativo (evita pausa automatica por inatividade)
+        env:
+          SUPABASE_TXT: ${{ secrets.SUPABASE_TXT }}
+        run: |
+          URL=$(echo "$SUPABASE_TXT" | grep SUPABASE_URL | cut -d: -f2- | xargs)
+          KEY=$(echo "$SUPABASE_TXT" | grep SUPABASE_SECRET_KEY | cut -d: -f2- | xargs)
+          curl -s -o /dev/null -w "ping supabase: %{http_code}\n" \
+            -H "apikey: $KEY" -H "Authorization: Bearer $KEY" \
+            "$URL/storage/v1/bucket" || true
+
+      - name: Rodar agendador (so Instagram, modo nao-interativo)
+        env:
+          AGENDADOR_TOKENS_DIR: /tmp/tokens
+        run: python agendador_publicacoes.py --todos --so-instagram
+
+      - name: Salvar de volta o status atualizado dos jobs (commit automatico)
+        run: |
+          git config user.name "postador-bot"
+          git config user.email "postador-bot@users.noreply.github.com"
+          git add _agendamentos _historico _pendentes 2>/dev/null || true
+          if ! git diff --cached --quiet; then
+            git commit -m "auto: atualiza status de postagem [skip ci]"
+            git push
+          else
+            echo "Nada mudou neste ciclo."
+          fi
