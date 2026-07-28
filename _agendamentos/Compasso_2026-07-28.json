@@ -67,13 +67,18 @@
       "plataforma": "instagram",
       "tipo": "reels",
       "publish_at": "2026-07-28T10:30:00-03:00",
-      "status": "pendente",
+      "status": "publicado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S03_Por_que_o_Banco_Aprova_Facil.mp4",
       "caption": "Seu consignado saiu aprovado rápido, quase sem burocracia?\n\nNão é confiança do banco. É desconto automático direto no contracheque — risco zero pra ele, risco todo seu.\n\nEntender isso muda como você encara qualquer novo limite.",
       "first_comment": "Montei o passo a passo completo no ebook Mãe, Concursada e Endividada — link na bio.",
       "nota": "catch-up Insta - YT/Face ja tem esse desde 13/07",
       "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/instagram/METODOANA_S03_IG_video_S03_Por_que_o_Banco_Aprova_Facil.mp4",
-      "video_url_nuvem_remoto": "metodoana/instagram/METODOANA_S03_IG_video_S03_Por_que_o_Banco_Aprova_Facil.mp4"
+      "video_url_nuvem_remoto": "metodoana/instagram/METODOANA_S03_IG_video_S03_Por_que_o_Banco_Aprova_Facil.mp4",
+      "resultado": {
+        "media_id": "17901169071493008",
+        "url": "https://www.instagram.com/reel/17901169071493008",
+        "comentario": "postado na hora"
+      }
     },
     {
       "id": "P4D_S01_YT",
@@ -122,12 +127,17 @@
       "plataforma": "instagram",
       "tipo": "reels",
       "publish_at": "2026-07-28T11:00:00-03:00",
-      "status": "pendente",
+      "status": "publicado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S01_P4D_cheque_especial.mp4",
       "caption": "Cheque especial pode cobrar até 350% de juros ao ano.\n\nNão é limite extra. É a dívida mais cara que você carrega sem perceber, cobrando todo santo dia que o saldo fica no vermelho.\n\nBloqueia isso direto no app do banco. Hoje.",
       "first_comment": "Ebook grátis com as Armadilhas Bancárias — link na bio.",
       "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/protocolo4d/instagram/P4D_S01_IG_video_S01_P4D_cheque_especial.mp4",
-      "video_url_nuvem_remoto": "protocolo4d/instagram/P4D_S01_IG_video_S01_P4D_cheque_especial.mp4"
+      "video_url_nuvem_remoto": "protocolo4d/instagram/P4D_S01_IG_video_S01_P4D_cheque_especial.mp4",
+      "resultado": {
+        "media_id": "17878975350502905",
+        "url": "https://www.instagram.com/reel/17878975350502905",
+        "comentario": "postado na hora"
+      }
     },
     {
       "id": "METODOANA_S08_YT",
@@ -432,13 +442,18 @@
       "plataforma": "instagram",
       "tipo": "reels",
       "publish_at": "2026-07-28T10:00:00-03:00",
-      "status": "pendente",
+      "status": "publicado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S01_por_que_nao_consigo_rezar.mp4",
       "caption": "Você quer rezar, tenta, mas alguma coisa trava antes de começar.\n\nSanta Teresa de Ávila levou 18 anos lidando com essa mesma dificuldade — e explicou exatamente por quê.\n\nA maioria vive do lado de fora desse silêncio interior. De lá de fora, rezar realmente parece impossível.",
       "first_comment": "O Sacrarium existe pra te ajudar a entrar nesse silêncio, um passo por dia. Link na bio.",
       "nota": "faltava - S01 nunca foi postado no Insta (S02 e S03 ja estavam), confirmado via API 28/07",
       "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/instagram/SACRARIUM_S01_IG_video_S01_por_que_nao_consigo_rezar.mp4",
-      "video_url_nuvem_remoto": "sacrarium/instagram/SACRARIUM_S01_IG_video_S01_por_que_nao_consigo_rezar.mp4"
+      "video_url_nuvem_remoto": "sacrarium/instagram/SACRARIUM_S01_IG_video_S01_por_que_nao_consigo_rezar.mp4",
+      "resultado": {
+        "media_id": "18110939909319131",
+        "url": "https://www.instagram.com/reel/18110939909319131",
+        "comentario": "postado na hora"
+      }
     }
   ]
 }
