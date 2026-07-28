@@ -1270,5 +1270,41 @@
       "url": "https://www.instagram.com/reel/18110939909319131",
       "comentario": "postado na hora"
     }
+  },
+  "protocolo4d|instagram|C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Protocolo4D_S01\\01.jpg|C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Protocolo4D_S01\\02.jpg|C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Protocolo4D_S01\\03.jpg|C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Protocolo4D_S01\\04.jpg|C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Protocolo4D_S01\\05.jpg|C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Protocolo4D_S01\\06.jpg": {
+    "id": "P4D_S01_IG_CARROSSEL",
+    "canal": "protocolo4d",
+    "plataforma": "instagram",
+    "publish_at": "2026-07-28T15:00:00-03:00",
+    "postado_em_utc": "2026-07-28T18:08:15Z",
+    "resultado": {
+      "media_id": "18121231399884916",
+      "url": "https://www.instagram.com/p/18121231399884916",
+      "comentario": "postado na hora"
+    }
+  },
+  "metodoana|instagram|C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_MetodoANA_S01\\01.jpg|C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_MetodoANA_S01\\02.jpg|C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_MetodoANA_S01\\03.jpg|C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_MetodoANA_S01\\04.jpg|C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_MetodoANA_S01\\05.jpg|C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_MetodoANA_S01\\06.jpg|C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_MetodoANA_S01\\07.jpg": {
+    "id": "METODOANA_S01_IG_CARROSSEL",
+    "canal": "metodoana",
+    "plataforma": "instagram",
+    "publish_at": "2026-07-28T15:00:00-03:00",
+    "postado_em_utc": "2026-07-28T18:10:45Z",
+    "resultado": {
+      "media_id": "18123131509771772",
+      "url": "https://www.instagram.com/p/18123131509771772",
+      "comentario": "postado na hora"
+    }
+  },
+  "sacrarium|instagram|C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Sacrarium\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Sacrarium_S01\\01.jpg|C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Sacrarium\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Sacrarium_S01\\02.jpg|C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Sacrarium\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Sacrarium_S01\\03.jpg|C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Sacrarium\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Sacrarium_S01\\04.jpg|C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Sacrarium\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Sacrarium_S01\\05.jpg|C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Sacrarium\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Sacrarium_S01\\06.jpg": {
+    "id": "SACRARIUM_S01_IG_CARROSSEL",
+    "canal": "sacrarium",
+    "plataforma": "instagram",
+    "publish_at": "2026-07-28T15:00:00-03:00",
+    "postado_em_utc": "2026-07-28T18:13:14Z",
+    "resultado": {
+      "media_id": "17901422643498147",
+      "url": "https://www.instagram.com/p/17901422643498147",
+      "comentario": "postado na hora"
+    }
   }
 }

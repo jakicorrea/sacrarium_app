@@ -256,7 +256,7 @@
       "plataforma": "instagram",
       "tipo": "carrossel",
       "publish_at": "2026-07-28T15:00:00-03:00",
-      "status": "pendente",
+      "status": "publicado",
       "image_paths": [
         "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Protocolo4D_S01\\01.jpg",
         "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Protocolo4D_S01\\02.jpg",
@@ -282,7 +282,12 @@
         "protocolo4d/instagram/P4D_S01_IG_CARROSSEL_img3_04.jpg",
         "protocolo4d/instagram/P4D_S01_IG_CARROSSEL_img4_05.jpg",
         "protocolo4d/instagram/P4D_S01_IG_CARROSSEL_img5_06.jpg"
-      ]
+      ],
+      "resultado": {
+        "media_id": "18121231399884916",
+        "url": "https://www.instagram.com/p/18121231399884916",
+        "comentario": "postado na hora"
+      }
     },
     {
       "id": "METODOANA_S01_IG_CARROSSEL",
@@ -290,7 +295,7 @@
       "plataforma": "instagram",
       "tipo": "carrossel",
       "publish_at": "2026-07-28T15:00:00-03:00",
-      "status": "pendente",
+      "status": "publicado",
       "image_paths": [
         "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_MetodoANA_S01\\01.jpg",
         "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_MetodoANA_S01\\02.jpg",
@@ -319,7 +324,12 @@
         "metodoana/instagram/METODOANA_S01_IG_CARROSSEL_img4_05.jpg",
         "metodoana/instagram/METODOANA_S01_IG_CARROSSEL_img5_06.jpg",
         "metodoana/instagram/METODOANA_S01_IG_CARROSSEL_img6_07.jpg"
-      ]
+      ],
+      "resultado": {
+        "media_id": "18123131509771772",
+        "url": "https://www.instagram.com/p/18123131509771772",
+        "comentario": "postado na hora"
+      }
     },
     {
       "id": "SACRARIUM_S01_IG_CARROSSEL",
@@ -327,7 +337,7 @@
       "plataforma": "instagram",
       "tipo": "carrossel",
       "publish_at": "2026-07-28T15:00:00-03:00",
-      "status": "pendente",
+      "status": "publicado",
       "image_paths": [
         "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Sacrarium\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Sacrarium_S01\\01.jpg",
         "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Sacrarium\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Sacrarium_S01\\02.jpg",
@@ -353,7 +363,12 @@
         "sacrarium/instagram/SACRARIUM_S01_IG_CARROSSEL_img3_04.jpg",
         "sacrarium/instagram/SACRARIUM_S01_IG_CARROSSEL_img4_05.jpg",
         "sacrarium/instagram/SACRARIUM_S01_IG_CARROSSEL_img5_06.jpg"
-      ]
+      ],
+      "resultado": {
+        "media_id": "17901422643498147",
+        "url": "https://www.instagram.com/p/17901422643498147",
+        "comentario": "postado na hora"
+      }
     },
     {
       "id": "METODOANA_S04_IG",
