@@ -71,7 +71,9 @@
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S03_Por_que_o_Banco_Aprova_Facil.mp4",
       "caption": "Seu consignado saiu aprovado rápido, quase sem burocracia?\n\nNão é confiança do banco. É desconto automático direto no contracheque — risco zero pra ele, risco todo seu.\n\nEntender isso muda como você encara qualquer novo limite.",
       "first_comment": "Montei o passo a passo completo no ebook Mãe, Concursada e Endividada — link na bio.",
-      "nota": "catch-up Insta - YT/Face ja tem esse desde 13/07"
+      "nota": "catch-up Insta - YT/Face ja tem esse desde 13/07",
+      "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/instagram/METODOANA_S03_IG_video_S03_Por_que_o_Banco_Aprova_Facil.mp4",
+      "video_url_nuvem_remoto": "metodoana/instagram/METODOANA_S03_IG_video_S03_Por_que_o_Banco_Aprova_Facil.mp4"
     },
     {
       "id": "P4D_S01_YT",
@@ -123,7 +125,9 @@
       "status": "pendente",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S01_P4D_cheque_especial.mp4",
       "caption": "Cheque especial pode cobrar até 350% de juros ao ano.\n\nNão é limite extra. É a dívida mais cara que você carrega sem perceber, cobrando todo santo dia que o saldo fica no vermelho.\n\nBloqueia isso direto no app do banco. Hoje.",
-      "first_comment": "Ebook grátis com as Armadilhas Bancárias — link na bio."
+      "first_comment": "Ebook grátis com as Armadilhas Bancárias — link na bio.",
+      "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/protocolo4d/instagram/P4D_S01_IG_video_S01_P4D_cheque_especial.mp4",
+      "video_url_nuvem_remoto": "protocolo4d/instagram/P4D_S01_IG_video_S01_P4D_cheque_especial.mp4"
     },
     {
       "id": "METODOANA_S08_YT",
@@ -252,7 +256,23 @@
         "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Protocolo4D_S01\\06.jpg"
       ],
       "caption": "O banco chama de \"saldo disponível\". Tem outro nome: dívida que já nasce cobrando juro. 👇\n\nCheque especial usado não é fôlego. É a dívida mais cara que você carrega sem perceber — cobrando a cada dia que o saldo fica no vermelho, não só no fim do mês.\n\nQuem tá crescendo bloqueia isso. Quem tá afundando usa como se fosse salário extra.\n\nSalva esse post e manda pro amigo que também tá no vermelho. Bora sair dessa.",
-      "first_comment": "Seu cheque especial tá ligado ou você já bloqueou? Responde aqui."
+      "first_comment": "Seu cheque especial tá ligado ou você já bloqueou? Responde aqui.",
+      "image_urls_nuvem": [
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/protocolo4d/instagram/P4D_S01_IG_CARROSSEL_img0_01.jpg",
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/protocolo4d/instagram/P4D_S01_IG_CARROSSEL_img1_02.jpg",
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/protocolo4d/instagram/P4D_S01_IG_CARROSSEL_img2_03.jpg",
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/protocolo4d/instagram/P4D_S01_IG_CARROSSEL_img3_04.jpg",
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/protocolo4d/instagram/P4D_S01_IG_CARROSSEL_img4_05.jpg",
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/protocolo4d/instagram/P4D_S01_IG_CARROSSEL_img5_06.jpg"
+      ],
+      "image_urls_nuvem_remoto": [
+        "protocolo4d/instagram/P4D_S01_IG_CARROSSEL_img0_01.jpg",
+        "protocolo4d/instagram/P4D_S01_IG_CARROSSEL_img1_02.jpg",
+        "protocolo4d/instagram/P4D_S01_IG_CARROSSEL_img2_03.jpg",
+        "protocolo4d/instagram/P4D_S01_IG_CARROSSEL_img3_04.jpg",
+        "protocolo4d/instagram/P4D_S01_IG_CARROSSEL_img4_05.jpg",
+        "protocolo4d/instagram/P4D_S01_IG_CARROSSEL_img5_06.jpg"
+      ]
     },
     {
       "id": "METODOANA_S01_IG_CARROSSEL",
@@ -271,7 +291,25 @@
         "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_MetodoANA_S01\\07.jpg"
       ],
       "caption": "Seu contracheque \"fecha certinho\" e mesmo assim a dívida não sai do lugar? 👇\n\nIsso não é falta de organização sua. É desenho do consignado: ele desconta antes de você decidir qualquer coisa, e quando são vários juntos, pode levar mais de 30% do seu salário sem você perceber o tamanho real disso.\n\nSou a Ana, servidora pública, mãe de 4, e estou saindo de R$185 mil em dívidas em tempo real — nada de fórmula pronta, é a minha rotina mesmo.\n\nSalva esse carrossel pra reler quando for revisar seus consignados. 💾",
-      "first_comment": "Quantos consignados você tem descontando direto no contracheque agora? Conta aqui embaixo 👇"
+      "first_comment": "Quantos consignados você tem descontando direto no contracheque agora? Conta aqui embaixo 👇",
+      "image_urls_nuvem": [
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/instagram/METODOANA_S01_IG_CARROSSEL_img0_01.jpg",
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/instagram/METODOANA_S01_IG_CARROSSEL_img1_02.jpg",
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/instagram/METODOANA_S01_IG_CARROSSEL_img2_03.jpg",
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/instagram/METODOANA_S01_IG_CARROSSEL_img3_04.jpg",
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/instagram/METODOANA_S01_IG_CARROSSEL_img4_05.jpg",
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/instagram/METODOANA_S01_IG_CARROSSEL_img5_06.jpg",
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/instagram/METODOANA_S01_IG_CARROSSEL_img6_07.jpg"
+      ],
+      "image_urls_nuvem_remoto": [
+        "metodoana/instagram/METODOANA_S01_IG_CARROSSEL_img0_01.jpg",
+        "metodoana/instagram/METODOANA_S01_IG_CARROSSEL_img1_02.jpg",
+        "metodoana/instagram/METODOANA_S01_IG_CARROSSEL_img2_03.jpg",
+        "metodoana/instagram/METODOANA_S01_IG_CARROSSEL_img3_04.jpg",
+        "metodoana/instagram/METODOANA_S01_IG_CARROSSEL_img4_05.jpg",
+        "metodoana/instagram/METODOANA_S01_IG_CARROSSEL_img5_06.jpg",
+        "metodoana/instagram/METODOANA_S01_IG_CARROSSEL_img6_07.jpg"
+      ]
     },
     {
       "id": "SACRARIUM_S01_IG_CARROSSEL",
@@ -289,7 +327,23 @@
         "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Sacrarium\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Sacrarium_S01\\06.jpg"
       ],
       "caption": "Você já começou a rezar toda semana... e parou sem nem perceber quando? 👇\n\nIsso não é falta de fé. É tentar manter uma rotina espiritual sem nenhuma estrutura pra sustentar nos dias em que a vontade não vem.\n\nO Sacrarium é uma jornada guiada de formação espiritual, um passo por dia, sem cobrança de perfeição.\n\nSalva esse post pra reler quando sentir que travou de novo. 💾",
-      "first_comment": "Você trava mais no começo, ou no meio da semana? Conta aqui embaixo 👇"
+      "first_comment": "Você trava mais no começo, ou no meio da semana? Conta aqui embaixo 👇",
+      "image_urls_nuvem": [
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/instagram/SACRARIUM_S01_IG_CARROSSEL_img0_01.jpg",
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/instagram/SACRARIUM_S01_IG_CARROSSEL_img1_02.jpg",
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/instagram/SACRARIUM_S01_IG_CARROSSEL_img2_03.jpg",
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/instagram/SACRARIUM_S01_IG_CARROSSEL_img3_04.jpg",
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/instagram/SACRARIUM_S01_IG_CARROSSEL_img4_05.jpg",
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/instagram/SACRARIUM_S01_IG_CARROSSEL_img5_06.jpg"
+      ],
+      "image_urls_nuvem_remoto": [
+        "sacrarium/instagram/SACRARIUM_S01_IG_CARROSSEL_img0_01.jpg",
+        "sacrarium/instagram/SACRARIUM_S01_IG_CARROSSEL_img1_02.jpg",
+        "sacrarium/instagram/SACRARIUM_S01_IG_CARROSSEL_img2_03.jpg",
+        "sacrarium/instagram/SACRARIUM_S01_IG_CARROSSEL_img3_04.jpg",
+        "sacrarium/instagram/SACRARIUM_S01_IG_CARROSSEL_img4_05.jpg",
+        "sacrarium/instagram/SACRARIUM_S01_IG_CARROSSEL_img5_06.jpg"
+      ]
     },
     {
       "id": "METODOANA_S04_IG",
@@ -301,7 +355,9 @@
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S04_Quanto_Sobra_de_Verdade.mp4",
       "caption": "Antes de qualquer prioridade de dívida, tem uma conta que quase ninguém faz.\n\nSoma tudo que desconta antes de você tocar no salário. Depois soma o que sai assim que cai na conta.\n\nO que sobra é o que você realmente tem pra viver — e o número costuma ser bem menor do que parece.",
       "first_comment": "Ensino o passo a passo dessa conta no ebook Mãe, Concursada e Endividada — link na bio.",
-      "nota": "catch-up Insta fim de dia - YT/Face ja tem esse desde 18/07"
+      "nota": "catch-up Insta fim de dia - YT/Face ja tem esse desde 18/07",
+      "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/instagram/METODOANA_S04_IG_video_S04_Quanto_Sobra_de_Verdade.mp4",
+      "video_url_nuvem_remoto": "metodoana/instagram/METODOANA_S04_IG_video_S04_Quanto_Sobra_de_Verdade.mp4"
     },
     {
       "id": "SACRARIUM_S04_IG",
@@ -312,7 +368,9 @@
       "status": "pendente",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S04_culpa_afasta_da_oracao.mp4",
       "caption": "Você sente que não merece rezar do jeito que está agora?\n\nIsso tem nome: falsa humildade. Até Santa Teresa de Ávila caiu nesse erro — abandonou a oração um ano inteiro por acreditar nisso.\n\nA culpa que te afasta de Deus não é humildade. É o oposto.",
-      "first_comment": "O Sacrarium começa exatamente onde você está, sem culpa, sem cobrança. Link na bio."
+      "first_comment": "O Sacrarium começa exatamente onde você está, sem culpa, sem cobrança. Link na bio.",
+      "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/instagram/SACRARIUM_S04_IG_video_S04_culpa_afasta_da_oracao.mp4",
+      "video_url_nuvem_remoto": "sacrarium/instagram/SACRARIUM_S04_IG_video_S04_culpa_afasta_da_oracao.mp4"
     },
     {
       "id": "P4D_S02_YT",
@@ -364,7 +422,9 @@
       "status": "pendente",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S02_P4D_minimo_cartao.mp4",
       "caption": "Pagar só o mínimo da fatura parece alívio.\n\nÉ o caminho mais lento e mais caro pra nunca sair da dívida — o resto vira rotativo, um dos juros mais caros que existe.\n\nPaga o total ou não usa o cartão até quitar.",
-      "first_comment": "Calculadora da Liberdade grátis — link na bio."
+      "first_comment": "Calculadora da Liberdade grátis — link na bio.",
+      "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/protocolo4d/instagram/P4D_S02_IG_video_S02_P4D_minimo_cartao.mp4",
+      "video_url_nuvem_remoto": "protocolo4d/instagram/P4D_S02_IG_video_S02_P4D_minimo_cartao.mp4"
     },
     {
       "id": "SACRARIUM_S01_IG",
@@ -376,7 +436,9 @@
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S01_por_que_nao_consigo_rezar.mp4",
       "caption": "Você quer rezar, tenta, mas alguma coisa trava antes de começar.\n\nSanta Teresa de Ávila levou 18 anos lidando com essa mesma dificuldade — e explicou exatamente por quê.\n\nA maioria vive do lado de fora desse silêncio interior. De lá de fora, rezar realmente parece impossível.",
       "first_comment": "O Sacrarium existe pra te ajudar a entrar nesse silêncio, um passo por dia. Link na bio.",
-      "nota": "faltava - S01 nunca foi postado no Insta (S02 e S03 ja estavam), confirmado via API 28/07"
+      "nota": "faltava - S01 nunca foi postado no Insta (S02 e S03 ja estavam), confirmado via API 28/07",
+      "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/instagram/SACRARIUM_S01_IG_video_S01_por_que_nao_consigo_rezar.mp4",
+      "video_url_nuvem_remoto": "sacrarium/instagram/SACRARIUM_S01_IG_video_S01_por_que_nao_consigo_rezar.mp4"
     }
   ]
 }
