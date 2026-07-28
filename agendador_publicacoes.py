@@ -660,7 +660,7 @@ def _supabase_delete(nome):
         print(f"  [aviso] falha ao apagar '{nome}' do Supabase (limpar manualmente depois): {e}")
 
 
-FFMPEG = r"C:\ffmpeg\bin\ffmpeg.exe"
+FFMPEG = os.environ.get("AGENDADOR_FFMPEG", r"C:\ffmpeg\bin\ffmpeg.exe")
 IG_BITRATE_VIDEO = "3500k"
 IG_BITRATE_AUDIO = "128k"
 FB_VIDEO_LIMITE_BYTES = 300 * 1024 * 1024  # acima disso, recodifica antes de subir (ver _fb_upload_video_simples)

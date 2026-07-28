@@ -60,7 +60,8 @@ BUCKET_PADRAO = "pipeline-midia"
 # subir um short cru de ~90MB). Recodifica pro mesmo bitrate que ja e usado
 # pro upload do Instagram (~3.5Mbps, da ~30MB pra um short de 70s) antes de
 # subir pro bucket permanente — mesma logica de agendador_publicacoes.py.
-FFMPEG = r"C:\ffmpeg\bin\ffmpeg.exe"
+import os
+FFMPEG = os.environ.get("AGENDADOR_FFMPEG", r"C:\ffmpeg\bin\ffmpeg.exe")
 BITRATE_VIDEO = "3500k"
 BITRATE_AUDIO = "128k"
 LIMITE_SUPABASE_FREE_BYTES = 45 * 1024 * 1024  # margem de seguranca abaixo dos 50MB reais

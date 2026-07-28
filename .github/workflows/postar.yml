@@ -62,6 +62,7 @@ jobs:
       - name: Rodar agendador (so Instagram, modo nao-interativo)
         env:
           AGENDADOR_TOKENS_DIR: /tmp/tokens
+          AGENDADOR_FFMPEG: ffmpeg
         run: python agendador_publicacoes.py --todos --so-instagram
 
       - name: Salvar de volta o status atualizado dos jobs (commit automatico)
