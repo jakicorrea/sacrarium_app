@@ -1306,5 +1306,41 @@
       "url": "https://www.instagram.com/p/17901422643498147",
       "comentario": "postado na hora"
     }
+  },
+  "protocolo4d|instagram|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S02_P4D_minimo_cartao.mp4": {
+    "id": "P4D_S02_IG",
+    "canal": "protocolo4d",
+    "plataforma": "instagram",
+    "publish_at": "2026-07-28T20:00:00-03:00",
+    "postado_em_utc": "2026-07-28T23:55:42Z",
+    "resultado": {
+      "media_id": "18116317922312002",
+      "url": "https://www.instagram.com/reel/18116317922312002",
+      "comentario": "postado na hora"
+    }
+  },
+  "metodoana|instagram|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S04_Quanto_Sobra_de_Verdade.mp4": {
+    "id": "METODOANA_S04_IG",
+    "canal": "metodoana",
+    "plataforma": "instagram",
+    "publish_at": "2026-07-28T20:00:00-03:00",
+    "postado_em_utc": "2026-07-28T23:58:09Z",
+    "resultado": {
+      "media_id": "18038042603635589",
+      "url": "https://www.instagram.com/reel/18038042603635589",
+      "comentario": "postado na hora"
+    }
+  },
+  "sacrarium|instagram|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S04_culpa_afasta_da_oracao.mp4": {
+    "id": "SACRARIUM_S04_IG",
+    "canal": "sacrarium",
+    "plataforma": "instagram",
+    "publish_at": "2026-07-28T20:00:00-03:00",
+    "postado_em_utc": "2026-07-29T00:00:49Z",
+    "resultado": {
+      "media_id": "18107918231007783",
+      "url": "https://www.instagram.com/reel/18107918231007783",
+      "comentario": "postado na hora"
+    }
   }
 }

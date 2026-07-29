@@ -376,13 +376,18 @@
       "plataforma": "instagram",
       "tipo": "reels",
       "publish_at": "2026-07-28T20:00:00-03:00",
-      "status": "pendente",
+      "status": "publicado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S04_Quanto_Sobra_de_Verdade.mp4",
       "caption": "Antes de qualquer prioridade de dívida, tem uma conta que quase ninguém faz.\n\nSoma tudo que desconta antes de você tocar no salário. Depois soma o que sai assim que cai na conta.\n\nO que sobra é o que você realmente tem pra viver — e o número costuma ser bem menor do que parece.",
       "first_comment": "Ensino o passo a passo dessa conta no ebook Mãe, Concursada e Endividada — link na bio.",
       "nota": "catch-up Insta fim de dia - YT/Face ja tem esse desde 18/07",
       "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/instagram/METODOANA_S04_IG_video_S04_Quanto_Sobra_de_Verdade.mp4",
-      "video_url_nuvem_remoto": "metodoana/instagram/METODOANA_S04_IG_video_S04_Quanto_Sobra_de_Verdade.mp4"
+      "video_url_nuvem_remoto": "metodoana/instagram/METODOANA_S04_IG_video_S04_Quanto_Sobra_de_Verdade.mp4",
+      "resultado": {
+        "media_id": "18038042603635589",
+        "url": "https://www.instagram.com/reel/18038042603635589",
+        "comentario": "postado na hora"
+      }
     },
     {
       "id": "SACRARIUM_S04_IG",
@@ -390,12 +395,17 @@
       "plataforma": "instagram",
       "tipo": "reels",
       "publish_at": "2026-07-28T20:00:00-03:00",
-      "status": "pendente",
+      "status": "publicado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S04_culpa_afasta_da_oracao.mp4",
       "caption": "Você sente que não merece rezar do jeito que está agora?\n\nIsso tem nome: falsa humildade. Até Santa Teresa de Ávila caiu nesse erro — abandonou a oração um ano inteiro por acreditar nisso.\n\nA culpa que te afasta de Deus não é humildade. É o oposto.",
       "first_comment": "O Sacrarium começa exatamente onde você está, sem culpa, sem cobrança. Link na bio.",
       "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/instagram/SACRARIUM_S04_IG_video_S04_culpa_afasta_da_oracao.mp4",
-      "video_url_nuvem_remoto": "sacrarium/instagram/SACRARIUM_S04_IG_video_S04_culpa_afasta_da_oracao.mp4"
+      "video_url_nuvem_remoto": "sacrarium/instagram/SACRARIUM_S04_IG_video_S04_culpa_afasta_da_oracao.mp4",
+      "resultado": {
+        "media_id": "18107918231007783",
+        "url": "https://www.instagram.com/reel/18107918231007783",
+        "comentario": "postado na hora"
+      }
     },
     {
       "id": "P4D_S02_YT",
@@ -444,12 +454,17 @@
       "plataforma": "instagram",
       "tipo": "reels",
       "publish_at": "2026-07-28T20:00:00-03:00",
-      "status": "pendente",
+      "status": "publicado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S02_P4D_minimo_cartao.mp4",
       "caption": "Pagar só o mínimo da fatura parece alívio.\n\nÉ o caminho mais lento e mais caro pra nunca sair da dívida — o resto vira rotativo, um dos juros mais caros que existe.\n\nPaga o total ou não usa o cartão até quitar.",
       "first_comment": "Calculadora da Liberdade grátis — link na bio.",
       "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/protocolo4d/instagram/P4D_S02_IG_video_S02_P4D_minimo_cartao.mp4",
-      "video_url_nuvem_remoto": "protocolo4d/instagram/P4D_S02_IG_video_S02_P4D_minimo_cartao.mp4"
+      "video_url_nuvem_remoto": "protocolo4d/instagram/P4D_S02_IG_video_S02_P4D_minimo_cartao.mp4",
+      "resultado": {
+        "media_id": "18116317922312002",
+        "url": "https://www.instagram.com/reel/18116317922312002",
+        "comentario": "postado na hora"
+      }
     },
     {
       "id": "SACRARIUM_S01_IG",
