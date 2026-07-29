@@ -1414,5 +1414,29 @@
       "url": "https://www.instagram.com/p/18335267281280055",
       "comentario": "postado na hora"
     }
+  },
+  "metodoana|instagram|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S06_Por_que_o_Saldo_Nao_Cai.mp4": {
+    "id": "METODOANA_S06_IG",
+    "canal": "metodoana",
+    "plataforma": "instagram",
+    "publish_at": "2026-07-29T20:00:00-03:00",
+    "postado_em_utc": "2026-07-29T23:02:28Z",
+    "resultado": {
+      "media_id": "18609455827005500",
+      "url": "https://www.instagram.com/reel/18609455827005500",
+      "comentario": "postado na hora"
+    }
+  },
+  "sacrarium|instagram|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S06_deus_parece_distante.mp4": {
+    "id": "SACRARIUM_S06_IG",
+    "canal": "sacrarium",
+    "plataforma": "instagram",
+    "publish_at": "2026-07-29T20:00:00-03:00",
+    "postado_em_utc": "2026-07-29T23:05:13Z",
+    "resultado": {
+      "media_id": "17976576488897886",
+      "url": "https://www.instagram.com/reel/17976576488897886",
+      "comentario": "postado na hora"
+    }
   }
 }

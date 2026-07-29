@@ -347,13 +347,18 @@
       "plataforma": "instagram",
       "tipo": "reels",
       "publish_at": "2026-07-29T20:00:00-03:00",
-      "status": "pendente",
+      "status": "publicado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S06_Por_que_o_Saldo_Nao_Cai.mp4",
       "caption": "Já pagou mais de dez parcelas e o saldo quase não caiu?\n\nNão é impressão. No Sistema Price, de 85% a 90% da parcela vira juro no começo do contrato — só uma fração pequena abate a dívida de verdade.",
       "first_comment": "A calculadora que mostra exatamente isso tá no link da bio.",
       "nota": "catch-up Insta fim de dia - YT/Face ja tem desde 21/07",
       "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/instagram/METODOANA_S06_IG_video_S06_Por_que_o_Saldo_Nao_Cai.mp4",
-      "video_url_nuvem_remoto": "metodoana/instagram/METODOANA_S06_IG_video_S06_Por_que_o_Saldo_Nao_Cai.mp4"
+      "video_url_nuvem_remoto": "metodoana/instagram/METODOANA_S06_IG_video_S06_Por_que_o_Saldo_Nao_Cai.mp4",
+      "resultado": {
+        "media_id": "18609455827005500",
+        "url": "https://www.instagram.com/reel/18609455827005500",
+        "comentario": "postado na hora"
+      }
     },
     {
       "id": "SACRARIUM_S06_IG",
@@ -361,13 +366,18 @@
       "plataforma": "instagram",
       "tipo": "reels",
       "publish_at": "2026-07-29T20:00:00-03:00",
-      "status": "pendente",
+      "status": "publicado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S06_deus_parece_distante.mp4",
       "caption": "A sensação de estar distante de Deus, sem resposta, sem consolo — São João da Cruz descreveu isso com precisão.\n\nEle não te afasta. É a fé sendo chamada a crescer além do sentimento.",
       "first_comment": "O Sacrarium acompanha as fases secas, não só as fáceis. Link na bio.",
       "nota": "catch-up Insta fim de dia",
       "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/instagram/SACRARIUM_S06_IG_video_S06_deus_parece_distante.mp4",
-      "video_url_nuvem_remoto": "sacrarium/instagram/SACRARIUM_S06_IG_video_S06_deus_parece_distante.mp4"
+      "video_url_nuvem_remoto": "sacrarium/instagram/SACRARIUM_S06_IG_video_S06_deus_parece_distante.mp4",
+      "resultado": {
+        "media_id": "17976576488897886",
+        "url": "https://www.instagram.com/reel/17976576488897886",
+        "comentario": "postado na hora"
+      }
     }
   ]
 }
