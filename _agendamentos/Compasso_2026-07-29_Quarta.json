@@ -185,12 +185,17 @@
       "plataforma": "instagram",
       "tipo": "reels",
       "publish_at": "2026-07-29T12:00:00-03:00",
-      "status": "pendente",
+      "status": "publicado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S03_P4D_nao_e_disciplina.mp4",
       "caption": "Você se esforça, corta gasto, tenta poupar — e o resultado nunca aparece?\n\nNão é falta de disciplina. É ordem errada.\n\nA sequência certa: diagnosticar, desativar, destruir, defender.",
       "first_comment": "Mapa completo com essa sequência — link na bio.",
       "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/protocolo4d/instagram/P4D_S03_IG_video_S03_P4D_nao_e_disciplina.mp4",
-      "video_url_nuvem_remoto": "protocolo4d/instagram/P4D_S03_IG_video_S03_P4D_nao_e_disciplina.mp4"
+      "video_url_nuvem_remoto": "protocolo4d/instagram/P4D_S03_IG_video_S03_P4D_nao_e_disciplina.mp4",
+      "resultado": {
+        "media_id": "17915880099223588",
+        "url": "https://www.instagram.com/reel/17915880099223588",
+        "comentario": "postado na hora"
+      }
     },
     {
       "id": "METODOANA_V03_YT",

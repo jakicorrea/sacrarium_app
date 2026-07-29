@@ -1366,5 +1366,17 @@
       "url": "https://www.instagram.com/reel/18062070164726513",
       "comentario": "postado na hora"
     }
+  },
+  "protocolo4d|instagram|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S03_P4D_nao_e_disciplina.mp4": {
+    "id": "P4D_S03_IG",
+    "canal": "protocolo4d",
+    "plataforma": "instagram",
+    "publish_at": "2026-07-29T12:00:00-03:00",
+    "postado_em_utc": "2026-07-29T15:03:14Z",
+    "resultado": {
+      "media_id": "17915880099223588",
+      "url": "https://www.instagram.com/reel/17915880099223588",
+      "comentario": "postado na hora"
+    }
   }
 }
