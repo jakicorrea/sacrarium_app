@@ -1342,5 +1342,29 @@
       "url": "https://www.instagram.com/reel/18107918231007783",
       "comentario": "postado na hora"
     }
+  },
+  "metodoana|instagram|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S05_Como_Fui_Acumulando_Consignados.mp4": {
+    "id": "METODOANA_S05_IG",
+    "canal": "metodoana",
+    "plataforma": "instagram",
+    "publish_at": "2026-07-29T09:30:00-03:00",
+    "postado_em_utc": "2026-07-29T12:33:14Z",
+    "resultado": {
+      "media_id": "18115103531476740",
+      "url": "https://www.instagram.com/reel/18115103531476740",
+      "comentario": "postado na hora"
+    }
+  },
+  "sacrarium|instagram|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S05_oracao_nao_precisa_ser_perfeita.mp4": {
+    "id": "SACRARIUM_S05_IG",
+    "canal": "sacrarium",
+    "plataforma": "instagram",
+    "publish_at": "2026-07-29T09:30:00-03:00",
+    "postado_em_utc": "2026-07-29T12:38:14Z",
+    "resultado": {
+      "media_id": "18062070164726513",
+      "url": "https://www.instagram.com/reel/18062070164726513",
+      "comentario": "postado na hora"
+    }
   }
 }

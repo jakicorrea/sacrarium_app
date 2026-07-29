@@ -23,13 +23,18 @@
       "plataforma": "instagram",
       "tipo": "reels",
       "publish_at": "2026-07-29T09:30:00-03:00",
-      "status": "pendente",
+      "status": "publicado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S05_Como_Fui_Acumulando_Consignados.mp4",
       "caption": "Não peguei seis consignados de uma vez.\n\nPeguei um. Depois outro, porque precisava. Depois mais um pra cobrir o que faltou.\n\nCada decisão isolada fazia sentido — só que juntas, comprometeram 30% do salário sem eu perceber.",
       "first_comment": "Organizei esse processo todo no ebook Mãe, Concursada e Endividada — link na bio.",
       "nota": "catch-up Insta manha - YT/Face ja tem desde 20/07",
       "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/instagram/METODOANA_S05_IG_video_S05_Como_Fui_Acumulando_Consignados.mp4",
-      "video_url_nuvem_remoto": "metodoana/instagram/METODOANA_S05_IG_video_S05_Como_Fui_Acumulando_Consignados.mp4"
+      "video_url_nuvem_remoto": "metodoana/instagram/METODOANA_S05_IG_video_S05_Como_Fui_Acumulando_Consignados.mp4",
+      "resultado": {
+        "media_id": "18115103531476740",
+        "url": "https://www.instagram.com/reel/18115103531476740",
+        "comentario": "postado na hora"
+      }
     },
     {
       "id": "SACRARIUM_S05_IG",
@@ -37,13 +42,18 @@
       "plataforma": "instagram",
       "tipo": "reels",
       "publish_at": "2026-07-29T09:30:00-03:00",
-      "status": "pendente",
+      "status": "publicado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S05_oracao_nao_precisa_ser_perfeita.mp4",
       "caption": "Reza, mas a mente dispersa, foge, viaja — e por isso acha que reza errado?\n\nSanta Teresa rezou 18 anos com a mente se dispersando. Nunca abandonou por causa disso.\n\nOração perfeita não é sem distração. É a que insiste em voltar.",
       "first_comment": "O Sacrarium foi pensado pra quem acha que reza errado por causa da distração. Link na bio.",
       "nota": "catch-up Insta manha",
       "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/instagram/SACRARIUM_S05_IG_video_S05_oracao_nao_precisa_ser_perfeita.mp4",
-      "video_url_nuvem_remoto": "sacrarium/instagram/SACRARIUM_S05_IG_video_S05_oracao_nao_precisa_ser_perfeita.mp4"
+      "video_url_nuvem_remoto": "sacrarium/instagram/SACRARIUM_S05_IG_video_S05_oracao_nao_precisa_ser_perfeita.mp4",
+      "resultado": {
+        "media_id": "18062070164726513",
+        "url": "https://www.instagram.com/reel/18062070164726513",
+        "comentario": "postado na hora"
+      }
     },
     {
       "id": "METODOANA_S09_YT",
