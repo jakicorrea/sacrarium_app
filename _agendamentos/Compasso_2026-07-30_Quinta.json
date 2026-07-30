@@ -202,13 +202,18 @@
       "plataforma": "instagram",
       "tipo": "reels",
       "publish_at": "2026-07-30T20:00:00-03:00",
-      "status": "pendente",
+      "status": "publicado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S08_Noventa_por_cento_da_Parcela_e_Juro.mp4",
       "caption": "Minha parcela era \"fixa\". A divisão dela por dentro, não.\n\nNo início do contrato, até 90% viravam juro puro. Só nos últimos anos a amortização de verdade aparece.\n\nFoi entendendo isso que criei o Método ANA.",
       "first_comment": "O cálculo completo tá no ebook — link na bio.",
       "nota": "catch-up Insta fim de dia - YT/Face ja tem desde 28/07",
       "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/instagram/METODOANA_S08_IG_video_S08_Noventa_por_cento_da_Parcela_e_Juro.mp4",
-      "video_url_nuvem_remoto": "metodoana/instagram/METODOANA_S08_IG_video_S08_Noventa_por_cento_da_Parcela_e_Juro.mp4"
+      "video_url_nuvem_remoto": "metodoana/instagram/METODOANA_S08_IG_video_S08_Noventa_por_cento_da_Parcela_e_Juro.mp4",
+      "resultado": {
+        "media_id": "18116634955906695",
+        "url": "https://www.instagram.com/reel/18116634955906695",
+        "comentario": "postado na hora"
+      }
     },
     {
       "id": "SACRARIUM_S08_IG",
@@ -216,13 +221,18 @@
       "plataforma": "instagram",
       "tipo": "reels",
       "publish_at": "2026-07-30T20:00:00-03:00",
-      "status": "pendente",
+      "status": "publicado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S08_o_que_e_o_sacrarium.mp4",
       "caption": "230 dias. 8 fases. Não é lista de orações prontas.\n\nÉ formação espiritual construída sobre Teresa de Ávila, João da Cruz, Inácio de Loyola — do iniciante ao contemplativo.",
       "first_comment": "A primeira fase, 21 dias, é gratuita. Link na bio.",
       "nota": "catch-up Insta fim de dia - YT/Face ja tem desde 28/07",
       "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/instagram/SACRARIUM_S08_IG_video_S08_o_que_e_o_sacrarium.mp4",
-      "video_url_nuvem_remoto": "sacrarium/instagram/SACRARIUM_S08_IG_video_S08_o_que_e_o_sacrarium.mp4"
+      "video_url_nuvem_remoto": "sacrarium/instagram/SACRARIUM_S08_IG_video_S08_o_que_e_o_sacrarium.mp4",
+      "resultado": {
+        "media_id": "17898066711556706",
+        "url": "https://www.instagram.com/reel/17898066711556706",
+        "comentario": "postado na hora"
+      }
     }
   ]
 }

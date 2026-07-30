@@ -1474,5 +1474,29 @@
       "url": "https://www.instagram.com/reel/17864230701644867",
       "comentario": "postado na hora"
     }
+  },
+  "metodoana|instagram|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S08_Noventa_por_cento_da_Parcela_e_Juro.mp4": {
+    "id": "METODOANA_S08_IG",
+    "canal": "metodoana",
+    "plataforma": "instagram",
+    "publish_at": "2026-07-30T20:00:00-03:00",
+    "postado_em_utc": "2026-07-30T23:03:35Z",
+    "resultado": {
+      "media_id": "18116634955906695",
+      "url": "https://www.instagram.com/reel/18116634955906695",
+      "comentario": "postado na hora"
+    }
+  },
+  "sacrarium|instagram|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S08_o_que_e_o_sacrarium.mp4": {
+    "id": "SACRARIUM_S08_IG",
+    "canal": "sacrarium",
+    "plataforma": "instagram",
+    "publish_at": "2026-07-30T20:00:00-03:00",
+    "postado_em_utc": "2026-07-30T23:06:53Z",
+    "resultado": {
+      "media_id": "17898066711556706",
+      "url": "https://www.instagram.com/reel/17898066711556706",
+      "comentario": "postado na hora"
+    }
   }
 }
