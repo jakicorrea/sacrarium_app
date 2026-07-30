@@ -1462,5 +1462,17 @@
       "url": "https://www.instagram.com/reel/18030232271836891",
       "comentario": "postado na hora"
     }
+  },
+  "protocolo4d|instagram|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S04_P4D_extrato_que_nao_abre.mp4": {
+    "id": "P4D_S04_IG",
+    "canal": "protocolo4d",
+    "plataforma": "instagram",
+    "publish_at": "2026-07-30T12:00:00-03:00",
+    "postado_em_utc": "2026-07-30T15:02:54Z",
+    "resultado": {
+      "media_id": "17864230701644867",
+      "url": "https://www.instagram.com/reel/17864230701644867",
+      "comentario": "postado na hora"
+    }
   }
 }

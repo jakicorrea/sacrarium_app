@@ -184,12 +184,17 @@
       "plataforma": "instagram",
       "tipo": "reels",
       "publish_at": "2026-07-30T12:00:00-03:00",
-      "status": "pendente",
+      "status": "publicado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S04_P4D_extrato_que_nao_abre.mp4",
       "caption": "Evitar o extrato não resolve. Cria problema maior.\n\nCada semana sem ver o número real é juro composto trabalhando contra você no escuro.\n\nO primeiro ato não é cortar gasto. É abrir o extrato.",
       "first_comment": "Planilha gratuita do diagnóstico — link na bio.",
       "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/protocolo4d/instagram/P4D_S04_IG_video_S04_P4D_extrato_que_nao_abre.mp4",
-      "video_url_nuvem_remoto": "protocolo4d/instagram/P4D_S04_IG_video_S04_P4D_extrato_que_nao_abre.mp4"
+      "video_url_nuvem_remoto": "protocolo4d/instagram/P4D_S04_IG_video_S04_P4D_extrato_que_nao_abre.mp4",
+      "resultado": {
+        "media_id": "17864230701644867",
+        "url": "https://www.instagram.com/reel/17864230701644867",
+        "comentario": "postado na hora"
+      }
     },
     {
       "id": "METODOANA_S08_IG",
