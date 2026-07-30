@@ -1438,5 +1438,29 @@
       "url": "https://www.instagram.com/reel/17976576488897886",
       "comentario": "postado na hora"
     }
+  },
+  "metodoana|instagram|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S07_Decimo_Terceiro_e_o_Cheque_Especial.mp4": {
+    "id": "METODOANA_S07_IG",
+    "canal": "metodoana",
+    "plataforma": "instagram",
+    "publish_at": "2026-07-30T09:30:00-03:00",
+    "postado_em_utc": "2026-07-30T12:32:48Z",
+    "resultado": {
+      "media_id": "18413009461147553",
+      "url": "https://www.instagram.com/reel/18413009461147553",
+      "comentario": "postado na hora"
+    }
+  },
+  "sacrarium|instagram|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S07_oracao_seca.mp4": {
+    "id": "SACRARIUM_S07_IG",
+    "canal": "sacrarium",
+    "plataforma": "instagram",
+    "publish_at": "2026-07-30T09:30:00-03:00",
+    "postado_em_utc": "2026-07-30T12:35:53Z",
+    "resultado": {
+      "media_id": "18030232271836891",
+      "url": "https://www.instagram.com/reel/18030232271836891",
+      "comentario": "postado na hora"
+    }
   }
 }

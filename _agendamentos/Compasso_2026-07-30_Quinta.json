@@ -7,13 +7,18 @@
       "plataforma": "instagram",
       "tipo": "reels",
       "publish_at": "2026-07-30T09:30:00-03:00",
-      "status": "pendente",
+      "status": "publicado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S07_Decimo_Terceiro_e_o_Cheque_Especial.mp4",
       "caption": "Uso o limite todo ano. Quem paga a conta em dezembro é sempre o décimo terceiro.\n\nCheque especial cobra de 10% a 15% ao mês — o rombo cresce o ano inteiro até engolir o décimo inteiro.\n\nPor isso ele é a primeira dívida que neutralizo, antes de qualquer consignado.",
       "first_comment": "Expliquei essa ordem completa no ebook Mãe, Concursada e Endividada — link na bio.",
       "nota": "catch-up Insta manha - YT/Face ja tem desde 23/07",
       "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/instagram/METODOANA_S07_IG_video_S07_Decimo_Terceiro_e_o_Cheque_Especial.mp4",
-      "video_url_nuvem_remoto": "metodoana/instagram/METODOANA_S07_IG_video_S07_Decimo_Terceiro_e_o_Cheque_Especial.mp4"
+      "video_url_nuvem_remoto": "metodoana/instagram/METODOANA_S07_IG_video_S07_Decimo_Terceiro_e_o_Cheque_Especial.mp4",
+      "resultado": {
+        "media_id": "18413009461147553",
+        "url": "https://www.instagram.com/reel/18413009461147553",
+        "comentario": "postado na hora"
+      }
     },
     {
       "id": "SACRARIUM_S07_IG",
@@ -21,13 +26,18 @@
       "plataforma": "instagram",
       "tipo": "reels",
       "publish_at": "2026-07-30T09:30:00-03:00",
-      "status": "pendente",
+      "status": "publicado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S07_oracao_seca.mp4",
       "caption": "A oração que antes tinha gosto pode, num momento, ficar seca e sem resposta.\n\nSão João da Cruz usava a imagem da criança desmamada: o leite não é tirado pra punir, é tirado pra que ela cresça.",
       "first_comment": "Foi pra acompanhar esses períodos secos que nasceu o Sacrarium. Link na bio.",
       "nota": "catch-up Insta manha",
       "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/instagram/SACRARIUM_S07_IG_video_S07_oracao_seca.mp4",
-      "video_url_nuvem_remoto": "sacrarium/instagram/SACRARIUM_S07_IG_video_S07_oracao_seca.mp4"
+      "video_url_nuvem_remoto": "sacrarium/instagram/SACRARIUM_S07_IG_video_S07_oracao_seca.mp4",
+      "resultado": {
+        "media_id": "18030232271836891",
+        "url": "https://www.instagram.com/reel/18030232271836891",
+        "comentario": "postado na hora"
+      }
     },
     {
       "id": "METODOANA_S10_YT",
