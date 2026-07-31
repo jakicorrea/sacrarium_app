@@ -25,13 +25,18 @@
       "plataforma": "instagram",
       "tipo": "reels",
       "publish_at": "2026-07-31T09:30:00-03:00",
-      "status": "pendente",
+      "status": "publicado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S09_Paguei_6_Mil_e_Devia_Mais.mp4",
       "caption": "Paguei quase R$6 mil de um consignado de R$10 mil.\n\nPedi a simulação de quitação: ainda devia R$10.306.\n\nMais do que peguei emprestado, mesmo pagando direitinho por dois anos e meio.",
       "first_comment": "A calculadora que faz essa conta em segundos tá na bio.",
       "nota": "catch-up Insta manha - YT/Face ja tem desde 29/07",
       "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/instagram/METODOANA_S09_IG_video_S09_Paguei_6_Mil_e_Devia_Mais.mp4",
-      "video_url_nuvem_remoto": "metodoana/instagram/METODOANA_S09_IG_video_S09_Paguei_6_Mil_e_Devia_Mais.mp4"
+      "video_url_nuvem_remoto": "metodoana/instagram/METODOANA_S09_IG_video_S09_Paguei_6_Mil_e_Devia_Mais.mp4",
+      "resultado": {
+        "media_id": "18060185273759967",
+        "url": "https://www.instagram.com/reel/18060185273759967",
+        "comentario": "postado na hora"
+      }
     },
     {
       "id": "SACRARIUM_S09_IG",
@@ -39,13 +44,18 @@
       "plataforma": "instagram",
       "tipo": "reels",
       "publish_at": "2026-07-31T09:30:00-03:00",
-      "status": "pendente",
+      "status": "publicado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S09_jardim_secreto_de_deus.mp4",
       "caption": "Você vive correndo por fora de si mesmo?\n\nSanta Teresa descrevia a alma como um jardim interior — existe, mas a maioria nunca entra nele.",
       "first_comment": "O Sacrarium nasceu dessa imagem, pra te ajudar a cultivar esse jardim. Link na bio.",
       "nota": "catch-up Insta manha - YT/Face ja tem desde 29/07",
       "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/instagram/SACRARIUM_S09_IG_video_S09_jardim_secreto_de_deus.mp4",
-      "video_url_nuvem_remoto": "sacrarium/instagram/SACRARIUM_S09_IG_video_S09_jardim_secreto_de_deus.mp4"
+      "video_url_nuvem_remoto": "sacrarium/instagram/SACRARIUM_S09_IG_video_S09_jardim_secreto_de_deus.mp4",
+      "resultado": {
+        "media_id": "18116632417714258",
+        "url": "https://www.instagram.com/reel/18116632417714258",
+        "comentario": "postado na hora"
+      }
     },
     {
       "id": "METODOANA_S11_YT",

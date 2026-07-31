@@ -1498,5 +1498,29 @@
       "url": "https://www.instagram.com/reel/17898066711556706",
       "comentario": "postado na hora"
     }
+  },
+  "metodoana|instagram|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S09_Paguei_6_Mil_e_Devia_Mais.mp4": {
+    "id": "METODOANA_S09_IG",
+    "canal": "metodoana",
+    "plataforma": "instagram",
+    "publish_at": "2026-07-31T09:30:00-03:00",
+    "postado_em_utc": "2026-07-31T12:33:31Z",
+    "resultado": {
+      "media_id": "18060185273759967",
+      "url": "https://www.instagram.com/reel/18060185273759967",
+      "comentario": "postado na hora"
+    }
+  },
+  "sacrarium|instagram|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S09_jardim_secreto_de_deus.mp4": {
+    "id": "SACRARIUM_S09_IG",
+    "canal": "sacrarium",
+    "plataforma": "instagram",
+    "publish_at": "2026-07-31T09:30:00-03:00",
+    "postado_em_utc": "2026-07-31T12:37:16Z",
+    "resultado": {
+      "media_id": "18116632417714258",
+      "url": "https://www.instagram.com/reel/18116632417714258",
+      "comentario": "postado na hora"
+    }
   }
 }
