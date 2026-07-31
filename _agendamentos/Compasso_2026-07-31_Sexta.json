@@ -340,13 +340,18 @@
       "plataforma": "instagram",
       "tipo": "reels",
       "publish_at": "2026-07-31T20:00:00-03:00",
-      "status": "pendente",
+      "status": "publicado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S10_IOF_e_Seguro_Embutido.mp4",
       "caption": "Peguei R$10 mil emprestado. O contrato já registrava mais de R$10.500 de saldo devedor — desde o primeiro dia.\n\nIOF e seguro embutido entram antes da primeira parcela, e ninguém te avisa.",
       "first_comment": "O passo a passo pra descobrir o valor real do seu contrato tá na bio.",
       "nota": "catch-up Insta fim de dia - YT/Face ja tem desde 30/07",
       "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/instagram/METODOANA_S10_IG_video_S10_IOF_e_Seguro_Embutido.mp4",
-      "video_url_nuvem_remoto": "metodoana/instagram/METODOANA_S10_IG_video_S10_IOF_e_Seguro_Embutido.mp4"
+      "video_url_nuvem_remoto": "metodoana/instagram/METODOANA_S10_IG_video_S10_IOF_e_Seguro_Embutido.mp4",
+      "resultado": {
+        "media_id": "18139120930571639",
+        "url": "https://www.instagram.com/reel/18139120930571639",
+        "comentario": "postado na hora"
+      }
     },
     {
       "id": "SACRARIUM_S10_IG",
@@ -354,13 +359,18 @@
       "plataforma": "instagram",
       "tipo": "reels",
       "publish_at": "2026-07-31T20:00:00-03:00",
-      "status": "pendente",
+      "status": "publicado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S10_por_que_o_nome_sacrarium.mp4",
       "caption": "Sacrarium vem do latim: lugar sagrado, santuário.\n\nÉ a mesma imagem do Castelo Interior de Santa Teresa — a alma como castelo com muitas moradas, e ele não fica no céu. Fica em você.",
       "first_comment": "Se quiser conhecer esse caminho, link na bio.",
       "nota": "catch-up Insta fim de dia - YT/Face ja tem desde 30/07",
       "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/instagram/SACRARIUM_S10_IG_video_S10_por_que_o_nome_sacrarium.mp4",
-      "video_url_nuvem_remoto": "sacrarium/instagram/SACRARIUM_S10_IG_video_S10_por_que_o_nome_sacrarium.mp4"
+      "video_url_nuvem_remoto": "sacrarium/instagram/SACRARIUM_S10_IG_video_S10_por_que_o_nome_sacrarium.mp4",
+      "resultado": {
+        "media_id": "17909309070449731",
+        "url": "https://www.instagram.com/reel/17909309070449731",
+        "comentario": "postado na hora"
+      }
     }
   ]
 }

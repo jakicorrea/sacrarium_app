@@ -1570,5 +1570,29 @@
       "url": "https://www.instagram.com/p/17987912298031972",
       "comentario": "postado na hora"
     }
+  },
+  "metodoana|instagram|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S10_IOF_e_Seguro_Embutido.mp4": {
+    "id": "METODOANA_S10_IG",
+    "canal": "metodoana",
+    "plataforma": "instagram",
+    "publish_at": "2026-07-31T20:00:00-03:00",
+    "postado_em_utc": "2026-07-31T23:03:19Z",
+    "resultado": {
+      "media_id": "18139120930571639",
+      "url": "https://www.instagram.com/reel/18139120930571639",
+      "comentario": "postado na hora"
+    }
+  },
+  "sacrarium|instagram|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S10_por_que_o_nome_sacrarium.mp4": {
+    "id": "SACRARIUM_S10_IG",
+    "canal": "sacrarium",
+    "plataforma": "instagram",
+    "publish_at": "2026-07-31T20:00:00-03:00",
+    "postado_em_utc": "2026-07-31T23:05:40Z",
+    "resultado": {
+      "media_id": "17909309070449731",
+      "url": "https://www.instagram.com/reel/17909309070449731",
+      "comentario": "postado na hora"
+    }
   }
 }
