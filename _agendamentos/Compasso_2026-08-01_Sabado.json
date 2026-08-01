@@ -25,13 +25,18 @@
       "plataforma": "instagram",
       "tipo": "reels",
       "publish_at": "2026-08-01T09:30:00-03:00",
-      "status": "pendente",
+      "status": "publicado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S11_Perigo_do_Cartao_Rotativo.mp4",
       "caption": "Mil reais no rotativo do cartão podem virar três mil em doze meses — mesmo sem você gastar mais nada.\n\nNo método que uso, o rotativo é a primeira dívida a sair. Antes de qualquer consignado.",
       "first_comment": "Ebook completo com essa prioridade — link na bio.",
       "nota": "catch-up Insta manha - YT/Face ja tem desde 31/07",
       "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/instagram/METODOANA_S11_IG_video_S11_Perigo_do_Cartao_Rotativo.mp4",
-      "video_url_nuvem_remoto": "metodoana/instagram/METODOANA_S11_IG_video_S11_Perigo_do_Cartao_Rotativo.mp4"
+      "video_url_nuvem_remoto": "metodoana/instagram/METODOANA_S11_IG_video_S11_Perigo_do_Cartao_Rotativo.mp4",
+      "resultado": {
+        "media_id": "17941179168069047",
+        "url": "https://www.instagram.com/reel/17941179168069047",
+        "comentario": "postado na hora"
+      }
     },
     {
       "id": "SACRARIUM_S11_IG",
@@ -39,13 +44,18 @@
       "plataforma": "instagram",
       "tipo": "reels",
       "publish_at": "2026-08-01T09:30:00-03:00",
-      "status": "pendente",
+      "status": "publicado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S11_deus_mora_em_voce.mp4",
       "caption": "\"Não sabeis que sois templo de Deus?\" — São Paulo escreveu isso.\n\nVocê não precisa gritar pra um Deus distante. Ele já habita o silêncio dentro de você.",
       "first_comment": "O Sacrarium existe pra te ajudar a redescobrir essa presença. Link na bio.",
       "nota": "catch-up Insta manha - YT/Face ja tem desde 31/07",
       "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/instagram/SACRARIUM_S11_IG_video_S11_deus_mora_em_voce.mp4",
-      "video_url_nuvem_remoto": "sacrarium/instagram/SACRARIUM_S11_IG_video_S11_deus_mora_em_voce.mp4"
+      "video_url_nuvem_remoto": "sacrarium/instagram/SACRARIUM_S11_IG_video_S11_deus_mora_em_voce.mp4",
+      "resultado": {
+        "media_id": "18104461013177719",
+        "url": "https://www.instagram.com/reel/18104461013177719",
+        "comentario": "postado na hora"
+      }
     },
     {
       "id": "METODOANA_S12_YT",

@@ -1594,5 +1594,29 @@
       "url": "https://www.instagram.com/reel/17909309070449731",
       "comentario": "postado na hora"
     }
+  },
+  "metodoana|instagram|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S11_Perigo_do_Cartao_Rotativo.mp4": {
+    "id": "METODOANA_S11_IG",
+    "canal": "metodoana",
+    "plataforma": "instagram",
+    "publish_at": "2026-08-01T09:30:00-03:00",
+    "postado_em_utc": "2026-08-01T12:32:50Z",
+    "resultado": {
+      "media_id": "17941179168069047",
+      "url": "https://www.instagram.com/reel/17941179168069047",
+      "comentario": "postado na hora"
+    }
+  },
+  "sacrarium|instagram|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S11_deus_mora_em_voce.mp4": {
+    "id": "SACRARIUM_S11_IG",
+    "canal": "sacrarium",
+    "plataforma": "instagram",
+    "publish_at": "2026-08-01T09:30:00-03:00",
+    "postado_em_utc": "2026-08-01T12:36:34Z",
+    "resultado": {
+      "media_id": "18104461013177719",
+      "url": "https://www.instagram.com/reel/18104461013177719",
+      "comentario": "postado na hora"
+    }
   }
 }
