@@ -881,6 +881,54 @@ def _save_historico(historico):
     HISTORICO_PATH.write_text(json.dumps(historico, ensure_ascii=False, indent=2), encoding="utf-8")
 
 
+# --------------------------------------------------------------------------
+# commit incremental pro git (BUG CORRIGIDO 2026-08-01 — duplicacao de posts
+# no Instagram): antes disso, o commit+push do status/historico so acontecia
+# UMA VEZ no final do workflow inteiro ("Salvar de volta o status atualizado
+# dos jobs" no postar.yml). Se esse push falhasse por qualquer motivo (ex:
+# non-fast-forward por outro commit concorrente no mesmo repo — confirmado
+# ao vivo: runs com "conclusion": "failure" as 18:00:10Z e 12:30:08Z de
+# 01/08/2026, exatamente nos horarios que geraram posts duplicados no
+# Instagram ~4-7min depois, no proximo ciclo do cron de 15min), a publicacao
+# real ja tinha acontecido mas o registro nunca chegava no GitHub — entao o
+# proximo ciclo via o job ainda "pendente" e postava de novo.
+# Correcao: comitar+empurrar logo apos CADA publicacao de Instagram bem
+# sucedida (nao so no final do lote inteiro), com retry via pull --rebase se
+# o push for rejeitado por non-fast-forward. So faz sentido/roda dentro de um
+# repositorio git com remote configurado (a nuvem) — no PC local da Jaqueline
+# (sem remote relevante pra isso) falha silenciosamente e segue o fluxo
+# normal, sem quebrar nada.
+def _git_disponivel():
+    return (Path(__file__).parent / ".git").exists()
+
+
+def _git_commit_push_incremental(mensagem):
+    if not _git_disponivel():
+        return
+    raiz = str(Path(__file__).parent)
+    try:
+        subprocess.run(["git", "add", "_agendamentos", "_historico", "_pendentes"],
+                        cwd=raiz, check=True, capture_output=True, timeout=30)
+        diff = subprocess.run(["git", "diff", "--cached", "--quiet"], cwd=raiz, capture_output=True)
+        if diff.returncode == 0:
+            return  # nada mudou, nao ha o que comitar
+        subprocess.run(["git", "commit", "-m", mensagem], cwd=raiz, check=True,
+                        capture_output=True, timeout=30)
+        for tentativa in range(3):
+            push = subprocess.run(["git", "push"], cwd=raiz, capture_output=True, timeout=60)
+            if push.returncode == 0:
+                return
+            print(f"  [aviso] git push rejeitado (tentativa {tentativa + 1}/3), "
+                  f"tentando 'pull --rebase' e reenviando...")
+            subprocess.run(["git", "pull", "--rebase"], cwd=raiz, capture_output=True, timeout=60)
+        print("  [aviso] nao conseguiu empurrar o commit incremental pro GitHub apos 3 tentativas "
+              "— o registro fica salvo local, mas se essa execucao terminar sem sucesso o proximo "
+              "ciclo pode nao ver esse post e arriscar repostar. Rodar 'git push' manualmente assim "
+              "que possivel.")
+    except Exception as e:
+        print(f"  [aviso] commit incremental pro git falhou ({e}) — seguindo sem interromper o lote.")
+
+
 def _dia(publish_at):
     """Data (fuso BRT) do publish_at — usada so pra AGRUPAR e ORDENAR jobs
     por dia (dia 13 inteiro, todos os canais, antes do dia 14, etc). NAO
@@ -1206,6 +1254,11 @@ def processar_lotes(caminhos, delay_min, delay_max, so_plataformas=None):
             if d != dia_atual:
                 dia_atual = d
                 print(f"\n--- dia {d.isoformat()} ---")
+            if _chave_historico(job) in _load_historico():
+                print(f"  [pulado] mesma midia ja publicada por outro job deste lote — {_chave_historico(job)}")
+                job["status"] = "pulado: ja publicado (duplicata dentro deste lote)"
+                salvar(jp)
+                continue
             _processar_job(job)
             salvar(jp)
             # So espera se a PROXIMA chamada repete o MESMO TOKEN (mesma
@@ -1228,8 +1281,27 @@ def processar_lotes(caminhos, delay_min, delay_max, so_plataformas=None):
             if not chegou_a_hora:
                 pulados_por_hora += 1
                 continue
+            # Puxa o estado mais recente do git ANTES de checar o historico —
+            # evita agir em cima de um "pendente" desatualizado se outro
+            # commit (de outra execucao, ou manual) tiver chegado nesse meio
+            # tempo (ver nota completa em _git_commit_push_incremental).
+            if _git_disponivel():
+                subprocess.run(["git", "pull", "--rebase"], cwd=str(Path(__file__).parent),
+                                capture_output=True, timeout=60)
+            if _chave_historico(job) in _load_historico():
+                print(f"  [pulado] mesma midia ja publicada por outro job deste lote — {_chave_historico(job)}")
+                job["status"] = "pulado: ja publicado (duplicata dentro deste lote)"
+                salvar(jp)
+                _git_commit_push_incremental(f"auto: {job.get('id', '?')} pulado (ja publicado)")
+                continue
             _processar_job(job)
             salvar(jp)
+            # Comita+empurra JA, logo apos essa publicacao individual —
+            # nao espera o lote inteiro terminar (ver nota completa acima da
+            # funcao _git_commit_push_incremental: e essa demora que causava
+            # posts duplicados no Instagram quando o commit unico do final
+            # falhava).
+            _git_commit_push_incremental(f"auto: {job.get('id', '?')} publicado no Instagram")
             proximo = espera[i + 1][0] if i < len(espera) - 1 else None
             if proximo and proximo["canal"] == job["canal"]:
                 _esperar_delay(delay_min, delay_max)

@@ -49,6 +49,12 @@ jobs:
           echo "$INSTAGRAM_FORJANDOTITAS" > /tmp/tokens/instagram_forjandotitas.txt
           echo "$SUPABASE_TXT" > /tmp/tokens/supabase.txt
 
+      - name: Configurar git (necessario ANTES do script — commits agora acontecem
+          durante a execucao, um por post, nao so no final)
+        run: |
+          git config user.name "postador-bot"
+          git config user.email "postador-bot@users.noreply.github.com"
+
       - name: Manter o Supabase ativo (evita pausa automatica por inatividade)
         env:
           SUPABASE_TXT: ${{ secrets.SUPABASE_TXT }}
