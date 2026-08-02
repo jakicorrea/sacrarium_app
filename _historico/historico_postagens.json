@@ -1654,5 +1654,17 @@
       "url": "https://www.instagram.com/p/18061689728771110",
       "comentario": "postado na hora"
     }
+  },
+  "protocolo4d|instagram|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S07_P4D_custo_fixo_invisivel.mp4": {
+    "id": "P4D_S07_IG",
+    "canal": "protocolo4d",
+    "plataforma": "instagram",
+    "publish_at": "2026-08-01T20:30:00-03:00",
+    "postado_em_utc": "2026-08-02T00:06:14Z",
+    "resultado": {
+      "media_id": "18317934973263308",
+      "url": "https://www.instagram.com/reel/18317934973263308",
+      "comentario": "postado na hora"
+    }
   }
 }

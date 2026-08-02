@@ -379,12 +379,17 @@
       "plataforma": "instagram",
       "tipo": "reels",
       "publish_at": "2026-08-01T20:30:00-03:00",
-      "status": "pendente",
+      "status": "publicado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S07_P4D_custo_fixo_invisivel.mp4",
       "caption": "Tem cobrança rodando na sua conta que você nem lembra ter contratado. 👇\n\nAssinatura esquecida, seguro adicionado sozinho, plano maior do que você usa. Uma hora revisando o extrato libera margem real pro ataque à dívida.",
       "first_comment": "Ebook das dez Armadilhas Bancárias, gratuito — link na bio.",
       "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/protocolo4d/instagram/P4D_S07_IG_video_S07_P4D_custo_fixo_invisivel.mp4",
-      "video_url_nuvem_remoto": "protocolo4d/instagram/P4D_S07_IG_video_S07_P4D_custo_fixo_invisivel.mp4"
+      "video_url_nuvem_remoto": "protocolo4d/instagram/P4D_S07_IG_video_S07_P4D_custo_fixo_invisivel.mp4",
+      "resultado": {
+        "media_id": "18317934973263308",
+        "url": "https://www.instagram.com/reel/18317934973263308",
+        "comentario": "postado na hora"
+      }
     },
     {
       "id": "METODOANA_V04_YT",
