@@ -1666,5 +1666,17 @@
       "url": "https://www.instagram.com/reel/18317934973263308",
       "comentario": "postado na hora"
     }
+  },
+  "protocolo4d|instagram|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S08_P4D_parcelamento_nao_e_de_graca.mp4": {
+    "id": "TESTE_P4D_S08_IG",
+    "canal": "protocolo4d",
+    "plataforma": "instagram",
+    "publish_at": "2026-08-01T21:20:00-03:00",
+    "postado_em_utc": "2026-08-02T00:23:31Z",
+    "resultado": {
+      "media_id": "17950814352210270",
+      "url": "https://www.instagram.com/reel/17950814352210270",
+      "comentario": "postado na hora"
+    }
   }
 }

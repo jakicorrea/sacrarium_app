@@ -7,13 +7,18 @@
       "plataforma": "instagram",
       "tipo": "reels",
       "publish_at": "2026-08-01T21:20:00-03:00",
-      "status": "pendente",
+      "status": "publicado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S08_P4D_parcelamento_nao_e_de_graca.mp4",
       "caption": "Parcelamento sem juros parece grátis. Mas o custo real não aparece na parcela — aparece no comprometimento da sua renda dos próximos meses. 👇\n\nDez dívidas pequenas chegando juntas todo mês pesam igual uma dívida grande.",
       "first_comment": "Planilha do Protocolo 4D, gratuita — link na bio.",
       "nota": "TESTE da correcao de duplicacao no Instagram (2026-08-01) - esse job vai rodar na nuvem via GitHub Actions (--so-instagram). Objetivo: confirmar que so posta 1x. Video oficial de verdade (YT/FB) vai ao ar segunda-feira - NAO rodar esse job em nenhum outro lugar alem do Instagram de teste. Apagar depois do teste.",
       "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/protocolo4d/instagram/TESTE_P4D_S08_IG_video_S08_P4D_parcelamento_nao_e_de_graca.mp4",
-      "video_url_nuvem_remoto": "protocolo4d/instagram/TESTE_P4D_S08_IG_video_S08_P4D_parcelamento_nao_e_de_graca.mp4"
+      "video_url_nuvem_remoto": "protocolo4d/instagram/TESTE_P4D_S08_IG_video_S08_P4D_parcelamento_nao_e_de_graca.mp4",
+      "resultado": {
+        "media_id": "17950814352210270",
+        "url": "https://www.instagram.com/reel/17950814352210270",
+        "comentario": "postado na hora"
+      }
     }
   ]
 }
