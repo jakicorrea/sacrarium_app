@@ -1,33 +1,6 @@
 {
-  "lote": "TESTE 2026-08-01 - validar correcao de duplicacao no Instagram (P4D S08) - APAGAR DEPOIS DO TESTE",
+  "lote": "TESTE 2026-08-01 - validar correcao de duplicacao no Instagram (P4D S08) - SO INSTAGRAM, YT/FB NAO (video oficial vai ao ar segunda) - APAGAR DEPOIS DO TESTE",
   "jobs": [
-    {
-      "id": "TESTE_P4D_S08_YT",
-      "canal": "protocolo4d",
-      "plataforma": "youtube",
-      "tipo": "reels",
-      "publish_at": "2026-08-01T21:10:00-03:00",
-      "status": "pendente",
-      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S08_P4D_parcelamento_nao_e_de_graca.mp4",
-      "title": "Parcelamento Sem Juros Não É de Graça",
-      "description": "Parcelamento sem juros parece grátis. Mas o custo real não aparece na parcela — aparece no comprometimento da sua renda dos próximos meses, antes mesmo dela cair na conta.\n\nNeste short, eu explico por que quem parcela muito sem critério não tem uma dívida grande: tem dez dívidas pequenas chegando todas juntas todo mês. E mostro a regra simples pra saber quando parcelar faz sentido e quando é só dívida futura com outro nome.\n\nConteúdo direto, pensado pra homem que sente que o salário nunca sobra, mesmo pagando tudo em dia, e não entende por que o mês sempre fecha apertado.\n\nSe você tem várias compras parceladas rodando ao mesmo tempo e nunca somou quanto isso já compromete da sua renda, esse vídeo é pra você.\n\nAssista ao vídeo completo sobre esse tema no Canal Forjando Titãs: https://youtu.be/qzIwpKb3VEg",
-      "tags": ["educação financeira masculina", "como sair das dívidas", "finanças para homens", "Protocolo 4D", "parcelamento"],
-      "category_id": 27,
-      "pinned_comment": "Quer saber quanto da sua renda já está comprometida com parcelamento antes do mês nem começar? Deixei aqui embaixo a Planilha do Protocolo 4D, gratuita: https://protocolo-4d.netlify.app/lp-planilha",
-      "nota": "TESTE da correcao de duplicacao (2026-08-01) - Jaqueline pediu pra postar e depois apagar."
-    },
-    {
-      "id": "TESTE_P4D_S08_FB",
-      "canal": "protocolo4d",
-      "plataforma": "facebook",
-      "tipo": "reels",
-      "publish_at": "2026-08-01T21:15:00-03:00",
-      "status": "pendente",
-      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S08_P4D_parcelamento_nao_e_de_graca.mp4",
-      "caption": "Parcelamento sem juros parece grátis. Mas o custo real não aparece na parcela — aparece no comprometimento da sua renda dos próximos meses.\n\nDez dívidas pequenas chegando juntas todo mês pesam igual uma dívida grande.",
-      "first_comment": "Planilha do Protocolo 4D, gratuita — link no site da nossa página.",
-      "nota": "TESTE da correcao de duplicacao (2026-08-01) - apagar depois."
-    },
     {
       "id": "TESTE_P4D_S08_IG",
       "canal": "protocolo4d",
@@ -38,7 +11,9 @@
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S08_P4D_parcelamento_nao_e_de_graca.mp4",
       "caption": "Parcelamento sem juros parece grátis. Mas o custo real não aparece na parcela — aparece no comprometimento da sua renda dos próximos meses. 👇\n\nDez dívidas pequenas chegando juntas todo mês pesam igual uma dívida grande.",
       "first_comment": "Planilha do Protocolo 4D, gratuita — link na bio.",
-      "nota": "TESTE da correcao de duplicacao no Instagram (2026-08-01) - esse job vai rodar na nuvem via GitHub Actions (--so-instagram). Objetivo: confirmar que so posta 1x. Apagar depois do teste."
+      "nota": "TESTE da correcao de duplicacao no Instagram (2026-08-01) - esse job vai rodar na nuvem via GitHub Actions (--so-instagram). Objetivo: confirmar que so posta 1x. Video oficial de verdade (YT/FB) vai ao ar segunda-feira - NAO rodar esse job em nenhum outro lugar alem do Instagram de teste. Apagar depois do teste.",
+      "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/protocolo4d/instagram/TESTE_P4D_S08_IG_video_S08_P4D_parcelamento_nao_e_de_graca.mp4",
+      "video_url_nuvem_remoto": "protocolo4d/instagram/TESTE_P4D_S08_IG_video_S08_P4D_parcelamento_nao_e_de_graca.mp4"
     }
   ]
 }
