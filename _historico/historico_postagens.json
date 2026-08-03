@@ -2277,5 +2277,154 @@
       "video_id": "bybyXe0FSX0",
       "url": "https://youtube.com/watch?v=bybyXe0FSX0"
     }
+  },
+  "protocolo4d|youtube|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S16_P4D_vergonha_de_estar_endividado.mp4": {
+    "id": "P4D_S16_YT",
+    "canal": "protocolo4d",
+    "plataforma": "youtube",
+    "publish_at": "2026-08-07T08:00:00-03:00",
+    "postado_em_utc": "2026-08-03T12:11:06Z",
+    "resultado": {
+      "video_id": "4WWwdIBhZ2Q",
+      "url": "https://youtube.com/watch?v=4WWwdIBhZ2Q"
+    }
+  },
+  "protocolo4d|facebook|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S16_P4D_vergonha_de_estar_endividado.mp4": {
+    "id": "P4D_S16_FB",
+    "canal": "protocolo4d",
+    "plataforma": "facebook",
+    "publish_at": "2026-08-07T08:02:00-03:00",
+    "postado_em_utc": "2026-08-03T12:11:57Z",
+    "resultado": {
+      "video_id": "1022125754055115",
+      "agendado": true,
+      "url": "https://www.facebook.com/reel/1022125754055115"
+    }
+  },
+  "metodoana|youtube|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S16_Bola_de_Neve_x_Metodo_ANA.mp4": {
+    "id": "METODOANA_S16_YT",
+    "canal": "metodoana",
+    "plataforma": "youtube",
+    "publish_at": "2026-08-07T12:20:00-03:00",
+    "postado_em_utc": "2026-08-03T12:12:23Z",
+    "resultado": {
+      "video_id": "leCnqCWXg_M",
+      "url": "https://youtube.com/watch?v=leCnqCWXg_M"
+    }
+  },
+  "metodoana|facebook|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S16_Bola_de_Neve_x_Metodo_ANA.mp4": {
+    "id": "METODOANA_S16_FB",
+    "canal": "metodoana",
+    "plataforma": "facebook",
+    "publish_at": "2026-08-07T12:22:00-03:00",
+    "postado_em_utc": "2026-08-03T12:13:04Z",
+    "resultado": {
+      "video_id": "2041867166717955",
+      "agendado": true,
+      "url": "https://www.facebook.com/reel/2041867166717955"
+    }
+  },
+  "metodoana|facebook|C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Post Facebook\\04 Imagens Geradas\\03. S16 Bola de Neve x Metodo ANA.jpg": {
+    "id": "METODOANA_S16_FB_FOTO",
+    "canal": "metodoana",
+    "plataforma": "facebook",
+    "publish_at": "2026-08-07T17:00:00-03:00",
+    "postado_em_utc": "2026-08-03T12:13:41Z",
+    "resultado": {
+      "object_id": "122136998439153054",
+      "agendado": true,
+      "url": "https://www.facebook.com/122136998439153054"
+    }
+  },
+  "metodoana|youtube|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V06_Renda_extra_Regra_dos_100_primeiros.mp4": {
+    "id": "METODOANA_V06_YT",
+    "canal": "metodoana",
+    "plataforma": "youtube",
+    "publish_at": "2026-08-07T20:30:00-03:00",
+    "postado_em_utc": "2026-08-03T12:15:01Z",
+    "resultado": {
+      "video_id": "DNzY4R5l7NA",
+      "url": "https://youtube.com/watch?v=DNzY4R5l7NA"
+    }
+  },
+  "metodoana|facebook|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V06_Renda_extra_Regra_dos_100_primeiros.mp4": {
+    "id": "METODOANA_V06_FB",
+    "canal": "metodoana",
+    "plataforma": "facebook",
+    "publish_at": "2026-08-07T20:35:00-03:00",
+    "postado_em_utc": "2026-08-03T12:18:00Z",
+    "resultado": {
+      "object_id": "1746019610014549",
+      "agendado": true,
+      "url": "https://www.facebook.com/1746019610014549"
+    }
+  },
+  "sacrarium|youtube|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S16_pequenos_passos_mudam_tudo.mp4": {
+    "id": "SACRARIUM_S16_YT",
+    "canal": "sacrarium",
+    "plataforma": "youtube",
+    "publish_at": "2026-08-07T12:10:00-03:00",
+    "postado_em_utc": "2026-08-03T12:18:26Z",
+    "resultado": {
+      "video_id": "_bwed1n_BCM",
+      "url": "https://youtube.com/watch?v=_bwed1n_BCM"
+    }
+  },
+  "sacrarium|facebook|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S16_pequenos_passos_mudam_tudo.mp4": {
+    "id": "SACRARIUM_S16_FB",
+    "canal": "sacrarium",
+    "plataforma": "facebook",
+    "publish_at": "2026-08-07T12:12:00-03:00",
+    "postado_em_utc": "2026-08-03T12:19:19Z",
+    "resultado": {
+      "video_id": "1624998995708687",
+      "agendado": true,
+      "url": "https://www.facebook.com/reel/1624998995708687"
+    }
+  },
+  "sacrarium|youtube|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V06_O_que_e_o_Dia_0_do_Sacrarium.mp4": {
+    "id": "SACRARIUM_V06_YT",
+    "canal": "sacrarium",
+    "plataforma": "youtube",
+    "publish_at": "2026-08-07T20:00:00-03:00",
+    "postado_em_utc": "2026-08-03T12:19:47Z",
+    "resultado": {
+      "video_id": "ZmEya5qcjhs",
+      "url": "https://youtube.com/watch?v=ZmEya5qcjhs"
+    }
+  },
+  "sacrarium|facebook|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V06_O_que_e_o_Dia_0_do_Sacrarium.mp4": {
+    "id": "SACRARIUM_V06_FB",
+    "canal": "sacrarium",
+    "plataforma": "facebook",
+    "publish_at": "2026-08-07T20:05:00-03:00",
+    "postado_em_utc": "2026-08-03T12:20:58Z",
+    "resultado": {
+      "object_id": "1027965726816356",
+      "agendado": true,
+      "url": "https://www.facebook.com/1027965726816356"
+    }
+  },
+  "forjandotitas|youtube|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V08_FT_medo_financeiro.mp4": {
+    "id": "FT_V08_YT",
+    "canal": "forjandotitas",
+    "plataforma": "youtube",
+    "publish_at": "2026-08-07T12:00:00-03:00",
+    "postado_em_utc": "2026-08-03T12:25:14Z",
+    "resultado": {
+      "video_id": "6aCgwWq3MPU",
+      "url": "https://youtube.com/watch?v=6aCgwWq3MPU"
+    }
+  },
+  "cathedrapetri|youtube|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V16_PT_TEP_A_farsa_do_Jesus_Histórico_separad.mp4": {
+    "id": "CP_V16_YT",
+    "canal": "cathedrapetri",
+    "plataforma": "youtube",
+    "publish_at": "2026-08-07T12:35:00-03:00",
+    "postado_em_utc": "2026-08-03T12:30:18Z",
+    "resultado": {
+      "video_id": "wrd2pWUeLIk",
+      "url": "https://youtube.com/watch?v=wrd2pWUeLIk"
+    }
   }
 }
