@@ -21,8 +21,6 @@
       "category_id": 27,
       "pinned_comment": "Quer saber quanto da sua renda já está comprometida com parcelamento antes do mês nem começar? Deixei aqui embaixo a Planilha do Protocolo 4D, gratuita: https://protocolo-4d.netlify.app/lp-planilha",
       "nota": "SEM THUMBNAIL PRONTA - nao existe arquivo de thumb gerado pra S08 na pasta Thumbnails do canal.",
-      "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/protocolo4d/youtube/P4D_S08_YT_video_S08_P4D_parcelamento_nao_e_de_graca.mp4",
-      "video_url_nuvem_remoto": "protocolo4d/youtube/P4D_S08_YT_video_S08_P4D_parcelamento_nao_e_de_graca.mp4",
       "resultado": {
         "video_id": "uis17Os3IP8",
         "url": "https://youtube.com/watch?v=uis17Os3IP8"
@@ -38,8 +36,6 @@
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S08_P4D_parcelamento_nao_e_de_graca.mp4",
       "caption": "Parcelamento sem juros parece de graça — só que o custo não desaparece, ele muda de lugar.\n\nCada carnê que você assume hoje come uma fatia do salário que ainda nem caiu. Dez parcelas pequenas viram uma dívida grande, só que disfarçada.",
       "first_comment": "Planilha gratuita do Protocolo 4D pra somar tudo que já está parcelado — link no site da nossa página.",
-      "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/protocolo4d/facebook/P4D_S08_FB_video_S08_P4D_parcelamento_nao_e_de_graca.mp4",
-      "video_url_nuvem_remoto": "protocolo4d/facebook/P4D_S08_FB_video_S08_P4D_parcelamento_nao_e_de_graca.mp4",
       "resultado": {
         "video_id": "2100890317451604",
         "agendado": true,
@@ -77,8 +73,6 @@
       "category_id": 27,
       "pinned_comment": "Você sabe se a sua dívida é SAC ou Price? Comenta aqui embaixo. Se quiser simular exatamente quanto da sua parcela é juro em cada sistema, testa a calculadora gratuita que criei: https://cofrinhodefe-calculadora-de-juros.netlify.app/",
       "nota": "SEM THUMBNAIL PRONTA pra S12 (Geradas so vai ate S06 e retoma em S13).",
-      "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/youtube/METODOANA_S12_YT_video_S12_Diferenca_entre_SAC_e_Price.mp4",
-      "video_url_nuvem_remoto": "metodoana/youtube/METODOANA_S12_YT_video_S12_Diferenca_entre_SAC_e_Price.mp4",
       "resultado": {
         "video_id": "3Az-besZZZM",
         "url": "https://youtube.com/watch?v=3Az-besZZZM"
@@ -94,8 +88,6 @@
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S12_Diferenca_entre_SAC_e_Price.mp4",
       "caption": "Você sabe se sua dívida é SAC ou Price? A resposta muda tudo sobre por onde começar a atacar.\n\nNum sistema a parcela cai sozinha com o tempo. No outro, ela só parece cair — o juro fica represado lá na frente.",
       "first_comment": "A calculadora que simula os dois sistemas — link no site da nossa página.",
-      "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/facebook/METODOANA_S12_FB_video_S12_Diferenca_entre_SAC_e_Price.mp4",
-      "video_url_nuvem_remoto": "metodoana/facebook/METODOANA_S12_FB_video_S12_Diferenca_entre_SAC_e_Price.mp4",
       "resultado": {
         "video_id": "1760223154985870",
         "agendado": true,
@@ -135,11 +127,7 @@
       ],
       "category_id": 27,
       "pinned_comment": "Como está o seu jardim interior hoje: cuidado, esquecido, ou em algum lugar no meio? Conta aqui embaixo.\nO Sacrarium nasceu para ajudar você a cuidar desse jardim interior, com uma jornada guiada de formação espiritual e constância, porque a vida espiritual floresce no cuidado diário.\nSe você deseja cultivar esse jardim, clique no link e conheça o Sacrarium: https://sacrarium-app.netlify.app/",
-      "nota": "Thumbnail so tem opcao 'Teste C' gerada (nao existe Teste A/B pra esse video) - usei a unica disponivel.",
-      "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/youtube/SACRARIUM_S12_YT_video_S12_alma_como_jardim.mp4",
-      "video_url_nuvem_remoto": "sacrarium/youtube/SACRARIUM_S12_YT_video_S12_alma_como_jardim.mp4",
-      "thumb_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/youtube/SACRARIUM_S12_YT_thumb_S12 Alma Jardim Teste C.jpg",
-      "thumb_url_nuvem_remoto": "sacrarium/youtube/SACRARIUM_S12_YT_thumb_S12 Alma Jardim Teste C.jpg"
+      "nota": "Thumbnail so tem opcao 'Teste C' gerada (nao existe Teste A/B pra esse video) - usei a unica disponivel."
     },
     {
       "id": "SACRARIUM_S12_FB",
@@ -150,9 +138,7 @@
       "status": "pulado: ja esta no historico (postado em 2026-08-03T04:28:46Z)",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S12_alma_como_jardim.mp4",
       "caption": "Um jardim não floresce de uma vez — precisa de rega, tempo e paciência todos os dias.\n\nSanta Teresa de Ávila usava essa imagem pra falar da alma: você não cria nada sozinho, só cuida das condições pra Deus agir.",
-      "first_comment": "O Sacrarium existe pra te ajudar a cuidar desse jardim interior — link no site da nossa página.",
-      "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/facebook/SACRARIUM_S12_FB_video_S12_alma_como_jardim.mp4",
-      "video_url_nuvem_remoto": "sacrarium/facebook/SACRARIUM_S12_FB_video_S12_alma_como_jardim.mp4"
+      "first_comment": "O Sacrarium existe pra te ajudar a cuidar desse jardim interior — link no site da nossa página."
     },
     {
       "id": "SACRARIUM_S12_IG",
@@ -176,8 +162,6 @@
       "caption": "Parcelamento sem juros é uma das ilusões financeiras mais comuns — parece grátis, mas compromete meses de renda futura antes mesmo dela chegar.\n\nEsse carrossel mostra a regra simples pra saber quando parcelar realmente faz sentido.",
       "first_comment": "Deixei aqui embaixo a Planilha do Protocolo 4D, gratuita, com todos os seus parcelamentos ativos, no link no site da página.",
       "nota": "EQUALIZACAO P4D (dobrar ritmo essa semana) - foto unica Facebook correspondente ao short S08, montada a partir da legenda ja pronta em 'Post Facebook\\02 Legenda dos Posts\\S08_...txt'.",
-      "image_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/protocolo4d/facebook/P4D_S08_FB_FOTO_imagem_08. S08 Parcelamento Nao E De Graca.jpg",
-      "image_url_nuvem_remoto": "protocolo4d/facebook/P4D_S08_FB_FOTO_imagem_08. S08 Parcelamento Nao E De Graca.jpg",
       "resultado": {
         "object_id": "122113222983394338",
         "agendado": true,
@@ -235,8 +219,6 @@
       "category_id": 27,
       "pinned_comment": "Quer saber a data exata em que você termina de pagar e quanto juro ainda pode economizar aumentando o pagamento agora? Deixei aqui embaixo a Calculadora da Liberdade, gratuita: https://protocolo-4d.netlify.app/lp-calculadora",
       "nota": "SEM THUMBNAIL PRONTA pra S09. EQUALIZACAO P4D: movido de 04/08 pra 03/08 (short do meio-dia) pra caber todo o P4D S08-S17 ate sabado 08/08.",
-      "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/protocolo4d/youtube/P4D_S09_YT_video_S09_P4D_juro_composto_contra.mp4",
-      "video_url_nuvem_remoto": "protocolo4d/youtube/P4D_S09_YT_video_S09_P4D_juro_composto_contra.mp4",
       "resultado": {
         "video_id": "2_a7jx-16qc",
         "url": "https://youtube.com/watch?v=2_a7jx-16qc"
@@ -252,8 +234,6 @@
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S09_P4D_juro_composto_contra.mp4",
       "caption": "Cinco mil reais no rotativo podem virar vinte e seis mil em um ano — sem gastar mais um centavo naquele cartão.\n\nPagar só o mínimo quase não move o principal. O juro sobre juro trabalha contra você em silêncio.",
       "first_comment": "A Calculadora da Liberdade mostra a data exata em que você quita e quanto economiza aumentando o pagamento — link no site da nossa página.",
-      "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/protocolo4d/facebook/P4D_S09_FB_video_S09_P4D_juro_composto_contra.mp4",
-      "video_url_nuvem_remoto": "protocolo4d/facebook/P4D_S09_FB_video_S09_P4D_juro_composto_contra.mp4",
       "resultado": {
         "video_id": "1598259185270212",
         "agendado": true,
@@ -284,8 +264,6 @@
       "caption": "Juro composto é chamado de oitava maravilha do mundo — mas quando trabalha contra você, é uma sentença silenciosa.\n\nEsse carrossel mostra a matemática real de uma dívida no rotativo e por que atacar o principal é a única saída.",
       "first_comment": "Deixei aqui embaixo a Calculadora da Liberdade, gratuita, no link no site da página.",
       "nota": "EQUALIZACAO P4D (dobrar ritmo essa semana) - foto unica Facebook correspondente ao short S09.",
-      "image_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/protocolo4d/facebook/P4D_S09_FB_FOTO_imagem_09. S09 Juro Composto Contra.jpg",
-      "image_url_nuvem_remoto": "protocolo4d/facebook/P4D_S09_FB_FOTO_imagem_09. S09 Juro Composto Contra.jpg",
       "resultado": {
         "object_id": "122113223499394338",
         "agendado": true,
@@ -344,8 +322,6 @@
       "category_id": 27,
       "pinned_comment": "Tertuliano usou a palavra \"Trinitas\" pela primeira vez em 210 d.C., cento e quinze anos antes de Niceia, num Império que podia matá-lo por isso. Isso muda a forma como você entende a origem desse dogma?",
       "nota": "CP so posta YouTube. Thumbnail usada e a unica disponivel na pasta (CPV14.jpeg, sem rotulo Teste A/B/C - so uma opcao existe). REALOCADO 2026-08-03: movido de 05/08 19:00 pra cadencia fixa seg/qua/sex 12h (nova regra da Jaqueline), horario 12:35 escolhido por nao colidir com nenhum outro job do dia.",
-      "thumb_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/cathedrapetri/youtube/CP_V14_YT_thumb_CPV14.jpeg",
-      "thumb_url_nuvem_remoto": "cathedrapetri/youtube/CP_V14_YT_thumb_CPV14.jpeg",
       "resultado": {
         "video_id": "4nIeppdaebE",
         "url": "https://youtube.com/watch?v=4nIeppdaebE"
@@ -362,8 +338,6 @@
       "caption": "Santa Teresa de Ávila abre o Livro da Vida com uma imagem que muda a forma de entender a vida espiritual: a alma como um jardim que pertence a Deus, e a pessoa como jardineira — não dona, nem criadora, só cuidadora.\n\nEsse carrossel explica por que \"cultivo\" é uma palavra mais honesta que \"conquista\" quando o assunto é oração.\n\nCompartilha com quem vive cobrando resultado espiritual rápido de si mesmo.",
       "first_comment": "O Sacrarium nasceu pra acompanhar esse cuidado diário do jardim interior. Link no site da nossa página — entra pra lista de espera.",
       "nota": "TAREFA CADENCIA PADRAO (03/08/2026): unico dos 6 shorts S12-S17 do Sacrarium com imagem E legenda prontas pra foto Facebook (S13-S17 tem imagem mas faltam as legendas em 'Post Facebook\\02 Legenda dos Posts' - so vao ate S12). Legenda usada e a que ja existia pronta em S12_alma_como_jardim_Legenda_Facebook_Carrossel.txt.",
-      "image_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/facebook/SACRARIUM_S12_FB_FOTO_imagem_S12 Alma Como Jardim.jpg",
-      "image_url_nuvem_remoto": "sacrarium/facebook/SACRARIUM_S12_FB_FOTO_imagem_S12 Alma Como Jardim.jpg",
       "resultado": {
         "object_id": "122117996781386492",
         "agendado": true,
@@ -464,8 +438,6 @@
       "category_id": 27,
       "pinned_comment": "Qual narrativa você mais usou pra explicar sua situação financeira: salário baixo, conjuntura, custo de vida ou outra? Comenta aqui embaixo, só o nome já ajuda a entender o padrão. Tem uma planilha gratuita pra montar seu mapa de destino antes do gasto: https://protocolo-4d.netlify.app/lp-planilha",
       "nota": "1o video do lote de repostagem do Forjando Titas (V04-V09, ver ANOTACAO TEMPORARIA em Orientacoes Jaqueline.txt). FT so posta YouTube. Horario 12:45 escolhido por nao colidir com nenhum outro job do dia (12:00/12:02/12:05/12:10/12:12/12:15/12:20/12:22/12:25/12:35 ja ocupados).",
-      "thumb_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/forjandotitas/youtube/FT_V04_YT_thumb_V04_mentor_renda_extra.jpeg",
-      "thumb_url_nuvem_remoto": "forjandotitas/youtube/FT_V04_YT_thumb_V04_mentor_renda_extra.jpeg",
       "resultado": {
         "video_id": "f9_d8P1G3ek",
         "url": "https://youtube.com/watch?v=f9_d8P1G3ek"

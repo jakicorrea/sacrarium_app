@@ -179,6 +179,18 @@ def sincronizar_arquivo(jobs_path, url, key, bucket):
         if job.get("status", "pendente") != "pendente":
             continue  # ja publicado/agendado/erro — nao precisa mais na nuvem
 
+        # So o Instagram de fato precisa de uma copia publica no Supabase (a
+        # API da Meta so aceita video_url/image_url, nao aceita upload direto
+        # de arquivo local). YouTube e Facebook publicam com upload direto do
+        # arquivo local (rodam so no PC da Jaqueline mesmo, nunca no GitHub
+        # Actions — ver comentario em processar_lotes() no agendador), entao
+        # nao ha motivo pra recodificar/subir esses videos pro bucket
+        # permanente: e so gasto de tempo/banda e, pros longos, ainda estoura
+        # o limite de tamanho do Supabase (03/08/2026, achado ao vivo com
+        # varios longos de Cathedra Petri/Forjando Titas/Na Propria Pele).
+        if job.get("plataforma") != "instagram":
+            continue
+
         try:
             if job.get("video_path") and Path(job["video_path"]).exists() and not job.get("video_url_nuvem"):
                 print(f"  [{job.get('id')}] subindo video...")
