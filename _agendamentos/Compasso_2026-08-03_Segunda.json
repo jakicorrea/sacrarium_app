@@ -39,7 +39,7 @@
       "plataforma": "instagram",
       "tipo": "reels",
       "publish_at": "2026-08-03T08:05:00-03:00",
-      "status": "pendente",
+      "status": "pulado: ja esta no historico (postado em 2026-08-02T00:23:31Z)",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S08_P4D_parcelamento_nao_e_de_graca.mp4",
       "caption": "Compra parcelada sem juros ainda tem custo. 👇\n\nSó que ele não aparece na etiqueta — aparece no mês que vem, quando o salário já nasce comprometido.",
       "first_comment": "Planilha gratuita do Protocolo 4D — link na bio."
@@ -126,7 +126,7 @@
       "plataforma": "instagram",
       "tipo": "reels",
       "publish_at": "2026-08-03T12:25:00-03:00",
-      "status": "pendente",
+      "status": "pulado: ja esta no historico (postado em 2026-08-03T04:33:26Z)",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S12_alma_como_jardim.mp4",
       "caption": "Sua alma é um jardim — e você é o jardineiro, não o criador. 👇\n\nRegar, remover o que sufoca, esperar o tempo certo: é assim que Santa Teresa de Ávila descrevia a vida espiritual.",
       "first_comment": "Conheça o Sacrarium — link na bio."
@@ -316,7 +316,13 @@
       "thumb_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\03_Estrutura_Canais\\ForjandoTitas\\04-Pack de Postagem\\Thumbnails\\V04_mentor_renda_extra.jpeg",
       "title": "O Furo no Balde: Por Que Ganhar Mais Não Resolve Sua Vida Financeira",
       "description": "Duas pessoas com o mesmo salário, morando na mesma cidade, chegam a resultados completamente diferentes depois de dez anos. Uma constrói reserva e patrimônio. A outra segue com as mesmas dívidas de sempre. A diferença nunca foi quanto entra — foi o que acontece com o dinheiro antes do gasto tomar conta de tudo.\n\nNeste vídeo eu mostro por que a narrativa do salário (a crença de que o problema é sempre renda insuficiente) funciona como escudo psicológico, e como a Gestão de Base — visibilidade, destino antes do gasto, revisão mensal sem julgamento — muda o resultado com o dinheiro que você já tem hoje.\n\nEsse canal é feito pra homem que trabalha, se esforça, ganhou aumento e mesmo assim não vê a situação financeira melhorar. Aqui não tem discurso motivacional nem fórmula mágica de renda extra. Tem diagnóstico direto e método pra parar o vazamento antes de pensar em ganhar mais.\n\nSe você já teve aumento de salário e não sentiu diferença real no fim do mês, esse vídeo explica exatamente por quê.",
-      "tags": ["educação financeira", "gestão financeira pessoal", "dívida", "reserva de emergência", "orçamento pessoal"],
+      "tags": [
+        "educação financeira",
+        "gestão financeira pessoal",
+        "dívida",
+        "reserva de emergência",
+        "orçamento pessoal"
+      ],
       "category_id": 27,
       "pinned_comment": "Qual narrativa você mais usou pra explicar sua situação financeira: salário baixo, conjuntura, custo de vida ou outra? Comenta aqui embaixo, só o nome já ajuda a entender o padrão. Tem uma planilha gratuita pra montar seu mapa de destino antes do gasto: https://protocolo-4d.netlify.app/lp-planilha",
       "nota": "1o video do lote de repostagem do Forjando Titas (V04-V09, ver ANOTACAO TEMPORARIA em Orientacoes Jaqueline.txt). FT so posta YouTube. Horario 12:45 escolhido por nao colidir com nenhum outro job do dia (12:00/12:02/12:05/12:10/12:12/12:15/12:20/12:22/12:25/12:35 ja ocupados)."
