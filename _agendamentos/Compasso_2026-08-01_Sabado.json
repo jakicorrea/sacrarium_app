@@ -479,13 +479,18 @@
       "plataforma": "instagram",
       "tipo": "reels",
       "publish_at": "2026-08-01T20:00:00-03:00",
-      "status": "pendente",
+      "status": "publicado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S12_alma_como_jardim.mp4",
       "caption": "No Livro da Vida, Santa Teresa compara a alma a um jardim que pertence a Deus — e você, ao jardineiro.\n\nA vida espiritual não é corrida. É cultivo, dia após dia.",
       "first_comment": "O Sacrarium nasceu pra te ajudar a cuidar desse jardim. Link na bio.",
       "nota": "catch-up Insta fim de dia - FECHA O GAP. A partir daqui Insta entra no ritmo normal 1x/dia junto com YT/Face.",
       "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/instagram/SACRARIUM_S12_IG_video_S12_alma_como_jardim.mp4",
-      "video_url_nuvem_remoto": "sacrarium/instagram/SACRARIUM_S12_IG_video_S12_alma_como_jardim.mp4"
+      "video_url_nuvem_remoto": "sacrarium/instagram/SACRARIUM_S12_IG_video_S12_alma_como_jardim.mp4",
+      "resultado": {
+        "media_id": "18332128105285678",
+        "url": "https://www.instagram.com/reel/18332128105285678",
+        "comentario": "postado na hora"
+      }
     }
   ]
 }
