@@ -1840,5 +1840,51 @@
       "video_id": "4nIeppdaebE",
       "url": "https://youtube.com/watch?v=4nIeppdaebE"
     }
+  },
+  "protocolo4d|youtube|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S10_P4D_limite_nao_e_sua_renda.mp4": {
+    "id": "P4D_S10_YT",
+    "canal": "protocolo4d",
+    "plataforma": "youtube",
+    "publish_at": "2026-08-04T08:00:00-03:00",
+    "postado_em_utc": "2026-08-03T10:59:44Z",
+    "resultado": {
+      "video_id": "7rPi5jjSinE",
+      "url": "https://youtube.com/watch?v=7rPi5jjSinE"
+    }
+  },
+  "protocolo4d|facebook|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S10_P4D_limite_nao_e_sua_renda.mp4": {
+    "id": "P4D_S10_FB",
+    "canal": "protocolo4d",
+    "plataforma": "facebook",
+    "publish_at": "2026-08-04T08:02:00-03:00",
+    "postado_em_utc": "2026-08-03T11:00:29Z",
+    "resultado": {
+      "video_id": "1370748535180596",
+      "agendado": true,
+      "url": "https://www.facebook.com/reel/1370748535180596"
+    }
+  },
+  "protocolo4d|facebook|C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Post Facebook\\04 Imagens Geradas\\10. S10 Limite Nao E Sua Renda.jpg": {
+    "id": "P4D_S10_FB_FOTO",
+    "canal": "protocolo4d",
+    "plataforma": "facebook",
+    "publish_at": "2026-08-04T09:30:00-03:00",
+    "postado_em_utc": "2026-08-03T11:00:56Z",
+    "resultado": {
+      "object_id": "122113234131394338",
+      "agendado": true,
+      "url": "https://www.facebook.com/122113234131394338"
+    }
+  },
+  "protocolo4d|youtube|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S11_P4D_diagnostico_em_20_min.mp4": {
+    "id": "P4D_S11_YT",
+    "canal": "protocolo4d",
+    "plataforma": "youtube",
+    "publish_at": "2026-08-04T12:00:00-03:00",
+    "postado_em_utc": "2026-08-03T11:01:22Z",
+    "resultado": {
+      "video_id": "c105fWnpoGo",
+      "url": "https://youtube.com/watch?v=c105fWnpoGo"
+    }
   }
 }
