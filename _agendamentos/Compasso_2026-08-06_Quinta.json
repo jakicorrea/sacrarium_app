@@ -7,14 +7,24 @@
       "plataforma": "youtube",
       "tipo": "reels",
       "publish_at": "2026-08-06T08:00:00-03:00",
-      "status": "pendente",
+      "status": "agendado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S14_P4D_score_sobe_como.mp4",
       "title": "Você Paga Tudo em Dia e Mesmo Assim o Score Cai",
       "description": "A maioria de quem tenta subir o score não sabe qual variável está puxando ele pra baixo — e continua fazendo exatamente o que trava o próprio progresso.\n\nNeste short, eu mostro as quatro variáveis que mais pesam no cálculo (histórico de pagamento, proporção de uso do limite, tempo de relacionamento com os bancos e ausência de restrição) e explico o ponto que a maioria ignora: usar noventa por cento do limite do cartão todo mês derruba o score mesmo pagando tudo em dia, porque o banco lê isso como pressão financeira.\n\nConteúdo direto pra homem que paga as contas certinho e não entende por que o score não sobe do jeito que devia.\n\nA ação de maior impacto: manter o uso do cartão abaixo de trinta por cento do limite disponível, sem cortar o cartão, só usando menos.\n\nSe seu score trava mesmo em dia com tudo, esse vídeo explica o motivo real.\n\nAssista ao vídeo completo sobre esse tema no Canal Forjando Titãs: [PREENCHER]",
-      "tags": ["educação financeira masculina", "score de crédito", "Protocolo 4D", "cartão de crédito", "armadilhas bancárias"],
+      "tags": [
+        "educação financeira masculina",
+        "score de crédito",
+        "Protocolo 4D",
+        "cartão de crédito",
+        "armadilhas bancárias"
+      ],
       "category_id": 27,
       "pinned_comment": "Score é consequência de comportamento, não é sorte nem burocracia do banco. Deixei aqui embaixo o Quiz de Diagnóstico, doze perguntas, gratuito, pra identificar o que mais está travando seu progresso financeiro: https://protocolo-4d.netlify.app/lp-quiz",
-      "nota": "VIDEO AINDA NAO EXPORTADO - job montado a partir do pack S14_score_sobe_como ja pronto. Placeholder '[PREENCHER]' do link FT mantido - Vinculos_Video_Relacionado.txt so tem um candidato nao confirmado (V45_FT_score_de_credito, que nem existe ainda em controle_videos.xlsx - ver nota do job P4D_S10_YT). SEM THUMBNAIL PRONTA. SEM FOTO/CARROSSEL criados ainda: as imagens ja existem prontas nas pastas 'Post Facebook\\04 Imagens Geradas' e 'Instagram Carrossel\\04 Imagens Geradas' (01. S14 Score Sobe Como.jpg / Carrossel_Protocolo4D_S14), mas faltam legenda/caption dedicadas (pasta 'Post Facebook\\02 Legenda dos Posts' so tem ate S12) - nao criei job de foto/carrossel pra nao inventar copy. EQUALIZACAO P4D: movido de 10/08 pra 06/08 (short da manha) pra caber todo o P4D S08-S17 ate sabado 08/08."
+      "nota": "VIDEO AINDA NAO EXPORTADO - job montado a partir do pack S14_score_sobe_como ja pronto. Placeholder '[PREENCHER]' do link FT mantido - Vinculos_Video_Relacionado.txt so tem um candidato nao confirmado (V45_FT_score_de_credito, que nem existe ainda em controle_videos.xlsx - ver nota do job P4D_S10_YT). SEM THUMBNAIL PRONTA. SEM FOTO/CARROSSEL criados ainda: as imagens ja existem prontas nas pastas 'Post Facebook\\04 Imagens Geradas' e 'Instagram Carrossel\\04 Imagens Geradas' (01. S14 Score Sobe Como.jpg / Carrossel_Protocolo4D_S14), mas faltam legenda/caption dedicadas (pasta 'Post Facebook\\02 Legenda dos Posts' so tem ate S12) - nao criei job de foto/carrossel pra nao inventar copy. EQUALIZACAO P4D: movido de 10/08 pra 06/08 (short da manha) pra caber todo o P4D S08-S17 ate sabado 08/08.",
+      "resultado": {
+        "video_id": "BrSN4ZCpoqQ",
+        "url": "https://youtube.com/watch?v=BrSN4ZCpoqQ"
+      }
     },
     {
       "id": "P4D_S14_FB",
@@ -22,11 +32,16 @@
       "plataforma": "facebook",
       "tipo": "reels",
       "publish_at": "2026-08-06T08:02:00-03:00",
-      "status": "pendente",
+      "status": "agendado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S14_P4D_score_sobe_como.mp4",
       "caption": "Você paga tudo em dia e mesmo assim o score não sobe? 👇\n\nUsar mais de 90% do limite todo mês derruba o score sozinho — mesmo com a fatura zerada.",
       "first_comment": "Quiz de Diagnóstico gratuito, doze perguntas — link no site da nossa página.",
-      "nota": "VIDEO AINDA NAO EXPORTADO, mesmo video_path do job YT."
+      "nota": "VIDEO AINDA NAO EXPORTADO, mesmo video_path do job YT.",
+      "resultado": {
+        "video_id": "982448661486482",
+        "agendado": true,
+        "url": "https://www.facebook.com/reel/982448661486482"
+      }
     },
     {
       "id": "P4D_S14_IG",
@@ -38,7 +53,9 @@
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S14_P4D_score_sobe_como.mp4",
       "caption": "Score é consequência de comportamento, não de sorte. 👇\n\nA variável que mais gente ignora: uso acima de 30% do limite já pesa contra você, mesmo em dia com tudo.",
       "first_comment": "Quiz de Diagnóstico, doze perguntas, gratuito — link na bio.",
-      "nota": "VIDEO AINDA NAO EXPORTADO, mesmo video_path do job YT."
+      "nota": "VIDEO AINDA NAO EXPORTADO, mesmo video_path do job YT.",
+      "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/protocolo4d/instagram/P4D_S14_IG_video_S14_P4D_score_sobe_como.mp4",
+      "video_url_nuvem_remoto": "protocolo4d/instagram/P4D_S14_IG_video_S14_P4D_score_sobe_como.mp4"
     },
     {
       "id": "P4D_S15_YT",
@@ -46,14 +63,24 @@
       "plataforma": "youtube",
       "tipo": "reels",
       "publish_at": "2026-08-06T12:00:00-03:00",
-      "status": "pendente",
+      "status": "agendado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S15_P4D_rotativo_o_que_e.mp4",
       "title": "O Que é o Rotativo do Cartão (E Por Que Você Cai Nele Sem Perceber)",
       "description": "Você já viu a palavra \"rotativo\" no extrato do cartão e não entendeu o que ela significa? É o crédito mais caro que existe — e você entra nele toda vez que paga menos que o total da fatura.\n\nNeste short, eu explico o mecanismo: qualquer valor abaixo do total vai automaticamente pro rotativo, com taxa que pode passar de duzentos por cento ao ano — o suficiente pra dobrar uma dívida de dois mil reais em menos de doze meses sem você gastar um centavo a mais.\n\nConteúdo direto pra homem que paga a fatura pela metade achando que está \"segurando as pontas\".\n\nMostro também a saída: pagar o total da fatura sempre que possível, ou migrar o saldo pro parcelado do cartão (taxa menor) quando não der pra quitar tudo agora.\n\nSe sua fatura nunca fecha zerada, esse vídeo mostra exatamente onde o dinheiro está multiplicando.\n\nAssista ao vídeo completo sobre esse tema no Canal Forjando Titãs: [PREENCHER]",
-      "tags": ["educação financeira masculina", "rotativo do cartão", "Protocolo 4D", "juros abusivos", "armadilhas bancárias"],
+      "tags": [
+        "educação financeira masculina",
+        "rotativo do cartão",
+        "Protocolo 4D",
+        "juros abusivos",
+        "armadilhas bancárias"
+      ],
       "category_id": 27,
       "pinned_comment": "O rotativo é uma das dez armadilhas de crédito que detalho passo a passo no Ebook gratuito aqui embaixo, com o que fazer em cada situação: https://protocolo-4d.netlify.app/lp-armadilhas",
-      "nota": "VIDEO AINDA NAO EXPORTADO - job montado a partir do pack S15_rotativo_o_que_e ja pronto. Placeholder '[PREENCHER]' do link FT mantido - Vinculos_Video_Relacionado.txt nao tem candidato confirmado pra esse tema. SEM THUMBNAIL PRONTA. SEM FOTO/CARROSSEL criados ainda (mesmo motivo do S14: imagem pronta, falta legenda dedicada - ver nota do job P4D_S14_YT). EQUALIZACAO P4D: movido de 11/08 pra 06/08 (short do meio-dia) pra caber todo o P4D S08-S17 ate sabado 08/08."
+      "nota": "VIDEO AINDA NAO EXPORTADO - job montado a partir do pack S15_rotativo_o_que_e ja pronto. Placeholder '[PREENCHER]' do link FT mantido - Vinculos_Video_Relacionado.txt nao tem candidato confirmado pra esse tema. SEM THUMBNAIL PRONTA. SEM FOTO/CARROSSEL criados ainda (mesmo motivo do S14: imagem pronta, falta legenda dedicada - ver nota do job P4D_S14_YT). EQUALIZACAO P4D: movido de 11/08 pra 06/08 (short do meio-dia) pra caber todo o P4D S08-S17 ate sabado 08/08.",
+      "resultado": {
+        "video_id": "qBWkdA8-WXI",
+        "url": "https://youtube.com/watch?v=qBWkdA8-WXI"
+      }
     },
     {
       "id": "P4D_S15_FB",
@@ -61,11 +88,16 @@
       "plataforma": "facebook",
       "tipo": "reels",
       "publish_at": "2026-08-06T12:02:00-03:00",
-      "status": "pendente",
+      "status": "agendado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S15_P4D_rotativo_o_que_e.mp4",
       "caption": "Rotativo é o crédito mais caro do Brasil — e você cai nele toda vez que paga menos que o total da fatura.\n\nTaxa pode passar de 200% ao ano. Dois mil reais viram quatro mil sem gastar mais nada.",
       "first_comment": "Ebook gratuito com as dez armadilhas de crédito — link no site da nossa página.",
-      "nota": "VIDEO AINDA NAO EXPORTADO, mesmo video_path do job YT."
+      "nota": "VIDEO AINDA NAO EXPORTADO, mesmo video_path do job YT.",
+      "resultado": {
+        "video_id": "1031220236288887",
+        "agendado": true,
+        "url": "https://www.facebook.com/reel/1031220236288887"
+      }
     },
     {
       "id": "P4D_S15_IG",
@@ -77,7 +109,9 @@
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S15_P4D_rotativo_o_que_e.mp4",
       "caption": "Pagar qualquer valor abaixo da fatura te joga no crédito mais caro do país. 👇\n\nO nome disso é rotativo. E a taxa pode passar de 200% ao ano.",
       "first_comment": "Ebook grátis das dez armadilhas bancárias — link na bio.",
-      "nota": "VIDEO AINDA NAO EXPORTADO, mesmo video_path do job YT."
+      "nota": "VIDEO AINDA NAO EXPORTADO, mesmo video_path do job YT.",
+      "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/protocolo4d/instagram/P4D_S15_IG_video_S15_P4D_rotativo_o_que_e.mp4",
+      "video_url_nuvem_remoto": "protocolo4d/instagram/P4D_S15_IG_video_S15_P4D_rotativo_o_que_e.mp4"
     },
     {
       "id": "NPP_V9_YT",
@@ -85,7 +119,7 @@
       "plataforma": "youtube",
       "tipo": "video",
       "publish_at": "2026-08-06T12:35:00-03:00",
-      "status": "pendente",
+      "status": "erro: [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V9_PT_NAPROPRIAPELE_Parada_cardíaca_em_campo_.mp4",
       "thumb_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\03_Estrutura_Canais\\Na Propria Pele\\04-Pack de Postagem\\Thumbnails\\NPPV9.png",
       "title": "Parada Cardíaca em Campo: Os 6 Minutos Que Definem Tudo",
@@ -107,14 +141,24 @@
       "plataforma": "youtube",
       "tipo": "reels",
       "publish_at": "2026-08-06T12:10:00-03:00",
-      "status": "pendente",
+      "status": "agendado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S15_deus_trabalha_em_etapas.mp4",
       "title": "Por Que Deus Não Muda Tudo de Uma Vez?",
       "description": "Por que Deus não muda tudo de uma vez? Por que não basta uma conversão, não basta um retiro, e a transformação espiritual parece tão lenta? Santa Teresa de Ávila encontrou essa resposta na imagem do castelo interior com sete moradas.\n\nEste vídeo explica por que a alma humana não suporta uma luz intensa sem preparação — cada morada prepara a próxima, em camadas, não porque Deus não pudesse fazer diferente, mas porque nós somos graduados.\n\nUm vídeo pra quem já se frustrou com a lentidão do próprio crescimento espiritual e comparou o próprio ritmo com o de outra pessoa.\n\nFoi inspirado nesse mapa das sete moradas que o Sacrarium foi estruturado: uma jornada de formação espiritual em oito fases, cada uma preparando a próxima.\n\nSe você deseja percorrer esse caminho com essa orientação, conheça o Sacrarium.",
-      "tags": ["oração católica", "vida espiritual", "Santa Teresa de Ávila", "castelo interior", "Sacrarium"],
+      "tags": [
+        "oração católica",
+        "vida espiritual",
+        "Santa Teresa de Ávila",
+        "castelo interior",
+        "Sacrarium"
+      ],
       "category_id": 27,
       "pinned_comment": "Em qual fase você sente que está da sua caminhada espiritual hoje? Não precisa ter certeza, é só um chute honesto.\nO Sacrarium tem oito fases estruturadas exatamente pra esse tipo de caminhada gradual.\nConheça: https://sacrarium-app.netlify.app/",
-      "nota": "VIDEO AINDA NAO EXPORTADO - job montado a partir do pack S15_deus_trabalha_em_etapas ja pronto. SEM THUMBNAIL PRONTA. REALOCADO 2026-08-03: movido de terca 11/08 pra quinta 06/08, pra cumprir pedido da Jaqueline de 1 short/dia Sacrarium+MetodoANA de segunda a sabado (S12=seg, S13=ter, S14=qua, S15=qui, S16=sex, S17=sab)."
+      "nota": "VIDEO AINDA NAO EXPORTADO - job montado a partir do pack S15_deus_trabalha_em_etapas ja pronto. SEM THUMBNAIL PRONTA. REALOCADO 2026-08-03: movido de terca 11/08 pra quinta 06/08, pra cumprir pedido da Jaqueline de 1 short/dia Sacrarium+MetodoANA de segunda a sabado (S12=seg, S13=ter, S14=qua, S15=qui, S16=sex, S17=sab).",
+      "resultado": {
+        "video_id": "2dOVSNnW41M",
+        "url": "https://youtube.com/watch?v=2dOVSNnW41M"
+      }
     },
     {
       "id": "SACRARIUM_S15_FB",
@@ -122,11 +166,16 @@
       "plataforma": "facebook",
       "tipo": "reels",
       "publish_at": "2026-08-06T12:12:00-03:00",
-      "status": "pendente",
+      "status": "agendado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S15_deus_trabalha_em_etapas.mp4",
       "caption": "Você já se frustrou com a lentidão do próprio crescimento espiritual?\n\nSanta Teresa de Ávila explicava isso com a imagem das sete moradas: cada etapa prepara a próxima, porque somos nós que precisamos de tempo, não Deus.",
       "first_comment": "O Sacrarium acompanha essa caminhada gradual em oito fases — link no site da nossa página.",
-      "nota": "VIDEO AINDA NAO EXPORTADO, mesmo video_path do job YT. REALOCADO de terca 11/08 pra quinta 06/08."
+      "nota": "VIDEO AINDA NAO EXPORTADO, mesmo video_path do job YT. REALOCADO de terca 11/08 pra quinta 06/08.",
+      "resultado": {
+        "video_id": "1333568892195481",
+        "agendado": true,
+        "url": "https://www.facebook.com/reel/1333568892195481"
+      }
     },
     {
       "id": "SACRARIUM_S15_IG",
@@ -138,7 +187,9 @@
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S15_deus_trabalha_em_etapas.mp4",
       "caption": "Você não passa da primeira pra sétima morada numa noite. 👇\n\nA transformação espiritual é graduada porque nós somos graduados — cada etapa prepara a próxima.",
       "first_comment": "Conheça o Sacrarium — link na bio.",
-      "nota": "VIDEO AINDA NAO EXPORTADO, mesmo video_path do job YT. REALOCADO de terca 11/08 pra quinta 06/08."
+      "nota": "VIDEO AINDA NAO EXPORTADO, mesmo video_path do job YT. REALOCADO de terca 11/08 pra quinta 06/08.",
+      "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/instagram/SACRARIUM_S15_IG_video_S15_deus_trabalha_em_etapas.mp4",
+      "video_url_nuvem_remoto": "sacrarium/instagram/SACRARIUM_S15_IG_video_S15_deus_trabalha_em_etapas.mp4"
     },
     {
       "id": "METODOANA_S15_YT",
@@ -146,15 +197,25 @@
       "plataforma": "youtube",
       "tipo": "reels",
       "publish_at": "2026-08-06T12:20:00-03:00",
-      "status": "pendente",
+      "status": "agendado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S15_As_Tres_Letras_do_Metodo_ANA.mp4",
       "thumb_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\03_Estrutura_Canais\\MetodoANA\\04-Pack de Postagem\\Thumbnails\\Geradas\\S15 Método Ana Teste B.jpg",
       "title": "As Três Letras do Método ANA: Avaliar, Neutralizar, Avançar",
       "description": "Ana não é só o meu nome. É o método que eu criei e estou usando, na prática, pra sair de R$185 mil em dívidas — com matemática, não com milagre.\n\nNeste vídeo, eu explico as três fases: Avaliar, que é mapear cada dívida com sistema de amortização, taxa, parcelas restantes e saldo devedor real; Neutralizar, que é eliminar primeiro o que está destruindo o fluxo de caixa agora, como rotativo, cheque especial e parcela atrasada; e Avançar, que é atacar as dívidas restantes na ordem matematicamente correta — não pelo menor saldo isolado, não pela maior taxa isolada, mas pela combinação que economiza mais em juros no total.\n\nSou Ana, mãe de 4 filhos, servidora pública, aplicando essas três fases na minha própria dívida em tempo real.\n\nEsse vídeo é pra quem já tentou \"atacar tudo ao mesmo tempo\" e sente que não sai do lugar.",
-      "tags": ["educação financeira feminina", "método ANA", "mãe endividada", "servidora pública endividada", "plano de quitação"],
+      "tags": [
+        "educação financeira feminina",
+        "método ANA",
+        "mãe endividada",
+        "servidora pública endividada",
+        "plano de quitação"
+      ],
       "category_id": 27,
       "pinned_comment": "Em qual das três fases você estaria hoje — Avaliar, Neutralizar ou Avançar? Comenta aqui embaixo. Detalho cada fase, com prazo e critério, no ebook Mãe, Concursada e Endividada: https://mae-endividada-completo.netlify.app/",
-      "nota": "VIDEO AINDA NAO EXPORTADO - job montado a partir do pack S15_As_Tres_Letras_do_Metodo_ANA ja pronto. REALOCADO de terca 11/08 pra quinta 06/08."
+      "nota": "VIDEO AINDA NAO EXPORTADO - job montado a partir do pack S15_As_Tres_Letras_do_Metodo_ANA ja pronto. REALOCADO de terca 11/08 pra quinta 06/08.",
+      "resultado": {
+        "video_id": "1CqNN1VSX6k",
+        "url": "https://youtube.com/watch?v=1CqNN1VSX6k"
+      }
     },
     {
       "id": "METODOANA_S15_FB",
@@ -162,11 +223,16 @@
       "plataforma": "facebook",
       "tipo": "reels",
       "publish_at": "2026-08-06T12:22:00-03:00",
-      "status": "pendente",
+      "status": "agendado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S15_As_Tres_Letras_do_Metodo_ANA.mp4",
       "caption": "Ana não é só o meu nome. É o método que criei pra sair de R$185 mil em dívidas.\n\nAvaliar, Neutralizar, Avançar — matemática, não milagre.",
       "first_comment": "O ebook Mãe, Concursada e Endividada detalha cada fase — link no site da nossa página.",
-      "nota": "VIDEO AINDA NAO EXPORTADO, mesmo video_path do job YT. REALOCADO de terca 11/08 pra quinta 06/08."
+      "nota": "VIDEO AINDA NAO EXPORTADO, mesmo video_path do job YT. REALOCADO de terca 11/08 pra quinta 06/08.",
+      "resultado": {
+        "video_id": "1080373857825711",
+        "agendado": true,
+        "url": "https://www.facebook.com/reel/1080373857825711"
+      }
     },
     {
       "id": "METODOANA_S15_IG",
@@ -178,7 +244,9 @@
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S15_As_Tres_Letras_do_Metodo_ANA.mp4",
       "caption": "A ordem certa pra atacar suas dívidas não é a que você imagina. 👇\n\nAvaliar, Neutralizar, Avançar: as três fases do método que estou usando na minha própria dívida.",
       "first_comment": "Ebook grátis com o passo a passo — link na bio.",
-      "nota": "VIDEO AINDA NAO EXPORTADO, mesmo video_path do job YT. REALOCADO de terca 11/08 pra quinta 06/08."
+      "nota": "VIDEO AINDA NAO EXPORTADO, mesmo video_path do job YT. REALOCADO de terca 11/08 pra quinta 06/08.",
+      "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/instagram/METODOANA_S15_IG_video_S15_As_Tres_Letras_do_Metodo_ANA.mp4",
+      "video_url_nuvem_remoto": "metodoana/instagram/METODOANA_S15_IG_video_S15_As_Tres_Letras_do_Metodo_ANA.mp4"
     },
     {
       "id": "METODOANA_S15_IG_CARROSSEL",
@@ -198,7 +266,25 @@
       ],
       "caption": "A. N. A. não é só o meu nome. É o método que criei pra sair de R$185 mil em dívidas. ✨\n\nAvaliar: mapear cada dívida, taxa e parcelas restantes.\nNeutralizar: eliminar primeiro o que sangra o orçamento agora — rotativo, cheque especial, atraso.\nAvançar: atacar na ordem que realmente economiza dinheiro.\n\nCada letra tem uma fase, e cada fase tem prazo e critério próprio.\n\nSalva esse post — você vai voltar nele mais de uma vez. 💾",
       "first_comment": "Você já sabe em qual das três letras você está agora? Comenta.",
-      "nota": "TAREFA CADENCIA PADRAO (03/08/2026): 3 dos 4 carrosseis do Metodo ANA pra essa semana (S12,S13,S15,S17)."
+      "nota": "TAREFA CADENCIA PADRAO (03/08/2026): 3 dos 4 carrosseis do Metodo ANA pra essa semana (S12,S13,S15,S17).",
+      "image_urls_nuvem": [
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/instagram/METODOANA_S15_IG_CARROSSEL_img0_01.jpg",
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/instagram/METODOANA_S15_IG_CARROSSEL_img1_02.jpg",
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/instagram/METODOANA_S15_IG_CARROSSEL_img2_03.jpg",
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/instagram/METODOANA_S15_IG_CARROSSEL_img3_04.jpg",
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/instagram/METODOANA_S15_IG_CARROSSEL_img4_05.jpg",
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/instagram/METODOANA_S15_IG_CARROSSEL_img5_06.jpg",
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/instagram/METODOANA_S15_IG_CARROSSEL_img6_07.jpg"
+      ],
+      "image_urls_nuvem_remoto": [
+        "metodoana/instagram/METODOANA_S15_IG_CARROSSEL_img0_01.jpg",
+        "metodoana/instagram/METODOANA_S15_IG_CARROSSEL_img1_02.jpg",
+        "metodoana/instagram/METODOANA_S15_IG_CARROSSEL_img2_03.jpg",
+        "metodoana/instagram/METODOANA_S15_IG_CARROSSEL_img3_04.jpg",
+        "metodoana/instagram/METODOANA_S15_IG_CARROSSEL_img4_05.jpg",
+        "metodoana/instagram/METODOANA_S15_IG_CARROSSEL_img5_06.jpg",
+        "metodoana/instagram/METODOANA_S15_IG_CARROSSEL_img6_07.jpg"
+      ]
     },
     {
       "id": "METODOANA_S15_FB_FOTO",
@@ -206,11 +292,16 @@
       "plataforma": "facebook",
       "tipo": "foto",
       "publish_at": "2026-08-06T17:00:00-03:00",
-      "status": "pendente",
+      "status": "agendado",
       "image_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Post Facebook\\04 Imagens Geradas\\02. S15 As Tres Letras do Metodo ANA.jpg",
       "caption": "Muita gente pergunta de onde veio o nome do método que eu sigo pra sair dos R$185 mil que ainda devo.\n\nANA é Avaliar, Neutralizar, Avançar — três fases, cada uma com prazo e critério próprio, sem pular etapa.\n\nEsse carrossel explica cada uma das três fases em detalhe.",
       "first_comment": "Ebook completo com o passo a passo das três fases, no link no site da página.",
-      "nota": "TAREFA CADENCIA PADRAO (03/08/2026): 2 das 4 fotos unicas do Metodo ANA pra essa semana (S13,S15,S16,S17). Mesmo horario do carrossel IG do mesmo conteudo (redes diferentes, sem colisao)."
+      "nota": "TAREFA CADENCIA PADRAO (03/08/2026): 2 das 4 fotos unicas do Metodo ANA pra essa semana (S13,S15,S16,S17). Mesmo horario do carrossel IG do mesmo conteudo (redes diferentes, sem colisao).",
+      "resultado": {
+        "object_id": "122136997815153054",
+        "agendado": true,
+        "url": "https://www.facebook.com/122136997815153054"
+      }
     },
     {
       "id": "FT_V07_YT",
@@ -218,15 +309,25 @@
       "plataforma": "youtube",
       "tipo": "video",
       "publish_at": "2026-08-06T12:45:00-03:00",
-      "status": "pendente",
+      "status": "agendado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V07_FT_dinheiro_some_todo_mes.mp4",
       "thumb_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\03_Estrutura_Canais\\ForjandoTitas\\04-Pack de Postagem\\Thumbnails\\V07_dinheiro_some_todo_mes.jpeg",
       "title": "Pra Onde Vai o Dinheiro Que Some Todo Mês (as 3 Pistas)",
       "description": "Pra homem que recebe, paga as contas, não faz nenhum gasto absurdo, e mesmo assim no fim do mês o número não fecha e ele não consegue apontar o culpado. Esse vídeo é o raio-x desse tipo específico de vazamento financeiro — não é sobre gasto irresponsável, é sobre dinheiro que sai em partes pequenas demais pra o cérebro registrar.\n\nO conteúdo detalha três mecanismos: o Buraco de Ponta de Dedo (gastos pequenos e recorrentes que somados viram milhares de reais por ano), a invisibilidade por categoria (assinaturas esquecidas, taxas bancárias, parcelas sem rosto) e a Drenagem Silenciosa (decisões automáticas de hábito que nunca chegam a virar uma escolha consciente).\n\nTermina com um método simples de trinta dias pra tornar visível o que hoje é invisível, sem planilha complexa nem aplicativo com dezenas de categorias.\n\nConteúdo de diagnóstico financeiro comportamental, direto ao ponto, pra quem trabalha e paga as contas mas não entende pra onde vai o resto.",
-      "tags": ["educação financeira", "microgastos", "orçamento pessoal", "controle financeiro", "dívida"],
+      "tags": [
+        "educação financeira",
+        "microgastos",
+        "orçamento pessoal",
+        "controle financeiro",
+        "dívida"
+      ],
       "category_id": 27,
       "pinned_comment": "Qual é o gasto invisível que você suspeita que mais drena no seu caso — delivery, assinatura esquecida, compra pequena que virou hábito? Deixei um material gratuito com dez armadilhas bancárias e os scripts pra contestar cada uma: https://protocolo-4d.netlify.app/lp-armadilhas",
-      "nota": "4o video do lote de repostagem do Forjando Titas (V04-V09). FT so posta YouTube. Horario 12:45 escolhido por nao colidir com nenhum outro job do dia (12:00/12:02/12:05/12:10/12:12/12:15/12:20/12:22/12:25/12:35 ja ocupados)."
+      "nota": "4o video do lote de repostagem do Forjando Titas (V04-V09). FT so posta YouTube. Horario 12:45 escolhido por nao colidir com nenhum outro job do dia (12:00/12:02/12:05/12:10/12:12/12:15/12:20/12:22/12:25/12:35 ja ocupados).",
+      "resultado": {
+        "video_id": "bybyXe0FSX0",
+        "url": "https://youtube.com/watch?v=bybyXe0FSX0"
+      }
     }
   ]
 }

@@ -2162,5 +2162,120 @@
       "video_id": "XAwXItcYaGA",
       "url": "https://youtube.com/watch?v=XAwXItcYaGA"
     }
+  },
+  "protocolo4d|youtube|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S14_P4D_score_sobe_como.mp4": {
+    "id": "P4D_S14_YT",
+    "canal": "protocolo4d",
+    "plataforma": "youtube",
+    "publish_at": "2026-08-06T08:00:00-03:00",
+    "postado_em_utc": "2026-08-03T11:57:22Z",
+    "resultado": {
+      "video_id": "BrSN4ZCpoqQ",
+      "url": "https://youtube.com/watch?v=BrSN4ZCpoqQ"
+    }
+  },
+  "protocolo4d|facebook|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S14_P4D_score_sobe_como.mp4": {
+    "id": "P4D_S14_FB",
+    "canal": "protocolo4d",
+    "plataforma": "facebook",
+    "publish_at": "2026-08-06T08:02:00-03:00",
+    "postado_em_utc": "2026-08-03T11:58:22Z",
+    "resultado": {
+      "video_id": "982448661486482",
+      "agendado": true,
+      "url": "https://www.facebook.com/reel/982448661486482"
+    }
+  },
+  "protocolo4d|youtube|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S15_P4D_rotativo_o_que_e.mp4": {
+    "id": "P4D_S15_YT",
+    "canal": "protocolo4d",
+    "plataforma": "youtube",
+    "publish_at": "2026-08-06T12:00:00-03:00",
+    "postado_em_utc": "2026-08-03T11:58:45Z",
+    "resultado": {
+      "video_id": "qBWkdA8-WXI",
+      "url": "https://youtube.com/watch?v=qBWkdA8-WXI"
+    }
+  },
+  "protocolo4d|facebook|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S15_P4D_rotativo_o_que_e.mp4": {
+    "id": "P4D_S15_FB",
+    "canal": "protocolo4d",
+    "plataforma": "facebook",
+    "publish_at": "2026-08-06T12:02:00-03:00",
+    "postado_em_utc": "2026-08-03T11:59:18Z",
+    "resultado": {
+      "video_id": "1031220236288887",
+      "agendado": true,
+      "url": "https://www.facebook.com/reel/1031220236288887"
+    }
+  },
+  "metodoana|youtube|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S15_As_Tres_Letras_do_Metodo_ANA.mp4": {
+    "id": "METODOANA_S15_YT",
+    "canal": "metodoana",
+    "plataforma": "youtube",
+    "publish_at": "2026-08-06T12:20:00-03:00",
+    "postado_em_utc": "2026-08-03T11:59:48Z",
+    "resultado": {
+      "video_id": "1CqNN1VSX6k",
+      "url": "https://youtube.com/watch?v=1CqNN1VSX6k"
+    }
+  },
+  "metodoana|facebook|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S15_As_Tres_Letras_do_Metodo_ANA.mp4": {
+    "id": "METODOANA_S15_FB",
+    "canal": "metodoana",
+    "plataforma": "facebook",
+    "publish_at": "2026-08-06T12:22:00-03:00",
+    "postado_em_utc": "2026-08-03T12:00:31Z",
+    "resultado": {
+      "video_id": "1080373857825711",
+      "agendado": true,
+      "url": "https://www.facebook.com/reel/1080373857825711"
+    }
+  },
+  "metodoana|facebook|C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Post Facebook\\04 Imagens Geradas\\02. S15 As Tres Letras do Metodo ANA.jpg": {
+    "id": "METODOANA_S15_FB_FOTO",
+    "canal": "metodoana",
+    "plataforma": "facebook",
+    "publish_at": "2026-08-06T17:00:00-03:00",
+    "postado_em_utc": "2026-08-03T12:01:29Z",
+    "resultado": {
+      "object_id": "122136997815153054",
+      "agendado": true,
+      "url": "https://www.facebook.com/122136997815153054"
+    }
+  },
+  "sacrarium|youtube|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S15_deus_trabalha_em_etapas.mp4": {
+    "id": "SACRARIUM_S15_YT",
+    "canal": "sacrarium",
+    "plataforma": "youtube",
+    "publish_at": "2026-08-06T12:10:00-03:00",
+    "postado_em_utc": "2026-08-03T12:01:53Z",
+    "resultado": {
+      "video_id": "2dOVSNnW41M",
+      "url": "https://youtube.com/watch?v=2dOVSNnW41M"
+    }
+  },
+  "sacrarium|facebook|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S15_deus_trabalha_em_etapas.mp4": {
+    "id": "SACRARIUM_S15_FB",
+    "canal": "sacrarium",
+    "plataforma": "facebook",
+    "publish_at": "2026-08-06T12:12:00-03:00",
+    "postado_em_utc": "2026-08-03T12:02:38Z",
+    "resultado": {
+      "video_id": "1333568892195481",
+      "agendado": true,
+      "url": "https://www.facebook.com/reel/1333568892195481"
+    }
+  },
+  "forjandotitas|youtube|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V07_FT_dinheiro_some_todo_mes.mp4": {
+    "id": "FT_V07_YT",
+    "canal": "forjandotitas",
+    "plataforma": "youtube",
+    "publish_at": "2026-08-06T12:45:00-03:00",
+    "postado_em_utc": "2026-08-03T12:06:28Z",
+    "resultado": {
+      "video_id": "bybyXe0FSX0",
+      "url": "https://youtube.com/watch?v=bybyXe0FSX0"
+    }
   }
 }
