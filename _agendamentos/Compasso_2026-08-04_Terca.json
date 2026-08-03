@@ -142,12 +142,17 @@
       "plataforma": "facebook",
       "tipo": "reels",
       "publish_at": "2026-08-04T12:02:00-03:00",
-      "status": "pendente",
+      "status": "agendado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S11_P4D_diagnostico_em_20_min.mp4",
       "caption": "Quem não sabe exatamente quanto deve já perdeu a primeira batalha.\n\nSão só três números: total das dívidas, o que sobra líquido todo mês, e a soma das parcelas. Vinte minutos e você sai da névoa.",
       "first_comment": "Planilha gratuita do Protocolo 4D pra organizar esses três números — link no site da nossa página.",
       "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/protocolo4d/facebook/P4D_S11_FB_video_S11_P4D_diagnostico_em_20_min.mp4",
-      "video_url_nuvem_remoto": "protocolo4d/facebook/P4D_S11_FB_video_S11_P4D_diagnostico_em_20_min.mp4"
+      "video_url_nuvem_remoto": "protocolo4d/facebook/P4D_S11_FB_video_S11_P4D_diagnostico_em_20_min.mp4",
+      "resultado": {
+        "video_id": "3602905729863432",
+        "agendado": true,
+        "url": "https://www.facebook.com/reel/3602905729863432"
+      }
     },
     {
       "id": "P4D_S11_IG",
@@ -168,13 +173,18 @@
       "plataforma": "facebook",
       "tipo": "foto",
       "publish_at": "2026-08-04T13:30:00-03:00",
-      "status": "pendente",
+      "status": "agendado",
       "image_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Post Facebook\\04 Imagens Geradas\\11. S11 Diagnostico 20 Min.jpg",
       "caption": "Passei anos com a sensação de que devia \"muito\", sem saber o número exato. Foi só quando separei três números — total de dívidas, líquido mensal e soma das parcelas — que enxerguei o campo de batalha de verdade.\n\nSe você também vive nessa névoa, esse carrossel mostra os três números que resolvem isso em vinte minutos.",
       "first_comment": "Planilha gratuita do Protocolo 4D que já organiza esses números por você, no link no site da página. Comenta se travar em algum campo.",
       "nota": "EQUALIZACAO P4D (dobrar ritmo essa semana) - foto unica Facebook correspondente ao short S11.",
       "image_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/protocolo4d/facebook/P4D_S11_FB_FOTO_imagem_11. S11 Diagnostico 20 Min.jpg",
-      "image_url_nuvem_remoto": "protocolo4d/facebook/P4D_S11_FB_FOTO_imagem_11. S11 Diagnostico 20 Min.jpg"
+      "image_url_nuvem_remoto": "protocolo4d/facebook/P4D_S11_FB_FOTO_imagem_11. S11 Diagnostico 20 Min.jpg",
+      "resultado": {
+        "object_id": "122113239513394338",
+        "agendado": true,
+        "url": "https://www.facebook.com/122113239513394338"
+      }
     },
     {
       "id": "P4D_S11_IG_CARROSSEL",
@@ -219,7 +229,7 @@
       "plataforma": "youtube",
       "tipo": "video",
       "publish_at": "2026-08-04T12:35:00-03:00",
-      "status": "pendente",
+      "status": "agendado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V8_PT_NAPROPRIAPELE_Ejeção_supersônica_O_corp.mp4",
       "thumb_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\03_Estrutura_Canais\\Na Propria Pele\\04-Pack de Postagem\\Thumbnails\\NPPV8.png",
       "title": "Ejeção Supersônica: O Corpo Humano a 800 km/h no Ar",
@@ -235,7 +245,11 @@
       "pinned_comment": "Você sabia que o instinto de cerrar os dentes no momento do impacto é o que impede o ar de destruir os pulmões por dentro? A biologia decide antes da mente. Comenta aqui o que mais te chocou nesse episódio.",
       "nota": "NPP so posta YouTube. REALOCADO 2026-08-03: movido de 05/08 19:30 pra cadencia fixa ter/qui 12h (nova regra da Jaqueline), horario 12:35 escolhido por nao colidir com nenhum outro job do dia.",
       "thumb_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/napropriapele/youtube/NPP_V8_YT_thumb_NPPV8.png",
-      "thumb_url_nuvem_remoto": "napropriapele/youtube/NPP_V8_YT_thumb_NPPV8.png"
+      "thumb_url_nuvem_remoto": "napropriapele/youtube/NPP_V8_YT_thumb_NPPV8.png",
+      "resultado": {
+        "video_id": "zKKW6FE2TjI",
+        "url": "https://youtube.com/watch?v=zKKW6FE2TjI"
+      }
     },
     {
       "id": "SACRARIUM_S13_YT",
@@ -243,7 +257,7 @@
       "plataforma": "youtube",
       "tipo": "reels",
       "publish_at": "2026-08-04T12:10:00-03:00",
-      "status": "pendente",
+      "status": "agendado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S13_vida_espiritual_e_jardim.mp4",
       "title": "A Vida Espiritual Não É Uma Corrida. É Um Jardim",
       "description": "Corrida tem linha de chegada — quem chega primeiro vence, e a comparação com quem está atrás faz sentido. A vida espiritual não funciona assim. Ela é um jardim.\n\nEste vídeo explica por que vários santos — Santa Teresa de Ávila, São João da Cruz, São Francisco de Sales — recorreram à mesma imagem do jardim pra falar de vida espiritual: porque ela é honesta sobre o tempo, sobre a paciência e sobre o papel de quem cuida, que não controla o crescimento, só cria as condições pra ele acontecer.\n\nUm vídeo pra quem mede o próprio progresso espiritual pela régua errada — como se fosse uma corrida com linha de chegada, em vez de um cultivo diário.\n\nFoi inspirado nessa imagem que o Sacrarium nasceu: uma jornada de formação espiritual que não pune quem para, só espera quem volta.\n\nSe você deseja caminhar com essa paciência, conheça o Sacrarium.",
@@ -258,7 +272,11 @@
       "pinned_comment": "Seu jardim interior está sendo regado com que frequência essa semana? Conta aqui embaixo, sem julgamento.\nO Sacrarium existe pra quem quer cultivar esse jardim com presença regular, não com esforço de uma tarde só.\nConheça: https://sacrarium-app.netlify.app/",
       "nota": "VIDEO AINDA NAO EXPORTADO - job montado a partir do pack S13_vida_espiritual_e_jardim ja pronto. SEM THUMBNAIL PRONTA (so S16 tem thumbnail gerada entre S13-S17 do Sacrarium). REALOCADO 2026-08-03: movido de sabado 08/08 pra terca 04/08, pra cumprir pedido da Jaqueline de 1 short/dia Sacrarium+MetodoANA de segunda a sabado (S12=seg, S13=ter, S14=qua, S15=qui, S16=sex, S17=sab).",
       "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/youtube/SACRARIUM_S13_YT_video_S13_vida_espiritual_e_jardim.mp4",
-      "video_url_nuvem_remoto": "sacrarium/youtube/SACRARIUM_S13_YT_video_S13_vida_espiritual_e_jardim.mp4"
+      "video_url_nuvem_remoto": "sacrarium/youtube/SACRARIUM_S13_YT_video_S13_vida_espiritual_e_jardim.mp4",
+      "resultado": {
+        "video_id": "LG2LiyQgkWc",
+        "url": "https://youtube.com/watch?v=LG2LiyQgkWc"
+      }
     },
     {
       "id": "SACRARIUM_S13_FB",
@@ -266,13 +284,18 @@
       "plataforma": "facebook",
       "tipo": "reels",
       "publish_at": "2026-08-04T12:12:00-03:00",
-      "status": "pendente",
+      "status": "agendado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S13_vida_espiritual_e_jardim.mp4",
       "caption": "Vida espiritual não é corrida, é jardim.\n\nSanta Teresa de Ávila, São João da Cruz e São Francisco de Sales usaram essa mesma imagem: o que importa é o cuidado diário, não a linha de chegada.",
       "first_comment": "O Sacrarium existe pra te ajudar a cultivar esse jardim com constância — link no site da nossa página.",
       "nota": "VIDEO AINDA NAO EXPORTADO, mesmo video_path do job YT. REALOCADO de sabado 08/08 pra terca 04/08.",
       "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/facebook/SACRARIUM_S13_FB_video_S13_vida_espiritual_e_jardim.mp4",
-      "video_url_nuvem_remoto": "sacrarium/facebook/SACRARIUM_S13_FB_video_S13_vida_espiritual_e_jardim.mp4"
+      "video_url_nuvem_remoto": "sacrarium/facebook/SACRARIUM_S13_FB_video_S13_vida_espiritual_e_jardim.mp4",
+      "resultado": {
+        "video_id": "1839154760582755",
+        "agendado": true,
+        "url": "https://www.facebook.com/reel/1839154760582755"
+      }
     },
     {
       "id": "SACRARIUM_S13_IG",
@@ -294,7 +317,7 @@
       "plataforma": "youtube",
       "tipo": "reels",
       "publish_at": "2026-08-04T12:20:00-03:00",
-      "status": "pendente",
+      "status": "agendado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S13_O_que_e_o_DED.mp4",
       "thumb_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\03_Estrutura_Canais\\MetodoANA\\04-Pack de Postagem\\Thumbnails\\Geradas\\S13 Documento Secreto Teste A.jpg",
       "title": "O Documento Que o Banco é Obrigado a Te Entregar (E Quase Ninguém Pede)",
@@ -312,7 +335,11 @@
       "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/youtube/METODOANA_S13_YT_video_S13_O_que_e_o_DED.mp4",
       "video_url_nuvem_remoto": "metodoana/youtube/METODOANA_S13_YT_video_S13_O_que_e_o_DED.mp4",
       "thumb_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/youtube/METODOANA_S13_YT_thumb_S13 Documento Secreto Teste A.jpg",
-      "thumb_url_nuvem_remoto": "metodoana/youtube/METODOANA_S13_YT_thumb_S13 Documento Secreto Teste A.jpg"
+      "thumb_url_nuvem_remoto": "metodoana/youtube/METODOANA_S13_YT_thumb_S13 Documento Secreto Teste A.jpg",
+      "resultado": {
+        "video_id": "gwU5WNfc-MQ",
+        "url": "https://youtube.com/watch?v=gwU5WNfc-MQ"
+      }
     },
     {
       "id": "METODOANA_S13_FB",
@@ -320,13 +347,18 @@
       "plataforma": "facebook",
       "tipo": "reels",
       "publish_at": "2026-08-04T12:22:00-03:00",
-      "status": "pendente",
+      "status": "agendado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S13_O_que_e_o_DED.mp4",
       "caption": "Existe um documento que o banco é obrigado a te dar, e quase ninguém pede: o DED.\n\nEle mostra mês a mês como sua dívida evoluiu — e é ali que dá pra achar seguro embutido ou cobrança irregular.",
       "first_comment": "O ebook Mãe, Concursada e Endividada explica como usar o DED a seu favor — link no site da nossa página.",
       "nota": "VIDEO AINDA NAO EXPORTADO, mesmo video_path do job YT. REALOCADO de sabado 08/08 pra terca 04/08.",
       "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/facebook/METODOANA_S13_FB_video_S13_O_que_e_o_DED.mp4",
-      "video_url_nuvem_remoto": "metodoana/facebook/METODOANA_S13_FB_video_S13_O_que_e_o_DED.mp4"
+      "video_url_nuvem_remoto": "metodoana/facebook/METODOANA_S13_FB_video_S13_O_que_e_o_DED.mp4",
+      "resultado": {
+        "video_id": "2439894006501429",
+        "agendado": true,
+        "url": "https://www.facebook.com/reel/2439894006501429"
+      }
     },
     {
       "id": "METODOANA_S13_IG",
@@ -386,13 +418,18 @@
       "plataforma": "facebook",
       "tipo": "foto",
       "publish_at": "2026-08-04T18:00:00-03:00",
-      "status": "pendente",
+      "status": "agendado",
       "image_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Post Facebook\\04 Imagens Geradas\\01. S13 O que e o DED.jpg",
       "caption": "Só fui descobrir depois de anos que existe um documento que o banco é obrigado a me entregar mostrando cada centavo cobrado: o D-E-D, Demonstrativo de Evolução da Dívida.\n\nCom ele dá pra achar seguro embutido não contratado ou I-O-F calculado errado.\n\nCompartilha com quem está numa negociação de dívida agora.",
       "first_comment": "Guia gratuito com o passo a passo pra pedir esse documento, no link no site da página.",
       "nota": "TAREFA CADENCIA PADRAO (03/08/2026): 1 dos 4 fotos unicas do Metodo ANA pra essa semana (S13,S15,S16,S17 - unicos com imagem gerada em 'Post Facebook\\04 Imagens Geradas'; S12 e S14 nao tem imagem de foto unica). Mesmo horario do carrossel IG do mesmo conteudo (redes diferentes, sem colisao).",
       "image_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/facebook/METODOANA_S13_FB_FOTO_imagem_01. S13 O que e o DED.jpg",
-      "image_url_nuvem_remoto": "metodoana/facebook/METODOANA_S13_FB_FOTO_imagem_01. S13 O que e o DED.jpg"
+      "image_url_nuvem_remoto": "metodoana/facebook/METODOANA_S13_FB_FOTO_imagem_01. S13 O que e o DED.jpg",
+      "resultado": {
+        "object_id": "122136992391153054",
+        "agendado": true,
+        "url": "https://www.facebook.com/122136992391153054"
+      }
     },
     {
       "id": "FT_V05_YT",
@@ -400,7 +437,7 @@
       "plataforma": "youtube",
       "tipo": "video",
       "publish_at": "2026-08-04T12:45:00-03:00",
-      "status": "pendente",
+      "status": "agendado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V05_FT_trabalhar_muito_continuar_pobre.mp4",
       "thumb_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\03_Estrutura_Canais\\ForjandoTitas\\04-Pack de Postagem\\Thumbnails\\V05_trabalhar_muito_continuar_pobre.jpg",
       "title": "A Corrida da Esteira: O Motivo de Você Ganhar Mais e Nunca Sobrar Nada",
@@ -416,7 +453,11 @@
       "pinned_comment": "Pega sua renda de três anos atrás e compara com a de hoje. Agora compara o que sobrava então com o que sobra agora. Se a sobra não cresceu junto, você tá na Corrida da Esteira. Tem um diagnóstico gratuito de 5 minutos pra mapear seu padrão: https://protocolo-4d.netlify.app/lp-quiz",
       "nota": "2o video do lote de repostagem do Forjando Titas (V04-V09). FT so posta YouTube. Horario 12:45 escolhido por nao colidir com nenhum outro job do dia (12:00/12:02/12:05/12:10/12:12/12:15/12:20/12:22/12:25/12:35 ja ocupados).",
       "thumb_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/forjandotitas/youtube/FT_V05_YT_thumb_V05_trabalhar_muito_continuar_pobre.jpg",
-      "thumb_url_nuvem_remoto": "forjandotitas/youtube/FT_V05_YT_thumb_V05_trabalhar_muito_continuar_pobre.jpg"
+      "thumb_url_nuvem_remoto": "forjandotitas/youtube/FT_V05_YT_thumb_V05_trabalhar_muito_continuar_pobre.jpg",
+      "resultado": {
+        "video_id": "WcLTibjMy1g",
+        "url": "https://youtube.com/watch?v=WcLTibjMy1g"
+      }
     }
   ]
 }

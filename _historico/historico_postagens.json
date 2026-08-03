@@ -1886,5 +1886,109 @@
       "video_id": "c105fWnpoGo",
       "url": "https://youtube.com/watch?v=c105fWnpoGo"
     }
+  },
+  "protocolo4d|facebook|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S11_P4D_diagnostico_em_20_min.mp4": {
+    "id": "P4D_S11_FB",
+    "canal": "protocolo4d",
+    "plataforma": "facebook",
+    "publish_at": "2026-08-04T12:02:00-03:00",
+    "postado_em_utc": "2026-08-03T11:11:26Z",
+    "resultado": {
+      "video_id": "3602905729863432",
+      "agendado": true,
+      "url": "https://www.facebook.com/reel/3602905729863432"
+    }
+  },
+  "protocolo4d|facebook|C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Post Facebook\\04 Imagens Geradas\\11. S11 Diagnostico 20 Min.jpg": {
+    "id": "P4D_S11_FB_FOTO",
+    "canal": "protocolo4d",
+    "plataforma": "facebook",
+    "publish_at": "2026-08-04T13:30:00-03:00",
+    "postado_em_utc": "2026-08-03T11:11:56Z",
+    "resultado": {
+      "object_id": "122113239513394338",
+      "agendado": true,
+      "url": "https://www.facebook.com/122113239513394338"
+    }
+  },
+  "metodoana|youtube|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S13_O_que_e_o_DED.mp4": {
+    "id": "METODOANA_S13_YT",
+    "canal": "metodoana",
+    "plataforma": "youtube",
+    "publish_at": "2026-08-04T12:20:00-03:00",
+    "postado_em_utc": "2026-08-03T11:12:23Z",
+    "resultado": {
+      "video_id": "gwU5WNfc-MQ",
+      "url": "https://youtube.com/watch?v=gwU5WNfc-MQ"
+    }
+  },
+  "metodoana|facebook|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S13_O_que_e_o_DED.mp4": {
+    "id": "METODOANA_S13_FB",
+    "canal": "metodoana",
+    "plataforma": "facebook",
+    "publish_at": "2026-08-04T12:22:00-03:00",
+    "postado_em_utc": "2026-08-03T11:13:10Z",
+    "resultado": {
+      "video_id": "2439894006501429",
+      "agendado": true,
+      "url": "https://www.facebook.com/reel/2439894006501429"
+    }
+  },
+  "metodoana|facebook|C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Post Facebook\\04 Imagens Geradas\\01. S13 O que e o DED.jpg": {
+    "id": "METODOANA_S13_FB_FOTO",
+    "canal": "metodoana",
+    "plataforma": "facebook",
+    "publish_at": "2026-08-04T18:00:00-03:00",
+    "postado_em_utc": "2026-08-03T11:14:07Z",
+    "resultado": {
+      "object_id": "122136992391153054",
+      "agendado": true,
+      "url": "https://www.facebook.com/122136992391153054"
+    }
+  },
+  "sacrarium|youtube|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S13_vida_espiritual_e_jardim.mp4": {
+    "id": "SACRARIUM_S13_YT",
+    "canal": "sacrarium",
+    "plataforma": "youtube",
+    "publish_at": "2026-08-04T12:10:00-03:00",
+    "postado_em_utc": "2026-08-03T11:14:30Z",
+    "resultado": {
+      "video_id": "LG2LiyQgkWc",
+      "url": "https://youtube.com/watch?v=LG2LiyQgkWc"
+    }
+  },
+  "sacrarium|facebook|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S13_vida_espiritual_e_jardim.mp4": {
+    "id": "SACRARIUM_S13_FB",
+    "canal": "sacrarium",
+    "plataforma": "facebook",
+    "publish_at": "2026-08-04T12:12:00-03:00",
+    "postado_em_utc": "2026-08-03T11:15:16Z",
+    "resultado": {
+      "video_id": "1839154760582755",
+      "agendado": true,
+      "url": "https://www.facebook.com/reel/1839154760582755"
+    }
+  },
+  "forjandotitas|youtube|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V05_FT_trabalhar_muito_continuar_pobre.mp4": {
+    "id": "FT_V05_YT",
+    "canal": "forjandotitas",
+    "plataforma": "youtube",
+    "publish_at": "2026-08-04T12:45:00-03:00",
+    "postado_em_utc": "2026-08-03T11:18:57Z",
+    "resultado": {
+      "video_id": "WcLTibjMy1g",
+      "url": "https://youtube.com/watch?v=WcLTibjMy1g"
+    }
+  },
+  "napropriapele|youtube|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V8_PT_NAPROPRIAPELE_Ejeção_supersônica_O_corp.mp4": {
+    "id": "NPP_V8_YT",
+    "canal": "napropriapele",
+    "plataforma": "youtube",
+    "publish_at": "2026-08-04T12:35:00-03:00",
+    "postado_em_utc": "2026-08-03T11:24:17Z",
+    "resultado": {
+      "video_id": "zKKW6FE2TjI",
+      "url": "https://youtube.com/watch?v=zKKW6FE2TjI"
+    }
   }
 }
