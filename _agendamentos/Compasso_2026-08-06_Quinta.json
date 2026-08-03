@@ -119,7 +119,7 @@
       "plataforma": "youtube",
       "tipo": "video",
       "publish_at": "2026-08-06T12:35:00-03:00",
-      "status": "erro: [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto",
+      "status": "agendado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V9_PT_NAPROPRIAPELE_Parada_cardíaca_em_campo_.mp4",
       "thumb_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\03_Estrutura_Canais\\Na Propria Pele\\04-Pack de Postagem\\Thumbnails\\NPPV9.png",
       "title": "Parada Cardíaca em Campo: Os 6 Minutos Que Definem Tudo",
@@ -133,7 +133,11 @@
       ],
       "category_id": 27,
       "pinned_comment": "Você sabe fazer RCP? Se não sabe, vale a pena aprender — é o tipo de conhecimento que decide se alguém chega ou não aos seis minutos. Comenta aqui se você já precisou usar (ou gostaria de saber usar).",
-      "nota": "NPP so posta YouTube. REALOCADO 2026-08-03: movido de 07/08 19:30 pra cadencia fixa ter/qui 12h (nova regra da Jaqueline), horario 12:35 escolhido por nao colidir com nenhum outro job do dia."
+      "nota": "NPP so posta YouTube. REALOCADO 2026-08-03: movido de 07/08 19:30 pra cadencia fixa ter/qui 12h (nova regra da Jaqueline), horario 12:35 escolhido por nao colidir com nenhum outro job do dia.",
+      "resultado": {
+        "video_id": "XcX293oVp7M",
+        "url": "https://youtube.com/watch?v=XcX293oVp7M"
+      }
     },
     {
       "id": "SACRARIUM_S15_YT",

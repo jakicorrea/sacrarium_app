@@ -2518,5 +2518,16 @@
       "video_id": "tVjufW2NoCk",
       "url": "https://youtube.com/watch?v=tVjufW2NoCk"
     }
+  },
+  "napropriapele|youtube|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V9_PT_NAPROPRIAPELE_Parada_cardíaca_em_campo_.mp4": {
+    "id": "NPP_V9_YT",
+    "canal": "napropriapele",
+    "plataforma": "youtube",
+    "publish_at": "2026-08-06T12:35:00-03:00",
+    "postado_em_utc": "2026-08-03T14:07:47Z",
+    "resultado": {
+      "video_id": "XcX293oVp7M",
+      "url": "https://youtube.com/watch?v=XcX293oVp7M"
+    }
   }
 }
