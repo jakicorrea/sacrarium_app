@@ -1,0 +1,312 @@
+{
+  "lote": "Terca 04/08/2026 - P4D S10+S11 (equalizacao P4D - 2 shorts/dia) + Na Propria Pele V8 (nova cadencia fixa ter/qui 12h, movido de 05/08 19h30)",
+  "jobs": [
+    {
+      "id": "P4D_S10_YT",
+      "canal": "protocolo4d",
+      "plataforma": "youtube",
+      "tipo": "reels",
+      "publish_at": "2026-08-04T08:00:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S10_P4D_limite_nao_e_sua_renda.mp4",
+      "title": "Limite do Cartão Não É Sua Renda",
+      "description": "O banco aumentou o limite do seu cartão sem você pedir? Isso não é reconhecimento. É isca.\n\nNeste short, eu explico por que o limite do cartão não é sua renda — é crédito que o banco disponibiliza pra lucrar em cima do juro quando você não fecha a fatura inteira. E mostro como calibrar um limite que realmente cabe no seu bolso, sem prejudicar o score.\n\nConteúdo direto, pensado pra homem que usa o limite todo mês e nunca parou pra pensar se aquele valor faz sentido pra renda que ele realmente tem.\n\nSe você já comemorou um aumento de limite sem parar pra pensar no motivo, esse vídeo é pra você.\n\nEu falo de trincheira, não de palco: sem termo técnico, sem enrolação, sem coach de plantão. Só o que o banco não te conta sobre o próprio limite.",
+      "tags": [
+        "educação financeira masculina",
+        "limite de cartão",
+        "score de crédito",
+        "Protocolo 4D",
+        "armadilhas bancárias"
+      ],
+      "category_id": 27,
+      "pinned_comment": "Limite de cartão é uma das dez armadilhas bancárias que a maioria não percebe. Deixei aqui embaixo o Ebook gratuito com o passo a passo de como calibrar o seu: https://protocolo-4d.netlify.app/lp-armadilhas",
+      "nota": "Removido por pedido da Jaqueline (03/08/2026): link do FT pro tema de S10 nao existe ainda (candidato 'V45_FT_score_de_credito' nunca foi produzido), decidiu postar sem o CTA de link FT em vez de deixar placeholder. SEM THUMBNAIL PRONTA tambem. EQUALIZACAO P4D: movido de 05/08 pra 04/08 (short da manha) pra caber todo o P4D S08-S17 ate sabado 08/08."
+    },
+    {
+      "id": "P4D_S10_FB",
+      "canal": "protocolo4d",
+      "plataforma": "facebook",
+      "tipo": "reels",
+      "publish_at": "2026-08-04T08:02:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S10_P4D_limite_nao_e_sua_renda.mp4",
+      "caption": "O banco subiu seu limite sem você pedir? Isso não é elogio.\n\nLimite de cartão não é renda — é crédito disponível pro banco lucrar quando a fatura não fecha inteira.",
+      "first_comment": "Ebook das dez Armadilhas Bancárias, com o passo a passo pra calibrar seu limite — link no site da nossa página."
+    },
+    {
+      "id": "P4D_S10_IG",
+      "canal": "protocolo4d",
+      "plataforma": "instagram",
+      "tipo": "reels",
+      "publish_at": "2026-08-04T08:05:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S10_P4D_limite_nao_e_sua_renda.mp4",
+      "caption": "Limite alto não é sinal de saúde financeira. É isca. 👇\n\nO cartão que sobe sozinho quer que você gaste mais do que sua renda aguenta.",
+      "first_comment": "Ebook grátis das dez Armadilhas Bancárias — link na bio."
+    },
+    {
+      "id": "P4D_S10_FB_FOTO",
+      "canal": "protocolo4d",
+      "plataforma": "facebook",
+      "tipo": "foto",
+      "publish_at": "2026-08-04T09:30:00-03:00",
+      "status": "pendente",
+      "image_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Post Facebook\\04 Imagens Geradas\\10. S10 Limite Nao E Sua Renda.jpg",
+      "caption": "Aumento de limite de cartão é vendido como elogio, mas é isca: o banco só ganha quando você usa tudo e não fecha a fatura inteira.\n\nEsse carrossel mostra como calibrar seu limite sem mexer no score.",
+      "first_comment": "Deixei aqui embaixo o Ebook das 10 Armadilhas Bancárias, gratuito, no link no site da página.",
+      "nota": "EQUALIZACAO P4D (dobrar ritmo essa semana) - foto unica Facebook correspondente ao short S10."
+    },
+    {
+      "id": "P4D_S10_IG_CARROSSEL",
+      "canal": "protocolo4d",
+      "plataforma": "instagram",
+      "tipo": "carrossel",
+      "publish_at": "2026-08-04T17:00:00-03:00",
+      "status": "pendente",
+      "image_paths": [
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Protocolo4D_S10\\01.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Protocolo4D_S10\\02.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Protocolo4D_S10\\03.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Protocolo4D_S10\\04.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Protocolo4D_S10\\05.jpg"
+      ],
+      "caption": "Seu banco aumentou seu limite e você comemorou? 👇\n\nIsso não é elogio. É isca — o banco só lucra quando você usa o limite todo e não fecha a fatura inteira.\n\nLimite calibrado certo é o valor que você paga integral no pior mês do ano, não o máximo liberado.\n\nSalva esse post antes de comemorar o próximo aumento.",
+      "first_comment": "Você já pediu redução de limite voluntária? Conta se já fez isso."
+    },
+    {
+      "id": "P4D_S11_YT",
+      "canal": "protocolo4d",
+      "plataforma": "youtube",
+      "tipo": "reels",
+      "publish_at": "2026-08-04T12:00:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S11_P4D_diagnostico_em_20_min.mp4",
+      "title": "O Diagnóstico da Sua Dívida Leva Só Vinte Minutos",
+      "description": "O cara que não sabe exatamente o que deve já perdeu a primeira batalha. E resolver isso leva só vinte minutos.\n\nNeste short, eu mostro os três únicos números que você precisa levantar pra sair da névoa: a soma de todas as dívidas com credor, saldo e taxa de juros; o que cai líquido na conta todo mês; e a soma de todas as parcelas de dívida. Com esses três números você já sabe onde começa o ataque de verdade.\n\nConteúdo direto, pensado pra homem que sente que a dívida é grande demais pra olhar de frente e por isso nunca fez as contas.\n\nSe você nunca parou vinte minutos pra somar exatamente quanto deve, esse vídeo é pra você.\n\nEu falo de trincheira, não de palco: sem planilha complicada, sem coach de plantão. Só os três números que importam.\n\nAssista ao vídeo completo sobre esse tema no Canal Forjando Titãs: https://youtu.be/XRN6Xw_LZ10",
+      "tags": [
+        "educação financeira masculina",
+        "diagnóstico financeiro",
+        "Protocolo 4D",
+        "sair das dívidas",
+        "finanças para homens"
+      ],
+      "category_id": 27,
+      "pinned_comment": "Vinte minutos e você sai com um diagnóstico real. Deixei aqui embaixo a Planilha do Protocolo 4D pra você preencher os três números e organizar a prioridade de ataque, gratuita: https://protocolo-4d.netlify.app/lp-planilha",
+      "nota": "SEM THUMBNAIL PRONTA pra S11. EQUALIZACAO P4D: movido de 06/08 pra 04/08 (short do meio-dia) pra caber todo o P4D S08-S17 ate sabado 08/08."
+    },
+    {
+      "id": "P4D_S11_FB",
+      "canal": "protocolo4d",
+      "plataforma": "facebook",
+      "tipo": "reels",
+      "publish_at": "2026-08-04T12:02:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S11_P4D_diagnostico_em_20_min.mp4",
+      "caption": "Quem não sabe exatamente quanto deve já perdeu a primeira batalha.\n\nSão só três números: total das dívidas, o que sobra líquido todo mês, e a soma das parcelas. Vinte minutos e você sai da névoa.",
+      "first_comment": "Planilha gratuita do Protocolo 4D pra organizar esses três números — link no site da nossa página."
+    },
+    {
+      "id": "P4D_S11_IG",
+      "canal": "protocolo4d",
+      "plataforma": "instagram",
+      "tipo": "reels",
+      "publish_at": "2026-08-04T12:05:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S11_P4D_diagnostico_em_20_min.mp4",
+      "caption": "Você sabe o tamanho real da sua dívida? 👇\n\nTrês números. Vinte minutos. Chega de andar no escuro sem saber quanto deve de verdade.",
+      "first_comment": "Planilha gratuita — link na bio."
+    },
+    {
+      "id": "P4D_S11_FB_FOTO",
+      "canal": "protocolo4d",
+      "plataforma": "facebook",
+      "tipo": "foto",
+      "publish_at": "2026-08-04T13:30:00-03:00",
+      "status": "pendente",
+      "image_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Post Facebook\\04 Imagens Geradas\\11. S11 Diagnostico 20 Min.jpg",
+      "caption": "Passei anos com a sensação de que devia \"muito\", sem saber o número exato. Foi só quando separei três números — total de dívidas, líquido mensal e soma das parcelas — que enxerguei o campo de batalha de verdade.\n\nSe você também vive nessa névoa, esse carrossel mostra os três números que resolvem isso em vinte minutos.",
+      "first_comment": "Planilha gratuita do Protocolo 4D que já organiza esses números por você, no link no site da página. Comenta se travar em algum campo.",
+      "nota": "EQUALIZACAO P4D (dobrar ritmo essa semana) - foto unica Facebook correspondente ao short S11."
+    },
+    {
+      "id": "P4D_S11_IG_CARROSSEL",
+      "canal": "protocolo4d",
+      "plataforma": "instagram",
+      "tipo": "carrossel",
+      "publish_at": "2026-08-04T17:30:00-03:00",
+      "status": "pendente",
+      "image_paths": [
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Protocolo4D_S11\\01.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Protocolo4D_S11\\02.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Protocolo4D_S11\\03.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Protocolo4D_S11\\04.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Protocolo4D_S11\\05.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Protocolo4D_S11\\06.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Protocolo4D_S11\\07.jpg"
+      ],
+      "caption": "Você não sabe exatamente quanto deve. Só sente que é muito. 👇\n\nIsso se resolve em vinte minutos, com três números: soma de cada dívida com credor, saldo e taxa; o que cai líquido na sua conta todo mês; e a soma de todas as parcelas de dívida que saem por mês.\n\nCom esses três números você vê onde o ataque de verdade precisa começar.\n\nSalva esse post antes de decidir qualquer coisa sobre sua dívida. 💾",
+      "first_comment": "Você sabe de cabeça os três números? Responde aqui."
+    },
+    {
+      "id": "NPP_V8_YT",
+      "canal": "napropriapele",
+      "plataforma": "youtube",
+      "tipo": "video",
+      "publish_at": "2026-08-04T12:35:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V8_PT_NAPROPRIAPELE_Ejeção_supersônica_O_corp.mp4",
+      "thumb_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\03_Estrutura_Canais\\Na Propria Pele\\04-Pack de Postagem\\Thumbnails\\NPPV8.png",
+      "title": "Ejeção Supersônica: O Corpo Humano a 800 km/h no Ar",
+      "description": "Uma falha de flutter na asa de um caça experimental deixa apenas uma saída: puxar a alça de ejeção a Mach 1.2, quase 1.500 quilômetros por hora. Este vídeo reconstrói, segundo a segundo, o que acontece com a coluna, os ombros e os olhos de um piloto quando o próprio ar deixa de ser um fluido e passa a se comportar como uma parede sólida.\n\nNa Própria Pele é um canal de relatos em primeira pessoa sobre situações extremas de sobrevivência, contados do ponto de vista de quem vive o colapso fisiológico por dentro. Não é uma aula sobre o corpo humano — é uma experiência imersiva de como a biologia reage quando levada ao limite absoluto, baseada em relatórios reais de segurança da Força Aérea e da Marinha e em manuais de medicina aeroespacial, incluindo o caso histórico de Bill Weaver, sobrevivente da desintegração de um SR-71 Blackbird em 1966.\n\nSe você já sentiu o vento empurrar sua mão pela janela de um carro em alta velocidade, este vídeo mostra o que acontece quando essa mesma força é multiplicada centenas de vezes e aplicada ao corpo inteiro.",
+      "tags": [
+        "sobrevivência extrema",
+        "corpo humano",
+        "medicina aeroespacial",
+        "Na Própria Pele",
+        "limites humanos"
+      ],
+      "category_id": 27,
+      "pinned_comment": "Você sabia que o instinto de cerrar os dentes no momento do impacto é o que impede o ar de destruir os pulmões por dentro? A biologia decide antes da mente. Comenta aqui o que mais te chocou nesse episódio.",
+      "nota": "NPP so posta YouTube. REALOCADO 2026-08-03: movido de 05/08 19:30 pra cadencia fixa ter/qui 12h (nova regra da Jaqueline), horario 12:35 escolhido por nao colidir com nenhum outro job do dia."
+    },
+    {
+      "id": "SACRARIUM_S13_YT",
+      "canal": "sacrarium",
+      "plataforma": "youtube",
+      "tipo": "reels",
+      "publish_at": "2026-08-04T12:10:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S13_vida_espiritual_e_jardim.mp4",
+      "title": "A Vida Espiritual Não É Uma Corrida. É Um Jardim",
+      "description": "Corrida tem linha de chegada — quem chega primeiro vence, e a comparação com quem está atrás faz sentido. A vida espiritual não funciona assim. Ela é um jardim.\n\nEste vídeo explica por que vários santos — Santa Teresa de Ávila, São João da Cruz, São Francisco de Sales — recorreram à mesma imagem do jardim pra falar de vida espiritual: porque ela é honesta sobre o tempo, sobre a paciência e sobre o papel de quem cuida, que não controla o crescimento, só cria as condições pra ele acontecer.\n\nUm vídeo pra quem mede o próprio progresso espiritual pela régua errada — como se fosse uma corrida com linha de chegada, em vez de um cultivo diário.\n\nFoi inspirado nessa imagem que o Sacrarium nasceu: uma jornada de formação espiritual que não pune quem para, só espera quem volta.\n\nSe você deseja caminhar com essa paciência, conheça o Sacrarium.",
+      "tags": [
+        "oração católica",
+        "vida espiritual",
+        "formação espiritual",
+        "santos católicos",
+        "Sacrarium"
+      ],
+      "category_id": 27,
+      "pinned_comment": "Seu jardim interior está sendo regado com que frequência essa semana? Conta aqui embaixo, sem julgamento.\nO Sacrarium existe pra quem quer cultivar esse jardim com presença regular, não com esforço de uma tarde só.\nConheça: https://sacrarium-app.netlify.app/",
+      "nota": "VIDEO AINDA NAO EXPORTADO - job montado a partir do pack S13_vida_espiritual_e_jardim ja pronto. SEM THUMBNAIL PRONTA (so S16 tem thumbnail gerada entre S13-S17 do Sacrarium). REALOCADO 2026-08-03: movido de sabado 08/08 pra terca 04/08, pra cumprir pedido da Jaqueline de 1 short/dia Sacrarium+MetodoANA de segunda a sabado (S12=seg, S13=ter, S14=qua, S15=qui, S16=sex, S17=sab)."
+    },
+    {
+      "id": "SACRARIUM_S13_FB",
+      "canal": "sacrarium",
+      "plataforma": "facebook",
+      "tipo": "reels",
+      "publish_at": "2026-08-04T12:12:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S13_vida_espiritual_e_jardim.mp4",
+      "caption": "Vida espiritual não é corrida, é jardim.\n\nSanta Teresa de Ávila, São João da Cruz e São Francisco de Sales usaram essa mesma imagem: o que importa é o cuidado diário, não a linha de chegada.",
+      "first_comment": "O Sacrarium existe pra te ajudar a cultivar esse jardim com constância — link no site da nossa página.",
+      "nota": "VIDEO AINDA NAO EXPORTADO, mesmo video_path do job YT. REALOCADO de sabado 08/08 pra terca 04/08."
+    },
+    {
+      "id": "SACRARIUM_S13_IG",
+      "canal": "sacrarium",
+      "plataforma": "instagram",
+      "tipo": "reels",
+      "publish_at": "2026-08-04T12:15:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S13_vida_espiritual_e_jardim.mp4",
+      "caption": "Sua vida espiritual não é uma corrida com linha de chegada. 👇\n\nÉ um jardim — precisa de tempo, paciência e cuidado repetido, não de esforço de um dia só.",
+      "first_comment": "Conheça o Sacrarium — link na bio.",
+      "nota": "VIDEO AINDA NAO EXPORTADO, mesmo video_path do job YT. REALOCADO de sabado 08/08 pra terca 04/08."
+    },
+    {
+      "id": "METODOANA_S13_YT",
+      "canal": "metodoana",
+      "plataforma": "youtube",
+      "tipo": "reels",
+      "publish_at": "2026-08-04T12:20:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S13_O_que_e_o_DED.mp4",
+      "thumb_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\03_Estrutura_Canais\\MetodoANA\\04-Pack de Postagem\\Thumbnails\\Geradas\\S13 Documento Secreto Teste A.jpg",
+      "title": "O Documento Que o Banco é Obrigado a Te Entregar (E Quase Ninguém Pede)",
+      "description": "Existe um documento que o banco é obrigado a te entregar, e a maioria das pessoas nunca pediu: o DED, Demonstrativo de Evolução da Dívida.\n\nNeste vídeo, eu explico o que esse documento mostra — mês a mês, como o saldo devedor evoluiu, quais juros foram cobrados, quais amortizações foram feitas, quais encargos foram aplicados — e como usá-lo pra identificar seguro embutido que você não contratou, IOF calculado errado ou cobrança irregular que reduz o valor real que você deve.\n\nSou Ana, mãe de 4 filhos, servidora pública, e estou quitando R$185 mil em dívidas em tempo real. Antes de qualquer negociação, eu sempre peço o DED primeiro — sem ele, você entra na conversa sem saber o que pode contestar.\n\nEsse vídeo é pra quem vai negociar uma dívida em breve e quer chegar com informação, não só com boa vontade.\n\nComo pedir: pelo SAC do banco ou pelo aplicativo. Se recusarem, formaliza pelo consumidor.gov.br — eles têm obrigação legal de responder.",
+      "tags": [
+        "educação financeira feminina",
+        "mãe endividada",
+        "servidora pública endividada",
+        "negociação de dívida",
+        "método ANA"
+      ],
+      "category_id": 27,
+      "pinned_comment": "Você já pediu o DED da sua dívida alguma vez? Comenta aqui embaixo. Escrevi cada passo dessa negociação, incluindo como usar o DED a seu favor, no ebook Mãe, Concursada e Endividada: https://mae-endividada-completo.netlify.app/",
+      "nota": "VIDEO AINDA NAO EXPORTADO - job montado a partir do pack S13_O_que_e_o_DED ja pronto. REALOCADO de sabado 08/08 pra terca 04/08."
+    },
+    {
+      "id": "METODOANA_S13_FB",
+      "canal": "metodoana",
+      "plataforma": "facebook",
+      "tipo": "reels",
+      "publish_at": "2026-08-04T12:22:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S13_O_que_e_o_DED.mp4",
+      "caption": "Existe um documento que o banco é obrigado a te dar, e quase ninguém pede: o DED.\n\nEle mostra mês a mês como sua dívida evoluiu — e é ali que dá pra achar seguro embutido ou cobrança irregular.",
+      "first_comment": "O ebook Mãe, Concursada e Endividada explica como usar o DED a seu favor — link no site da nossa página.",
+      "nota": "VIDEO AINDA NAO EXPORTADO, mesmo video_path do job YT. REALOCADO de sabado 08/08 pra terca 04/08."
+    },
+    {
+      "id": "METODOANA_S13_IG",
+      "canal": "metodoana",
+      "plataforma": "instagram",
+      "tipo": "reels",
+      "publish_at": "2026-08-04T12:25:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S13_O_que_e_o_DED.mp4",
+      "caption": "Antes de negociar qualquer dívida, peça esse documento. 👇\n\nO DED mostra exatamente o que o banco cobrou de você, mês a mês — e o que dá pra contestar.",
+      "first_comment": "Ebook grátis com o passo a passo da negociação — link na bio.",
+      "nota": "VIDEO AINDA NAO EXPORTADO, mesmo video_path do job YT. REALOCADO de sabado 08/08 pra terca 04/08."
+    },
+    {
+      "id": "METODOANA_S13_IG_CARROSSEL",
+      "canal": "metodoana",
+      "plataforma": "instagram",
+      "tipo": "carrossel",
+      "publish_at": "2026-08-04T18:00:00-03:00",
+      "status": "pendente",
+      "image_paths": [
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_MetodoANA_S13\\01.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_MetodoANA_S13\\02.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_MetodoANA_S13\\03.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_MetodoANA_S13\\04.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_MetodoANA_S13\\05.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_MetodoANA_S13\\06.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_MetodoANA_S13\\07.jpg"
+      ],
+      "caption": "Tem um documento que seu banco não anuncia, mas é obrigado a te entregar. 📄\n\nChama D-E-D — Demonstrativo de Evolução da Dívida. Mostra mês a mês os juros cobrados, as amortizações feitas e os encargos aplicados.\n\nCom ele dá pra achar seguro embutido que você nunca contratou, ou I-O-F calculado errado.\n\nPede pelo SAC do banco ou pelo aplicativo. Se recusarem, formaliza no consumidor.gov.br.\n\nSalva esse post antes da sua próxima negociação. 💾",
+      "first_comment": "Você já pediu o seu D-E-D alguma vez? Comenta aqui embaixo.",
+      "nota": "TAREFA CADENCIA PADRAO (03/08/2026): 2 dos 4 carrosseis do Metodo ANA pra essa semana (S12,S13,S15,S17)."
+    },
+    {
+      "id": "METODOANA_S13_FB_FOTO",
+      "canal": "metodoana",
+      "plataforma": "facebook",
+      "tipo": "foto",
+      "publish_at": "2026-08-04T18:00:00-03:00",
+      "status": "pendente",
+      "image_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Post Facebook\\04 Imagens Geradas\\01. S13 O que e o DED.jpg",
+      "caption": "Só fui descobrir depois de anos que existe um documento que o banco é obrigado a me entregar mostrando cada centavo cobrado: o D-E-D, Demonstrativo de Evolução da Dívida.\n\nCom ele dá pra achar seguro embutido não contratado ou I-O-F calculado errado.\n\nCompartilha com quem está numa negociação de dívida agora.",
+      "first_comment": "Guia gratuito com o passo a passo pra pedir esse documento, no link no site da página.",
+      "nota": "TAREFA CADENCIA PADRAO (03/08/2026): 1 dos 4 fotos unicas do Metodo ANA pra essa semana (S13,S15,S16,S17 - unicos com imagem gerada em 'Post Facebook\\04 Imagens Geradas'; S12 e S14 nao tem imagem de foto unica). Mesmo horario do carrossel IG do mesmo conteudo (redes diferentes, sem colisao)."
+    },
+    {
+      "id": "FT_V05_YT",
+      "canal": "forjandotitas",
+      "plataforma": "youtube",
+      "tipo": "video",
+      "publish_at": "2026-08-04T12:45:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V05_FT_trabalhar_muito_continuar_pobre.mp4",
+      "thumb_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\03_Estrutura_Canais\\ForjandoTitas\\04-Pack de Postagem\\Thumbnails\\V05_trabalhar_muito_continuar_pobre.jpg",
+      "title": "A Corrida da Esteira: O Motivo de Você Ganhar Mais e Nunca Sobrar Nada",
+      "description": "Pra homem que teve aumento de salário nos últimos anos e sente que a vida financeira não acompanhou — trabalha mais, ganha mais, e o aperto continua igual ou pior. Esse vídeo nomeia o mecanismo por trás disso: a Corrida da Esteira, quando o padrão de vida sobe na mesma velocidade (ou mais rápido) que a renda, sem nenhuma decisão consciente por trás.\n\nO conteúdo detalha dois padrões que operam junto — a Corrida da Esteira em si e a Armadilha do Merecimento, quando cada gasto individual parece justificável mas a soma consome toda a margem que poderia virar reserva ou patrimônio — com uma comparação de dois homens que partem do mesmo ponto financeiro e chegam em lugares opostos.\n\nTermina com uma regra prática (a regra do meio: metade de todo aumento de renda vai pro padrão de vida, a outra metade tem destino definido) pra quem quer parar de trabalhar mais só pra ficar no mesmo lugar.\n\nTática financeira direta, sem discurso de motivação, pra quem ganha bem e ainda assim vive no limite.",
+      "tags": ["educação financeira", "lifestyle inflation", "padrão de vida", "reserva de emergência", "dívida"],
+      "category_id": 27,
+      "pinned_comment": "Pega sua renda de três anos atrás e compara com a de hoje. Agora compara o que sobrava então com o que sobra agora. Se a sobra não cresceu junto, você tá na Corrida da Esteira. Tem um diagnóstico gratuito de 5 minutos pra mapear seu padrão: https://protocolo-4d.netlify.app/lp-quiz",
+      "nota": "2o video do lote de repostagem do Forjando Titas (V04-V09). FT so posta YouTube. Horario 12:45 escolhido por nao colidir com nenhum outro job do dia (12:00/12:02/12:05/12:10/12:12/12:15/12:20/12:22/12:25/12:35 ja ocupados)."
+    }
+  ]
+}
