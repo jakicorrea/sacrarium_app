@@ -96,7 +96,7 @@
       "plataforma": "youtube",
       "tipo": "reels",
       "publish_at": "2026-08-01T12:00:00-03:00",
-      "status": "pendente",
+      "status": "agendado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S12_alma_como_jardim.mp4",
       "title": "A Alma Como Jardim: A Metáfora de Santa Teresa de Ávila no Livro da Vida",
       "description": "No início do Livro da Vida, Santa Teresa de Ávila compara a alma a um jardim que pertence a Deus — e a pessoa, ao jardineiro. Esse vídeo explica essa imagem e por que ela é mais honesta do que qualquer promessa de resultado espiritual rápido.\n\nO jardineiro não cria nada do nada: ele cuida, rega, remove o que sufoca e cria as condições para que a planta cresça. A oração, nessa metáfora, não é uma performance nem uma corrida — é um cuidado que precisa de tempo, regularidade e consistência ao longo de semanas, meses e anos, não de uma tarde inspirada.\n\nUm vídeo para quem espera resultado espiritual rápido e sente frustração quando a vida de oração não \"floresce\" da noite para o dia.\n\nFoi por isso que o Sacrarium recebeu esse nome. Ele nasceu para ajudar você a cuidar desse jardim interior, com uma jornada guiada de formação espiritual, oração e constância — porque a vida espiritual floresce no cuidado diário, não na pressa.\n\nSe você deseja cultivar esse jardim, clique no link e conheça o Sacrarium.",
@@ -109,7 +109,13 @@
       ],
       "category_id": 27,
       "pinned_comment": "Como está o seu jardim interior hoje: cuidado, esquecido, ou em algum lugar no meio? Conta aqui embaixo.\nO Sacrarium nasceu para ajudar você a cuidar desse jardim interior, com uma jornada guiada de formação espiritual e constância, porque a vida espiritual floresce no cuidado diário.\nSe você deseja cultivar esse jardim, clique no link e conheça o Sacrarium: https://sacrarium-app.netlify.app/",
-      "nota": "SEM THUMBNAIL. Ultimo short do lote atual de Sacrarium (S01-S12 completo apos este)."
+      "nota": "SEM THUMBNAIL. Ultimo short do lote atual de Sacrarium (S01-S12 completo apos este).",
+      "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/youtube/SACRARIUM_S12_YT_video_S12_alma_como_jardim.mp4",
+      "video_url_nuvem_remoto": "sacrarium/youtube/SACRARIUM_S12_YT_video_S12_alma_como_jardim.mp4",
+      "resultado": {
+        "video_id": "8XM73XZ8R4A",
+        "url": "https://youtube.com/watch?v=8XM73XZ8R4A"
+      }
     },
     {
       "id": "SACRARIUM_S12_FB",
@@ -117,10 +123,17 @@
       "plataforma": "facebook",
       "tipo": "reels",
       "publish_at": "2026-08-01T12:00:00-03:00",
-      "status": "pendente",
+      "status": "publicado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S12_alma_como_jardim.mp4",
       "caption": "No Livro da Vida, Santa Teresa compara a alma a um jardim que pertence a Deus — e você, ao jardineiro.\n\nA vida espiritual não é corrida. É cultivo, dia após dia.",
-      "first_comment": "O Sacrarium nasceu pra te ajudar a cuidar desse jardim. Link no site da nossa página."
+      "first_comment": "O Sacrarium nasceu pra te ajudar a cuidar desse jardim. Link no site da nossa página.",
+      "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/facebook/SACRARIUM_S12_FB_video_S12_alma_como_jardim.mp4",
+      "video_url_nuvem_remoto": "sacrarium/facebook/SACRARIUM_S12_FB_video_S12_alma_como_jardim.mp4",
+      "resultado": {
+        "video_id": "1199974165623883",
+        "agendado": false,
+        "url": "https://www.facebook.com/reel/1199974165623883"
+      }
     },
     {
       "id": "P4D_S06_YT",
@@ -470,7 +483,9 @@
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S12_alma_como_jardim.mp4",
       "caption": "No Livro da Vida, Santa Teresa compara a alma a um jardim que pertence a Deus — e você, ao jardineiro.\n\nA vida espiritual não é corrida. É cultivo, dia após dia.",
       "first_comment": "O Sacrarium nasceu pra te ajudar a cuidar desse jardim. Link na bio.",
-      "nota": "catch-up Insta fim de dia - FECHA O GAP. A partir daqui Insta entra no ritmo normal 1x/dia junto com YT/Face."
+      "nota": "catch-up Insta fim de dia - FECHA O GAP. A partir daqui Insta entra no ritmo normal 1x/dia junto com YT/Face.",
+      "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/instagram/SACRARIUM_S12_IG_video_S12_alma_como_jardim.mp4",
+      "video_url_nuvem_remoto": "sacrarium/instagram/SACRARIUM_S12_IG_video_S12_alma_como_jardim.mp4"
     }
   ]
 }
