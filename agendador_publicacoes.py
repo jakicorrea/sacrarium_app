@@ -45,20 +45,23 @@ avisa quais jobs ja foram processados e pula eles, so mexendo nos que ainda
 estao "pendente".
 
 --------------------------------------------------------------------------
-GAP CONHECIDO — Instagram foto/carrossel
+STATUS — Instagram foto/carrossel (atualizado 02/08/2026)
 --------------------------------------------------------------------------
 A API do Instagram (Content Publishing) SO aceita imagem via URL publica
 (image_url) — nao aceita upload direto de arquivo local, diferente de
 video (Reels), que aceita upload resumable direto do PC. Por isso:
   - Instagram Reels (video)      -> IMPLEMENTADO (upload direto, sem hospedagem)
-  - Instagram foto/carrossel     -> NAO IMPLEMENTADO (precisa decidir antes:
-                                     onde hospedar a imagem pra gerar uma URL
-                                     publica temporaria — ex: Netlify, algum
-                                     bucket, etc. Decidir isso quando o
-                                     conteudo de carrossel estiver pronto pra
-                                     postar de verdade.)
-Facebook foto FUNCIONA normal (upload direto, /page-id/photos aceita arquivo).
-Facebook nao tem "carrossel" nativo (so Instagram tem esse formato).
+  - Instagram carrossel (fotos)  -> IMPLEMENTADO E TESTADO EM PRODUCAO
+                                     (_ig_publicar_carrossel): cada imagem
+                                     sobe temporariamente pro Supabase Storage
+                                     pra gerar URL publica, cria os children
+                                     com is_carousel_item, depois o container
+                                     CAROUSEL, e publica. Ja rodou de verdade
+                                     via GitHub Actions com sucesso.
+Facebook foto FUNCIONA normal (upload direto, /page-id/photos aceita arquivo,
+_fb_upload_foto). Facebook nao tem "carrossel" nativo — o equivalente e um
+post no feed com varias fotos anexadas (attached_media), implementado em
+_fb_upload_carrossel, tambem ja testado.
 
 --------------------------------------------------------------------------
 AVISO — Facebook Reels e Instagram Reels sao codigo NOVO, ainda nao testado
@@ -1096,7 +1099,7 @@ def _verificar_autorizacoes_youtube(canais):
     print(f"\n{'#' * 60}\nTodos os canais autorizados. Comecando a processar os jobs de verdade.\n{'#' * 60}\n")
 
 
-def processar_lotes(caminhos, delay_min, delay_max, so_plataformas=None):
+def processar_lotes(caminhos, delay_min, delay_max, so_plataformas=None, pular_pendentes=False):
     """Junta os jobs de TODOS os arquivos passados (pode ser so 1) e
     processa em DUAS ETAPAS SEPARADAS (corrigido em 13/07/2026):
 
@@ -1176,7 +1179,9 @@ def processar_lotes(caminhos, delay_min, delay_max, so_plataformas=None):
     # (GitHub Actions) — essa checagem e so de YouTube/Facebook, que nao tem
     # credencial la (de proposito, ver docstring), entao so geraria erro a
     # toa em todo ciclo do cron.
-    if not so_plataformas or ({"youtube", "facebook"} & so_plataformas):
+    if pular_pendentes:
+        print("[pulando checagem de pendentes - pular_pendentes=True, roda no final do lote inteiro]\n")
+    elif not so_plataformas or ({"youtube", "facebook"} & so_plataformas):
         for canal in canais:
             try:
                 check_pendentes_tudo(canal)
@@ -1388,6 +1393,16 @@ def main():
     ap.add_argument("canal", nargs="?")
     ap.add_argument("--check-pendentes", action="store_true",
                      help="so confere/posta comentarios pendentes (YouTube+Facebook), nao roda lote novo")
+    ap.add_argument("--check-pendentes-todos", action="store_true",
+                     help="03/08/2026: igual --check-pendentes, mas roda pra TODOS os canais que tem "
+                          "algum arquivo em _pendentes/, sem precisar digitar canal por canal. Feito "
+                          "pra rodar UMA VEZ SO no final do 08_ENVIAR_LOTE_PRA_NUVEM.bat, depois que "
+                          "todos os dias ja foram enviados (em vez de tentar comentar de novo a cada "
+                          "dia do lote, o que so repete o mesmo erro 403/400 varias vezes a toa).")
+    ap.add_argument("--pular-pendentes", action="store_true",
+                     help="03/08/2026: nao checa/tenta postar comentarios pendentes durante o "
+                          "processamento deste lote (usado pelo 08_ENVIAR_LOTE_PRA_NUVEM.bat em cada "
+                          "dia do loop) — a checagem roda separada, uma vez so, no final.")
     ap.add_argument("--todos", action="store_true",
                      help="NUVEM (28/07/2026): roda TODOS os lotes pendentes de _agendamentos/ "
                           "automaticamente, sem perguntar nada (modo nao-interativo, pra cron/"
@@ -1416,6 +1431,26 @@ def main():
         check_pendentes_tudo(canal)
         return
 
+    if args.check_pendentes_todos:
+        ytmod.PENDENTES_DIR.mkdir(exist_ok=True)
+        canais = set()
+        for p in ytmod.PENDENTES_DIR.glob("comentarios_*.json"):
+            nome = p.stem[len("comentarios_"):]
+            if nome.startswith("facebook_"):
+                nome = nome[len("facebook_"):]
+            canais.add(nome)
+        if not canais:
+            print("Nenhum canal com pendentes em _pendentes/.")
+            return
+        print(f"Checando pendentes de {len(canais)} canal(is): {', '.join(sorted(canais))}\n")
+        for canal in sorted(canais):
+            try:
+                check_pendentes_tudo(canal)
+            except Exception as e:
+                print(f"[aviso] falha ao checar comentarios pendentes do canal '{canal}': {e}")
+            print()
+        return
+
     if args.so_instagram:
         so_plataformas = {"instagram"}
     elif args.sem_instagram:
@@ -1430,7 +1465,8 @@ def main():
             print(f"Nenhum lote encontrado em {JOBS_DIR}.")
             return
         print(f"Modo --todos: {len(caminhos)} arquivo(s) de lote encontrados, processando todos.")
-        processar_lotes(caminhos, args.delay_min, args.delay_max, so_plataformas=so_plataformas)
+        processar_lotes(caminhos, args.delay_min, args.delay_max, so_plataformas=so_plataformas,
+                         pular_pendentes=args.pular_pendentes)
         return
 
     jobs_path = args.jobs_or_flag
@@ -1441,7 +1477,8 @@ def main():
         if not caminhos:
             return
 
-    processar_lotes(caminhos, args.delay_min, args.delay_max, so_plataformas=so_plataformas)
+    processar_lotes(caminhos, args.delay_min, args.delay_max, so_plataformas=so_plataformas,
+                     pular_pendentes=args.pular_pendentes)
 
 
 if __name__ == "__main__":
