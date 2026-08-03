@@ -2426,5 +2426,97 @@
       "video_id": "wrd2pWUeLIk",
       "url": "https://youtube.com/watch?v=wrd2pWUeLIk"
     }
+  },
+  "protocolo4d|youtube|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S17_P4D_emprestimo_pagar_cartao.mp4": {
+    "id": "P4D_S17_YT",
+    "canal": "protocolo4d",
+    "plataforma": "youtube",
+    "publish_at": "2026-08-08T08:00:00-03:00",
+    "postado_em_utc": "2026-08-03T12:32:59Z",
+    "resultado": {
+      "video_id": "doUFqnz-aOU",
+      "url": "https://youtube.com/watch?v=doUFqnz-aOU"
+    }
+  },
+  "protocolo4d|facebook|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S17_P4D_emprestimo_pagar_cartao.mp4": {
+    "id": "P4D_S17_FB",
+    "canal": "protocolo4d",
+    "plataforma": "facebook",
+    "publish_at": "2026-08-08T08:02:00-03:00",
+    "postado_em_utc": "2026-08-03T12:33:35Z",
+    "resultado": {
+      "video_id": "1741914713796595",
+      "agendado": true,
+      "url": "https://www.facebook.com/reel/1741914713796595"
+    }
+  },
+  "metodoana|youtube|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S17_Sistema_de_Estrelas.mp4": {
+    "id": "METODOANA_S17_YT",
+    "canal": "metodoana",
+    "plataforma": "youtube",
+    "publish_at": "2026-08-08T12:20:00-03:00",
+    "postado_em_utc": "2026-08-03T12:34:07Z",
+    "resultado": {
+      "video_id": "zRhtDDhFDIg",
+      "url": "https://youtube.com/watch?v=zRhtDDhFDIg"
+    }
+  },
+  "metodoana|facebook|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S17_Sistema_de_Estrelas.mp4": {
+    "id": "METODOANA_S17_FB",
+    "canal": "metodoana",
+    "plataforma": "facebook",
+    "publish_at": "2026-08-08T12:22:00-03:00",
+    "postado_em_utc": "2026-08-03T12:34:48Z",
+    "resultado": {
+      "video_id": "1686971469038769",
+      "agendado": true,
+      "url": "https://www.facebook.com/reel/1686971469038769"
+    }
+  },
+  "metodoana|facebook|C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Post Facebook\\04 Imagens Geradas\\04. S17 Sistema de Estrelas.jpg": {
+    "id": "METODOANA_S17_FB_FOTO",
+    "canal": "metodoana",
+    "plataforma": "facebook",
+    "publish_at": "2026-08-08T17:00:00-03:00",
+    "postado_em_utc": "2026-08-03T12:35:50Z",
+    "resultado": {
+      "object_id": "122136999813153054",
+      "agendado": true,
+      "url": "https://www.facebook.com/122136999813153054"
+    }
+  },
+  "sacrarium|youtube|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S17_avanco_rapido_prejudica.mp4": {
+    "id": "SACRARIUM_S17_YT",
+    "canal": "sacrarium",
+    "plataforma": "youtube",
+    "publish_at": "2026-08-08T12:10:00-03:00",
+    "postado_em_utc": "2026-08-03T12:36:20Z",
+    "resultado": {
+      "video_id": "oGaP2C1EyFY",
+      "url": "https://youtube.com/watch?v=oGaP2C1EyFY"
+    }
+  },
+  "sacrarium|facebook|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S17_avanco_rapido_prejudica.mp4": {
+    "id": "SACRARIUM_S17_FB",
+    "canal": "sacrarium",
+    "plataforma": "facebook",
+    "publish_at": "2026-08-08T12:12:00-03:00",
+    "postado_em_utc": "2026-08-03T12:37:14Z",
+    "resultado": {
+      "video_id": "1091140080252029",
+      "agendado": true,
+      "url": "https://www.facebook.com/reel/1091140080252029"
+    }
+  },
+  "forjandotitas|youtube|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V09_FT_habitos_mentais_pobres.mp4": {
+    "id": "FT_V09_YT",
+    "canal": "forjandotitas",
+    "plataforma": "youtube",
+    "publish_at": "2026-08-08T12:00:00-03:00",
+    "postado_em_utc": "2026-08-03T12:41:34Z",
+    "resultado": {
+      "video_id": "tVjufW2NoCk",
+      "url": "https://youtube.com/watch?v=tVjufW2NoCk"
+    }
   }
 }
