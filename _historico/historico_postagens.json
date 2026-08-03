@@ -2541,5 +2541,17 @@
       "url": "https://www.instagram.com/reel/18121514266876721",
       "comentario": "postado na hora"
     }
+  },
+  "metodoana|instagram|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S12_Diferenca_entre_SAC_e_Price.mp4": {
+    "id": "METODOANA_S12_IG",
+    "canal": "metodoana",
+    "plataforma": "instagram",
+    "publish_at": "2026-08-03T12:15:00-03:00",
+    "postado_em_utc": "2026-08-03T15:18:58Z",
+    "resultado": {
+      "media_id": "17896593822366543",
+      "url": "https://www.instagram.com/reel/17896593822366543",
+      "comentario": "postado na hora"
+    }
   }
 }
