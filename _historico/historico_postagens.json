@@ -1679,29 +1679,6 @@
       "comentario": "postado na hora"
     }
   },
-  "sacrarium|youtube|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S12_alma_como_jardim.mp4": {
-    "id": "SACRARIUM_S12_YT",
-    "canal": "sacrarium",
-    "plataforma": "youtube",
-    "publish_at": "2026-08-01T12:00:00-03:00",
-    "postado_em_utc": "2026-08-03T04:27:38Z",
-    "resultado": {
-      "video_id": "8XM73XZ8R4A",
-      "url": "https://youtube.com/watch?v=8XM73XZ8R4A"
-    }
-  },
-  "sacrarium|facebook|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S12_alma_como_jardim.mp4": {
-    "id": "SACRARIUM_S12_FB",
-    "canal": "sacrarium",
-    "plataforma": "facebook",
-    "publish_at": "2026-08-01T12:00:00-03:00",
-    "postado_em_utc": "2026-08-03T04:28:46Z",
-    "resultado": {
-      "video_id": "1199974165623883",
-      "agendado": false,
-      "url": "https://www.facebook.com/reel/1199974165623883"
-    }
-  },
   "sacrarium|instagram|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S12_alma_como_jardim.mp4": {
     "id": "SACRARIUM_S12_IG",
     "canal": "sacrarium",
@@ -2528,6 +2505,29 @@
     "resultado": {
       "video_id": "XcX293oVp7M",
       "url": "https://youtube.com/watch?v=XcX293oVp7M"
+    }
+  },
+  "sacrarium|youtube|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S12_alma_como_jardim.mp4": {
+    "id": "SACRARIUM_S12_YT",
+    "canal": "sacrarium",
+    "plataforma": "youtube",
+    "publish_at": "2026-08-03T12:20:00-03:00",
+    "postado_em_utc": "2026-08-03T14:24:45Z",
+    "resultado": {
+      "video_id": "r9MBJQMFc_4",
+      "url": "https://youtube.com/watch?v=r9MBJQMFc_4"
+    }
+  },
+  "sacrarium|facebook|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S12_alma_como_jardim.mp4": {
+    "id": "SACRARIUM_S12_FB",
+    "canal": "sacrarium",
+    "plataforma": "facebook",
+    "publish_at": "2026-08-03T12:22:00-03:00",
+    "postado_em_utc": "2026-08-03T14:25:36Z",
+    "resultado": {
+      "video_id": "873734782484009",
+      "agendado": true,
+      "url": "https://www.facebook.com/reel/873734782484009"
     }
   }
 }

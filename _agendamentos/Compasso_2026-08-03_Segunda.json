@@ -113,7 +113,7 @@
       "plataforma": "youtube",
       "tipo": "reels",
       "publish_at": "2026-08-03T12:20:00-03:00",
-      "status": "pulado: ja esta no historico (postado em 2026-08-03T04:27:38Z)",
+      "status": "agendado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S12_alma_como_jardim.mp4",
       "thumb_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\03_Estrutura_Canais\\Sacrarium\\04-Pack de Postagem\\Thumbnails\\Geradas\\S12 Alma Jardim Teste C.jpg",
       "title": "A Alma Como Jardim: A Metáfora de Santa Teresa de Ávila no Livro da Vida",
@@ -127,7 +127,11 @@
       ],
       "category_id": 27,
       "pinned_comment": "Como está o seu jardim interior hoje: cuidado, esquecido, ou em algum lugar no meio? Conta aqui embaixo.\nO Sacrarium nasceu para ajudar você a cuidar desse jardim interior, com uma jornada guiada de formação espiritual e constância, porque a vida espiritual floresce no cuidado diário.\nSe você deseja cultivar esse jardim, clique no link e conheça o Sacrarium: https://sacrarium-app.netlify.app/",
-      "nota": "Thumbnail so tem opcao 'Teste C' gerada (nao existe Teste A/B pra esse video) - usei a unica disponivel."
+      "nota": "Thumbnail so tem opcao 'Teste C' gerada (nao existe Teste A/B pra esse video) - usei a unica disponivel.",
+      "resultado": {
+        "video_id": "r9MBJQMFc_4",
+        "url": "https://youtube.com/watch?v=r9MBJQMFc_4"
+      }
     },
     {
       "id": "SACRARIUM_S12_FB",
@@ -135,10 +139,15 @@
       "plataforma": "facebook",
       "tipo": "reels",
       "publish_at": "2026-08-03T12:22:00-03:00",
-      "status": "pulado: ja esta no historico (postado em 2026-08-03T04:28:46Z)",
+      "status": "agendado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S12_alma_como_jardim.mp4",
       "caption": "Um jardim não floresce de uma vez — precisa de rega, tempo e paciência todos os dias.\n\nSanta Teresa de Ávila usava essa imagem pra falar da alma: você não cria nada sozinho, só cuida das condições pra Deus agir.",
-      "first_comment": "O Sacrarium existe pra te ajudar a cuidar desse jardim interior — link no site da nossa página."
+      "first_comment": "O Sacrarium existe pra te ajudar a cuidar desse jardim interior — link no site da nossa página.",
+      "resultado": {
+        "video_id": "873734782484009",
+        "agendado": true,
+        "url": "https://www.facebook.com/reel/873734782484009"
+      }
     },
     {
       "id": "SACRARIUM_S12_IG",
