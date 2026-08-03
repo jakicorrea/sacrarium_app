@@ -142,5 +142,11 @@
     "title": "SACRARIUM_S12_FB",
     "comment": "O Sacrarium nasceu pra te ajudar a cuidar desse jardim. Link no site da nossa página.",
     "publish_at": "2026-08-01T12:00:00-03:00"
+  },
+  {
+    "object_id": "122117996781386492",
+    "title": "SACRARIUM_S12_FB_FOTO",
+    "comment": "O Sacrarium nasceu pra acompanhar esse cuidado diário do jardim interior. Link no site da nossa página — entra pra lista de espera.",
+    "publish_at": "2026-08-03T10:00:00-03:00"
   }
 ]
