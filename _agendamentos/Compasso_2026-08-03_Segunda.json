@@ -359,7 +359,7 @@
       "plataforma": "instagram",
       "tipo": "carrossel",
       "publish_at": "2026-08-03T17:30:00-03:00",
-      "status": "pendente",
+      "status": "publicado",
       "image_paths": [
         "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Sacrarium\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Sacrarium_S12\\01.jpg",
         "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Sacrarium\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Sacrarium_S12\\02.jpg",
@@ -386,7 +386,12 @@
         "sacrarium/instagram/SACRARIUM_S12_IG_CARROSSEL_img3_04.jpg",
         "sacrarium/instagram/SACRARIUM_S12_IG_CARROSSEL_img4_05.jpg",
         "sacrarium/instagram/SACRARIUM_S12_IG_CARROSSEL_img5_06.jpg"
-      ]
+      ],
+      "resultado": {
+        "media_id": "17998862456794522",
+        "url": "https://www.instagram.com/p/17998862456794522",
+        "comentario": "postado na hora"
+      }
     },
     {
       "id": "METODOANA_S12_IG_CARROSSEL",
