@@ -2529,5 +2529,17 @@
       "agendado": true,
       "url": "https://www.facebook.com/reel/873734782484009"
     }
+  },
+  "protocolo4d|instagram|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S09_P4D_juro_composto_contra.mp4": {
+    "id": "P4D_S09_IG",
+    "canal": "protocolo4d",
+    "plataforma": "instagram",
+    "publish_at": "2026-08-03T12:05:00-03:00",
+    "postado_em_utc": "2026-08-03T15:07:56Z",
+    "resultado": {
+      "media_id": "18121514266876721",
+      "url": "https://www.instagram.com/reel/18121514266876721",
+      "comentario": "postado na hora"
+    }
   }
 }

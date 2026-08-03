@@ -255,12 +255,17 @@
       "plataforma": "instagram",
       "tipo": "reels",
       "publish_at": "2026-08-03T12:05:00-03:00",
-      "status": "pendente",
+      "status": "publicado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S09_P4D_juro_composto_contra.mp4",
       "caption": "R$5 mil no rotativo podem virar R$26 mil em 12 meses. 👇\n\nO mínimo da fatura mal toca o principal. O resto é juro cobrando juro, mês após mês.",
       "first_comment": "Testa sua dívida na Calculadora da Liberdade — link na bio.",
       "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/protocolo4d/instagram/P4D_S09_IG_video_S09_P4D_juro_composto_contra.mp4",
-      "video_url_nuvem_remoto": "protocolo4d/instagram/P4D_S09_IG_video_S09_P4D_juro_composto_contra.mp4"
+      "video_url_nuvem_remoto": "protocolo4d/instagram/P4D_S09_IG_video_S09_P4D_juro_composto_contra.mp4",
+      "resultado": {
+        "media_id": "18121514266876721",
+        "url": "https://www.instagram.com/reel/18121514266876721",
+        "comentario": "postado na hora"
+      }
     },
     {
       "id": "P4D_S09_FB_FOTO",
