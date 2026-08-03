@@ -100,17 +100,12 @@
       "plataforma": "instagram",
       "tipo": "reels",
       "publish_at": "2026-08-03T12:15:00-03:00",
-      "status": "publicado",
+      "status": "pulado: ja publicado (duplicata dentro deste lote)",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S12_Diferenca_entre_SAC_e_Price.mp4",
       "caption": "SAC ou Price: você sabe qual é a sua? 👇\n\nUm sistema amortiza rápido. O outro concentra o juro no começo e engana quem olha só o valor da parcela.",
       "first_comment": "Testa a calculadora gratuita — link na bio.",
       "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/instagram/METODOANA_S12_IG_video_S12_Diferenca_entre_SAC_e_Price.mp4",
-      "video_url_nuvem_remoto": "metodoana/instagram/METODOANA_S12_IG_video_S12_Diferenca_entre_SAC_e_Price.mp4",
-      "resultado": {
-        "media_id": "17896593822366543",
-        "url": "https://www.instagram.com/reel/17896593822366543",
-        "comentario": "postado na hora"
-      }
+      "video_url_nuvem_remoto": "metodoana/instagram/METODOANA_S12_IG_video_S12_Diferenca_entre_SAC_e_Price.mp4"
     },
     {
       "id": "SACRARIUM_S12_YT",
