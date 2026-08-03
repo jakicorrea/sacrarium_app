@@ -106,5 +106,23 @@
     "title": "P4D_S11_FB_FOTO",
     "comment": "Planilha gratuita do Protocolo 4D que já organiza esses números por você, no link no site da página. Comenta se travar em algum campo.",
     "publish_at": "2026-08-04T13:30:00-03:00"
+  },
+  {
+    "object_id": "875310065374190",
+    "title": "P4D_S12_FB",
+    "comment": "Antes da conversa, vale fazer o diagnóstico: Quiz gratuito, doze perguntas — link no site da nossa página.",
+    "publish_at": "2026-08-05T08:02:00-03:00"
+  },
+  {
+    "object_id": "122113246179394338",
+    "title": "P4D_S12_FB_FOTO",
+    "comment": "Quiz de Diagnóstico gratuito pra entender seu perfil antes dessa conversa, no link no site da página. Comenta se quiser trocar ideia.",
+    "publish_at": "2026-08-05T09:30:00-03:00"
+  },
+  {
+    "object_id": "1037806895560474",
+    "title": "P4D_S13_FB",
+    "comment": "Ebook gratuito com as dez armadilhas de crédito bancário — link no site da nossa página.",
+    "publish_at": "2026-08-05T12:02:00-03:00"
   }
 ]

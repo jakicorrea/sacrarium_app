@@ -1990,5 +1990,177 @@
       "video_id": "zKKW6FE2TjI",
       "url": "https://youtube.com/watch?v=zKKW6FE2TjI"
     }
+  },
+  "protocolo4d|youtube|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S12_P4D_divida_escondida_conjuge.mp4": {
+    "id": "P4D_S12_YT",
+    "canal": "protocolo4d",
+    "plataforma": "youtube",
+    "publish_at": "2026-08-05T08:00:00-03:00",
+    "postado_em_utc": "2026-08-03T11:27:29Z",
+    "resultado": {
+      "video_id": "aZ4_xk6xg6Y",
+      "url": "https://youtube.com/watch?v=aZ4_xk6xg6Y"
+    }
+  },
+  "protocolo4d|facebook|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S12_P4D_divida_escondida_conjuge.mp4": {
+    "id": "P4D_S12_FB",
+    "canal": "protocolo4d",
+    "plataforma": "facebook",
+    "publish_at": "2026-08-05T08:02:00-03:00",
+    "postado_em_utc": "2026-08-03T11:28:25Z",
+    "resultado": {
+      "video_id": "875310065374190",
+      "agendado": true,
+      "url": "https://www.facebook.com/reel/875310065374190"
+    }
+  },
+  "protocolo4d|facebook|C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Post Facebook\\04 Imagens Geradas\\12. S12 Divida Escondida Conjuge.jpg": {
+    "id": "P4D_S12_FB_FOTO",
+    "canal": "protocolo4d",
+    "plataforma": "facebook",
+    "publish_at": "2026-08-05T09:30:00-03:00",
+    "postado_em_utc": "2026-08-03T11:29:09Z",
+    "resultado": {
+      "object_id": "122113246179394338",
+      "agendado": true,
+      "url": "https://www.facebook.com/122113246179394338"
+    }
+  },
+  "protocolo4d|youtube|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S13_P4D_consignado_armadilha.mp4": {
+    "id": "P4D_S13_YT",
+    "canal": "protocolo4d",
+    "plataforma": "youtube",
+    "publish_at": "2026-08-05T12:00:00-03:00",
+    "postado_em_utc": "2026-08-03T11:29:33Z",
+    "resultado": {
+      "video_id": "U5qD5lyV5Dc",
+      "url": "https://youtube.com/watch?v=U5qD5lyV5Dc"
+    }
+  },
+  "protocolo4d|facebook|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S13_P4D_consignado_armadilha.mp4": {
+    "id": "P4D_S13_FB",
+    "canal": "protocolo4d",
+    "plataforma": "facebook",
+    "publish_at": "2026-08-05T12:02:00-03:00",
+    "postado_em_utc": "2026-08-03T11:30:09Z",
+    "resultado": {
+      "video_id": "1037806895560474",
+      "agendado": true,
+      "url": "https://www.facebook.com/reel/1037806895560474"
+    }
+  },
+  "metodoana|youtube|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S14_Consignado_Risco_Zero_pro_Banco.mp4": {
+    "id": "METODOANA_S14_YT",
+    "canal": "metodoana",
+    "plataforma": "youtube",
+    "publish_at": "2026-08-05T12:20:00-03:00",
+    "postado_em_utc": "2026-08-03T11:30:37Z",
+    "resultado": {
+      "video_id": "IbwZ_HcM8Fc",
+      "url": "https://youtube.com/watch?v=IbwZ_HcM8Fc"
+    }
+  },
+  "metodoana|facebook|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S14_Consignado_Risco_Zero_pro_Banco.mp4": {
+    "id": "METODOANA_S14_FB",
+    "canal": "metodoana",
+    "plataforma": "facebook",
+    "publish_at": "2026-08-05T12:22:00-03:00",
+    "postado_em_utc": "2026-08-03T11:31:09Z",
+    "resultado": {
+      "video_id": "3547657465406043",
+      "agendado": true,
+      "url": "https://www.facebook.com/reel/3547657465406043"
+    }
+  },
+  "metodoana|youtube|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V05_Os_4_grandes_viloes_do_orcamento.mp4": {
+    "id": "METODOANA_V05_YT",
+    "canal": "metodoana",
+    "plataforma": "youtube",
+    "publish_at": "2026-08-05T20:30:00-03:00",
+    "postado_em_utc": "2026-08-03T11:32:41Z",
+    "resultado": {
+      "video_id": "f1NJm9vsyUk",
+      "url": "https://youtube.com/watch?v=f1NJm9vsyUk"
+    }
+  },
+  "metodoana|facebook|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V05_Os_4_grandes_viloes_do_orcamento.mp4": {
+    "id": "METODOANA_V05_FB",
+    "canal": "metodoana",
+    "plataforma": "facebook",
+    "publish_at": "2026-08-05T20:35:00-03:00",
+    "postado_em_utc": "2026-08-03T11:36:01Z",
+    "resultado": {
+      "object_id": "1407713664566304",
+      "agendado": true,
+      "url": "https://www.facebook.com/1407713664566304"
+    }
+  },
+  "sacrarium|youtube|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S14_alma_abandonada.mp4": {
+    "id": "SACRARIUM_S14_YT",
+    "canal": "sacrarium",
+    "plataforma": "youtube",
+    "publish_at": "2026-08-05T12:10:00-03:00",
+    "postado_em_utc": "2026-08-03T11:36:24Z",
+    "resultado": {
+      "video_id": "T0jJ4PXgAyA",
+      "url": "https://youtube.com/watch?v=T0jJ4PXgAyA"
+    }
+  },
+  "sacrarium|facebook|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S14_alma_abandonada.mp4": {
+    "id": "SACRARIUM_S14_FB",
+    "canal": "sacrarium",
+    "plataforma": "facebook",
+    "publish_at": "2026-08-05T12:12:00-03:00",
+    "postado_em_utc": "2026-08-03T11:36:58Z",
+    "resultado": {
+      "video_id": "1782531079852993",
+      "agendado": true,
+      "url": "https://www.facebook.com/reel/1782531079852993"
+    }
+  },
+  "sacrarium|youtube|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V05_Constancia_sem_perfeccionismo.mp4": {
+    "id": "SACRARIUM_V05_YT",
+    "canal": "sacrarium",
+    "plataforma": "youtube",
+    "publish_at": "2026-08-05T20:00:00-03:00",
+    "postado_em_utc": "2026-08-03T11:39:05Z",
+    "resultado": {
+      "video_id": "3yfIJDyq5qQ",
+      "url": "https://youtube.com/watch?v=3yfIJDyq5qQ"
+    }
+  },
+  "sacrarium|facebook|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V05_Constancia_sem_perfeccionismo.mp4": {
+    "id": "SACRARIUM_V05_FB",
+    "canal": "sacrarium",
+    "plataforma": "facebook",
+    "publish_at": "2026-08-05T20:05:00-03:00",
+    "postado_em_utc": "2026-08-03T11:43:22Z",
+    "resultado": {
+      "object_id": "1356049946678010",
+      "agendado": true,
+      "url": "https://www.facebook.com/1356049946678010"
+    }
+  },
+  "forjandotitas|youtube|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V06_FT_vergonha_falar_dinheiro.mp4": {
+    "id": "FT_V06_YT",
+    "canal": "forjandotitas",
+    "plataforma": "youtube",
+    "publish_at": "2026-08-05T12:45:00-03:00",
+    "postado_em_utc": "2026-08-03T11:47:23Z",
+    "resultado": {
+      "video_id": "wEMGxxvFIP0",
+      "url": "https://youtube.com/watch?v=wEMGxxvFIP0"
+    }
+  },
+  "cathedrapetri|youtube|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V15_PT_TEP_O_Erro_de_Tradução_que_Inventou_a_.mp4": {
+    "id": "CP_V15_YT",
+    "canal": "cathedrapetri",
+    "plataforma": "youtube",
+    "publish_at": "2026-08-05T12:35:00-03:00",
+    "postado_em_utc": "2026-08-03T11:54:03Z",
+    "resultado": {
+      "video_id": "XAwXItcYaGA",
+      "url": "https://youtube.com/watch?v=XAwXItcYaGA"
+    }
   }
 }
