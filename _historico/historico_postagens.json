@@ -2649,5 +2649,17 @@
       "url": "https://www.instagram.com/reel/18054880757615801",
       "comentario": "postado na hora"
     }
+  },
+  "protocolo4d|instagram|C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Protocolo4D_S10\\01.jpg|C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Protocolo4D_S10\\02.jpg|C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Protocolo4D_S10\\03.jpg|C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Protocolo4D_S10\\04.jpg|C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Protocolo4D_S10\\05.jpg": {
+    "id": "P4D_S10_IG_CARROSSEL",
+    "canal": "protocolo4d",
+    "plataforma": "instagram",
+    "publish_at": "2026-08-04T17:00:00-03:00",
+    "postado_em_utc": "2026-08-04T20:01:07Z",
+    "resultado": {
+      "media_id": "18123821158840445",
+      "url": "https://www.instagram.com/p/18123821158840445",
+      "comentario": "postado na hora"
+    }
   }
 }
