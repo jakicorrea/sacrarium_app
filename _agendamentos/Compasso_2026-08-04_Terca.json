@@ -160,12 +160,17 @@
       "plataforma": "instagram",
       "tipo": "reels",
       "publish_at": "2026-08-04T12:05:00-03:00",
-      "status": "pendente",
+      "status": "publicado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S11_P4D_diagnostico_em_20_min.mp4",
       "caption": "Você sabe o tamanho real da sua dívida? 👇\n\nTrês números. Vinte minutos. Chega de andar no escuro sem saber quanto deve de verdade.",
       "first_comment": "Planilha gratuita — link na bio.",
       "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/protocolo4d/instagram/P4D_S11_IG_video_S11_P4D_diagnostico_em_20_min.mp4",
-      "video_url_nuvem_remoto": "protocolo4d/instagram/P4D_S11_IG_video_S11_P4D_diagnostico_em_20_min.mp4"
+      "video_url_nuvem_remoto": "protocolo4d/instagram/P4D_S11_IG_video_S11_P4D_diagnostico_em_20_min.mp4",
+      "resultado": {
+        "media_id": "18474244996110192",
+        "url": "https://www.instagram.com/reel/18474244996110192",
+        "comentario": "postado na hora"
+      }
     },
     {
       "id": "P4D_S11_FB_FOTO",

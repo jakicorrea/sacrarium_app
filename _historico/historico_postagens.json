@@ -2613,5 +2613,17 @@
       "url": "https://www.instagram.com/reel/18616961848055620",
       "comentario": "postado na hora"
     }
+  },
+  "protocolo4d|instagram|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S11_P4D_diagnostico_em_20_min.mp4": {
+    "id": "P4D_S11_IG",
+    "canal": "protocolo4d",
+    "plataforma": "instagram",
+    "publish_at": "2026-08-04T12:05:00-03:00",
+    "postado_em_utc": "2026-08-04T15:08:44Z",
+    "resultado": {
+      "media_id": "18474244996110192",
+      "url": "https://www.instagram.com/reel/18474244996110192",
+      "comentario": "postado na hora"
+    }
   }
 }
