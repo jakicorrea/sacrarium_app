@@ -371,13 +371,18 @@
       "plataforma": "instagram",
       "tipo": "reels",
       "publish_at": "2026-08-04T12:25:00-03:00",
-      "status": "pendente",
+      "status": "publicado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S13_O_que_e_o_DED.mp4",
       "caption": "Antes de negociar qualquer dívida, peça esse documento. 👇\n\nO DED mostra exatamente o que o banco cobrou de você, mês a mês — e o que dá pra contestar.",
       "first_comment": "Ebook grátis com o passo a passo da negociação — link na bio.",
       "nota": "VIDEO AINDA NAO EXPORTADO, mesmo video_path do job YT. REALOCADO de sabado 08/08 pra terca 04/08.",
       "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/instagram/METODOANA_S13_IG_video_S13_O_que_e_o_DED.mp4",
-      "video_url_nuvem_remoto": "metodoana/instagram/METODOANA_S13_IG_video_S13_O_que_e_o_DED.mp4"
+      "video_url_nuvem_remoto": "metodoana/instagram/METODOANA_S13_IG_video_S13_O_que_e_o_DED.mp4",
+      "resultado": {
+        "media_id": "18617642467033510",
+        "url": "https://www.instagram.com/reel/18617642467033510",
+        "comentario": "postado na hora"
+      }
     },
     {
       "id": "METODOANA_S13_IG_CARROSSEL",
