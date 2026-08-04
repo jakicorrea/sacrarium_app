@@ -390,7 +390,7 @@
       "plataforma": "instagram",
       "tipo": "carrossel",
       "publish_at": "2026-08-04T18:00:00-03:00",
-      "status": "publicado",
+      "status": "pulado: ja publicado (duplicata dentro deste lote)",
       "image_paths": [
         "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_MetodoANA_S13\\01.jpg",
         "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_MetodoANA_S13\\02.jpg",
@@ -420,12 +420,7 @@
         "metodoana/instagram/METODOANA_S13_IG_CARROSSEL_img4_05.jpg",
         "metodoana/instagram/METODOANA_S13_IG_CARROSSEL_img5_06.jpg",
         "metodoana/instagram/METODOANA_S13_IG_CARROSSEL_img6_07.jpg"
-      ],
-      "resultado": {
-        "media_id": "17910221940265242",
-        "url": "https://www.instagram.com/p/17910221940265242",
-        "comentario": "postado na hora"
-      }
+      ]
     },
     {
       "id": "METODOANA_S13_FB_FOTO",
