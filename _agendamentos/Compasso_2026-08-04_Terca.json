@@ -52,17 +52,12 @@
       "plataforma": "instagram",
       "tipo": "reels",
       "publish_at": "2026-08-04T08:05:00-03:00",
-      "status": "publicado",
+      "status": "pulado: ja publicado (duplicata dentro deste lote)",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S10_P4D_limite_nao_e_sua_renda.mp4",
       "caption": "Limite alto não é sinal de saúde financeira. É isca. 👇\n\nO cartão que sobe sozinho quer que você gaste mais do que sua renda aguenta.",
       "first_comment": "Ebook grátis das dez Armadilhas Bancárias — link na bio.",
       "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/protocolo4d/instagram/P4D_S10_IG_video_S10_P4D_limite_nao_e_sua_renda.mp4",
-      "video_url_nuvem_remoto": "protocolo4d/instagram/P4D_S10_IG_video_S10_P4D_limite_nao_e_sua_renda.mp4",
-      "resultado": {
-        "media_id": "18616961848055620",
-        "url": "https://www.instagram.com/reel/18616961848055620",
-        "comentario": "postado na hora"
-      }
+      "video_url_nuvem_remoto": "protocolo4d/instagram/P4D_S10_IG_video_S10_P4D_limite_nao_e_sua_renda.mp4"
     },
     {
       "id": "P4D_S10_FB_FOTO",
