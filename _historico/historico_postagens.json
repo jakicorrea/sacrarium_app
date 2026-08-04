@@ -2637,5 +2637,17 @@
       "url": "https://www.instagram.com/reel/18617642467033510",
       "comentario": "postado na hora"
     }
+  },
+  "sacrarium|instagram|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S13_vida_espiritual_e_jardim.mp4": {
+    "id": "SACRARIUM_S13_IG",
+    "canal": "sacrarium",
+    "plataforma": "instagram",
+    "publish_at": "2026-08-04T12:15:00-03:00",
+    "postado_em_utc": "2026-08-04T15:31:52Z",
+    "resultado": {
+      "media_id": "18054880757615801",
+      "url": "https://www.instagram.com/reel/18054880757615801",
+      "comentario": "postado na hora"
+    }
   }
 }

@@ -308,13 +308,18 @@
       "plataforma": "instagram",
       "tipo": "reels",
       "publish_at": "2026-08-04T12:15:00-03:00",
-      "status": "pendente",
+      "status": "publicado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S13_vida_espiritual_e_jardim.mp4",
       "caption": "Sua vida espiritual não é uma corrida com linha de chegada. 👇\n\nÉ um jardim — precisa de tempo, paciência e cuidado repetido, não de esforço de um dia só.",
       "first_comment": "Conheça o Sacrarium — link na bio.",
       "nota": "VIDEO AINDA NAO EXPORTADO, mesmo video_path do job YT. REALOCADO de sabado 08/08 pra terca 04/08.",
       "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/instagram/SACRARIUM_S13_IG_video_S13_vida_espiritual_e_jardim.mp4",
-      "video_url_nuvem_remoto": "sacrarium/instagram/SACRARIUM_S13_IG_video_S13_vida_espiritual_e_jardim.mp4"
+      "video_url_nuvem_remoto": "sacrarium/instagram/SACRARIUM_S13_IG_video_S13_vida_espiritual_e_jardim.mp4",
+      "resultado": {
+        "media_id": "18054880757615801",
+        "url": "https://www.instagram.com/reel/18054880757615801",
+        "comentario": "postado na hora"
+      }
     },
     {
       "id": "METODOANA_S13_YT",
