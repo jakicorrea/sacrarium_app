@@ -48,12 +48,17 @@
       "plataforma": "instagram",
       "tipo": "reels",
       "publish_at": "2026-08-05T08:05:00-03:00",
-      "status": "pendente",
+      "status": "publicado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S12_P4D_divida_escondida_conjuge.mp4",
       "caption": "Silêncio sobre dívida pesa mais que a própria dívida. 👇\n\nUma conversa honesta, mesmo incompleta, já divide esse peso pela metade.",
       "first_comment": "Quiz de Diagnóstico, doze perguntas, gratuito — link na bio.",
       "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/protocolo4d/instagram/P4D_S12_IG_video_S12_P4D_divida_escondida_conjuge.mp4",
-      "video_url_nuvem_remoto": "protocolo4d/instagram/P4D_S12_IG_video_S12_P4D_divida_escondida_conjuge.mp4"
+      "video_url_nuvem_remoto": "protocolo4d/instagram/P4D_S12_IG_video_S12_P4D_divida_escondida_conjuge.mp4",
+      "resultado": {
+        "media_id": "18109804376014323",
+        "url": "https://www.instagram.com/reel/18109804376014323",
+        "comentario": "postado na hora"
+      }
     },
     {
       "id": "P4D_S12_FB_FOTO",
