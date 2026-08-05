@@ -320,13 +320,18 @@
       "plataforma": "instagram",
       "tipo": "reels",
       "publish_at": "2026-08-05T12:15:00-03:00",
-      "status": "pendente",
+      "status": "publicado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S14_alma_abandonada.mp4",
       "caption": "Sua vida de oração esfriou sem um motivo claro? 👇\n\nNão precisou de tempestade — só de ausência aos poucos. E dá pra reviver, começando pelo primeiro passo de volta.",
       "first_comment": "Conheça o Sacrarium — link na bio.",
       "nota": "VIDEO AINDA NAO EXPORTADO, mesmo video_path do job YT. REALOCADO de segunda 10/08 pra quarta 05/08.",
       "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/instagram/SACRARIUM_S14_IG_video_S14_alma_abandonada.mp4",
-      "video_url_nuvem_remoto": "sacrarium/instagram/SACRARIUM_S14_IG_video_S14_alma_abandonada.mp4"
+      "video_url_nuvem_remoto": "sacrarium/instagram/SACRARIUM_S14_IG_video_S14_alma_abandonada.mp4",
+      "resultado": {
+        "media_id": "17892514341397690",
+        "url": "https://www.instagram.com/reel/17892514341397690",
+        "comentario": "postado na hora"
+      }
     },
     {
       "id": "METODOANA_S14_YT",

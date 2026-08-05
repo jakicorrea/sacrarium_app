@@ -2709,5 +2709,17 @@
       "url": "https://www.instagram.com/reel/17900582094476301",
       "comentario": "postado na hora"
     }
+  },
+  "sacrarium|instagram|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S14_alma_abandonada.mp4": {
+    "id": "SACRARIUM_S14_IG",
+    "canal": "sacrarium",
+    "plataforma": "instagram",
+    "publish_at": "2026-08-05T12:15:00-03:00",
+    "postado_em_utc": "2026-08-05T15:30:52Z",
+    "resultado": {
+      "media_id": "17892514341397690",
+      "url": "https://www.instagram.com/reel/17892514341397690",
+      "comentario": "postado na hora"
+    }
   }
 }
