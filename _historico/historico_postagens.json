@@ -2685,5 +2685,17 @@
       "url": "https://www.instagram.com/reel/18109804376014323",
       "comentario": "postado na hora"
     }
+  },
+  "protocolo4d|instagram|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S13_P4D_consignado_armadilha.mp4": {
+    "id": "P4D_S13_IG",
+    "canal": "protocolo4d",
+    "plataforma": "instagram",
+    "publish_at": "2026-08-05T12:05:00-03:00",
+    "postado_em_utc": "2026-08-05T15:07:59Z",
+    "resultado": {
+      "media_id": "17975692149088926",
+      "url": "https://www.instagram.com/reel/17975692149088926",
+      "comentario": "postado na hora"
+    }
   }
 }

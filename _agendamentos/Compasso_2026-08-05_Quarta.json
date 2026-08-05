@@ -154,13 +154,18 @@
       "plataforma": "instagram",
       "tipo": "reels",
       "publish_at": "2026-08-05T12:05:00-03:00",
-      "status": "pendente",
+      "status": "publicado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S13_P4D_consignado_armadilha.mp4",
       "caption": "Taxa baixa não é sinal verde. 👇\n\nConsignado desconta direto na folha — você nem vê o dinheiro passar, e é assim que trinta por cento do salário fica travado sem perceber.",
       "first_comment": "Ebook grátis das dez armadilhas bancárias — link na bio.",
       "nota": "VIDEO AINDA NAO EXPORTADO, mesmo video_path do job YT.",
       "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/protocolo4d/instagram/P4D_S13_IG_video_S13_P4D_consignado_armadilha.mp4",
-      "video_url_nuvem_remoto": "protocolo4d/instagram/P4D_S13_IG_video_S13_P4D_consignado_armadilha.mp4"
+      "video_url_nuvem_remoto": "protocolo4d/instagram/P4D_S13_IG_video_S13_P4D_consignado_armadilha.mp4",
+      "resultado": {
+        "media_id": "17975692149088926",
+        "url": "https://www.instagram.com/reel/17975692149088926",
+        "comentario": "postado na hora"
+      }
     },
     {
       "id": "CP_V15_YT",
