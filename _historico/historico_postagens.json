@@ -2769,5 +2769,17 @@
       "url": "https://www.instagram.com/reel/18123555298755301",
       "comentario": "postado na hora"
     }
+  },
+  "sacrarium|instagram|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S15_deus_trabalha_em_etapas.mp4": {
+    "id": "SACRARIUM_S15_IG",
+    "canal": "sacrarium",
+    "plataforma": "instagram",
+    "publish_at": "2026-08-06T12:15:00-03:00",
+    "postado_em_utc": "2026-08-06T15:31:16Z",
+    "resultado": {
+      "media_id": "18097785563621267",
+      "url": "https://www.instagram.com/reel/18097785563621267",
+      "comentario": "postado na hora"
+    }
   }
 }
