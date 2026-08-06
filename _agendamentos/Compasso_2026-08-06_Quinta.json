@@ -49,18 +49,13 @@
       "plataforma": "instagram",
       "tipo": "reels",
       "publish_at": "2026-08-06T08:05:00-03:00",
-      "status": "publicado",
+      "status": "pulado: ja publicado (duplicata dentro deste lote)",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S14_P4D_score_sobe_como.mp4",
       "caption": "Score é consequência de comportamento, não de sorte. 👇\n\nA variável que mais gente ignora: uso acima de 30% do limite já pesa contra você, mesmo em dia com tudo.",
       "first_comment": "Quiz de Diagnóstico, doze perguntas, gratuito — link na bio.",
       "nota": "VIDEO AINDA NAO EXPORTADO, mesmo video_path do job YT.",
       "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/protocolo4d/instagram/P4D_S14_IG_video_S14_P4D_score_sobe_como.mp4",
-      "video_url_nuvem_remoto": "protocolo4d/instagram/P4D_S14_IG_video_S14_P4D_score_sobe_como.mp4",
-      "resultado": {
-        "media_id": "18108399544829920",
-        "url": "https://www.instagram.com/reel/18108399544829920",
-        "comentario": "postado na hora"
-      }
+      "video_url_nuvem_remoto": "protocolo4d/instagram/P4D_S14_IG_video_S14_P4D_score_sobe_como.mp4"
     },
     {
       "id": "P4D_S15_YT",
