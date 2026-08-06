@@ -187,18 +187,13 @@
       "plataforma": "instagram",
       "tipo": "reels",
       "publish_at": "2026-08-06T12:15:00-03:00",
-      "status": "publicado",
+      "status": "pulado: ja publicado (duplicata dentro deste lote)",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S15_deus_trabalha_em_etapas.mp4",
       "caption": "Você não passa da primeira pra sétima morada numa noite. 👇\n\nA transformação espiritual é graduada porque nós somos graduados — cada etapa prepara a próxima.",
       "first_comment": "Conheça o Sacrarium — link na bio.",
       "nota": "VIDEO AINDA NAO EXPORTADO, mesmo video_path do job YT. REALOCADO de terca 11/08 pra quinta 06/08.",
       "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/instagram/SACRARIUM_S15_IG_video_S15_deus_trabalha_em_etapas.mp4",
-      "video_url_nuvem_remoto": "sacrarium/instagram/SACRARIUM_S15_IG_video_S15_deus_trabalha_em_etapas.mp4",
-      "resultado": {
-        "media_id": "18097785563621267",
-        "url": "https://www.instagram.com/reel/18097785563621267",
-        "comentario": "postado na hora"
-      }
+      "video_url_nuvem_remoto": "sacrarium/instagram/SACRARIUM_S15_IG_video_S15_deus_trabalha_em_etapas.mp4"
     },
     {
       "id": "METODOANA_S15_YT",
