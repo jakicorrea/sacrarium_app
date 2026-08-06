@@ -105,13 +105,18 @@
       "plataforma": "instagram",
       "tipo": "reels",
       "publish_at": "2026-08-06T12:05:00-03:00",
-      "status": "pendente",
+      "status": "publicado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S15_P4D_rotativo_o_que_e.mp4",
       "caption": "Pagar qualquer valor abaixo da fatura te joga no crédito mais caro do país. 👇\n\nO nome disso é rotativo. E a taxa pode passar de 200% ao ano.",
       "first_comment": "Ebook grátis das dez armadilhas bancárias — link na bio.",
       "nota": "VIDEO AINDA NAO EXPORTADO, mesmo video_path do job YT.",
       "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/protocolo4d/instagram/P4D_S15_IG_video_S15_P4D_rotativo_o_que_e.mp4",
-      "video_url_nuvem_remoto": "protocolo4d/instagram/P4D_S15_IG_video_S15_P4D_rotativo_o_que_e.mp4"
+      "video_url_nuvem_remoto": "protocolo4d/instagram/P4D_S15_IG_video_S15_P4D_rotativo_o_que_e.mp4",
+      "resultado": {
+        "media_id": "18111197825319617",
+        "url": "https://www.instagram.com/reel/18111197825319617",
+        "comentario": "postado na hora"
+      }
     },
     {
       "id": "NPP_V9_YT",

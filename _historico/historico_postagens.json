@@ -2745,5 +2745,17 @@
       "url": "https://www.instagram.com/reel/18108399544829920",
       "comentario": "postado na hora"
     }
+  },
+  "protocolo4d|instagram|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S15_P4D_rotativo_o_que_e.mp4": {
+    "id": "P4D_S15_IG",
+    "canal": "protocolo4d",
+    "plataforma": "instagram",
+    "publish_at": "2026-08-06T12:05:00-03:00",
+    "postado_em_utc": "2026-08-06T15:08:10Z",
+    "resultado": {
+      "media_id": "18111197825319617",
+      "url": "https://www.instagram.com/reel/18111197825319617",
+      "comentario": "postado na hora"
+    }
   }
 }
