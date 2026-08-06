@@ -244,13 +244,18 @@
       "plataforma": "instagram",
       "tipo": "reels",
       "publish_at": "2026-08-06T12:25:00-03:00",
-      "status": "pendente",
+      "status": "publicado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S15_As_Tres_Letras_do_Metodo_ANA.mp4",
       "caption": "A ordem certa pra atacar suas dívidas não é a que você imagina. 👇\n\nAvaliar, Neutralizar, Avançar: as três fases do método que estou usando na minha própria dívida.",
       "first_comment": "Ebook grátis com o passo a passo — link na bio.",
       "nota": "VIDEO AINDA NAO EXPORTADO, mesmo video_path do job YT. REALOCADO de terca 11/08 pra quinta 06/08.",
       "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/instagram/METODOANA_S15_IG_video_S15_As_Tres_Letras_do_Metodo_ANA.mp4",
-      "video_url_nuvem_remoto": "metodoana/instagram/METODOANA_S15_IG_video_S15_As_Tres_Letras_do_Metodo_ANA.mp4"
+      "video_url_nuvem_remoto": "metodoana/instagram/METODOANA_S15_IG_video_S15_As_Tres_Letras_do_Metodo_ANA.mp4",
+      "resultado": {
+        "media_id": "18123555298755301",
+        "url": "https://www.instagram.com/reel/18123555298755301",
+        "comentario": "postado na hora"
+      }
     },
     {
       "id": "METODOANA_S15_IG_CARROSSEL",
