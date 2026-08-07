@@ -2805,5 +2805,17 @@
       "url": "https://www.instagram.com/reel/17958545679172806",
       "comentario": "postado na hora"
     }
+  },
+  "sacrarium|instagram|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S16_pequenos_passos_mudam_tudo.mp4": {
+    "id": "SACRARIUM_S16_IG",
+    "canal": "sacrarium",
+    "plataforma": "instagram",
+    "publish_at": "2026-08-07T12:15:00-03:00",
+    "postado_em_utc": "2026-08-07T15:17:57Z",
+    "resultado": {
+      "media_id": "18145361845486178",
+      "url": "https://www.instagram.com/reel/18145361845486178",
+      "comentario": "postado na hora"
+    }
   }
 }

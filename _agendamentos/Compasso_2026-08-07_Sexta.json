@@ -221,13 +221,18 @@
       "plataforma": "instagram",
       "tipo": "reels",
       "publish_at": "2026-08-07T12:15:00-03:00",
-      "status": "pendente",
+      "status": "publicado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S16_pequenos_passos_mudam_tudo.mp4",
       "caption": "Cinco minutos todo dia vencem uma hora uma vez por mês. 👇\n\nA regularidade vence a intensidade — é assim que o hábito de oração realmente se forma.",
       "first_comment": "Conheça o Sacrarium — link na bio.",
       "nota": "VIDEO AINDA NAO EXPORTADO, mesmo video_path do job YT. REALOCADO de quarta 12/08 pra sexta 07/08.",
       "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/instagram/SACRARIUM_S16_IG_video_S16_pequenos_passos_mudam_tudo.mp4",
-      "video_url_nuvem_remoto": "sacrarium/instagram/SACRARIUM_S16_IG_video_S16_pequenos_passos_mudam_tudo.mp4"
+      "video_url_nuvem_remoto": "sacrarium/instagram/SACRARIUM_S16_IG_video_S16_pequenos_passos_mudam_tudo.mp4",
+      "resultado": {
+        "media_id": "18145361845486178",
+        "url": "https://www.instagram.com/reel/18145361845486178",
+        "comentario": "postado na hora"
+      }
     },
     {
       "id": "METODOANA_S16_YT",
