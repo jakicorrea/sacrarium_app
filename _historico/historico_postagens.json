@@ -2841,5 +2841,17 @@
       "url": "https://www.instagram.com/reel/18100752164364676",
       "comentario": "postado na hora"
     }
+  },
+  "sacrarium|instagram|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S17_avanco_rapido_prejudica.mp4": {
+    "id": "SACRARIUM_S17_IG",
+    "canal": "sacrarium",
+    "plataforma": "instagram",
+    "publish_at": "2026-08-08T12:15:00-03:00",
+    "postado_em_utc": "2026-08-08T15:19:39Z",
+    "resultado": {
+      "media_id": "18120904333871950",
+      "url": "https://www.instagram.com/reel/18120904333871950",
+      "comentario": "postado na hora"
+    }
   }
 }
