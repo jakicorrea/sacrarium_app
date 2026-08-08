@@ -105,18 +105,13 @@
       "plataforma": "instagram",
       "tipo": "reels",
       "publish_at": "2026-08-08T12:15:00-03:00",
-      "status": "publicado",
+      "status": "pendente",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S17_avanco_rapido_prejudica.mp4",
       "caption": "Você já comparou sua vida de oração com a de quem \"já sente mais\"? 👇\n\nSanta Teresa de Ávila avisava: queimar etapa gera instabilidade, não avanço.",
       "first_comment": "Conheça o Sacrarium — link na bio.",
       "nota": "VIDEO AINDA NAO EXPORTADO, mesmo video_path do job YT. REALOCADO de quinta 13/08 pra sabado 08/08.",
       "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/instagram/SACRARIUM_S17_IG_video_S17_avanco_rapido_prejudica.mp4",
-      "video_url_nuvem_remoto": "sacrarium/instagram/SACRARIUM_S17_IG_video_S17_avanco_rapido_prejudica.mp4",
-      "resultado": {
-        "media_id": "18120904333871950",
-        "url": "https://www.instagram.com/reel/18120904333871950",
-        "comentario": "postado na hora"
-      }
+      "video_url_nuvem_remoto": "sacrarium/instagram/SACRARIUM_S17_IG_video_S17_avanco_rapido_prejudica.mp4"
     },
     {
       "id": "METODOANA_S17_YT",
@@ -167,13 +162,18 @@
       "plataforma": "instagram",
       "tipo": "reels",
       "publish_at": "2026-08-08T12:25:00-03:00",
-      "status": "pendente",
+      "status": "publicado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S17_Sistema_de_Estrelas.mp4",
       "caption": "Classifique suas dívidas assim e descubra por onde começar. 👇\n\nEmergencial, atrasada, ou o resto — exercício de cinco minutos que muda a ordem de ataque.",
       "first_comment": "Ebook grátis com o passo a passo completo — link na bio.",
       "nota": "VIDEO AINDA NAO EXPORTADO, mesmo video_path do job YT. REALOCADO de quinta 13/08 pra sabado 08/08.",
       "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/instagram/METODOANA_S17_IG_video_S17_Sistema_de_Estrelas.mp4",
-      "video_url_nuvem_remoto": "metodoana/instagram/METODOANA_S17_IG_video_S17_Sistema_de_Estrelas.mp4"
+      "video_url_nuvem_remoto": "metodoana/instagram/METODOANA_S17_IG_video_S17_Sistema_de_Estrelas.mp4",
+      "resultado": {
+        "media_id": "18112553720513167",
+        "url": "https://www.instagram.com/reel/18112553720513167",
+        "comentario": "postado na hora"
+      }
     },
     {
       "id": "METODOANA_S17_IG_CARROSSEL",
