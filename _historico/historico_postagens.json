@@ -2829,5 +2829,17 @@
       "url": "https://www.instagram.com/reel/18375350146226322",
       "comentario": "postado na hora"
     }
+  },
+  "protocolo4d|instagram|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S17_P4D_emprestimo_pagar_cartao.mp4": {
+    "id": "P4D_S17_IG",
+    "canal": "protocolo4d",
+    "plataforma": "instagram",
+    "publish_at": "2026-08-08T08:05:00-03:00",
+    "postado_em_utc": "2026-08-08T11:08:53Z",
+    "resultado": {
+      "media_id": "18100752164364676",
+      "url": "https://www.instagram.com/reel/18100752164364676",
+      "comentario": "postado na hora"
+    }
   }
 }

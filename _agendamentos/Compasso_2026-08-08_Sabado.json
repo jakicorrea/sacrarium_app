@@ -49,13 +49,18 @@
       "plataforma": "instagram",
       "tipo": "reels",
       "publish_at": "2026-08-08T08:05:00-03:00",
-      "status": "pendente",
+      "status": "publicado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S17_P4D_emprestimo_pagar_cartao.mp4",
       "caption": "Trocar dívida cara por dívida cara não é solução, é sensação. 👇\n\nA pergunta que decide tudo: a taxa do empréstimo novo é menor que a taxa que você quer quitar?",
       "first_comment": "Calculadora grátis da Liberdade — link na bio.",
       "nota": "VIDEO AINDA NAO EXPORTADO, mesmo video_path do job YT. EQUALIZACAO P4D: remanejado de 07/08 pra 08/08.",
       "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/protocolo4d/instagram/P4D_S17_IG_video_S17_P4D_emprestimo_pagar_cartao.mp4",
-      "video_url_nuvem_remoto": "protocolo4d/instagram/P4D_S17_IG_video_S17_P4D_emprestimo_pagar_cartao.mp4"
+      "video_url_nuvem_remoto": "protocolo4d/instagram/P4D_S17_IG_video_S17_P4D_emprestimo_pagar_cartao.mp4",
+      "resultado": {
+        "media_id": "18100752164364676",
+        "url": "https://www.instagram.com/reel/18100752164364676",
+        "comentario": "postado na hora"
+      }
     },
     {
       "id": "SACRARIUM_S17_YT",
