@@ -181,7 +181,7 @@
       "plataforma": "instagram",
       "tipo": "carrossel",
       "publish_at": "2026-08-08T17:00:00-03:00",
-      "status": "pendente",
+      "status": "publicado",
       "image_paths": [
         "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_MetodoANA_S17\\01.jpg",
         "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_MetodoANA_S17\\02.jpg",
@@ -211,7 +211,12 @@
         "metodoana/instagram/METODOANA_S17_IG_CARROSSEL_img4_05.jpg",
         "metodoana/instagram/METODOANA_S17_IG_CARROSSEL_img5_06.jpg",
         "metodoana/instagram/METODOANA_S17_IG_CARROSSEL_img6_07.jpg"
-      ]
+      ],
+      "resultado": {
+        "media_id": "18101565566239262",
+        "url": "https://www.instagram.com/p/18101565566239262",
+        "comentario": "postado na hora"
+      }
     },
     {
       "id": "METODOANA_S17_FB_FOTO",
