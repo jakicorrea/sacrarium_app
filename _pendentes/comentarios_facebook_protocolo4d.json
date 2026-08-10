@@ -190,5 +190,17 @@
     "title": "P4D_S21_FB",
     "comment": "Pra colocar teto no seu gasto variável antes do próximo Pix, deixei aqui embaixo a Planilha do Protocolo 4D, gratuita: https://protocolo-4d.netlify.app/lp-planilha",
     "publish_at": "2026-08-13T12:00:00-03:00"
+  },
+  {
+    "object_id": "122115355449394338",
+    "title": "PROTOCOLO4D_S22_FB_FOTO",
+    "comment": "A lógica completa de divisão está no Mapa do Protocolo 4D, gratuito, no link no site da página.",
+    "publish_at": "2026-08-14T09:00:00-03:00"
+  },
+  {
+    "object_id": "1187301757807529",
+    "title": "P4D_S22_FB",
+    "comment": "A lógica completa de alocação de entrada extra dentro do método está no Mapa do Protocolo 4D, gratuito, aqui embaixo: https://protocolo-4d.netlify.app/lp-mapa",
+    "publish_at": "2026-08-14T12:00:00-03:00"
   }
 ]

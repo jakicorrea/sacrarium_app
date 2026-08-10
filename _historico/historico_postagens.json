@@ -3407,5 +3407,120 @@
       "video_id": "uy83ENx6vmo",
       "url": "https://youtube.com/watch?v=uy83ENx6vmo"
     }
+  },
+  "protocolo4d|facebook|C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Post Facebook\\04 Imagens Geradas\\S22 Dinheiro Extra Sem Regra.jpg": {
+    "id": "PROTOCOLO4D_S22_FB_FOTO",
+    "canal": "protocolo4d",
+    "plataforma": "facebook",
+    "publish_at": "2026-08-14T09:00:00-03:00",
+    "postado_em_utc": "2026-08-10T14:05:48Z",
+    "resultado": {
+      "object_id": "122115355449394338",
+      "agendado": true,
+      "url": "https://www.facebook.com/122115355449394338"
+    }
+  },
+  "protocolo4d|youtube|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S22_P4D_dinheiro_extra_sem_regra.mp4": {
+    "id": "P4D_S22_YT",
+    "canal": "protocolo4d",
+    "plataforma": "youtube",
+    "publish_at": "2026-08-14T12:00:00-03:00",
+    "postado_em_utc": "2026-08-10T14:06:24Z",
+    "resultado": {
+      "video_id": "wnIlMqKRp4k",
+      "url": "https://youtube.com/watch?v=wnIlMqKRp4k"
+    }
+  },
+  "protocolo4d|facebook|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S22_P4D_dinheiro_extra_sem_regra.mp4": {
+    "id": "P4D_S22_FB",
+    "canal": "protocolo4d",
+    "plataforma": "facebook",
+    "publish_at": "2026-08-14T12:00:00-03:00",
+    "postado_em_utc": "2026-08-10T14:07:03Z",
+    "resultado": {
+      "video_id": "1187301757807529",
+      "agendado": true,
+      "url": "https://www.facebook.com/reel/1187301757807529"
+    }
+  },
+  "metodoana|youtube|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S22_Os_Cortes_de_864_Reais.mp4": {
+    "id": "METODOANA_S22_YT",
+    "canal": "metodoana",
+    "plataforma": "youtube",
+    "publish_at": "2026-08-14T12:00:00-03:00",
+    "postado_em_utc": "2026-08-10T14:07:43Z",
+    "resultado": {
+      "video_id": "D9Dc5qzLSCI",
+      "url": "https://youtube.com/watch?v=D9Dc5qzLSCI"
+    }
+  },
+  "metodoana|facebook|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S22_Os_Cortes_de_864_Reais.mp4": {
+    "id": "METODOANA_S22_FB",
+    "canal": "metodoana",
+    "plataforma": "facebook",
+    "publish_at": "2026-08-14T12:00:00-03:00",
+    "postado_em_utc": "2026-08-10T14:08:32Z",
+    "resultado": {
+      "video_id": "27668576586174500",
+      "agendado": true,
+      "url": "https://www.facebook.com/reel/27668576586174500"
+    }
+  },
+  "sacrarium|facebook|C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Sacrarium\\Post Facebook\\04 Imagens Geradas\\S22 Quarto Secreto Do Evangelho.jpg": {
+    "id": "SACRARIUM_S22_FB_FOTO",
+    "canal": "sacrarium",
+    "plataforma": "facebook",
+    "publish_at": "2026-08-14T09:00:00-03:00",
+    "postado_em_utc": "2026-08-10T14:08:35Z",
+    "resultado": {
+      "object_id": "122120535723386492",
+      "agendado": true,
+      "url": "https://www.facebook.com/122120535723386492"
+    }
+  },
+  "sacrarium|youtube|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S22_quarto_secreto_do_evangelho.mp4": {
+    "id": "SACRARIUM_S22_YT",
+    "canal": "sacrarium",
+    "plataforma": "youtube",
+    "publish_at": "2026-08-14T12:00:00-03:00",
+    "postado_em_utc": "2026-08-10T14:09:20Z",
+    "resultado": {
+      "video_id": "hs5PR1x14Lk",
+      "url": "https://youtube.com/watch?v=hs5PR1x14Lk"
+    }
+  },
+  "sacrarium|facebook|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S22_quarto_secreto_do_evangelho.mp4": {
+    "id": "SACRARIUM_S22_FB",
+    "canal": "sacrarium",
+    "plataforma": "facebook",
+    "publish_at": "2026-08-14T12:00:00-03:00",
+    "postado_em_utc": "2026-08-10T14:09:55Z",
+    "resultado": {
+      "video_id": "1585638156442646",
+      "agendado": true,
+      "url": "https://www.facebook.com/reel/1585638156442646"
+    }
+  },
+  "forjandotitas|youtube|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V14_FT_frase_sabotagem.mp4": {
+    "id": "FT_V14_YT",
+    "canal": "forjandotitas",
+    "plataforma": "youtube",
+    "publish_at": "2026-08-14T12:00:00-03:00",
+    "postado_em_utc": "2026-08-10T14:13:50Z",
+    "resultado": {
+      "video_id": "1htxasoxwn8",
+      "url": "https://youtube.com/watch?v=1htxasoxwn8"
+    }
+  },
+  "cathedrapetri|youtube|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V19_PT_TEP_Suetônio_e_o_registro_policial_da_.mp4": {
+    "id": "CP_V19_YT",
+    "canal": "cathedrapetri",
+    "plataforma": "youtube",
+    "publish_at": "2026-08-14T12:00:00-03:00",
+    "postado_em_utc": "2026-08-10T14:18:34Z",
+    "resultado": {
+      "video_id": "VNyqs3H2uoc",
+      "url": "https://youtube.com/watch?v=VNyqs3H2uoc"
+    }
   }
 }
