@@ -1,5 +1,5 @@
 {
-  "lote": "Quarta 12/08/2026 - P4D S20 + Sacrarium S20+V07(longo) + MetodoANA S20+V07(longo) + CP V18 + FT V12. Titulos escolhidos por CTR entre as 5 opcoes de cada pack. Thumbnails ja escolhidas manualmente pela Jaqueline (arquivo unico na pasta Thumbnails, nao 'Teste A/B/C'). Carrossel/foto: image_paths/image_path ainda com PLACEHOLDER -- preencher com o caminho real depois de gerar as imagens do carrossel (prompts ja existem em Insta Fila 03.json de cada canal). Carrossel/foto de hoje (sem dia fixo -- usa o que ja foi gerado por canal): metodoana S20.",
+  "lote": "Quarta 12/08/2026 - P4D S20 + Sacrarium S20+V07(longo) + MetodoANA S20+V07(longo) + CP V18 + FT V12. Titulos escolhidos por CTR entre as 5 opcoes de cada pack. Thumbnails ja escolhidas manualmente pela Jaqueline (arquivo unico na pasta Thumbnails, nao 'Teste A/B/C'). Carrossel/foto: image_paths/image_path ainda com PLACEHOLDER -- preencher com o caminho real depois de gerar as imagens do carrossel (prompts ja existem em Insta Fila 03.json de cada canal). Carrossel/foto de hoje (sem dia fixo -- usa o que ja foi gerado por canal): metodoana S20. CORRIGIDO 2026-08-10: V07 Sacrarium/MetodoANA MOVIDOS pra terca (registro abaixo) -- ficaram nesse arquivo por engano no momento do processamento, o job real ja foi reagendado via API (YouTube + Facebook) pra terca 17:00, simetrico ao V08 (quinta 17:00 pros 2 canais).",
   "jobs": [
     {
       "id": "P4D_S20_YT",
@@ -211,88 +211,6 @@
       "resultado": {
         "video_id": "mA75RuJvHKE",
         "url": "https://youtube.com/watch?v=mA75RuJvHKE"
-      }
-    },
-    {
-      "id": "SACRARIUM_V07_YT",
-      "canal": "sacrarium",
-      "plataforma": "youtube",
-      "tipo": "video",
-      "publish_at": "2026-08-12T20:00:00-03:00",
-      "status": "agendado",
-      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V07_Como_o_Sacrarium_funciona_na_pratica.mp4",
-      "thumb_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\03_Estrutura_Canais\\Sacrarium\\04-Pack de Postagem\\Thumbnails\\V07_Como_o_Sacrarium_funciona_na_pratica.jpeg",
-      "title": "Como o Sacrarium Funciona na Prática — Tour Completo do App",
-      "description": "Você já entendeu o conceito do Sacrarium, o jardim interior, a jornada espiritual, a metáfora das Moradas de Santa Teresa de Ávila. Mas talvez ainda reste a pergunta prática: como funciona de verdade? O que eu vejo quando abro o app?\n\nNeste vídeo, eu mostro seção por seção como o Sacrarium funciona na prática, sem abstrações: a tela inicial que muda conforme o período do dia, o Diretor Espiritual com a jornada das oito Fases, as Trilhas temáticas, o Diário Espiritual de discernimento e o Mural de Intercessão.\n\nPra quem já conhece o Sacrarium de longe e quer ver como ele realmente funciona por dentro antes de começar.\n\nNo final, mostro a funcionalidade que mais surpreende as pessoas quando chegam: o Jardim das Virtudes.\n\nBaixe e comece a Fase 1 gratuita do Sacrarium.",
-      "tags": [
-        "oração católica",
-        "vida espiritual",
-        "Sacrarium",
-        "espiritualidade católica",
-        "mestres da oração"
-      ],
-      "category_id": 27,
-      "pinned_comment": "Qual dessas seções do app mais despertou sua curiosidade: o Diretor Espiritual, as Trilhas, o Diário ou o Mural de Intercessão? Me conta aqui embaixo.\nA Fase 1 completa, 21 dias, é 100% gratuita. Conheça o Sacrarium: https://sacrarium-app.netlify.app/",
-      "resultado": {
-        "video_id": "txxONN_M9TA",
-        "url": "https://youtube.com/watch?v=txxONN_M9TA"
-      }
-    },
-    {
-      "id": "SACRARIUM_V07_FB",
-      "canal": "sacrarium",
-      "plataforma": "facebook",
-      "tipo": "video",
-      "publish_at": "2026-08-12T20:05:00-03:00",
-      "status": "agendado",
-      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V07_Como_o_Sacrarium_funciona_na_pratica.mp4",
-      "caption": "Como o Sacrarium Funciona na Prática — Tour Completo do App\n\nVocê já entendeu o conceito do Sacrarium, o jardim interior, a jornada espiritual, a metáfora das Moradas de Santa Teresa de Ávila. Mas talvez ainda reste a pergunta prática: como funciona de verdade? O que eu vejo quando abro o app?",
-      "first_comment": "Qual dessas seções do app mais despertou sua curiosidade: o Diretor Espiritual, as Trilhas, o Diário ou o Mural de Intercessão? Me conta aqui embaixo.\nA Fase 1 completa, 21 dias, é 100% gratuita. Conheça o Sacrarium: https://sacrarium-app.netlify.app/",
-      "resultado": {
-        "object_id": "1545413703978460",
-        "agendado": true,
-        "url": "https://www.facebook.com/1545413703978460"
-      }
-    },
-    {
-      "id": "METODOANA_V07_YT",
-      "canal": "metodoana",
-      "plataforma": "youtube",
-      "tipo": "video",
-      "publish_at": "2026-08-12T20:30:00-03:00",
-      "status": "agendado",
-      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V07_Como_negociar_divida_com_banco.mp4",
-      "thumb_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\03_Estrutura_Canais\\MetodoANA\\04-Pack de Postagem\\Thumbnails\\V07_Como_negociar_divida_com_banco.jpeg",
-      "title": "O Documento que Todo Endividado Devia Pedir Antes de Negociar",
-      "description": "Se você quer negociar uma dívida com o banco mas não sabe por onde começar, esse vídeo separa os dois cenários que a maioria confunde.\n\nDívida ativa e em dia, como consignado: o banco não tem interesse em renegociar, e a redução real de custo vem da amortização antecipada — um direito seu, não uma negociação. Dívida inadimplente há meses: aí existe espaço real pra desconto, principalmente à vista.\n\nExplico o processo que uso: pedir o DED (Demonstrativo de Evolução da Dívida), tentar pelo aplicativo ou SAC, formalizar pelo consumidor.gov.br se não der certo, e nunca fechar acordo sem proposta por escrito.\n\nSou Ana, mãe de 4 filhos, servidora pública, e uso essa mesma lógica nos meus contratos em tempo real — inclusive quando quitei um deles à vista em setembro de 2025.",
-      "tags": [
-        "educação financeira",
-        "sair das dívidas",
-        "Método ANA",
-        "organização financeira",
-        "renda extra"
-      ],
-      "category_id": 27,
-      "pinned_comment": "Você já tentou negociar com algum banco? Como foi? Comenta aqui embaixo. O passo a passo completo do DED e os scripts que eu uso estão reunidos no ebook Mãe, Concursada e Endividada.",
-      "resultado": {
-        "video_id": "e3GpjVBvFI0",
-        "url": "https://youtube.com/watch?v=e3GpjVBvFI0"
-      }
-    },
-    {
-      "id": "METODOANA_V07_FB",
-      "canal": "metodoana",
-      "plataforma": "facebook",
-      "tipo": "video",
-      "publish_at": "2026-08-12T20:35:00-03:00",
-      "status": "agendado",
-      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V07_Como_negociar_divida_com_banco.mp4",
-      "caption": "O Documento que Todo Endividado Devia Pedir Antes de Negociar\n\nSe você quer negociar uma dívida com o banco mas não sabe por onde começar, esse vídeo separa os dois cenários que a maioria confunde.",
-      "first_comment": "Você já tentou negociar com algum banco? Como foi? Comenta aqui embaixo. O passo a passo completo do DED e os scripts que eu uso estão reunidos no ebook Mãe, Concursada e Endividada.",
-      "resultado": {
-        "object_id": "1084919050882289",
-        "agendado": true,
-        "url": "https://www.facebook.com/1084919050882289"
       }
     },
     {
