@@ -48,12 +48,17 @@
       "plataforma": "instagram",
       "tipo": "reels",
       "publish_at": "2026-08-10T08:05:00-03:00",
-      "status": "pendente",
+      "status": "publicado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S18_P4D_negativado_o_que_perco.mp4",
       "caption": "5 Coisas Que Você Perde Quando Seu Nome Fica Sujo\n\nEstar negativado não é só ter o nome sujo. Tem custo prático que a maioria não lista antes de sentir na pele.",
       "first_comment": "Do diagnóstico até a blindagem depois de quitar, o passo a passo completo está no Mapa do Protocolo 4D, gratuito, aqui embaixo: https://protocolo-4d.netlify.app/lp-mapa",
       "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/protocolo4d/instagram/P4D_S18_IG_video_S18_P4D_negativado_o_que_perco.mp4",
-      "video_url_nuvem_remoto": "protocolo4d/instagram/P4D_S18_IG_video_S18_P4D_negativado_o_que_perco.mp4"
+      "video_url_nuvem_remoto": "protocolo4d/instagram/P4D_S18_IG_video_S18_P4D_negativado_o_que_perco.mp4",
+      "resultado": {
+        "media_id": "18083807060671069",
+        "url": "https://www.instagram.com/reel/18083807060671069",
+        "comentario": "postado na hora"
+      }
     },
     {
       "id": "SACRARIUM_S18_YT",

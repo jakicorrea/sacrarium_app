@@ -3096,5 +3096,17 @@
       "video_id": "Imu4lj2jQ2w",
       "url": "https://youtube.com/watch?v=Imu4lj2jQ2w"
     }
+  },
+  "protocolo4d|instagram|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S18_P4D_negativado_o_que_perco.mp4": {
+    "id": "P4D_S18_IG",
+    "canal": "protocolo4d",
+    "plataforma": "instagram",
+    "publish_at": "2026-08-10T08:05:00-03:00",
+    "postado_em_utc": "2026-08-10T12:18:19Z",
+    "resultado": {
+      "media_id": "18083807060671069",
+      "url": "https://www.instagram.com/reel/18083807060671069",
+      "comentario": "postado na hora"
+    }
   }
 }
