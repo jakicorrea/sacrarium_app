@@ -107,17 +107,12 @@
       "plataforma": "instagram",
       "tipo": "reels",
       "publish_at": "2026-08-10T12:15:00-03:00",
-      "status": "publicado",
+      "status": "pendente",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S18_vida_espiritual_tem_fases.mp4",
       "caption": "Santa Teresa Mapeou Sete Fases da Vida Espiritual — Você Está em Qual?\n\nSanta Teresa de Ávila descreveu a alma como um castelo de sete moradas — uma jornada longa e graduada, não um estado espiritual único. São João da Cruz complementa com as noites ativas e passivas, mostrando que cada fase é purificada de um jeito diferente.",
       "first_comment": "Se você tivesse que chutar, em que morada acha que está hoje? Não precisa ter certeza, é só um chute mesmo.\nO Sacrarium usa esse mesmo mapa pra ajudar você a discernir onde está, sem comparar com a fase de ninguém.\nConheça: https://sacrarium-app.netlify.app/",
       "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/instagram/SACRARIUM_S18_IG_video_S18_vida_espiritual_tem_fases.mp4",
-      "video_url_nuvem_remoto": "sacrarium/instagram/SACRARIUM_S18_IG_video_S18_vida_espiritual_tem_fases.mp4",
-      "resultado": {
-        "media_id": "18073312223397741",
-        "url": "https://www.instagram.com/reel/18073312223397741",
-        "comentario": "postado na hora"
-      }
+      "video_url_nuvem_remoto": "sacrarium/instagram/SACRARIUM_S18_IG_video_S18_vida_espiritual_tem_fases.mp4"
     },
     {
       "id": "METODOANA_S18_YT",
@@ -166,12 +161,17 @@
       "plataforma": "instagram",
       "tipo": "reels",
       "publish_at": "2026-08-10T12:25:00-03:00",
-      "status": "pendente",
+      "status": "publicado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S18_Os_Tres_Fatores_da_Prioridade.mp4",
       "caption": "Duas Dívidas com a Mesma Taxa? Isso Decide Qual Sai Primeiro\n\nSe duas das suas dívidas têm exatamente a mesma taxa de juros, esse vídeo é pra você — a maioria dos conteúdos sobre organização de dívida nem toca nesse empate, ou ensina o critério errado.",
       "first_comment": "Você tem alguma dívida empatada em taxa com outra? Comenta qual delas você acha que devia sair primeiro. O mini-ebook gratuito que explica esse cálculo de juro tá no link da bio.",
       "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/instagram/METODOANA_S18_IG_video_S18_Os_Tres_Fatores_da_Prioridade.mp4",
-      "video_url_nuvem_remoto": "metodoana/instagram/METODOANA_S18_IG_video_S18_Os_Tres_Fatores_da_Prioridade.mp4"
+      "video_url_nuvem_remoto": "metodoana/instagram/METODOANA_S18_IG_video_S18_Os_Tres_Fatores_da_Prioridade.mp4",
+      "resultado": {
+        "media_id": "18127791862681136",
+        "url": "https://www.instagram.com/reel/18127791862681136",
+        "comentario": "postado na hora"
+      }
     },
     {
       "id": "CP_V17_YT",
