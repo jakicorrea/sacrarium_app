@@ -2877,5 +2877,120 @@
       "url": "https://www.instagram.com/p/18101565566239262",
       "comentario": "postado na hora"
     }
+  },
+  "protocolo4d|youtube|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S18_P4D_negativado_o_que_perco.mp4": {
+    "id": "P4D_S18_YT",
+    "canal": "protocolo4d",
+    "plataforma": "youtube",
+    "publish_at": "2026-08-10T08:00:00-03:00",
+    "postado_em_utc": "2026-08-10T11:47:25Z",
+    "resultado": {
+      "video_id": "oDsS-Sso8gc",
+      "url": "https://youtube.com/watch?v=oDsS-Sso8gc"
+    }
+  },
+  "protocolo4d|facebook|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S18_P4D_negativado_o_que_perco.mp4": {
+    "id": "P4D_S18_FB",
+    "canal": "protocolo4d",
+    "plataforma": "facebook",
+    "publish_at": "2026-08-10T08:02:00-03:00",
+    "postado_em_utc": "2026-08-10T11:47:59Z",
+    "resultado": {
+      "video_id": "4390487651167317",
+      "agendado": false,
+      "url": "https://www.facebook.com/reel/4390487651167317"
+    }
+  },
+  "protocolo4d|facebook|C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Post Facebook\\04 Imagens Geradas\\S18 Negativado O Que Perco.jpg": {
+    "id": "PROTOCOLO4D_S18_FB_FOTO",
+    "canal": "protocolo4d",
+    "plataforma": "facebook",
+    "publish_at": "2026-08-10T17:00:00-03:00",
+    "postado_em_utc": "2026-08-10T11:48:31Z",
+    "resultado": {
+      "object_id": "122115327075394338",
+      "agendado": true,
+      "url": "https://www.facebook.com/122115327075394338"
+    }
+  },
+  "metodoana|youtube|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S18_Os_Tres_Fatores_da_Prioridade.mp4": {
+    "id": "METODOANA_S18_YT",
+    "canal": "metodoana",
+    "plataforma": "youtube",
+    "publish_at": "2026-08-10T12:20:00-03:00",
+    "postado_em_utc": "2026-08-10T11:48:57Z",
+    "resultado": {
+      "video_id": "rG4XxGmD_tk",
+      "url": "https://youtube.com/watch?v=rG4XxGmD_tk"
+    }
+  },
+  "metodoana|facebook|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S18_Os_Tres_Fatores_da_Prioridade.mp4": {
+    "id": "METODOANA_S18_FB",
+    "canal": "metodoana",
+    "plataforma": "facebook",
+    "publish_at": "2026-08-10T12:22:00-03:00",
+    "postado_em_utc": "2026-08-10T11:49:35Z",
+    "resultado": {
+      "video_id": "1053289397681296",
+      "agendado": true,
+      "url": "https://www.facebook.com/reel/1053289397681296"
+    }
+  },
+  "metodoana|facebook|C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Post Facebook\\04 Imagens Geradas\\S18 Tres Fatores Prioridade.jpg": {
+    "id": "METODOANA_S18_FB_FOTO",
+    "canal": "metodoana",
+    "plataforma": "facebook",
+    "publish_at": "2026-08-10T18:00:00-03:00",
+    "postado_em_utc": "2026-08-10T11:50:31Z",
+    "resultado": {
+      "object_id": "122137809645153054",
+      "agendado": true,
+      "url": "https://www.facebook.com/122137809645153054"
+    }
+  },
+  "sacrarium|youtube|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S18_vida_espiritual_tem_fases.mp4": {
+    "id": "SACRARIUM_S18_YT",
+    "canal": "sacrarium",
+    "plataforma": "youtube",
+    "publish_at": "2026-08-10T12:10:00-03:00",
+    "postado_em_utc": "2026-08-10T11:51:03Z",
+    "resultado": {
+      "video_id": "Vyq443Z1MZs",
+      "url": "https://youtube.com/watch?v=Vyq443Z1MZs"
+    }
+  },
+  "sacrarium|facebook|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S18_vida_espiritual_tem_fases.mp4": {
+    "id": "SACRARIUM_S18_FB",
+    "canal": "sacrarium",
+    "plataforma": "facebook",
+    "publish_at": "2026-08-10T12:12:00-03:00",
+    "postado_em_utc": "2026-08-10T11:51:40Z",
+    "resultado": {
+      "video_id": "1381639634120381",
+      "agendado": true,
+      "url": "https://www.facebook.com/reel/1381639634120381"
+    }
+  },
+  "forjandotitas|youtube|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V10_FT_ciclo_fundo_falso.mp4": {
+    "id": "FT_V10_YT",
+    "canal": "forjandotitas",
+    "plataforma": "youtube",
+    "publish_at": "2026-08-10T12:00:00-03:00",
+    "postado_em_utc": "2026-08-10T11:57:41Z",
+    "resultado": {
+      "video_id": "W0oUVQ_eZng",
+      "url": "https://youtube.com/watch?v=W0oUVQ_eZng"
+    }
+  },
+  "cathedrapetri|youtube|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V17_PT_TEP_A_impossibilidade_da_Sola_Scriptur.mp4": {
+    "id": "CP_V17_YT",
+    "canal": "cathedrapetri",
+    "plataforma": "youtube",
+    "publish_at": "2026-08-10T12:35:00-03:00",
+    "postado_em_utc": "2026-08-10T12:03:13Z",
+    "resultado": {
+      "video_id": "f_vs-DX-SxQ",
+      "url": "https://youtube.com/watch?v=f_vs-DX-SxQ"
+    }
   }
 }
