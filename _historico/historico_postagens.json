@@ -3108,5 +3108,154 @@
       "url": "https://www.instagram.com/reel/18083807060671069",
       "comentario": "postado na hora"
     }
+  },
+  "protocolo4d|youtube|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S20_P4D_refinanciamento_cilada.mp4": {
+    "id": "P4D_S20_YT",
+    "canal": "protocolo4d",
+    "plataforma": "youtube",
+    "publish_at": "2026-08-12T08:00:00-03:00",
+    "postado_em_utc": "2026-08-10T12:17:14Z",
+    "resultado": {
+      "video_id": "qpiMdedYOXo",
+      "url": "https://youtube.com/watch?v=qpiMdedYOXo"
+    }
+  },
+  "protocolo4d|facebook|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S20_P4D_refinanciamento_cilada.mp4": {
+    "id": "P4D_S20_FB",
+    "canal": "protocolo4d",
+    "plataforma": "facebook",
+    "publish_at": "2026-08-12T08:02:00-03:00",
+    "postado_em_utc": "2026-08-10T12:17:58Z",
+    "resultado": {
+      "video_id": "2345675782623637",
+      "agendado": true,
+      "url": "https://www.facebook.com/reel/2345675782623637"
+    }
+  },
+  "metodoana|youtube|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S20_Como_Fazer_Amortizacao_Antecipada.mp4": {
+    "id": "METODOANA_S20_YT",
+    "canal": "metodoana",
+    "plataforma": "youtube",
+    "publish_at": "2026-08-12T12:20:00-03:00",
+    "postado_em_utc": "2026-08-10T12:18:26Z",
+    "resultado": {
+      "video_id": "fgO5jUVnrxE",
+      "url": "https://youtube.com/watch?v=fgO5jUVnrxE"
+    }
+  },
+  "metodoana|facebook|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S20_Como_Fazer_Amortizacao_Antecipada.mp4": {
+    "id": "METODOANA_S20_FB",
+    "canal": "metodoana",
+    "plataforma": "facebook",
+    "publish_at": "2026-08-12T12:22:00-03:00",
+    "postado_em_utc": "2026-08-10T12:19:09Z",
+    "resultado": {
+      "video_id": "1740097917231911",
+      "agendado": true,
+      "url": "https://www.facebook.com/reel/1740097917231911"
+    }
+  },
+  "metodoana|facebook|C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Post Facebook\\04 Imagens Geradas\\S20 Amortizacao Antecipada.jpg": {
+    "id": "METODOANA_S20_FB_FOTO",
+    "canal": "metodoana",
+    "plataforma": "facebook",
+    "publish_at": "2026-08-12T18:00:00-03:00",
+    "postado_em_utc": "2026-08-10T12:19:58Z",
+    "resultado": {
+      "object_id": "122137812495153054",
+      "agendado": true,
+      "url": "https://www.facebook.com/122137812495153054"
+    }
+  },
+  "metodoana|youtube|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V07_Como_negociar_divida_com_banco.mp4": {
+    "id": "METODOANA_V07_YT",
+    "canal": "metodoana",
+    "plataforma": "youtube",
+    "publish_at": "2026-08-12T20:30:00-03:00",
+    "postado_em_utc": "2026-08-10T12:21:30Z",
+    "resultado": {
+      "video_id": "e3GpjVBvFI0",
+      "url": "https://youtube.com/watch?v=e3GpjVBvFI0"
+    }
+  },
+  "metodoana|facebook|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V07_Como_negociar_divida_com_banco.mp4": {
+    "id": "METODOANA_V07_FB",
+    "canal": "metodoana",
+    "plataforma": "facebook",
+    "publish_at": "2026-08-12T20:35:00-03:00",
+    "postado_em_utc": "2026-08-10T12:24:25Z",
+    "resultado": {
+      "object_id": "1084919050882289",
+      "agendado": true,
+      "url": "https://www.facebook.com/1084919050882289"
+    }
+  },
+  "sacrarium|youtube|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S20_nao_precisa_ver_o_caminho_todo.mp4": {
+    "id": "SACRARIUM_S20_YT",
+    "canal": "sacrarium",
+    "plataforma": "youtube",
+    "publish_at": "2026-08-12T12:10:00-03:00",
+    "postado_em_utc": "2026-08-10T12:24:56Z",
+    "resultado": {
+      "video_id": "BGwCTPkGXsU",
+      "url": "https://youtube.com/watch?v=BGwCTPkGXsU"
+    }
+  },
+  "sacrarium|facebook|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S20_nao_precisa_ver_o_caminho_todo.mp4": {
+    "id": "SACRARIUM_S20_FB",
+    "canal": "sacrarium",
+    "plataforma": "facebook",
+    "publish_at": "2026-08-12T12:12:00-03:00",
+    "postado_em_utc": "2026-08-10T12:25:40Z",
+    "resultado": {
+      "video_id": "1395838489135480",
+      "agendado": true,
+      "url": "https://www.facebook.com/reel/1395838489135480"
+    }
+  },
+  "sacrarium|youtube|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V07_Como_o_Sacrarium_funciona_na_pratica.mp4": {
+    "id": "SACRARIUM_V07_YT",
+    "canal": "sacrarium",
+    "plataforma": "youtube",
+    "publish_at": "2026-08-12T20:00:00-03:00",
+    "postado_em_utc": "2026-08-10T12:28:07Z",
+    "resultado": {
+      "video_id": "txxONN_M9TA",
+      "url": "https://youtube.com/watch?v=txxONN_M9TA"
+    }
+  },
+  "sacrarium|facebook|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V07_Como_o_Sacrarium_funciona_na_pratica.mp4": {
+    "id": "SACRARIUM_V07_FB",
+    "canal": "sacrarium",
+    "plataforma": "facebook",
+    "publish_at": "2026-08-12T20:05:00-03:00",
+    "postado_em_utc": "2026-08-10T12:32:40Z",
+    "resultado": {
+      "object_id": "1545413703978460",
+      "agendado": true,
+      "url": "https://www.facebook.com/1545413703978460"
+    }
+  },
+  "forjandotitas|youtube|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V12_FT_motivacao_vs_estrutura.mp4": {
+    "id": "FT_V12_YT",
+    "canal": "forjandotitas",
+    "plataforma": "youtube",
+    "publish_at": "2026-08-12T12:00:00-03:00",
+    "postado_em_utc": "2026-08-10T12:36:52Z",
+    "resultado": {
+      "video_id": "mA75RuJvHKE",
+      "url": "https://youtube.com/watch?v=mA75RuJvHKE"
+    }
+  },
+  "cathedrapetri|youtube|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V18_PT_TEP_A_verdade_escondida_nas_Catacumbas.mp4": {
+    "id": "CP_V18_YT",
+    "canal": "cathedrapetri",
+    "plataforma": "youtube",
+    "publish_at": "2026-08-12T12:35:00-03:00",
+    "postado_em_utc": "2026-08-10T12:41:21Z",
+    "resultado": {
+      "video_id": "Xm-BMv41w-c",
+      "url": "https://youtube.com/watch?v=Xm-BMv41w-c"
+    }
   }
 }
