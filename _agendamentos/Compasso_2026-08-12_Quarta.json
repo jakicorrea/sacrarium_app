@@ -1,5 +1,5 @@
 {
-  "lote": "Quarta 12/08/2026 - P4D S20 + Sacrarium S20+V07(longo) + MetodoANA S20+V07(longo) + CP V18 + FT V12. Titulos escolhidos por CTR entre as 5 opcoes de cada pack. Thumbnails ja escolhidas manualmente pela Jaqueline (arquivo unico na pasta Thumbnails, nao 'Teste A/B/C'). Carrossel/foto: image_paths/image_path ainda com PLACEHOLDER -- preencher com o caminho real depois de gerar as imagens do carrossel (prompts ja existem em Insta Fila 03.json de cada canal). Carrossel/foto de hoje (sem dia fixo -- usa o que ja foi gerado por canal): metodoana S20. CORRIGIDO 2026-08-10: V07 Sacrarium/MetodoANA MOVIDOS pra terca (registro abaixo) -- ficaram nesse arquivo por engano no momento do processamento, o job real ja foi reagendado via API (YouTube + Facebook) pra terca 17:00, simetrico ao V08 (quinta 17:00 pros 2 canais).",
+  "lote": "Quarta 12/08/2026 - P4D S20 + Sacrarium S20+V07(longo) + MetodoANA S20+V07(longo) + CP V18 + FT V12. Titulos escolhidos por CTR entre as 5 opcoes de cada pack. Thumbnails ja escolhidas manualmente pela Jaqueline (arquivo unico na pasta Thumbnails, nao 'Teste A/B/C'). Carrossel/foto: image_paths/image_path ainda com PLACEHOLDER -- preencher com o caminho real depois de gerar as imagens do carrossel (prompts ja existem em Insta Fila 03.json de cada canal). Carrossel/foto de hoje (sem dia fixo -- usa o que ja foi gerado por canal): metodoana S20. CORRIGIDO 2026-08-10: V07 Sacrarium/MetodoANA MOVIDOS pra terca (registro abaixo) -- ficaram nesse arquivo por engano no momento do processamento, o job real ja foi reagendado via API (YouTube + Facebook) pra terca 17:00, simetrico ao V08 (quinta 17:00 pros 2 canais). CP_V18_YT MOVIDO pra terca (registro corrigido -- ja reagendado via API pro dia/hora novo).",
   "jobs": [
     {
       "id": "P4D_S20_YT",
@@ -162,31 +162,6 @@
       "first_comment": "Já testou amortizar com um valor pequeno no app do banco? Comenta o que aconteceu. A calculadora gratuita que simula quanto você economiza fazendo isso tá no link da bio.",
       "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/instagram/METODOANA_S20_IG_video_S20_Como_Fazer_Amortizacao_Antecipada.mp4",
       "video_url_nuvem_remoto": "metodoana/instagram/METODOANA_S20_IG_video_S20_Como_Fazer_Amortizacao_Antecipada.mp4"
-    },
-    {
-      "id": "CP_V18_YT",
-      "canal": "cathedrapetri",
-      "plataforma": "youtube",
-      "tipo": "video",
-      "publish_at": "2026-08-12T12:35:00-03:00",
-      "status": "agendado",
-      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V18_PT_TEP_A_verdade_escondida_nas_Catacumbas.mp4",
-      "thumb_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\03_Estrutura_Canais\\Cathedra Petri\\04-Pack de Postagem\\Thumbnails\\CPV18.jpeg",
-      "title": "Oitocentos Quilômetros de Túneis: O que os Cristãos Escreveram Debaixo de Roma Antes de Constantino",
-      "description": "Este vídeo é um documentário histórico investigativo sobre as catacumbas de Roma — mais de 800 quilômetros de galerias subterrâneas que abrigaram cerca de 4 milhões de sepultamentos. Com base nos registros de Giovanni Battista de Rossi, considerado o pai da arqueologia cristã, a investigação examina a epigrafia funerária das catacumbas de São Calisto, São Sebastião e Santa Priscila.\n\nO vídeo compara as inscrições pagãs da Via Ápia, marcadas por desesperança (\"Não fui, fui, não sou, não me importa\"), com as inscrições cristãs \"In pace\" (em paz), analisa o afresco \"Fractio Panis\" da Capela Grega de Santa Priscila, datado do início do século II, cruzando-o com o capítulo 14 da Didaqué, e examina a Cripta dos Papas em São Calisto, onde nove bispos de Roma do século III foram sepultados com o título \"Epíscopo\". Também aborda a ausência de imagens da crucificação nas catacumbas dos três primeiros séculos.\n\nÉ um documentário de apologética histórica católica com foco em arqueologia cristã primitiva e liturgia. Período histórico específico: do final do século I d.C. ao início do século IV d.C., em Roma.",
-      "tags": [
-        "apologética católica",
-        "história da Igreja",
-        "Cathedra Petri",
-        "Igreja primitiva",
-        "patrística"
-      ],
-      "category_id": 27,
-      "pinned_comment": "Nos três primeiros séculos, não existe uma única imagem de crucificação nas catacumbas de Roma — só o Bom Pastor, Jonas e a ressurreição. Por que você acha que os primeiros cristãos escolheram não desenhar a cruz?",
-      "resultado": {
-        "video_id": "Xm-BMv41w-c",
-        "url": "https://youtube.com/watch?v=Xm-BMv41w-c"
-      }
     },
     {
       "id": "FT_V12_YT",

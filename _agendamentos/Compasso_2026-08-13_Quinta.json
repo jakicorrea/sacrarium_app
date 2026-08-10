@@ -1,5 +1,5 @@
 {
-  "lote": "Quinta 13/08/2026 - P4D S21 + Sacrarium S21 + MetodoANA S21 + FT V13. Titulos escolhidos por CTR entre as 5 opcoes de cada pack. Thumbnails ja escolhidas manualmente pela Jaqueline (arquivo unico na pasta Thumbnails, nao 'Teste A/B/C'). Carrossel/foto: image_paths/image_path ainda com PLACEHOLDER -- preencher com o caminho real depois de gerar as imagens do carrossel (prompts ja existem em Insta Fila 03.json de cada canal). Carrossel/foto de hoje (sem dia fixo -- usa o que ja foi gerado por canal): protocolo4d S21, sacrarium S21. HORARIOS CORRIGIDOS 2026-08-10 (regra fixa da Jaqueline): todo reel (YT/FB/IG) as 12:00, carrossel/foto de manha (09:00), longo do canal vitrine as 17:00. Com 2 longos na semana (Sacrarium/MetodoANA V07+V08), dias fixos = terca+quinta -- V08 movido de sexta pra quinta.",
+  "lote": "Quinta 13/08/2026 - P4D S21 + Sacrarium S21 + MetodoANA S21 + FT V13. Titulos escolhidos por CTR entre as 5 opcoes de cada pack. Thumbnails ja escolhidas manualmente pela Jaqueline (arquivo unico na pasta Thumbnails, nao 'Teste A/B/C'). Carrossel/foto: image_paths/image_path ainda com PLACEHOLDER -- preencher com o caminho real depois de gerar as imagens do carrossel (prompts ja existem em Insta Fila 03.json de cada canal). Carrossel/foto de hoje (sem dia fixo -- usa o que ja foi gerado por canal): protocolo4d S21, sacrarium S21. HORARIOS CORRIGIDOS 2026-08-10 (regra fixa da Jaqueline): todo reel (YT/FB/IG) as 12:00, carrossel/foto de manha (09:00), longo do canal vitrine as 17:00. Com 2 longos na semana (Sacrarium/MetodoANA V07+V08), dias fixos = terca+quinta -- V08 movido de sexta pra quinta. CP_V19_YT adicionado aqui -- movido de sexta pra quinta (2026-08-10, mesma excecao pontual do V18, ver nota em Compasso_2026-08-11_Terca.json).",
   "jobs": [
     {
       "id": "P4D_S21_YT",
@@ -365,6 +365,31 @@
         "object_id": "931736242555600",
         "agendado": true,
         "url": "https://www.facebook.com/931736242555600"
+      }
+    },
+    {
+      "id": "CP_V19_YT",
+      "canal": "cathedrapetri",
+      "plataforma": "youtube",
+      "tipo": "video",
+      "publish_at": "2026-08-13T12:00:00-03:00",
+      "status": "agendado",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V19_PT_TEP_Suetônio_e_o_registro_policial_da_.mp4",
+      "thumb_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\03_Estrutura_Canais\\Cathedra Petri\\04-Pack de Postagem\\Thumbnails\\CPV19.jpeg",
+      "title": "O Erro de Ortografia que Prova que Cristo Não Foi Invenção Tardia",
+      "description": "Este vídeo é um documentário histórico investigativo sobre o registro de Suetônio, secretário imperial de Adriano, que em sua obra \"Vida dos Doze Césares\" (por volta de 121 d.C.) menciona a expulsão dos judeus de Roma pelo imperador Cláudio, no ano 49 d.C., por causa da instigação de um \"certo Chrestus\".\n\nA investigação examina esse relato como testemunho hostil — Suetônio não tinha interesse em validar o cristianismo — e cruza a passagem com o Livro dos Atos dos Apóstolos (18,2), que menciona o mesmo decreto de Cláudio ao apresentar Áquila e Priscila. O vídeo também analisa o Edito de Nazaré, placa de mármore descoberta na Galileia em 1878, com pena de morte para violação de túmulos, datada do reinado de Cláudio.\n\nÉ um documentário de apologética histórica católica com foco em fontes romanas seculares e evidência documental da historicidade de Cristo. Período histórico específico: primeira metade do século I d.C., em Roma e na Galileia.",
+      "tags": [
+        "apologética católica",
+        "história da Igreja",
+        "Cathedra Petri",
+        "Igreja primitiva",
+        "patrística"
+      ],
+      "category_id": 27,
+      "pinned_comment": "Um escrivão romano no ano 49 registrou um motim causado por \"Chrestus\" — nome que a polícia ouviu errado ao confundir com Christus. Na sua opinião, um erro de grafia feito por um estado hostil pesa mais como prova histórica do que um texto religioso escrito de propósito?",
+      "resultado": {
+        "video_id": "VNyqs3H2uoc",
+        "url": "https://youtube.com/watch?v=VNyqs3H2uoc"
       }
     }
   ]
