@@ -1,5 +1,5 @@
 {
-  "lote": "Segunda 10/08/2026 - P4D S18 + Sacrarium S18 + MetodoANA S18 + CP V17 + FT V10. Titulos escolhidos por CTR entre as 5 opcoes de cada pack. Thumbnails ja escolhidas manualmente pela Jaqueline (arquivo unico na pasta Thumbnails, nao 'Teste A/B/C'). Carrossel/foto: image_paths/image_path ainda com PLACEHOLDER -- preencher com o caminho real depois de gerar as imagens do carrossel (prompts ja existem em Insta Fila 03.json de cada canal). Carrossel/foto de hoje (sem dia fixo -- usa o que ja foi gerado por canal): protocolo4d S18, metodoana S18. CP_V17_YT EXCLUIDO (2026-08-10, pedido da Jaqueline -- video tinha saido com a mesma tese do V11, 1 view/17s, decidiu excluir em vez de so ocultar por ser recente e sem audiencia relevante ainda).",
+  "lote": "Segunda 10/08/2026 - P4D S18 + Sacrarium S18 + MetodoANA S18 + CP V17 + FT V10. Titulos escolhidos por CTR entre as 5 opcoes de cada pack. Thumbnails ja escolhidas manualmente pela Jaqueline (arquivo unico na pasta Thumbnails, nao 'Teste A/B/C'). Carrossel/foto: image_paths/image_path ainda com PLACEHOLDER -- preencher com o caminho real depois de gerar as imagens do carrossel (prompts ja existem em Insta Fila 03.json de cada canal). Carrossel/foto de hoje (sem dia fixo -- usa o que ja foi gerado por canal): protocolo4d S18, metodoana S18.",
   "jobs": [
     {
       "id": "P4D_S18_YT",
@@ -174,6 +174,31 @@
       }
     },
     {
+      "id": "CP_V17_YT",
+      "canal": "cathedrapetri",
+      "plataforma": "youtube",
+      "tipo": "video",
+      "publish_at": "2026-08-10T12:35:00-03:00",
+      "status": "agendado",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V17_PT_TEP_A_impossibilidade_da_Sola_Scriptur.mp4",
+      "thumb_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\03_Estrutura_Canais\\Cathedra Petri\\04-Pack de Postagem\\Thumbnails\\CPV17.jpeg",
+      "title": "Quem Escolheu o Cânon? A Prova de que a Igreja Existia Antes da Bíblia Estar Completa",
+      "description": "Este vídeo é um documentário histórico investigativo sobre a impossibilidade prática e histórica da \"Sola Scriptura\" nos primeiros séculos do cristianismo. A investigação parte de um problema de cronologia: o Novo Testamento levou décadas para ser escrito e quase quatro séculos para ser reunido em um cânon oficial, definido apenas nos Concílios de Hipona (393) e Cartago (397).\n\nO vídeo examina o Papiro P52, fragmento mais antigo do Novo Testamento conhecido (datado de cerca de 125 d.C.), a obra \"Contra as Heresias\" de Santo Irineu de Lyon (por volta de 180 d.C.), que descreve comunidades cristãs bárbaras ortodoxas sem acesso a textos escritos, e o testemunho do filósofo pagão Celso sobre a existência de uma \"Grande Igreja\" unificada por autoridade episcopal. A investigação também aborda os \"traditores\", cristãos que entregaram as Escrituras às autoridades durante a perseguição de Diocleciano.\n\nÉ um documentário de apologética histórica católica com foco em Patrística, formação do cânon bíblico e autoridade eclesiástica primitiva. Período histórico específico: do final do século I d.C. ao final do século IV d.C.",
+      "tags": [
+        "apologética católica",
+        "história da Igreja",
+        "Cathedra Petri",
+        "Igreja primitiva",
+        "patrística"
+      ],
+      "category_id": 27,
+      "pinned_comment": "No ano 180, Irineu de Lyon descreveu cristãos ortodoxos que nunca tinham tocado um Evangelho escrito. Se a fé sobrevivia sem o livro completo, o que isso muda na forma como você pensa a autoridade da Igreja?",
+      "resultado": {
+        "video_id": "f_vs-DX-SxQ",
+        "url": "https://youtube.com/watch?v=f_vs-DX-SxQ"
+      }
+    },
+    {
       "id": "FT_V10_YT",
       "canal": "forjandotitas",
       "plataforma": "youtube",
@@ -251,7 +276,7 @@
       "plataforma": "instagram",
       "tipo": "carrossel",
       "publish_at": "2026-08-10T18:00:00-03:00",
-      "status": "pendente",
+      "status": "publicado",
       "image_paths": [
         "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_MetodoANA_S18\\01.jpg",
         "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_MetodoANA_S18\\02.jpg",
@@ -277,7 +302,12 @@
         "metodoana/instagram/METODOANA_S18_IG_CARROSSEL_img3_04.jpg",
         "metodoana/instagram/METODOANA_S18_IG_CARROSSEL_img4_05.jpg",
         "metodoana/instagram/METODOANA_S18_IG_CARROSSEL_img5_06.jpg"
-      ]
+      ],
+      "resultado": {
+        "media_id": "18154210102443184",
+        "url": "https://www.instagram.com/p/18154210102443184",
+        "comentario": "postado na hora"
+      }
     },
     {
       "id": "METODOANA_S18_FB_FOTO",
