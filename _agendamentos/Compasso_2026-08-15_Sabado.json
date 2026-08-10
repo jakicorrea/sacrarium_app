@@ -7,7 +7,7 @@
       "plataforma": "youtube",
       "tipo": "reels",
       "publish_at": "2026-08-15T12:00:00-03:00",
-      "status": "pendente",
+      "status": "agendado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S23_P4D_tres_dividas_qual_primeiro.mp4",
       "thumb_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\03_Estrutura_Canais\\Protocolo4D\\04-Pack de Postagem\\Thumbnails\\S23_tres_dividas_qual_primeiro.jpeg",
       "title": "Não é a Maior Dívida. É a Mais Cara",
@@ -20,7 +20,11 @@
         "crédito"
       ],
       "category_id": 27,
-      "pinned_comment": "Pra listar suas dívidas com taxa, saldo e mínimo antes de decidir qual atacar primeiro, deixei aqui embaixo a Planilha do Protocolo 4D, gratuita: https://protocolo-4d.netlify.app/lp-planilha"
+      "pinned_comment": "Pra listar suas dívidas com taxa, saldo e mínimo antes de decidir qual atacar primeiro, deixei aqui embaixo a Planilha do Protocolo 4D, gratuita: https://protocolo-4d.netlify.app/lp-planilha",
+      "resultado": {
+        "video_id": "jw9PPUleh0Q",
+        "url": "https://youtube.com/watch?v=jw9PPUleh0Q"
+      }
     },
     {
       "id": "P4D_S23_FB",
@@ -28,10 +32,15 @@
       "plataforma": "facebook",
       "tipo": "reels",
       "publish_at": "2026-08-15T12:00:00-03:00",
-      "status": "pendente",
+      "status": "agendado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S23_P4D_tres_dividas_qual_primeiro.mp4",
       "caption": "Não é a Maior Dívida. É a Mais Cara\n\nQuem tem cartão, empréstimo e financiamento ao mesmo tempo se pergunta qual atacar primeiro. A resposta muda quanto você vai pagar no total.",
-      "first_comment": "Pra listar suas dívidas com taxa, saldo e mínimo antes de decidir qual atacar primeiro, deixei aqui embaixo a Planilha do Protocolo 4D, gratuita: https://protocolo-4d.netlify.app/lp-planilha"
+      "first_comment": "Pra listar suas dívidas com taxa, saldo e mínimo antes de decidir qual atacar primeiro, deixei aqui embaixo a Planilha do Protocolo 4D, gratuita: https://protocolo-4d.netlify.app/lp-planilha",
+      "resultado": {
+        "video_id": "2467358937119093",
+        "agendado": true,
+        "url": "https://www.facebook.com/reel/2467358937119093"
+      }
     },
     {
       "id": "P4D_S23_IG",
@@ -42,7 +51,9 @@
       "status": "pendente",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S23_P4D_tres_dividas_qual_primeiro.mp4",
       "caption": "Não é a Maior Dívida. É a Mais Cara\n\nQuem tem cartão, empréstimo e financiamento ao mesmo tempo se pergunta qual atacar primeiro. A resposta muda quanto você vai pagar no total.",
-      "first_comment": "Pra listar suas dívidas com taxa, saldo e mínimo antes de decidir qual atacar primeiro, deixei aqui embaixo a Planilha do Protocolo 4D, gratuita: https://protocolo-4d.netlify.app/lp-planilha"
+      "first_comment": "Pra listar suas dívidas com taxa, saldo e mínimo antes de decidir qual atacar primeiro, deixei aqui embaixo a Planilha do Protocolo 4D, gratuita: https://protocolo-4d.netlify.app/lp-planilha",
+      "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/protocolo4d/instagram/P4D_S23_IG_video_S23_P4D_tres_dividas_qual_primeiro.mp4",
+      "video_url_nuvem_remoto": "protocolo4d/instagram/P4D_S23_IG_video_S23_P4D_tres_dividas_qual_primeiro.mp4"
     },
     {
       "id": "SACRARIUM_S23_YT",
@@ -50,7 +61,7 @@
       "plataforma": "youtube",
       "tipo": "reels",
       "publish_at": "2026-08-15T12:00:00-03:00",
-      "status": "pendente",
+      "status": "agendado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S23_obrigacao_ou_encontro.mp4",
       "thumb_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\03_Estrutura_Canais\\Sacrarium\\04-Pack de Postagem\\Thumbnails\\S23_obrigacao_ou_encontro.jpeg",
       "title": "Você Reza por Obrigação ou por Encontro? A Diferença É Tudo",
@@ -63,7 +74,11 @@
         "mestres da oração"
       ],
       "category_id": 27,
-      "pinned_comment": "Hoje, sua oração está mais perto de obrigação ou de encontro? Sem se cobrar, só uma reflexão honesta aqui embaixo.\nO Sacrarium cultiva presença, não cumprimento de metas.\nConheça: https://sacrarium-app.netlify.app/"
+      "pinned_comment": "Hoje, sua oração está mais perto de obrigação ou de encontro? Sem se cobrar, só uma reflexão honesta aqui embaixo.\nO Sacrarium cultiva presença, não cumprimento de metas.\nConheça: https://sacrarium-app.netlify.app/",
+      "resultado": {
+        "video_id": "F1f2eqr9ecI",
+        "url": "https://youtube.com/watch?v=F1f2eqr9ecI"
+      }
     },
     {
       "id": "SACRARIUM_S23_FB",
@@ -71,10 +86,15 @@
       "plataforma": "facebook",
       "tipo": "reels",
       "publish_at": "2026-08-15T12:00:00-03:00",
-      "status": "pendente",
+      "status": "agendado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S23_obrigacao_ou_encontro.mp4",
       "caption": "Você Reza por Obrigação ou por Encontro? A Diferença É Tudo\n\nExiste uma diferença enorme entre rezar porque tem que cumprir um horário e rezar porque quer estar ali. A primeira tem linha de chegada. A segunda, não.",
-      "first_comment": "Hoje, sua oração está mais perto de obrigação ou de encontro? Sem se cobrar, só uma reflexão honesta aqui embaixo.\nO Sacrarium cultiva presença, não cumprimento de metas.\nConheça: https://sacrarium-app.netlify.app/"
+      "first_comment": "Hoje, sua oração está mais perto de obrigação ou de encontro? Sem se cobrar, só uma reflexão honesta aqui embaixo.\nO Sacrarium cultiva presença, não cumprimento de metas.\nConheça: https://sacrarium-app.netlify.app/",
+      "resultado": {
+        "video_id": "3471700789660091",
+        "agendado": true,
+        "url": "https://www.facebook.com/reel/3471700789660091"
+      }
     },
     {
       "id": "SACRARIUM_S23_IG",
@@ -85,7 +105,9 @@
       "status": "pendente",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S23_obrigacao_ou_encontro.mp4",
       "caption": "Você Reza por Obrigação ou por Encontro? A Diferença É Tudo\n\nExiste uma diferença enorme entre rezar porque tem que cumprir um horário e rezar porque quer estar ali. A primeira tem linha de chegada. A segunda, não.",
-      "first_comment": "Hoje, sua oração está mais perto de obrigação ou de encontro? Sem se cobrar, só uma reflexão honesta aqui embaixo.\nO Sacrarium cultiva presença, não cumprimento de metas.\nConheça: https://sacrarium-app.netlify.app/"
+      "first_comment": "Hoje, sua oração está mais perto de obrigação ou de encontro? Sem se cobrar, só uma reflexão honesta aqui embaixo.\nO Sacrarium cultiva presença, não cumprimento de metas.\nConheça: https://sacrarium-app.netlify.app/",
+      "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/instagram/SACRARIUM_S23_IG_video_S23_obrigacao_ou_encontro.mp4",
+      "video_url_nuvem_remoto": "sacrarium/instagram/SACRARIUM_S23_IG_video_S23_obrigacao_ou_encontro.mp4"
     },
     {
       "id": "METODOANA_S23_YT",
@@ -93,7 +115,7 @@
       "plataforma": "youtube",
       "tipo": "reels",
       "publish_at": "2026-08-15T12:00:00-03:00",
-      "status": "pendente",
+      "status": "agendado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S23_Regra_dos_100_Primeiros.mp4",
       "thumb_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\03_Estrutura_Canais\\MetodoANA\\04-Pack de Postagem\\Thumbnails\\S23_Regra_dos_100_Primeiros.jpeg",
       "title": "Vendeu 5 e Desistiu? O Problema Não é o Produto",
@@ -106,7 +128,11 @@
         "renda extra"
       ],
       "category_id": 27,
-      "pinned_comment": "Qual renda extra você já largou antes da hora? Comenta aqui embaixo. O guia gratuito pra saber quanto da sua parcela é só juro está no link da bio."
+      "pinned_comment": "Qual renda extra você já largou antes da hora? Comenta aqui embaixo. O guia gratuito pra saber quanto da sua parcela é só juro está no link da bio.",
+      "resultado": {
+        "video_id": "M2gi7kaA0x4",
+        "url": "https://youtube.com/watch?v=M2gi7kaA0x4"
+      }
     },
     {
       "id": "METODOANA_S23_FB",
@@ -114,10 +140,15 @@
       "plataforma": "facebook",
       "tipo": "reels",
       "publish_at": "2026-08-15T12:00:00-03:00",
-      "status": "pendente",
+      "status": "agendado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S23_Regra_dos_100_Primeiros.mp4",
       "caption": "Vendeu 5 e Desistiu? O Problema Não é o Produto\n\nSe você já tentou uma renda extra, vendeu pouco nas primeiras vezes e desistiu achando que não era pra você, esse vídeo explica por que isso quase sempre é engano.",
-      "first_comment": "Qual renda extra você já largou antes da hora? Comenta aqui embaixo. O guia gratuito pra saber quanto da sua parcela é só juro está no link da bio."
+      "first_comment": "Qual renda extra você já largou antes da hora? Comenta aqui embaixo. O guia gratuito pra saber quanto da sua parcela é só juro está no link da bio.",
+      "resultado": {
+        "video_id": "931201259298428",
+        "agendado": true,
+        "url": "https://www.facebook.com/reel/931201259298428"
+      }
     },
     {
       "id": "METODOANA_S23_IG",
@@ -128,7 +159,9 @@
       "status": "pendente",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S23_Regra_dos_100_Primeiros.mp4",
       "caption": "Vendeu 5 e Desistiu? O Problema Não é o Produto\n\nSe você já tentou uma renda extra, vendeu pouco nas primeiras vezes e desistiu achando que não era pra você, esse vídeo explica por que isso quase sempre é engano.",
-      "first_comment": "Qual renda extra você já largou antes da hora? Comenta aqui embaixo. O guia gratuito pra saber quanto da sua parcela é só juro está no link da bio."
+      "first_comment": "Qual renda extra você já largou antes da hora? Comenta aqui embaixo. O guia gratuito pra saber quanto da sua parcela é só juro está no link da bio.",
+      "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/instagram/METODOANA_S23_IG_video_S23_Regra_dos_100_Primeiros.mp4",
+      "video_url_nuvem_remoto": "metodoana/instagram/METODOANA_S23_IG_video_S23_Regra_dos_100_Primeiros.mp4"
     },
     {
       "id": "FT_V15_YT",
@@ -136,7 +169,7 @@
       "plataforma": "youtube",
       "tipo": "video",
       "publish_at": "2026-08-15T12:00:00-03:00",
-      "status": "pendente",
+      "status": "agendado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V15_FT_economizar_doi.mp4",
       "thumb_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\03_Estrutura_Canais\\ForjandoTitas\\04-Pack de Postagem\\Thumbnails\\V15 - ECONOMIZAR DÓI.jpeg",
       "title": "Seu Cérebro Trata Economizar Como Perda. Isso Explica Tudo",
@@ -149,7 +182,11 @@
         "mentalidade"
       ],
       "category_id": 27,
-      "pinned_comment": "O que você já tentou fazer pra guardar dinheiro que não durou mais de dois meses? Conta aqui embaixo, sem se cobrar. Tem uma calculadora gratuita que mostra o que sobra no seu caso com sistema automatizado em vez de força de vontade: https://protocolo-4d.netlify.app/lp-calculadora-economia"
+      "pinned_comment": "O que você já tentou fazer pra guardar dinheiro que não durou mais de dois meses? Conta aqui embaixo, sem se cobrar. Tem uma calculadora gratuita que mostra o que sobra no seu caso com sistema automatizado em vez de força de vontade: https://protocolo-4d.netlify.app/lp-calculadora-economia",
+      "resultado": {
+        "video_id": "NVE1CzfSv_Q",
+        "url": "https://youtube.com/watch?v=NVE1CzfSv_Q"
+      }
     },
     {
       "id": "METODOANA_S23_IG_CARROSSEL",
@@ -167,7 +204,23 @@
         "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_MetodoANA_S23\\06.jpg"
       ],
       "caption": "Vendeu pouco na primeira tentativa e já pensou em desistir?\n\nToda atividade tem curva de aprendizado — e ela não aparece em 5 ou 10 vezes.\n\nMinha regra: comprometer-se com 100 antes de julgar se funciona. 100 unidades, 100 vídeos, 100 clientes. Só depois disso você tem dado real, não só impressão.\n\nO que parece fracasso na décima vez pode ser exatamente o início do que funciona.",
-      "first_comment": "Qual renda extra você já largou cedo demais? Comenta aqui embaixo. Guia grátis de juros, link na bio."
+      "first_comment": "Qual renda extra você já largou cedo demais? Comenta aqui embaixo. Guia grátis de juros, link na bio.",
+      "image_urls_nuvem": [
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/instagram/METODOANA_S23_IG_CARROSSEL_img0_01.jpg",
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/instagram/METODOANA_S23_IG_CARROSSEL_img1_02.jpg",
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/instagram/METODOANA_S23_IG_CARROSSEL_img2_03.jpg",
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/instagram/METODOANA_S23_IG_CARROSSEL_img3_04.jpg",
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/instagram/METODOANA_S23_IG_CARROSSEL_img4_05.jpg",
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/instagram/METODOANA_S23_IG_CARROSSEL_img5_06.jpg"
+      ],
+      "image_urls_nuvem_remoto": [
+        "metodoana/instagram/METODOANA_S23_IG_CARROSSEL_img0_01.jpg",
+        "metodoana/instagram/METODOANA_S23_IG_CARROSSEL_img1_02.jpg",
+        "metodoana/instagram/METODOANA_S23_IG_CARROSSEL_img2_03.jpg",
+        "metodoana/instagram/METODOANA_S23_IG_CARROSSEL_img3_04.jpg",
+        "metodoana/instagram/METODOANA_S23_IG_CARROSSEL_img4_05.jpg",
+        "metodoana/instagram/METODOANA_S23_IG_CARROSSEL_img5_06.jpg"
+      ]
     },
     {
       "id": "METODOANA_S23_FB_FOTO",
@@ -175,10 +228,15 @@
       "plataforma": "facebook",
       "tipo": "foto",
       "publish_at": "2026-08-15T09:00:00-03:00",
-      "status": "pendente",
+      "status": "agendado",
       "image_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Post Facebook\\04 Imagens Geradas\\S23 Regra 100 Primeiros.jpg",
       "caption": "Já desisti de mais de uma renda extra cedo demais — vendia pouco nas primeiras semanas e achava que \"não era pra mim\".\n\nHoje sigo uma regra: só decido se algo funciona depois de 100 tentativas, não 5.\n\nQuem mais aqui já largou uma ideia de renda extra rápido demais? Conta a sua história nos comentários.",
-      "first_comment": "Lista gratuita de ideias de renda extra Método ANA, no link no site da página."
+      "first_comment": "Lista gratuita de ideias de renda extra Método ANA, no link no site da página.",
+      "resultado": {
+        "object_id": "122137825197153054",
+        "agendado": true,
+        "url": "https://www.facebook.com/122137825197153054"
+      }
     },
     {
       "id": "SACRARIUM_S23_IG_CARROSSEL",
@@ -196,7 +254,23 @@
         "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Sacrarium\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Sacrarium_S23\\06.jpg"
       ],
       "caption": "Você reza por obrigação ou por encontro? A diferença é tudo. 👇\n\nQuando é obrigação, existe linha de chegada: acabei os 20 minutos, cumpri, posso ir. Quando é encontro, a qualidade muda — não necessariamente mais fácil, mas diferente.\n\nSão Francisco de Sales comparava a vida de oração a uma amizade: no início, você precisa da estrutura, do horário, do esforço consciente pra aparecer. Isso é normal. A meta é que, com o tempo, você busque essa presença por desejo, não por dever.\n\nA obrigação é o andaime. O encontro é a casa.\n\nCompartilha com quem ainda sente a oração como \"tarefa\" e precisa saber que isso muda com o tempo. 🏠",
-      "first_comment": "Hoje sua oração está mais perto de obrigação ou de encontro? Reflexão honesta aqui embaixo 👇 Link na bio."
+      "first_comment": "Hoje sua oração está mais perto de obrigação ou de encontro? Reflexão honesta aqui embaixo 👇 Link na bio.",
+      "image_urls_nuvem": [
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/instagram/SACRARIUM_S23_IG_CARROSSEL_img0_01.jpg",
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/instagram/SACRARIUM_S23_IG_CARROSSEL_img1_02.jpg",
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/instagram/SACRARIUM_S23_IG_CARROSSEL_img2_03.jpg",
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/instagram/SACRARIUM_S23_IG_CARROSSEL_img3_04.jpg",
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/instagram/SACRARIUM_S23_IG_CARROSSEL_img4_05.jpg",
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/instagram/SACRARIUM_S23_IG_CARROSSEL_img5_06.jpg"
+      ],
+      "image_urls_nuvem_remoto": [
+        "sacrarium/instagram/SACRARIUM_S23_IG_CARROSSEL_img0_01.jpg",
+        "sacrarium/instagram/SACRARIUM_S23_IG_CARROSSEL_img1_02.jpg",
+        "sacrarium/instagram/SACRARIUM_S23_IG_CARROSSEL_img2_03.jpg",
+        "sacrarium/instagram/SACRARIUM_S23_IG_CARROSSEL_img3_04.jpg",
+        "sacrarium/instagram/SACRARIUM_S23_IG_CARROSSEL_img4_05.jpg",
+        "sacrarium/instagram/SACRARIUM_S23_IG_CARROSSEL_img5_06.jpg"
+      ]
     },
     {
       "id": "SACRARIUM_S23_FB_FOTO",
@@ -204,10 +278,15 @@
       "plataforma": "facebook",
       "tipo": "foto",
       "publish_at": "2026-08-15T09:00:00-03:00",
-      "status": "pendente",
+      "status": "agendado",
       "image_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Sacrarium\\Post Facebook\\04 Imagens Geradas\\S23 Obrigacao Ou Encontro.jpg",
       "caption": "Uma pergunta séria pra hoje: você reza porque \"tem que\" ou porque quer estar ali?\n\nSão Francisco de Sales comparava a oração a uma amizade — no início você precisa de horário, estrutura, esforço consciente pra aparecer. Isso é normal, não é sinal de fé fraca. Com o tempo, a meta é que essa presença vire desejo, não dever.\n\nEle resumia assim: a obrigação é o andaime, o encontro é a casa.\n\nHoje, na sua vida, a oração está mais perto de qual das duas?",
-      "first_comment": "O Sacrarium cultiva presença diária, sem cobrar cumprimento de metas. Link no site da nossa página."
+      "first_comment": "O Sacrarium cultiva presença diária, sem cobrar cumprimento de metas. Link no site da nossa página.",
+      "resultado": {
+        "object_id": "122120538369386492",
+        "agendado": true,
+        "url": "https://www.facebook.com/122120538369386492"
+      }
     }
   ]
 }

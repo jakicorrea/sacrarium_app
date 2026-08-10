@@ -3522,5 +3522,109 @@
       "video_id": "VNyqs3H2uoc",
       "url": "https://youtube.com/watch?v=VNyqs3H2uoc"
     }
+  },
+  "protocolo4d|youtube|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S23_P4D_tres_dividas_qual_primeiro.mp4": {
+    "id": "P4D_S23_YT",
+    "canal": "protocolo4d",
+    "plataforma": "youtube",
+    "publish_at": "2026-08-15T12:00:00-03:00",
+    "postado_em_utc": "2026-08-10T14:21:31Z",
+    "resultado": {
+      "video_id": "jw9PPUleh0Q",
+      "url": "https://youtube.com/watch?v=jw9PPUleh0Q"
+    }
+  },
+  "protocolo4d|facebook|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S23_P4D_tres_dividas_qual_primeiro.mp4": {
+    "id": "P4D_S23_FB",
+    "canal": "protocolo4d",
+    "plataforma": "facebook",
+    "publish_at": "2026-08-15T12:00:00-03:00",
+    "postado_em_utc": "2026-08-10T14:22:17Z",
+    "resultado": {
+      "video_id": "2467358937119093",
+      "agendado": true,
+      "url": "https://www.facebook.com/reel/2467358937119093"
+    }
+  },
+  "metodoana|facebook|C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Post Facebook\\04 Imagens Geradas\\S23 Regra 100 Primeiros.jpg": {
+    "id": "METODOANA_S23_FB_FOTO",
+    "canal": "metodoana",
+    "plataforma": "facebook",
+    "publish_at": "2026-08-15T09:00:00-03:00",
+    "postado_em_utc": "2026-08-10T14:22:21Z",
+    "resultado": {
+      "object_id": "122137825197153054",
+      "agendado": true,
+      "url": "https://www.facebook.com/122137825197153054"
+    }
+  },
+  "metodoana|youtube|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S23_Regra_dos_100_Primeiros.mp4": {
+    "id": "METODOANA_S23_YT",
+    "canal": "metodoana",
+    "plataforma": "youtube",
+    "publish_at": "2026-08-15T12:00:00-03:00",
+    "postado_em_utc": "2026-08-10T14:22:51Z",
+    "resultado": {
+      "video_id": "M2gi7kaA0x4",
+      "url": "https://youtube.com/watch?v=M2gi7kaA0x4"
+    }
+  },
+  "metodoana|facebook|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S23_Regra_dos_100_Primeiros.mp4": {
+    "id": "METODOANA_S23_FB",
+    "canal": "metodoana",
+    "plataforma": "facebook",
+    "publish_at": "2026-08-15T12:00:00-03:00",
+    "postado_em_utc": "2026-08-10T14:23:36Z",
+    "resultado": {
+      "video_id": "931201259298428",
+      "agendado": true,
+      "url": "https://www.facebook.com/reel/931201259298428"
+    }
+  },
+  "sacrarium|facebook|C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Sacrarium\\Post Facebook\\04 Imagens Geradas\\S23 Obrigacao Ou Encontro.jpg": {
+    "id": "SACRARIUM_S23_FB_FOTO",
+    "canal": "sacrarium",
+    "plataforma": "facebook",
+    "publish_at": "2026-08-15T09:00:00-03:00",
+    "postado_em_utc": "2026-08-10T14:23:40Z",
+    "resultado": {
+      "object_id": "122120538369386492",
+      "agendado": true,
+      "url": "https://www.facebook.com/122120538369386492"
+    }
+  },
+  "sacrarium|youtube|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S23_obrigacao_ou_encontro.mp4": {
+    "id": "SACRARIUM_S23_YT",
+    "canal": "sacrarium",
+    "plataforma": "youtube",
+    "publish_at": "2026-08-15T12:00:00-03:00",
+    "postado_em_utc": "2026-08-10T14:24:09Z",
+    "resultado": {
+      "video_id": "F1f2eqr9ecI",
+      "url": "https://youtube.com/watch?v=F1f2eqr9ecI"
+    }
+  },
+  "sacrarium|facebook|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S23_obrigacao_ou_encontro.mp4": {
+    "id": "SACRARIUM_S23_FB",
+    "canal": "sacrarium",
+    "plataforma": "facebook",
+    "publish_at": "2026-08-15T12:00:00-03:00",
+    "postado_em_utc": "2026-08-10T14:24:58Z",
+    "resultado": {
+      "video_id": "3471700789660091",
+      "agendado": true,
+      "url": "https://www.facebook.com/reel/3471700789660091"
+    }
+  },
+  "forjandotitas|youtube|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V15_FT_economizar_doi.mp4": {
+    "id": "FT_V15_YT",
+    "canal": "forjandotitas",
+    "plataforma": "youtube",
+    "publish_at": "2026-08-15T12:00:00-03:00",
+    "postado_em_utc": "2026-08-10T14:27:56Z",
+    "resultado": {
+      "video_id": "NVE1CzfSv_Q",
+      "url": "https://youtube.com/watch?v=NVE1CzfSv_Q"
+    }
   }
 }
