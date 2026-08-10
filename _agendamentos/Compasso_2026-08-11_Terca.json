@@ -1,0 +1,212 @@
+{
+  "lote": "Terca 11/08/2026 - P4D S19 + Sacrarium S19 + MetodoANA S19 + FT V11. Titulos escolhidos por CTR entre as 5 opcoes de cada pack. Thumbnails ja escolhidas manualmente pela Jaqueline (arquivo unico na pasta Thumbnails, nao 'Teste A/B/C'). Carrossel/foto: image_paths/image_path ainda com PLACEHOLDER -- preencher com o caminho real depois de gerar as imagens do carrossel (prompts ja existem em Insta Fila 03.json de cada canal). Carrossel/foto de hoje (sem dia fixo -- usa o que ja foi gerado por canal): protocolo4d S19, metodoana S19.",
+  "jobs": [
+    {
+      "id": "P4D_S19_YT",
+      "canal": "protocolo4d",
+      "plataforma": "youtube",
+      "tipo": "reels",
+      "publish_at": "2026-08-11T08:00:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S19_P4D_salario_dura_dez_dias.mp4",
+      "thumb_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\03_Estrutura_Canais\\Protocolo4D\\04-Pack de Postagem\\Thumbnails\\S19_salario_dura_dez_dias.jpeg",
+      "title": "Por Que Seu Salário Só Dura Dez Dias",
+      "description": "Tem gente que vê o salário cair e em dez dias já não sabe onde foi. Não é falta de memória. É falta de destino.\n\nNeste short, eu explico por que o dinheiro que entra na conta sem destino decidido antes vai pro lugar de menor resistência: contas atrasadas que cobram direto, consumo de impulso do começo do mês, gasto recorrente que nunca foi catalogado.\n\nMostro o contrário disso: dar endereço pra cada real antes do mês começar. Parcela, alimentação, transporte, ataque à dívida — cada coisa com destino definido antes do salário cair.\n\nConteúdo direto pra homem que sente o salário sumir rápido demais e não consegue apontar exatamente pra onde foi.",
+      "tags": [
+        "educação financeira masculina",
+        "dívidas",
+        "Protocolo 4D",
+        "organização financeira",
+        "crédito"
+      ],
+      "category_id": 27,
+      "pinned_comment": "Pra dar destino a cada real antes do próximo salário cair, deixei aqui embaixo a Planilha do Protocolo 4D, gratuita: https://protocolo-4d.netlify.app/lp-planilha"
+    },
+    {
+      "id": "P4D_S19_FB",
+      "canal": "protocolo4d",
+      "plataforma": "facebook",
+      "tipo": "reels",
+      "publish_at": "2026-08-11T08:02:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S19_P4D_salario_dura_dez_dias.mp4",
+      "caption": "Por Que Seu Salário Só Dura Dez Dias\n\nTem gente que vê o salário cair e em dez dias já não sabe onde foi. Não é falta de memória. É falta de destino.",
+      "first_comment": "Pra dar destino a cada real antes do próximo salário cair, deixei aqui embaixo a Planilha do Protocolo 4D, gratuita: https://protocolo-4d.netlify.app/lp-planilha"
+    },
+    {
+      "id": "P4D_S19_IG",
+      "canal": "protocolo4d",
+      "plataforma": "instagram",
+      "tipo": "reels",
+      "publish_at": "2026-08-11T08:05:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S19_P4D_salario_dura_dez_dias.mp4",
+      "caption": "Por Que Seu Salário Só Dura Dez Dias\n\nTem gente que vê o salário cair e em dez dias já não sabe onde foi. Não é falta de memória. É falta de destino.",
+      "first_comment": "Pra dar destino a cada real antes do próximo salário cair, deixei aqui embaixo a Planilha do Protocolo 4D, gratuita: https://protocolo-4d.netlify.app/lp-planilha"
+    },
+    {
+      "id": "SACRARIUM_S19_YT",
+      "canal": "sacrarium",
+      "plataforma": "youtube",
+      "tipo": "reels",
+      "publish_at": "2026-08-11T12:10:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S19_o_que_e_maturidade_na_oracao.mp4",
+      "thumb_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\03_Estrutura_Canais\\Sacrarium\\04-Pack de Postagem\\Thumbnails\\S19_o_que_e_maturidade_na_oracao.jpeg",
+      "title": "Por Que Quem Reza Há Mais Tempo Fala Menos na Oração",
+      "description": "Parece lógico pensar que amadurecer na oração significa rezar mais palavras, pedir mais coisas, saber mais orações de cor. Os grandes mestres da espiritualidade descrevem o oposto.\n\nNeste vídeo, eu explico a passagem que São João da Cruz chama de meditação discursiva para a oração de quietude: a oração que começa cheia de esforço e palavras vai, com o tempo, ficando mais simples e mais silenciosa — não por preguiça, mas por profundidade.\n\nUso a imagem de uma amizade que amadurece: no começo conversa o tempo todo, depois só senta junto em silêncio, e isso já basta.\n\nUm vídeo pra quem estranha sentir menos vontade de \"falar muito\" na oração e não sabe se isso é sinal bom ou ruim.\n\nO Sacrarium foi desenhado pra buscar esse silêncio, um dia de cada vez — cada um chega onde Deus permitir.\n\nConheça o Sacrarium.",
+      "tags": [
+        "oração católica",
+        "vida espiritual",
+        "Sacrarium",
+        "espiritualidade católica",
+        "mestres da oração"
+      ],
+      "category_id": 27,
+      "pinned_comment": "Sua oração hoje tem mais silêncio ou mais palavras? Não tem resposta certa, só me conta como é a sua.\nO Sacrarium acompanha essa busca de aprofundamento, sem prometer onde cada um vai chegar.\nConheça: https://sacrarium-app.netlify.app/"
+    },
+    {
+      "id": "SACRARIUM_S19_FB",
+      "canal": "sacrarium",
+      "plataforma": "facebook",
+      "tipo": "reels",
+      "publish_at": "2026-08-11T12:12:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S19_o_que_e_maturidade_na_oracao.mp4",
+      "caption": "Por Que Quem Reza Há Mais Tempo Fala Menos na Oração\n\nParece lógico pensar que amadurecer na oração significa rezar mais palavras, pedir mais coisas, saber mais orações de cor. Os grandes mestres da espiritualidade descrevem o oposto.",
+      "first_comment": "Sua oração hoje tem mais silêncio ou mais palavras? Não tem resposta certa, só me conta como é a sua.\nO Sacrarium acompanha essa busca de aprofundamento, sem prometer onde cada um vai chegar.\nConheça: https://sacrarium-app.netlify.app/"
+    },
+    {
+      "id": "SACRARIUM_S19_IG",
+      "canal": "sacrarium",
+      "plataforma": "instagram",
+      "tipo": "reels",
+      "publish_at": "2026-08-11T12:15:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S19_o_que_e_maturidade_na_oracao.mp4",
+      "caption": "Por Que Quem Reza Há Mais Tempo Fala Menos na Oração\n\nParece lógico pensar que amadurecer na oração significa rezar mais palavras, pedir mais coisas, saber mais orações de cor. Os grandes mestres da espiritualidade descrevem o oposto.",
+      "first_comment": "Sua oração hoje tem mais silêncio ou mais palavras? Não tem resposta certa, só me conta como é a sua.\nO Sacrarium acompanha essa busca de aprofundamento, sem prometer onde cada um vai chegar.\nConheça: https://sacrarium-app.netlify.app/"
+    },
+    {
+      "id": "METODOANA_S19_YT",
+      "canal": "metodoana",
+      "plataforma": "youtube",
+      "tipo": "reels",
+      "publish_at": "2026-08-11T12:20:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S19_Ataque_o_Rotativo_Primeiro.mp4",
+      "thumb_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\03_Estrutura_Canais\\MetodoANA\\04-Pack de Postagem\\Thumbnails\\S19_Ataque_o_Rotativo_Primeiro.jpeg",
+      "title": "A Dívida Pequena que Cresce Mais Rápido que Todas as Outras",
+      "description": "Pra quem tem rotativo do cartão ou cheque especial em aberto, junto com outras dívidas maiores: esse vídeo explica por que essas duas entram na frente de tudo, mesmo sendo geralmente as menores em saldo.\n\nO rotativo pode passar de 200% de juro ao ano. O cheque especial cobra entre 10% e 15% ao mês. Isso significa que essas dívidas dobram em poucos meses — enquanto isso, amortizar um consignado com juro baixo é como jogar água num balde furado pelo fundo.\n\nNo Método ANA, essa é a etapa Neutralizar: estancar o sangramento mais rápido antes de escolher entre Avalanche ou Bola de Neve pro resto.\n\nSou Ana, servidora pública, mãe de 4 filhos, e apliquei essa ordem nos meus próprios contratos.",
+      "tags": [
+        "educação financeira",
+        "sair das dívidas",
+        "Método ANA",
+        "organização financeira",
+        "renda extra"
+      ],
+      "category_id": 27,
+      "pinned_comment": "Você tem rotativo ou cheque especial aberto agora? Comenta aqui embaixo. A calculadora gratuita que mostra quanto isso está custando por mês tá no link da bio."
+    },
+    {
+      "id": "METODOANA_S19_FB",
+      "canal": "metodoana",
+      "plataforma": "facebook",
+      "tipo": "reels",
+      "publish_at": "2026-08-11T12:22:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S19_Ataque_o_Rotativo_Primeiro.mp4",
+      "caption": "A Dívida Pequena que Cresce Mais Rápido que Todas as Outras\n\nPra quem tem rotativo do cartão ou cheque especial em aberto, junto com outras dívidas maiores: esse vídeo explica por que essas duas entram na frente de tudo, mesmo sendo geralmente as menores em saldo.",
+      "first_comment": "Você tem rotativo ou cheque especial aberto agora? Comenta aqui embaixo. A calculadora gratuita que mostra quanto isso está custando por mês tá no link da bio."
+    },
+    {
+      "id": "METODOANA_S19_IG",
+      "canal": "metodoana",
+      "plataforma": "instagram",
+      "tipo": "reels",
+      "publish_at": "2026-08-11T12:25:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S19_Ataque_o_Rotativo_Primeiro.mp4",
+      "caption": "A Dívida Pequena que Cresce Mais Rápido que Todas as Outras\n\nPra quem tem rotativo do cartão ou cheque especial em aberto, junto com outras dívidas maiores: esse vídeo explica por que essas duas entram na frente de tudo, mesmo sendo geralmente as menores em saldo.",
+      "first_comment": "Você tem rotativo ou cheque especial aberto agora? Comenta aqui embaixo. A calculadora gratuita que mostra quanto isso está custando por mês tá no link da bio."
+    },
+    {
+      "id": "FT_V11_YT",
+      "canal": "forjandotitas",
+      "plataforma": "youtube",
+      "tipo": "video",
+      "publish_at": "2026-08-11T12:00:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V11_FT_metas_ano_novo_buffett.mp4",
+      "thumb_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\03_Estrutura_Canais\\ForjandoTitas\\04-Pack de Postagem\\Thumbnails\\FTV11.jpeg",
+      "title": "Warren Buffett Nunca Fez Meta de Ano Novo (Não é Coincidência)",
+      "description": "Pra homem que cria resolução financeira toda virada de ano — economizar tanto, quitar tal dívida, mudar de vida — e vê a intenção sumir antes de fevereiro terminar. Esse vídeo explica por que a resolução falha quase sempre no mesmo prazo, e o que muda quando você troca meta por sistema.\n\nO conteúdo nomeia a Ilusão da Resolução (o cérebro registra a criação da meta como progresso, não como intenção) e detalha o Sistema de Identidade Diária: um comportamento âncora com condição de disparo definida, um princípio que não se quebra, e revisão mensal sem julgamento.\n\nMostra a diferença entre resultado (meta anual) e processo (ação diária que se acumula), com comparação numérica entre quem depende de resolução e quem instala um comportamento simples em qualquer mês do ano.\n\nConteúdo de comportamento financeiro pra quem já tentou várias vezes recomeçar em janeiro e quer entender por que isso nunca sustenta.",
+      "tags": [
+        "educação financeira masculina",
+        "Forjando Titãs",
+        "renda extra",
+        "disciplina financeira",
+        "mentalidade"
+      ],
+      "category_id": 27,
+      "pinned_comment": "Qual seria o seu comportamento âncora — não a meta que você quer alcançar, mas a ação que você faria todo dia? Escreve aqui embaixo, eu leio todos. Se você já tem dívida ativa com juro alto, a sequência certa antes de montar qualquer sistema de economia está no Protocolo 4D: https://protocolo-4d.netlify.app/"
+    },
+    {
+      "id": "PROTOCOLO4D_S19_IG_CARROSSEL",
+      "canal": "protocolo4d",
+      "plataforma": "instagram",
+      "tipo": "carrossel",
+      "publish_at": "2026-08-11T17:00:00-03:00",
+      "status": "pendente",
+      "image_paths": [
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Protocolo4D_S19\\01.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Protocolo4D_S19\\02.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Protocolo4D_S19\\03.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Protocolo4D_S19\\04.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Protocolo4D_S19\\05.jpg"
+      ],
+      "caption": "O salário caiu dia 5. Dia 15 você já não lembra onde foi.\n\nNão é falta de memória, é falta de destino: dinheiro sem endereço vai pro gasto mais barulhento do mês, não pro mais importante. A saída é decidir o destino de cada real antes do salário cair, não depois.\n\nSegue pra não perder o próximo carrossel sobre como organizar isso na prática.",
+      "first_comment": "Já aconteceu de o salário sumir e você nem saber apontar onde? Comenta aqui embaixo."
+    },
+    {
+      "id": "PROTOCOLO4D_S19_FB_FOTO",
+      "canal": "protocolo4d",
+      "plataforma": "facebook",
+      "tipo": "foto",
+      "publish_at": "2026-08-11T17:00:00-03:00",
+      "status": "pendente",
+      "image_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Post Facebook\\04 Imagens Geradas\\S19 Salario Dura Dez Dias.jpg",
+      "caption": "Confesso uma coisa: teve fase da minha vida que o salário caía numa sexta e na segunda seguinte eu já não sabia pra onde tinha ido metade dele.\n\nNão tinha comprado nada grande. Não tinha viajado. O dinheiro só ia embora, sem destino, sem aviso.\n\nIsso ainda acontece com você? Compartilha nos comentários, quero saber se sou só eu.",
+      "first_comment": "A planilha que resolveu isso pra mim está gratuita no link no site da página."
+    },
+    {
+      "id": "METODOANA_S19_IG_CARROSSEL",
+      "canal": "metodoana",
+      "plataforma": "instagram",
+      "tipo": "carrossel",
+      "publish_at": "2026-08-11T18:00:00-03:00",
+      "status": "pendente",
+      "image_paths": [
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_MetodoANA_S19\\01.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_MetodoANA_S19\\02.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_MetodoANA_S19\\03.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_MetodoANA_S19\\04.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_MetodoANA_S19\\05.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_MetodoANA_S19\\06.jpg"
+      ],
+      "caption": "Rotativo do cartão. Cheque especial.\n\nNão são as maiores dívidas da sua lista. Mas são as que crescem mais rápido — o suficiente pra dobrar em poucos meses.\n\nEnquanto essas duas existirem, qualquer estratégia de amortização em outra dívida é dinheiro escorrendo pelo ralo.\n\nNeutraliza isso primeiro. Depois escolhe o método pro resto. 🔥",
+      "first_comment": "Você tem alguma dessas duas em aberto agora? Comenta aqui. Calculadora grátis pra ver quanto isso custa por mês, link na bio."
+    },
+    {
+      "id": "METODOANA_S19_FB_FOTO",
+      "canal": "metodoana",
+      "plataforma": "facebook",
+      "tipo": "foto",
+      "publish_at": "2026-08-11T18:00:00-03:00",
+      "status": "pendente",
+      "image_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Post Facebook\\04 Imagens Geradas\\S19 Ataque Rotativo Primeiro.jpg",
+      "caption": "Confesso: por um tempo eu tentei \"organizar tudo\" enquanto ainda tinha cheque especial aberto. Foi tempo perdido — o juro dessa conta comia qualquer progresso que eu fazia em outro lugar.\n\nAprendi (do jeito difícil) que rotativo e cheque especial furam qualquer fila de prioridade.\n\nQuem mais já caiu nessa armadilha de tentar cuidar de tudo ao mesmo tempo?",
+      "first_comment": "Calculadora gratuita de juro do rotativo Método ANA, no link no site da página."
+    }
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "lote": "Quinta 13/08/2026 - P4D S21 + Sacrarium S21 + MetodoANA S21 + FT V13. Titulos escolhidos por CTR entre as 5 opcoes de cada pack. Thumbnails ja escolhidas manualmente pela Jaqueline (arquivo unico na pasta Thumbnails, nao 'Teste A/B/C'). Carrossel/foto: image_paths/image_path ainda com PLACEHOLDER -- preencher com o caminho real depois de gerar as imagens do carrossel (prompts ja existem em Insta Fila 03.json de cada canal). Carrossel/foto de hoje (sem dia fixo -- usa o que ja foi gerado por canal): protocolo4d S21, sacrarium S21.",
+  "jobs": [
+    {
+      "id": "P4D_S21_YT",
+      "canal": "protocolo4d",
+      "plataforma": "youtube",
+      "tipo": "reels",
+      "publish_at": "2026-08-13T08:00:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S21_P4D_pix_nao_e_dinheiro.mp4",
+      "thumb_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\03_Estrutura_Canais\\Protocolo4D\\04-Pack de Postagem\\Thumbnails\\S21_pix_nao_e_dinheiro.jpeg",
+      "title": "Pix Não é Dinheiro. É Isso Que Te Funde",
+      "description": "Pix facilita demais a vida. E é exatamente isso que faz dele uma armadilha pra quem não tem orçamento estruturado.\n\nNeste short, eu explico por que zero atrito na hora de gastar faz o dinheiro ir embora antes mesmo de você sentir: com dinheiro vivo você contava as notas e sentia o gasto acontecer, com Pix o valor sai antes de ser processado.\n\nA solução não é parar de usar Pix. É usar Pix com teto: definir o valor disponível pra gasto variável no mês e travar o consumo quando esse valor acabar.\n\nConteúdo direto pra homem que sente o dinheiro sumir rápido demais desde que passou a pagar tudo por Pix.",
+      "tags": [
+        "educação financeira masculina",
+        "dívidas",
+        "Protocolo 4D",
+        "organização financeira",
+        "crédito"
+      ],
+      "category_id": 27,
+      "pinned_comment": "Pra colocar teto no seu gasto variável antes do próximo Pix, deixei aqui embaixo a Planilha do Protocolo 4D, gratuita: https://protocolo-4d.netlify.app/lp-planilha"
+    },
+    {
+      "id": "P4D_S21_FB",
+      "canal": "protocolo4d",
+      "plataforma": "facebook",
+      "tipo": "reels",
+      "publish_at": "2026-08-13T08:02:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S21_P4D_pix_nao_e_dinheiro.mp4",
+      "caption": "Pix Não é Dinheiro. É Isso Que Te Funde\n\nPix facilita demais a vida. E é exatamente isso que faz dele uma armadilha pra quem não tem orçamento estruturado.",
+      "first_comment": "Pra colocar teto no seu gasto variável antes do próximo Pix, deixei aqui embaixo a Planilha do Protocolo 4D, gratuita: https://protocolo-4d.netlify.app/lp-planilha"
+    },
+    {
+      "id": "P4D_S21_IG",
+      "canal": "protocolo4d",
+      "plataforma": "instagram",
+      "tipo": "reels",
+      "publish_at": "2026-08-13T08:05:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S21_P4D_pix_nao_e_dinheiro.mp4",
+      "caption": "Pix Não é Dinheiro. É Isso Que Te Funde\n\nPix facilita demais a vida. E é exatamente isso que faz dele uma armadilha pra quem não tem orçamento estruturado.",
+      "first_comment": "Pra colocar teto no seu gasto variável antes do próximo Pix, deixei aqui embaixo a Planilha do Protocolo 4D, gratuita: https://protocolo-4d.netlify.app/lp-planilha"
+    },
+    {
+      "id": "SACRARIUM_S21_YT",
+      "canal": "sacrarium",
+      "plataforma": "youtube",
+      "tipo": "reels",
+      "publish_at": "2026-08-13T12:10:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S21_como_voltar_depois_de_anos.mp4",
+      "thumb_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\03_Estrutura_Canais\\Sacrarium\\04-Pack de Postagem\\Thumbnails\\S21_como_voltar_depois_de_anos.jpeg",
+      "title": "Faz Anos Que Você Não Reza — Como Voltar de Verdade",
+      "description": "Voltar a rezar depois de anos afastado parece exigir um ritual especial, uma virada dramática, uma explicação. Não precisa.\n\nNeste vídeo, eu conto a história de Santo Agostinho, que ficou décadas longe de Deus e, ao voltar, escreveu: \"tarde Te amei, ó beleza tão antiga e tão nova\" — não como um estranho, mas como quem reconhece algo que nunca deixou de pertencer a ele.\n\nExplico por que a vida espiritual não é uma escada onde você recomeça do zero ao cair, mas um jardim onde o terreno continua lá mesmo quando o jardineiro esteve ausente.\n\nUm vídeo pra quem sente vergonha de voltar depois de muito tempo longe da prática.\n\nO Sacrarium existe pra esse retorno, começando exatamente de onde você está, sem exigir explicação.\n\nConheça o Sacrarium.",
+      "tags": [
+        "oração católica",
+        "vida espiritual",
+        "Sacrarium",
+        "espiritualidade católica",
+        "mestres da oração"
+      ],
+      "category_id": 27,
+      "pinned_comment": "Quanto tempo faz desde a última vez que você rezou de verdade? Pode escrever aqui, sem julgamento nenhum.\nO Sacrarium começa do ponto em que você está hoje, não de onde você \"deveria\" estar.\nConheça: https://sacrarium-app.netlify.app/"
+    },
+    {
+      "id": "SACRARIUM_S21_FB",
+      "canal": "sacrarium",
+      "plataforma": "facebook",
+      "tipo": "reels",
+      "publish_at": "2026-08-13T12:12:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S21_como_voltar_depois_de_anos.mp4",
+      "caption": "Faz Anos Que Você Não Reza — Como Voltar de Verdade\n\nVoltar a rezar depois de anos afastado parece exigir um ritual especial, uma virada dramática, uma explicação. Não precisa.",
+      "first_comment": "Quanto tempo faz desde a última vez que você rezou de verdade? Pode escrever aqui, sem julgamento nenhum.\nO Sacrarium começa do ponto em que você está hoje, não de onde você \"deveria\" estar.\nConheça: https://sacrarium-app.netlify.app/"
+    },
+    {
+      "id": "SACRARIUM_S21_IG",
+      "canal": "sacrarium",
+      "plataforma": "instagram",
+      "tipo": "reels",
+      "publish_at": "2026-08-13T12:15:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S21_como_voltar_depois_de_anos.mp4",
+      "caption": "Faz Anos Que Você Não Reza — Como Voltar de Verdade\n\nVoltar a rezar depois de anos afastado parece exigir um ritual especial, uma virada dramática, uma explicação. Não precisa.",
+      "first_comment": "Quanto tempo faz desde a última vez que você rezou de verdade? Pode escrever aqui, sem julgamento nenhum.\nO Sacrarium começa do ponto em que você está hoje, não de onde você \"deveria\" estar.\nConheça: https://sacrarium-app.netlify.app/"
+    },
+    {
+      "id": "METODOANA_S21_YT",
+      "canal": "metodoana",
+      "plataforma": "youtube",
+      "tipo": "reels",
+      "publish_at": "2026-08-13T12:20:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S21_Calculo_da_Economia_na_Quitacao.mp4",
+      "thumb_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\03_Estrutura_Canais\\MetodoANA\\04-Pack de Postagem\\Thumbnails\\S21_Calculo_da_Economia_na_Quitacao.jpeg",
+      "title": "Simulei a Quitação Antecipada e a Diferença Foi de R$7.500",
+      "description": "Se você já pensou em quitar um consignado antes do prazo mas não sabe se vale a pena, esse vídeo mostra a conta exata pra descobrir.\n\nMultiplica o valor da parcela pelo número de parcelas restantes — esse é o total que você pagaria se não fizer nada. Depois simula a quitação antecipada no aplicativo do banco, que já vem com desconto dos juros futuros. A diferença entre os dois números é a sua economia real.\n\nNo meu caso, um contrato com 90 parcelas de R$198 ainda pagaria cerca de R$17.800 — a quitação saiu por R$10.300. Economia de R$7.500 que ficou comigo, não com o banco.\n\nSou Ana, mãe de 4 filhos, servidora pública, e faço essa conta pra cada um dos meus contratos antes de decidir onde colocar o dinheiro extra.",
+      "tags": [
+        "educação financeira",
+        "sair das dívidas",
+        "Método ANA",
+        "organização financeira",
+        "renda extra"
+      ],
+      "category_id": 27,
+      "pinned_comment": "Já fez essa conta com algum contrato seu? Comenta o resultado aqui embaixo. A calculadora gratuita que faz essa simulação automaticamente tá no link da bio."
+    },
+    {
+      "id": "METODOANA_S21_FB",
+      "canal": "metodoana",
+      "plataforma": "facebook",
+      "tipo": "reels",
+      "publish_at": "2026-08-13T12:22:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S21_Calculo_da_Economia_na_Quitacao.mp4",
+      "caption": "Simulei a Quitação Antecipada e a Diferença Foi de R$7.500\n\nSe você já pensou em quitar um consignado antes do prazo mas não sabe se vale a pena, esse vídeo mostra a conta exata pra descobrir.",
+      "first_comment": "Já fez essa conta com algum contrato seu? Comenta o resultado aqui embaixo. A calculadora gratuita que faz essa simulação automaticamente tá no link da bio."
+    },
+    {
+      "id": "METODOANA_S21_IG",
+      "canal": "metodoana",
+      "plataforma": "instagram",
+      "tipo": "reels",
+      "publish_at": "2026-08-13T12:25:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S21_Calculo_da_Economia_na_Quitacao.mp4",
+      "caption": "Simulei a Quitação Antecipada e a Diferença Foi de R$7.500\n\nSe você já pensou em quitar um consignado antes do prazo mas não sabe se vale a pena, esse vídeo mostra a conta exata pra descobrir.",
+      "first_comment": "Já fez essa conta com algum contrato seu? Comenta o resultado aqui embaixo. A calculadora gratuita que faz essa simulação automaticamente tá no link da bio."
+    },
+    {
+      "id": "FT_V13_YT",
+      "canal": "forjandotitas",
+      "plataforma": "youtube",
+      "tipo": "video",
+      "publish_at": "2026-08-13T12:00:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V13_FT_crenca_dinheiro_familias.mp4",
+      "thumb_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\03_Estrutura_Canais\\ForjandoTitas\\04-Pack de Postagem\\Thumbnails\\V13 - FRASE DE 6 PALAVRAS.jpeg",
+      "title": "A Frase de Seis Palavras Que Vira Desculpa Pra Nunca Encarar as Contas",
+      "description": "Pra homem que já usou ou já ouviu em casa a frase 'dinheiro não traz felicidade' como justificativa pra nunca organizar as contas, discutir orçamento com a esposa ou construir uma reserva. Esse vídeo mostra de onde essa ideia veio, o que ela virou, e o preço real de deixar ela guiar decisões da família.\n\nO conteúdo separa o que a frase realmente diz do que ela está sendo usada pra evitar: desorganização financeira, ausência de reserva, silêncio sobre dívida dentro de casa. Mostra o custo relacional (o homem que carrega pressão sozinho pra não contradizer a própria filosofia) e o custo que passa pros filhos, que aprendem a mesma postura de evitar o assunto.\n\nFecha com uma virada simples: a pergunta certa não é se dinheiro traz felicidade, é se a falta de organização está protegendo ou destruindo a família por dentro.\n\nConteúdo de comportamento financeiro familiar, pra homem que sente que precisa proteger quem depende dele mas evita o tema por desconforto ou crença herdada.",
+      "tags": [
+        "educação financeira masculina",
+        "Forjando Titãs",
+        "renda extra",
+        "disciplina financeira",
+        "mentalidade"
+      ],
+      "category_id": 27,
+      "pinned_comment": "Qual convicção sobre dinheiro você percebe que mais te trava — pode ser essa frase ou outra que você já ouviu em casa a vida toda? Tem um método completo do diagnóstico à blindagem financeira no Protocolo 4D: https://protocolo-4d.netlify.app/"
+    },
+    {
+      "id": "PROTOCOLO4D_S21_IG_CARROSSEL",
+      "canal": "protocolo4d",
+      "plataforma": "instagram",
+      "tipo": "carrossel",
+      "publish_at": "2026-08-13T17:00:00-03:00",
+      "status": "pendente",
+      "image_paths": [
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Protocolo4D_S21\\01.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Protocolo4D_S21\\02.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Protocolo4D_S21\\03.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Protocolo4D_S21\\04.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Protocolo4D_S21\\05.jpg"
+      ],
+      "caption": "Seu cérebro trata Pix diferente de dinheiro vivo. E é por isso que ele some mais rápido. 📲\n\nZero atrito na hora de pagar não é conveniência de graça — sem orçamento estruturado, essa facilidade vira gasto acelerado. A saída não é abandonar o Pix, é dar um teto pra ele.\n\nSalva esse carrossel antes do próximo Pix do mês.",
+      "first_comment": "Link na bio pra Planilha do Protocolo 4D, gratuita, pra você travar esse teto de vez."
+    },
+    {
+      "id": "PROTOCOLO4D_S21_FB_FOTO",
+      "canal": "protocolo4d",
+      "plataforma": "facebook",
+      "tipo": "foto",
+      "publish_at": "2026-08-13T17:00:00-03:00",
+      "status": "pendente",
+      "image_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Post Facebook\\04 Imagens Geradas\\S21 Pix Nao E Dinheiro.jpg",
+      "caption": "Desabafo: desde que passei a pagar quase tudo por Pix, ficou muito mais difícil sentir o dinheiro saindo. Antes, contava as notas. Agora é só um toque e a digital.\n\nNão acho que a solução seja parar de usar. Acho que falta um teto claro pro que pode ser gasto no mês.\n\nVocê já reparou se gasta mais desde que o Pix virou o método padrão? Comenta.",
+      "first_comment": "A planilha que ajuda a colocar esse teto no papel está gratuita no link no site da página."
+    },
+    {
+      "id": "SACRARIUM_S21_IG_CARROSSEL",
+      "canal": "sacrarium",
+      "plataforma": "instagram",
+      "tipo": "carrossel",
+      "publish_at": "2026-08-13T17:30:00-03:00",
+      "status": "pendente",
+      "image_paths": [
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Sacrarium\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Sacrarium_S21\\01.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Sacrarium\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Sacrarium_S21\\02.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Sacrarium\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Sacrarium_S21\\03.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Sacrarium\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Sacrarium_S21\\04.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Sacrarium\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Sacrarium_S21\\05.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Sacrarium\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Sacrarium_S21\\06.jpg"
+      ],
+      "caption": "\"Tarde Te amei, ó beleza tão antiga e tão nova.\" 👇\n\nFoi assim que Santo Agostinho escreveu depois de décadas longe de Deus. Não voltou como estranho. Voltou como quem reconhece algo que nunca deixou de ser dele.\n\nA vida espiritual não é uma escada onde você cai e recomeça do zero. É um jardim onde o terreno continua lá, mesmo quando o jardineiro esteve ausente.\n\nO retorno não precisa de ritual, nem de explicação. Precisa só de uma decisão simples: aparecer, hoje, com o que você tem.\n\nMarca alguém que precisa ler isso hoje. 🌿",
+      "first_comment": "Quanto tempo faz desde a sua última oração de verdade? Pode escrever, sem julgamento nenhum 👇 Link na bio."
+    },
+    {
+      "id": "SACRARIUM_S21_FB_FOTO",
+      "canal": "sacrarium",
+      "plataforma": "facebook",
+      "tipo": "foto",
+      "publish_at": "2026-08-13T17:30:00-03:00",
+      "status": "pendente",
+      "image_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Sacrarium\\Post Facebook\\04 Imagens Geradas\\S21 Como Voltar Depois De Anos.jpg",
+      "caption": "Tem gente que passa anos afastada da vida de oração e depois sente vergonha demais de voltar. Sabia que Santo Agostinho passou décadas assim?\n\nQuando ele voltou, escreveu: \"tarde Te amei, ó beleza tão antiga e tão nova.\" Não voltou como estranho. Voltou como quem reencontra algo que sempre foi dele.\n\nA vida espiritual não é escada, onde cair te joga lá embaixo de novo. É jardim — o terreno continua lá, esperando.\n\nSe você está pensando em voltar a rezar depois de muito tempo, o que está te segurando?",
+      "first_comment": "O Sacrarium começa do ponto em que você está agora, sem cobrar explicação nenhuma pelo tempo ausente. Link no site da nossa página."
+    }
+  ]
+}

@@ -1,0 +1,297 @@
+{
+  "lote": "Sexta 14/08/2026 - P4D S22 + Sacrarium S22+V08(longo) + MetodoANA S22+V08(longo) + CP V19 + FT V14. Titulos escolhidos por CTR entre as 5 opcoes de cada pack. Thumbnails ja escolhidas manualmente pela Jaqueline (arquivo unico na pasta Thumbnails, nao 'Teste A/B/C'). Carrossel/foto: image_paths/image_path ainda com PLACEHOLDER -- preencher com o caminho real depois de gerar as imagens do carrossel (prompts ja existem em Insta Fila 03.json de cada canal). Carrossel/foto de hoje (sem dia fixo -- usa o que ja foi gerado por canal): protocolo4d S22, sacrarium S22.",
+  "jobs": [
+    {
+      "id": "P4D_S22_YT",
+      "canal": "protocolo4d",
+      "plataforma": "youtube",
+      "tipo": "reels",
+      "publish_at": "2026-08-14T08:00:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S22_P4D_dinheiro_extra_sem_regra.mp4",
+      "thumb_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\03_Estrutura_Canais\\Protocolo4D\\04-Pack de Postagem\\Thumbnails\\S22_dinheiro_extra_sem_regra.jpeg",
+      "title": "Décimo Terceiro Sem Regra Some Em Duas Semanas",
+      "description": "Tem gente que recebe décimo terceiro e em duas semanas o dinheiro já sumiu sem lembrar onde foi. Não é falta de memória. É falta de regra.\n\nNeste short, eu explico por que dinheiro extra sem destino decidido antes vira gasto por inércia: o consumo de compensação preenche o espaço e o valor que poderia acelerar a quitação de uma dívida vai embora em coisas pequenas.\n\nMostro a regra que precisa existir antes do dinheiro chegar: qualquer entrada extra acima de duzentos reais já nasce dividida entre dívida, reserva e uma fatia livre — a proporção exata que eu uso é a que ensino no vídeo.\n\nConteúdo direto pra homem que recebeu ou vai receber décimo terceiro, restituição ou qualquer entrada extra e ainda não decidiu o que fazer com ela.",
+      "tags": [
+        "educação financeira masculina",
+        "dívidas",
+        "Protocolo 4D",
+        "organização financeira",
+        "crédito"
+      ],
+      "category_id": 27,
+      "pinned_comment": "A lógica completa de alocação de entrada extra dentro do método está no Mapa do Protocolo 4D, gratuito, aqui embaixo: https://protocolo-4d.netlify.app/lp-mapa"
+    },
+    {
+      "id": "P4D_S22_FB",
+      "canal": "protocolo4d",
+      "plataforma": "facebook",
+      "tipo": "reels",
+      "publish_at": "2026-08-14T08:02:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S22_P4D_dinheiro_extra_sem_regra.mp4",
+      "caption": "Décimo Terceiro Sem Regra Some Em Duas Semanas\n\nTem gente que recebe décimo terceiro e em duas semanas o dinheiro já sumiu sem lembrar onde foi. Não é falta de memória. É falta de regra.",
+      "first_comment": "A lógica completa de alocação de entrada extra dentro do método está no Mapa do Protocolo 4D, gratuito, aqui embaixo: https://protocolo-4d.netlify.app/lp-mapa"
+    },
+    {
+      "id": "P4D_S22_IG",
+      "canal": "protocolo4d",
+      "plataforma": "instagram",
+      "tipo": "reels",
+      "publish_at": "2026-08-14T08:05:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S22_P4D_dinheiro_extra_sem_regra.mp4",
+      "caption": "Décimo Terceiro Sem Regra Some Em Duas Semanas\n\nTem gente que recebe décimo terceiro e em duas semanas o dinheiro já sumiu sem lembrar onde foi. Não é falta de memória. É falta de regra.",
+      "first_comment": "A lógica completa de alocação de entrada extra dentro do método está no Mapa do Protocolo 4D, gratuito, aqui embaixo: https://protocolo-4d.netlify.app/lp-mapa"
+    },
+    {
+      "id": "SACRARIUM_S22_YT",
+      "canal": "sacrarium",
+      "plataforma": "youtube",
+      "tipo": "reels",
+      "publish_at": "2026-08-14T12:10:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S22_quarto_secreto_do_evangelho.mp4",
+      "thumb_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\03_Estrutura_Canais\\Sacrarium\\04-Pack de Postagem\\Thumbnails\\S22_quarto_secreto_do_evangelho.jpeg",
+      "title": "\"Entra no Teu Quarto Secreto\": o Que Jesus Realmente Quis Dizer",
+      "description": "Jesus disse: \"quando rezares, entra no teu quarto secreto, fecha a porta, e reza ao teu Pai que está no oculto.\" Por séculos, os Padres da Igreja e os místicos debateram o que é, de fato, esse quarto.\n\nNeste vídeo, eu explico a resposta que emergiu da tradição contemplativa: o quarto secreto é o centro da alma, o lugar mais profundo dentro de você, onde Deus habita em silêncio, longe do barulho do mundo.\n\nFechar a porta não é isolamento físico — é o ato interior de se recolher, de parar de fazer barulho, de entrar para dentro de si.\n\nUm vídeo pra quem já ouviu essa passagem do Evangelho e nunca parou pra pensar no que ela realmente pede.\n\nFoi pra ajudar nessa entrada que o Sacrarium nasceu.\n\nConheça o Sacrarium.",
+      "tags": [
+        "oração católica",
+        "vida espiritual",
+        "Sacrarium",
+        "espiritualidade católica",
+        "mestres da oração"
+      ],
+      "category_id": 27,
+      "pinned_comment": "Você já teve a sensação de encontrar esse silêncio interior, mesmo que só por um instante? Conta como foi.\nO Sacrarium é uma jornada de fora pra dentro, em direção a esse lugar onde Deus habita.\nConheça: https://sacrarium-app.netlify.app/"
+    },
+    {
+      "id": "SACRARIUM_S22_FB",
+      "canal": "sacrarium",
+      "plataforma": "facebook",
+      "tipo": "reels",
+      "publish_at": "2026-08-14T12:12:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S22_quarto_secreto_do_evangelho.mp4",
+      "caption": "\"Entra no Teu Quarto Secreto\": o Que Jesus Realmente Quis Dizer\n\nJesus disse: \"quando rezares, entra no teu quarto secreto, fecha a porta, e reza ao teu Pai que está no oculto.\" Por séculos, os Padres da Igreja e os místicos debateram o que é, de fato, esse quarto.",
+      "first_comment": "Você já teve a sensação de encontrar esse silêncio interior, mesmo que só por um instante? Conta como foi.\nO Sacrarium é uma jornada de fora pra dentro, em direção a esse lugar onde Deus habita.\nConheça: https://sacrarium-app.netlify.app/"
+    },
+    {
+      "id": "SACRARIUM_S22_IG",
+      "canal": "sacrarium",
+      "plataforma": "instagram",
+      "tipo": "reels",
+      "publish_at": "2026-08-14T12:15:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S22_quarto_secreto_do_evangelho.mp4",
+      "caption": "\"Entra no Teu Quarto Secreto\": o Que Jesus Realmente Quis Dizer\n\nJesus disse: \"quando rezares, entra no teu quarto secreto, fecha a porta, e reza ao teu Pai que está no oculto.\" Por séculos, os Padres da Igreja e os místicos debateram o que é, de fato, esse quarto.",
+      "first_comment": "Você já teve a sensação de encontrar esse silêncio interior, mesmo que só por um instante? Conta como foi.\nO Sacrarium é uma jornada de fora pra dentro, em direção a esse lugar onde Deus habita.\nConheça: https://sacrarium-app.netlify.app/"
+    },
+    {
+      "id": "METODOANA_S22_YT",
+      "canal": "metodoana",
+      "plataforma": "youtube",
+      "tipo": "reels",
+      "publish_at": "2026-08-14T12:20:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S22_Os_Cortes_de_864_Reais.mp4",
+      "thumb_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\03_Estrutura_Canais\\MetodoANA\\04-Pack de Postagem\\Thumbnails\\S22_Os_Cortes_de_864_Reais.jpeg",
+      "title": "Encontrei R$864 por Mês Sem Cortar o Necessário",
+      "description": "Se você já ouviu 'corta o cafezinho' e sabe que isso não resolve uma dívida grande, esse vídeo mostra onde eu realmente encontrei espaço no meu orçamento.\n\nMapeei sete pontos: transporte, alimentação, plano de celular, streaming, seguro embutido no consignado, consumo de energia e anuidade de cartão. Juntos, esses ajustes liberam R$864 por mês, sem cortar o que sustenta minha família — em um ano, isso vira mais de R$10 mil disponíveis pra amortização de dívida.\n\nCada corte é pequeno sozinho. Juntos, mudam o resultado.\n\nSou Ana, mãe de 4 filhos, servidora pública, e documentei cada um desses ajustes enquanto aplico no meu próprio orçamento.",
+      "tags": [
+        "educação financeira",
+        "sair das dívidas",
+        "Método ANA",
+        "organização financeira",
+        "renda extra"
+      ],
+      "category_id": 27,
+      "pinned_comment": "Qual desses sete gastos você nunca tinha reparado no seu próprio orçamento? Comenta aqui embaixo. O mini-ebook gratuito com esse e outros cálculos tá no link da bio."
+    },
+    {
+      "id": "METODOANA_S22_FB",
+      "canal": "metodoana",
+      "plataforma": "facebook",
+      "tipo": "reels",
+      "publish_at": "2026-08-14T12:22:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S22_Os_Cortes_de_864_Reais.mp4",
+      "caption": "Encontrei R$864 por Mês Sem Cortar o Necessário\n\nSe você já ouviu 'corta o cafezinho' e sabe que isso não resolve uma dívida grande, esse vídeo mostra onde eu realmente encontrei espaço no meu orçamento.",
+      "first_comment": "Qual desses sete gastos você nunca tinha reparado no seu próprio orçamento? Comenta aqui embaixo. O mini-ebook gratuito com esse e outros cálculos tá no link da bio."
+    },
+    {
+      "id": "METODOANA_S22_IG",
+      "canal": "metodoana",
+      "plataforma": "instagram",
+      "tipo": "reels",
+      "publish_at": "2026-08-14T12:25:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S22_Os_Cortes_de_864_Reais.mp4",
+      "caption": "Encontrei R$864 por Mês Sem Cortar o Necessário\n\nSe você já ouviu 'corta o cafezinho' e sabe que isso não resolve uma dívida grande, esse vídeo mostra onde eu realmente encontrei espaço no meu orçamento.",
+      "first_comment": "Qual desses sete gastos você nunca tinha reparado no seu próprio orçamento? Comenta aqui embaixo. O mini-ebook gratuito com esse e outros cálculos tá no link da bio."
+    },
+    {
+      "id": "CP_V19_YT",
+      "canal": "cathedrapetri",
+      "plataforma": "youtube",
+      "tipo": "video",
+      "publish_at": "2026-08-14T12:35:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V19_PT_TEP_Suetônio_e_o_registro_policial_da_.mp4",
+      "thumb_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\03_Estrutura_Canais\\Cathedra Petri\\04-Pack de Postagem\\Thumbnails\\CPV19.jpeg",
+      "title": "O Erro de Ortografia que Prova que Cristo Não Foi Invenção Tardia",
+      "description": "Este vídeo é um documentário histórico investigativo sobre o registro de Suetônio, secretário imperial de Adriano, que em sua obra \"Vida dos Doze Césares\" (por volta de 121 d.C.) menciona a expulsão dos judeus de Roma pelo imperador Cláudio, no ano 49 d.C., por causa da instigação de um \"certo Chrestus\".\n\nA investigação examina esse relato como testemunho hostil — Suetônio não tinha interesse em validar o cristianismo — e cruza a passagem com o Livro dos Atos dos Apóstolos (18,2), que menciona o mesmo decreto de Cláudio ao apresentar Áquila e Priscila. O vídeo também analisa o Edito de Nazaré, placa de mármore descoberta na Galileia em 1878, com pena de morte para violação de túmulos, datada do reinado de Cláudio.\n\nÉ um documentário de apologética histórica católica com foco em fontes romanas seculares e evidência documental da historicidade de Cristo. Período histórico específico: primeira metade do século I d.C., em Roma e na Galileia.",
+      "tags": [
+        "apologética católica",
+        "história da Igreja",
+        "Cathedra Petri",
+        "Igreja primitiva",
+        "patrística"
+      ],
+      "category_id": 27,
+      "pinned_comment": "Um escrivão romano no ano 49 registrou um motim causado por \"Chrestus\" — nome que a polícia ouviu errado ao confundir com Christus. Na sua opinião, um erro de grafia feito por um estado hostil pesa mais como prova histórica do que um texto religioso escrito de propósito?"
+    },
+    {
+      "id": "FT_V14_YT",
+      "canal": "forjandotitas",
+      "plataforma": "youtube",
+      "tipo": "video",
+      "publish_at": "2026-08-14T12:00:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V14_FT_frase_sabotagem.mp4",
+      "thumb_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\03_Estrutura_Canais\\ForjandoTitas\\04-Pack de Postagem\\Thumbnails\\V14 - EU MEREÇO.jpeg",
+      "title": "Duas Palavrinhas Que Custam Mais de R$4 Mil Por Ano no Seu Bolso",
+      "description": "Pra homem que já se pegou usando uma dessas frases pra justificar um gasto que não estava no plano: eu mereço, só desta vez, depois eu recupero. Esse vídeo explica o mecanismo por trás de cada uma — o licenciamento moral que transforma esforço real em permissão pra gasto ruim — e por que elas se repetem sem que o padrão apareça claro.\n\nO conteúdo detalha como cada frase funciona isoladamente, com dado de comportamento do consumidor brasileiro sobre a frequência do 'só desta vez', e mostra o cálculo de quanto isso soma em um ano quando parece pequeno mês a mês.\n\nTermina com uma pergunta específica pra cada uma das três frases — o antídoto de dois segundos que interrompe o automático antes da decisão sair errada.\n\nConteúdo de comportamento financeiro e psicologia do consumo, pra quem quer identificar qual das três frases é o gatilho mais forte no próprio caso.",
+      "tags": [
+        "educação financeira masculina",
+        "Forjando Titãs",
+        "renda extra",
+        "disciplina financeira",
+        "mentalidade"
+      ],
+      "category_id": 27,
+      "pinned_comment": "Qual das três você mais usa: eu mereço, só desta vez ou depois eu recupero? Comenta só o nome, sem precisar justificar. Tem um diagnóstico gratuito de cinco minutos que te mostra qual armadilha específica pesa mais no seu caso: https://protocolo-4d.netlify.app/lp-quiz"
+    },
+    {
+      "id": "SACRARIUM_V08_YT",
+      "canal": "sacrarium",
+      "plataforma": "youtube",
+      "tipo": "video",
+      "publish_at": "2026-08-14T20:00:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V08_O_que_significa_cultivar_um_jardim_interi.mp4",
+      "thumb_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\03_Estrutura_Canais\\Sacrarium\\04-Pack de Postagem\\Thumbnails\\V08_O_que_significa_cultivar_um_jardim_interior.jpeg",
+      "title": "Por Que a Vida Espiritual É Mais Jardim do Que Corrida",
+      "description": "Quando a maioria das pessoas pensa em vida espiritual, a imagem é de esforço, disciplina rígida, uma corrida que ninguém sustenta pra sempre. Mas Santa Teresa de Ávila usou outra imagem, no Livro da Vida: a oração como regar um jardim.\n\nNeste vídeo, eu explico as quatro formas de regar esse jardim segundo Santa Teresa — o balde, a nora, o aqueduto, a chuva — e por que cultivar a alma é um trabalho de meses, anos, não de um único dia.\n\nExplico também o que são as ervas daninhas da alma (apegos, vícios, medos) e por que os frutos desse cultivo — paciência, caridade, clareza, paz — não aparecem em semanas, mas com paciência de jardineiro.\n\nPra quem sente que a própria oração está \"seca\" e não vê resultado nenhum aparecendo.\n\nO Jardim das Virtudes dentro do Sacrarium é a representação visual dessa jornada.\n\nBaixe o Sacrarium e comece a cultivar o seu.",
+      "tags": [
+        "oração católica",
+        "vida espiritual",
+        "Sacrarium",
+        "espiritualidade católica",
+        "mestres da oração"
+      ],
+      "category_id": 27,
+      "pinned_comment": "Na sua vida espiritual hoje, você sente que está mais no balde, na nora, no aqueduto ou na chuva de Santa Teresa? Conta aqui embaixo.\nO Jardim das Virtudes do Sacrarium acompanha esse cultivo dia após dia. Conheça: https://sacrarium-app.netlify.app/"
+    },
+    {
+      "id": "SACRARIUM_V08_FB",
+      "canal": "sacrarium",
+      "plataforma": "facebook",
+      "tipo": "video",
+      "publish_at": "2026-08-14T20:05:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V08_O_que_significa_cultivar_um_jardim_interi.mp4",
+      "caption": "Por Que a Vida Espiritual É Mais Jardim do Que Corrida\n\nQuando a maioria das pessoas pensa em vida espiritual, a imagem é de esforço, disciplina rígida, uma corrida que ninguém sustenta pra sempre. Mas Santa Teresa de Ávila usou outra imagem, no Livro da Vida: a oração como regar um jardim.",
+      "first_comment": "Na sua vida espiritual hoje, você sente que está mais no balde, na nora, no aqueduto ou na chuva de Santa Teresa? Conta aqui embaixo.\nO Jardim das Virtudes do Sacrarium acompanha esse cultivo dia após dia. Conheça: https://sacrarium-app.netlify.app/"
+    },
+    {
+      "id": "METODOANA_V08_YT",
+      "canal": "metodoana",
+      "plataforma": "youtube",
+      "tipo": "video",
+      "publish_at": "2026-08-14T20:30:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V08_Devo_investir_mesmo_endividada.mp4",
+      "thumb_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\03_Estrutura_Canais\\MetodoANA\\04-Pack de Postagem\\Thumbnails\\V08_Devo_investir_mesmo_endividada.jpeg",
+      "title": "Por Que Eu Invisto Enquanto Ainda Devo R$185 Mil",
+      "description": "'Enquanto tiver dívida, não invista' é o conselho mais repetido — e incompleto. Esse vídeo é pra quem tem dívida ativa e quer saber se dá pra investir ao mesmo tempo, sem virar irresponsabilidade.\n\nA resposta depende da taxa de cada dívida comparada ao retorno de um investimento seguro. Explico as quatro faixas que uso: acima de 50% ao ano (cartão rotativo, cheque especial) — cem por cento pra quitação, zero investimento; entre 25% e 50% ao ano — oitenta por cento quitação, vinte investimento; entre 12% e 25% ao ano, a faixa da maioria dos consignados — setenta e trinta; abaixo de 12% ao ano, como financiamento habitacional no SAC — cinquenta e cinquenta.\n\nTambém explico por que isso importa além da matemática: ver um valor pequeno entrando todo mês numa conta de investimento muda a forma como a pessoa se enxerga durante a quitação.\n\nSou Ana, mãe de 4 filhos, servidora pública, aplicando essa proporção nos meus próprios consignados enquanto quito R$185 mil.",
+      "tags": [
+        "educação financeira",
+        "sair das dívidas",
+        "Método ANA",
+        "organização financeira",
+        "renda extra"
+      ],
+      "category_id": 27,
+      "pinned_comment": "Você investe ou só paga dívida agora? Comenta sua faixa de juro aqui embaixo. A árvore de decisão completa, com exemplo pra cada faixa, está no ebook Mãe, Concursada e Endividada."
+    },
+    {
+      "id": "METODOANA_V08_FB",
+      "canal": "metodoana",
+      "plataforma": "facebook",
+      "tipo": "video",
+      "publish_at": "2026-08-14T20:35:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V08_Devo_investir_mesmo_endividada.mp4",
+      "caption": "Por Que Eu Invisto Enquanto Ainda Devo R$185 Mil\n\n'Enquanto tiver dívida, não invista' é o conselho mais repetido — e incompleto. Esse vídeo é pra quem tem dívida ativa e quer saber se dá pra investir ao mesmo tempo, sem virar irresponsabilidade.",
+      "first_comment": "Você investe ou só paga dívida agora? Comenta sua faixa de juro aqui embaixo. A árvore de decisão completa, com exemplo pra cada faixa, está no ebook Mãe, Concursada e Endividada."
+    },
+    {
+      "id": "PROTOCOLO4D_S22_IG_CARROSSEL",
+      "canal": "protocolo4d",
+      "plataforma": "instagram",
+      "tipo": "carrossel",
+      "publish_at": "2026-08-14T17:00:00-03:00",
+      "status": "pendente",
+      "image_paths": [
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Protocolo4D_S22\\01.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Protocolo4D_S22\\02.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Protocolo4D_S22\\03.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Protocolo4D_S22\\04.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Protocolo4D_S22\\05.jpg"
+      ],
+      "caption": "Décimo terceiro caiu. Duas semanas depois, já sumiu. Reconhece esse padrão?\n\nNão é falta de memória, é falta de regra decidida ANTES do dinheiro chegar. A fórmula simples: 50% pra dívida, 30% pra reserva, 20% livre pra você não sentir que só trabalha pra pagar conta.\n\nGuarda esse carrossel pro próximo décimo terceiro, bônus ou restituição que cair na sua conta.",
+      "first_comment": "Link na bio pro Mapa do Protocolo 4D, gratuito, com a lógica completa de alocação de entrada extra."
+    },
+    {
+      "id": "PROTOCOLO4D_S22_FB_FOTO",
+      "canal": "protocolo4d",
+      "plataforma": "facebook",
+      "tipo": "foto",
+      "publish_at": "2026-08-14T17:00:00-03:00",
+      "status": "pendente",
+      "image_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Post Facebook\\04 Imagens Geradas\\S22 Dinheiro Extra Sem Regra.jpg",
+      "caption": "Décimo terceiro, restituição, bônus — toda entrada extra que já passou pela sua mão e você não sabe mais dizer onde foi parar?\n\nIsso não é falta de sorte nem de disciplina. É falta de uma regra decidida ANTES do dinheiro cair na conta.\n\nManda nos comentários: o que costuma acontecer com o seu dinheiro extra?",
+      "first_comment": "A lógica completa de divisão está no Mapa do Protocolo 4D, gratuito, no link no site da página."
+    },
+    {
+      "id": "SACRARIUM_S22_IG_CARROSSEL",
+      "canal": "sacrarium",
+      "plataforma": "instagram",
+      "tipo": "carrossel",
+      "publish_at": "2026-08-14T17:30:00-03:00",
+      "status": "pendente",
+      "image_paths": [
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Sacrarium\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Sacrarium_S22\\01.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Sacrarium\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Sacrarium_S22\\02.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Sacrarium\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Sacrarium_S22\\03.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Sacrarium\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Sacrarium_S22\\04.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Sacrarium\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Sacrarium_S22\\05.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Sacrarium\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Sacrarium_S22\\06.jpg"
+      ],
+      "caption": "\"Entra no teu quarto secreto, fecha a porta.\" Jesus não estava falando de um cômodo. 👇\n\nPor séculos, os místicos debateram o que é esse quarto. A resposta que ficou: é o centro da própria alma. O lugar mais fundo dentro de você, onde o barulho do mundo não chega.\n\nFechar a porta não é isolamento físico. É o gesto interior de se recolher, de parar de fazer barulho, de entrar pra dentro de si mesma.\n\nA maioria nunca descobriu que esse lugar existe dentro dela.\n\nGuarda esse post pra reler quando o barulho lá fora estiver alto demais. 💾",
+      "first_comment": "Você já sentiu, mesmo que por um instante, esse silêncio interior? Como foi? 👇 Link na bio."
+    },
+    {
+      "id": "SACRARIUM_S22_FB_FOTO",
+      "canal": "sacrarium",
+      "plataforma": "facebook",
+      "tipo": "foto",
+      "publish_at": "2026-08-14T17:30:00-03:00",
+      "status": "pendente",
+      "image_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Sacrarium\\Post Facebook\\04 Imagens Geradas\\S22 Quarto Secreto Do Evangelho.jpg",
+      "caption": "Você já leu essa passagem do Evangelho: \"entra no teu quarto secreto, fecha a porta, e reza ao teu Pai que está no oculto\"? Eu já li dezenas de vezes achando que era sobre um cômodo da casa.\n\nNão é. Os místicos da Igreja explicam: esse quarto é o centro da própria alma. O lugar mais profundo dentro de você, onde o barulho do mundo não entra.\n\nFechar a porta é um gesto interior, de se recolher, não uma porta de verdade.\n\nAlguém mais nunca tinha reparado nesse detalhe da passagem?",
+      "first_comment": "O Sacrarium existe pra ajudar nessa entrada, de fora pra dentro, até esse lugar onde Deus habita. Link no site da nossa página."
+    }
+  ]
+}

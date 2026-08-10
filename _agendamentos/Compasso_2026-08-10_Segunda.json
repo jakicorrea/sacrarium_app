@@ -1,0 +1,233 @@
+{
+  "lote": "Segunda 10/08/2026 - P4D S18 + Sacrarium S18 + MetodoANA S18 + CP V17 + FT V10. Titulos escolhidos por CTR entre as 5 opcoes de cada pack. Thumbnails ja escolhidas manualmente pela Jaqueline (arquivo unico na pasta Thumbnails, nao 'Teste A/B/C'). Carrossel/foto: image_paths/image_path ainda com PLACEHOLDER -- preencher com o caminho real depois de gerar as imagens do carrossel (prompts ja existem em Insta Fila 03.json de cada canal). Carrossel/foto de hoje (sem dia fixo -- usa o que ja foi gerado por canal): protocolo4d S18, metodoana S18.",
+  "jobs": [
+    {
+      "id": "P4D_S18_YT",
+      "canal": "protocolo4d",
+      "plataforma": "youtube",
+      "tipo": "reels",
+      "publish_at": "2026-08-10T08:00:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S18_P4D_negativado_o_que_perco.mp4",
+      "thumb_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\03_Estrutura_Canais\\Protocolo4D\\04-Pack de Postagem\\Thumbnails\\S18_negativado_o_que_perco.jpeg",
+      "title": "5 Coisas Que Você Perde Quando Seu Nome Fica Sujo",
+      "description": "Estar negativado não é só ter o nome sujo. Tem custo prático que a maioria não lista antes de sentir na pele.\n\nNeste short, eu explico os bloqueios reais: aprovação de financiamento imobiliário recusada, dificuldade pra alugar imóvel, proposta de emprego perdida em empresa que faz checagem de crédito, seguro mais caro ou negado, conta bancária recusada em determinados bancos.\n\nTambém mostro o caminho de saída: pagar a dívida que gerou a restrição e cobrar o credor pela remoção do C-P-F dentro do prazo de cinco dias úteis, acionando o canal de reclamação se ele não cumprir.\n\nConteúdo direto pra homem que está negativado agora ou perto disso, e precisa entender o custo real antes de continuar adiando.",
+      "tags": [
+        "educação financeira masculina",
+        "dívidas",
+        "Protocolo 4D",
+        "organização financeira",
+        "crédito"
+      ],
+      "category_id": 27,
+      "pinned_comment": "Do diagnóstico até a blindagem depois de quitar, o passo a passo completo está no Mapa do Protocolo 4D, gratuito, aqui embaixo: https://protocolo-4d.netlify.app/lp-mapa"
+    },
+    {
+      "id": "P4D_S18_FB",
+      "canal": "protocolo4d",
+      "plataforma": "facebook",
+      "tipo": "reels",
+      "publish_at": "2026-08-10T08:02:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S18_P4D_negativado_o_que_perco.mp4",
+      "caption": "5 Coisas Que Você Perde Quando Seu Nome Fica Sujo\n\nEstar negativado não é só ter o nome sujo. Tem custo prático que a maioria não lista antes de sentir na pele.",
+      "first_comment": "Do diagnóstico até a blindagem depois de quitar, o passo a passo completo está no Mapa do Protocolo 4D, gratuito, aqui embaixo: https://protocolo-4d.netlify.app/lp-mapa"
+    },
+    {
+      "id": "P4D_S18_IG",
+      "canal": "protocolo4d",
+      "plataforma": "instagram",
+      "tipo": "reels",
+      "publish_at": "2026-08-10T08:05:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S18_P4D_negativado_o_que_perco.mp4",
+      "caption": "5 Coisas Que Você Perde Quando Seu Nome Fica Sujo\n\nEstar negativado não é só ter o nome sujo. Tem custo prático que a maioria não lista antes de sentir na pele.",
+      "first_comment": "Do diagnóstico até a blindagem depois de quitar, o passo a passo completo está no Mapa do Protocolo 4D, gratuito, aqui embaixo: https://protocolo-4d.netlify.app/lp-mapa"
+    },
+    {
+      "id": "SACRARIUM_S18_YT",
+      "canal": "sacrarium",
+      "plataforma": "youtube",
+      "tipo": "reels",
+      "publish_at": "2026-08-10T12:10:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S18_vida_espiritual_tem_fases.mp4",
+      "thumb_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\03_Estrutura_Canais\\Sacrarium\\04-Pack de Postagem\\Thumbnails\\S18_vida_espiritual_tem_fases.jpeg",
+      "title": "Santa Teresa Mapeou Sete Fases da Vida Espiritual — Você Está em Qual?",
+      "description": "Santa Teresa de Ávila descreveu a alma como um castelo de sete moradas — uma jornada longa e graduada, não um estado espiritual único. São João da Cruz complementa com as noites ativas e passivas, mostrando que cada fase é purificada de um jeito diferente.\n\nNeste vídeo, eu explico por que saber em que fase você está não é orgulho nem comparação: é discernimento. É a diferença entre cobrar de si mesmo o que é próprio de uma fase mais adiantada e reconhecer com paz onde você realmente está agora.\n\nUm vídeo pra quem já se sentiu \"atrasado\" espiritualmente por comparar a própria oração com a de quem parece sentir mais, saber mais, rezar mais.\n\nO Sacrarium usa esse mapa de Santa Teresa pra te ajudar a discernir onde você está, sem pular etapa.\n\nConheça o Sacrarium.",
+      "tags": [
+        "oração católica",
+        "vida espiritual",
+        "Sacrarium",
+        "espiritualidade católica",
+        "mestres da oração"
+      ],
+      "category_id": 27,
+      "pinned_comment": "Se você tivesse que chutar, em que morada acha que está hoje? Não precisa ter certeza, é só um chute mesmo.\nO Sacrarium usa esse mesmo mapa pra ajudar você a discernir onde está, sem comparar com a fase de ninguém.\nConheça: https://sacrarium-app.netlify.app/"
+    },
+    {
+      "id": "SACRARIUM_S18_FB",
+      "canal": "sacrarium",
+      "plataforma": "facebook",
+      "tipo": "reels",
+      "publish_at": "2026-08-10T12:12:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S18_vida_espiritual_tem_fases.mp4",
+      "caption": "Santa Teresa Mapeou Sete Fases da Vida Espiritual — Você Está em Qual?\n\nSanta Teresa de Ávila descreveu a alma como um castelo de sete moradas — uma jornada longa e graduada, não um estado espiritual único. São João da Cruz complementa com as noites ativas e passivas, mostrando que cada fase é purificada de um jeito diferente.",
+      "first_comment": "Se você tivesse que chutar, em que morada acha que está hoje? Não precisa ter certeza, é só um chute mesmo.\nO Sacrarium usa esse mesmo mapa pra ajudar você a discernir onde está, sem comparar com a fase de ninguém.\nConheça: https://sacrarium-app.netlify.app/"
+    },
+    {
+      "id": "SACRARIUM_S18_IG",
+      "canal": "sacrarium",
+      "plataforma": "instagram",
+      "tipo": "reels",
+      "publish_at": "2026-08-10T12:15:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S18_vida_espiritual_tem_fases.mp4",
+      "caption": "Santa Teresa Mapeou Sete Fases da Vida Espiritual — Você Está em Qual?\n\nSanta Teresa de Ávila descreveu a alma como um castelo de sete moradas — uma jornada longa e graduada, não um estado espiritual único. São João da Cruz complementa com as noites ativas e passivas, mostrando que cada fase é purificada de um jeito diferente.",
+      "first_comment": "Se você tivesse que chutar, em que morada acha que está hoje? Não precisa ter certeza, é só um chute mesmo.\nO Sacrarium usa esse mesmo mapa pra ajudar você a discernir onde está, sem comparar com a fase de ninguém.\nConheça: https://sacrarium-app.netlify.app/"
+    },
+    {
+      "id": "METODOANA_S18_YT",
+      "canal": "metodoana",
+      "plataforma": "youtube",
+      "tipo": "reels",
+      "publish_at": "2026-08-10T12:20:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S18_Os_Tres_Fatores_da_Prioridade.mp4",
+      "thumb_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\03_Estrutura_Canais\\MetodoANA\\04-Pack de Postagem\\Thumbnails\\S18_Os_Tres_Fatores_da_Prioridade.jpeg",
+      "title": "Duas Dívidas com a Mesma Taxa? Isso Decide Qual Sai Primeiro",
+      "description": "Se duas das suas dívidas têm exatamente a mesma taxa de juros, esse vídeo é pra você — a maioria dos conteúdos sobre organização de dívida nem toca nesse empate, ou ensina o critério errado.\n\nO Avalanche manda pagar primeiro quem tem a maior taxa. Mas quando duas dívidas empatam nesse número, eu uso um segundo critério: priorizo a que tem mais parcelas restantes, porque é nela que ainda existe mais juro futuro escondido — o banco concentra os juros no começo do contrato.\n\nSou Ana, mãe de 4 filhos, servidora pública, e uso exatamente esse critério nos meus próprios contratos, em tempo real.\n\nSe você tem mais de uma dívida com taxa parecida, confere qual tem mais parcelas restantes antes de decidir por qual começar.",
+      "tags": [
+        "educação financeira",
+        "sair das dívidas",
+        "Método ANA",
+        "organização financeira",
+        "renda extra"
+      ],
+      "category_id": 27,
+      "pinned_comment": "Você tem alguma dívida empatada em taxa com outra? Comenta qual delas você acha que devia sair primeiro. O mini-ebook gratuito que explica esse cálculo de juro tá no link da bio."
+    },
+    {
+      "id": "METODOANA_S18_FB",
+      "canal": "metodoana",
+      "plataforma": "facebook",
+      "tipo": "reels",
+      "publish_at": "2026-08-10T12:22:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S18_Os_Tres_Fatores_da_Prioridade.mp4",
+      "caption": "Duas Dívidas com a Mesma Taxa? Isso Decide Qual Sai Primeiro\n\nSe duas das suas dívidas têm exatamente a mesma taxa de juros, esse vídeo é pra você — a maioria dos conteúdos sobre organização de dívida nem toca nesse empate, ou ensina o critério errado.",
+      "first_comment": "Você tem alguma dívida empatada em taxa com outra? Comenta qual delas você acha que devia sair primeiro. O mini-ebook gratuito que explica esse cálculo de juro tá no link da bio."
+    },
+    {
+      "id": "METODOANA_S18_IG",
+      "canal": "metodoana",
+      "plataforma": "instagram",
+      "tipo": "reels",
+      "publish_at": "2026-08-10T12:25:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S18_Os_Tres_Fatores_da_Prioridade.mp4",
+      "caption": "Duas Dívidas com a Mesma Taxa? Isso Decide Qual Sai Primeiro\n\nSe duas das suas dívidas têm exatamente a mesma taxa de juros, esse vídeo é pra você — a maioria dos conteúdos sobre organização de dívida nem toca nesse empate, ou ensina o critério errado.",
+      "first_comment": "Você tem alguma dívida empatada em taxa com outra? Comenta qual delas você acha que devia sair primeiro. O mini-ebook gratuito que explica esse cálculo de juro tá no link da bio."
+    },
+    {
+      "id": "CP_V17_YT",
+      "canal": "cathedrapetri",
+      "plataforma": "youtube",
+      "tipo": "video",
+      "publish_at": "2026-08-10T12:35:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V17_PT_TEP_A_impossibilidade_da_Sola_Scriptur.mp4",
+      "thumb_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\03_Estrutura_Canais\\Cathedra Petri\\04-Pack de Postagem\\Thumbnails\\CPV17.jpeg",
+      "title": "Quem Escolheu o Cânon? A Prova de que a Igreja Existia Antes da Bíblia Estar Completa",
+      "description": "Este vídeo é um documentário histórico investigativo sobre a impossibilidade prática e histórica da \"Sola Scriptura\" nos primeiros séculos do cristianismo. A investigação parte de um problema de cronologia: o Novo Testamento levou décadas para ser escrito e quase quatro séculos para ser reunido em um cânon oficial, definido apenas nos Concílios de Hipona (393) e Cartago (397).\n\nO vídeo examina o Papiro P52, fragmento mais antigo do Novo Testamento conhecido (datado de cerca de 125 d.C.), a obra \"Contra as Heresias\" de Santo Irineu de Lyon (por volta de 180 d.C.), que descreve comunidades cristãs bárbaras ortodoxas sem acesso a textos escritos, e o testemunho do filósofo pagão Celso sobre a existência de uma \"Grande Igreja\" unificada por autoridade episcopal. A investigação também aborda os \"traditores\", cristãos que entregaram as Escrituras às autoridades durante a perseguição de Diocleciano.\n\nÉ um documentário de apologética histórica católica com foco em Patrística, formação do cânon bíblico e autoridade eclesiástica primitiva. Período histórico específico: do final do século I d.C. ao final do século IV d.C.",
+      "tags": [
+        "apologética católica",
+        "história da Igreja",
+        "Cathedra Petri",
+        "Igreja primitiva",
+        "patrística"
+      ],
+      "category_id": 27,
+      "pinned_comment": "No ano 180, Irineu de Lyon descreveu cristãos ortodoxos que nunca tinham tocado um Evangelho escrito. Se a fé sobrevivia sem o livro completo, o que isso muda na forma como você pensa a autoridade da Igreja?"
+    },
+    {
+      "id": "FT_V10_YT",
+      "canal": "forjandotitas",
+      "plataforma": "youtube",
+      "tipo": "video",
+      "publish_at": "2026-08-10T12:00:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V10_FT_ciclo_fundo_falso.mp4",
+      "thumb_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\03_Estrutura_Canais\\ForjandoTitas\\04-Pack de Postagem\\Thumbnails\\FTV10.jpeg",
+      "title": "Você Quitou a Dívida e Vai Cair de Novo (o Motivo Tem Nome)",
+      "description": "Pra homem que quitou uma dívida com orgulho — décimo terceiro, corte de gastos, ajuda de alguém — e meses depois se pegou endividado de novo, sem entender onde errou. Esse vídeo mostra que essa recaída não é falta de força de vontade: tem nome, tem mecanismo e se repete em quatro movimentos previsíveis.\n\nO conteúdo detalha o Ciclo do Fundo Falso: a Armadilha do Alívio (o cérebro trata o fim da dívida como licença pra relaxar a vigilância), a ausência de reserva pra despesas previsíveis como janeiro, e a erosão da crença que faz a segunda recaída doer mais que a primeira.\n\nTermina com três movimentos práticos pra transformar a quitação em ponto de partida em vez de destino: redirecionamento automático do valor da parcela, meta mínima de reserva antes de qualquer outro objetivo, e mapeamento antecipado de janeiro.\n\nConteúdo de comportamento financeiro voltado a homem que já quitou dívida pelo menos uma vez e não quer repetir o mesmo ciclo.",
+      "tags": [
+        "educação financeira masculina",
+        "Forjando Titãs",
+        "renda extra",
+        "disciplina financeira",
+        "mentalidade"
+      ],
+      "category_id": 27,
+      "pinned_comment": "Você já quitou uma dívida e voltou a se endividar em menos de seis meses? Só um sim ou não aqui embaixo, sem precisar contar a história toda. Deixei um Guia Emergencial gratuito com o que fazer essa semana pra não entrar de novo no buraco: https://protocolo-4d.netlify.app/lp-guia-emergencial"
+    },
+    {
+      "id": "PROTOCOLO4D_S18_IG_CARROSSEL",
+      "canal": "protocolo4d",
+      "plataforma": "instagram",
+      "tipo": "carrossel",
+      "publish_at": "2026-08-10T17:00:00-03:00",
+      "status": "pendente",
+      "image_paths": [
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Protocolo4D_S18\\01.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Protocolo4D_S18\\02.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Protocolo4D_S18\\03.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Protocolo4D_S18\\04.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Protocolo4D_S18\\05.jpg"
+      ],
+      "caption": "Nome sujo não é só vergonha. São portas fechando sem você ver. 🔒\n\nFinanciamento negado, aluguel mais difícil, vaga de emprego perdida numa checagem de crédito, seguro mais caro. O custo é prático, não só emocional — e a saída começa pelo pagamento da dívida que gerou a restrição.\n\nSalva esse post: depois de pagar, o credor tem só 5 dias úteis pra limpar seu nome.",
+      "first_comment": "Link na bio pro Mapa do Protocolo 4D, gratuito, com o passo a passo até a blindagem depois de quitar."
+    },
+    {
+      "id": "PROTOCOLO4D_S18_FB_FOTO",
+      "canal": "protocolo4d",
+      "plataforma": "facebook",
+      "tipo": "foto",
+      "publish_at": "2026-08-10T17:00:00-03:00",
+      "status": "pendente",
+      "image_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Post Facebook\\04 Imagens Geradas\\S18 Negativado O Que Perco.jpg",
+      "caption": "Alguém aqui já teve financiamento negado, aluguel recusado ou vaga de emprego perdida por causa do nome sujo?\n\nEu pergunto porque o custo de estar negativado é muito mais prático do que a gente costuma admitir em voz alta. Não é só vergonha guardada, é porta fechando de verdade.\n\nConta aí embaixo se isso já bateu na sua porta.",
+      "first_comment": "O passo a passo pra sair da restrição está no Mapa do Protocolo 4D, gratuito, no link no site da página."
+    },
+    {
+      "id": "METODOANA_S18_IG_CARROSSEL",
+      "canal": "metodoana",
+      "plataforma": "instagram",
+      "tipo": "carrossel",
+      "publish_at": "2026-08-10T18:00:00-03:00",
+      "status": "pendente",
+      "image_paths": [
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_MetodoANA_S18\\01.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_MetodoANA_S18\\02.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_MetodoANA_S18\\03.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_MetodoANA_S18\\04.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_MetodoANA_S18\\05.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_MetodoANA_S18\\06.jpg"
+      ],
+      "caption": "Duas dívidas com a mesma taxa de juros.\n\nQual das duas você atacaria primeiro?\n\nA maioria dos conteúdos sobre organizar dívida nem fala desse empate, ou ensina o critério que motiva mais rápido — não o que economiza mais juro.\n\nEu uso outro: priorizo quem tem mais parcelas restantes, porque é aí que ainda existe mais juro escondido pela frente.",
+      "first_comment": "Se você tem duas dívidas parecidas, comenta qual tem mais parcelas — vamos descobrir juntas qual sai primeiro. Mini-ebook grátis sobre juro, link na bio."
+    },
+    {
+      "id": "METODOANA_S18_FB_FOTO",
+      "canal": "metodoana",
+      "plataforma": "facebook",
+      "tipo": "foto",
+      "publish_at": "2026-08-10T18:00:00-03:00",
+      "status": "pendente",
+      "image_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Post Facebook\\04 Imagens Geradas\\S18 Tres Fatores Prioridade.jpg",
+      "caption": "Uma dúvida que já me travou: quando duas dívidas têm exatamente a mesma taxa, qual eu pago primeiro?\n\nDescobri que a resposta certa não é \"a de menor saldo\" (que é o que a maioria ensina pra motivar). É a que tem mais parcelas restantes, porque ainda carrega mais juro escondido.\n\nAlguém aqui já passou por esse mesmo impasse?",
+      "first_comment": "Planilha gratuita de priorização de dívidas Método ANA, no link no site da página."
+    }
+  ]
+}

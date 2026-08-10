@@ -1,0 +1,269 @@
+{
+  "lote": "Quarta 12/08/2026 - P4D S20 + Sacrarium S20+V07(longo) + MetodoANA S20+V07(longo) + CP V18 + FT V12. Titulos escolhidos por CTR entre as 5 opcoes de cada pack. Thumbnails ja escolhidas manualmente pela Jaqueline (arquivo unico na pasta Thumbnails, nao 'Teste A/B/C'). Carrossel/foto: image_paths/image_path ainda com PLACEHOLDER -- preencher com o caminho real depois de gerar as imagens do carrossel (prompts ja existem em Insta Fila 03.json de cada canal). Carrossel/foto de hoje (sem dia fixo -- usa o que ja foi gerado por canal): metodoana S20.",
+  "jobs": [
+    {
+      "id": "P4D_S20_YT",
+      "canal": "protocolo4d",
+      "plataforma": "youtube",
+      "tipo": "reels",
+      "publish_at": "2026-08-12T08:00:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S20_P4D_refinanciamento_cilada.mp4",
+      "thumb_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\03_Estrutura_Canais\\Protocolo4D\\04-Pack de Postagem\\Thumbnails\\S20_refinanciamento_cilada.jpeg",
+      "title": "O Refinanciamento Que Custa R$2.400 a Mais",
+      "description": "Se o banco te oferecer refinanciar a dívida pra uma parcela menor, parece alívio. Mas parcela menor quase sempre significa prazo maior, e prazo maior significa muito mais juro no total.\n\nNeste short, eu mostro um exemplo real: uma dívida de dez mil reais em vinte e quatro parcelas de quinhentos, refinanciada pra quarenta e oito parcelas de trezentos. A parcela caiu, mas o total pago foi de doze mil pra quatorze mil e quatrocentos reais.\n\nEnsino o cálculo que precisa ser feito antes de aceitar qualquer refinanciamento: o total nas novas condições comparado ao que ainda pagaria nas condições atuais. A diferença é o custo real do alívio.\n\nConteúdo direto pra homem que está prestes a aceitar uma oferta de refinanciamento e não parou pra fazer essa conta.",
+      "tags": [
+        "educação financeira masculina",
+        "dívidas",
+        "Protocolo 4D",
+        "organização financeira",
+        "crédito"
+      ],
+      "category_id": 27,
+      "pinned_comment": "Antes de assinar qualquer refinanciamento, roda o número real na Calculadora da Liberdade, gratuita, aqui embaixo: https://protocolo-4d.netlify.app/lp-calculadora"
+    },
+    {
+      "id": "P4D_S20_FB",
+      "canal": "protocolo4d",
+      "plataforma": "facebook",
+      "tipo": "reels",
+      "publish_at": "2026-08-12T08:02:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S20_P4D_refinanciamento_cilada.mp4",
+      "caption": "O Refinanciamento Que Custa R$2.400 a Mais\n\nSe o banco te oferecer refinanciar a dívida pra uma parcela menor, parece alívio. Mas parcela menor quase sempre significa prazo maior, e prazo maior significa muito mais juro no total.",
+      "first_comment": "Antes de assinar qualquer refinanciamento, roda o número real na Calculadora da Liberdade, gratuita, aqui embaixo: https://protocolo-4d.netlify.app/lp-calculadora"
+    },
+    {
+      "id": "P4D_S20_IG",
+      "canal": "protocolo4d",
+      "plataforma": "instagram",
+      "tipo": "reels",
+      "publish_at": "2026-08-12T08:05:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S20_P4D_refinanciamento_cilada.mp4",
+      "caption": "O Refinanciamento Que Custa R$2.400 a Mais\n\nSe o banco te oferecer refinanciar a dívida pra uma parcela menor, parece alívio. Mas parcela menor quase sempre significa prazo maior, e prazo maior significa muito mais juro no total.",
+      "first_comment": "Antes de assinar qualquer refinanciamento, roda o número real na Calculadora da Liberdade, gratuita, aqui embaixo: https://protocolo-4d.netlify.app/lp-calculadora"
+    },
+    {
+      "id": "SACRARIUM_S20_YT",
+      "canal": "sacrarium",
+      "plataforma": "youtube",
+      "tipo": "reels",
+      "publish_at": "2026-08-12T12:10:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S20_nao_precisa_ver_o_caminho_todo.mp4",
+      "thumb_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\03_Estrutura_Canais\\Sacrarium\\04-Pack de Postagem\\Thumbnails\\S20_nao_precisa_ver_o_caminho_todo.jpeg",
+      "title": "Você Não Precisa Ver os 230 Dias, Só o Dia de Hoje",
+      "description": "Duzentos e trinta dias de jornada espiritual soa como muito tempo — mas ninguém vive duzentos e trinta dias ao mesmo tempo. Vive-se hoje, depois amanhã, depois o outro dia.\n\nNeste vídeo, eu explico por que São João da Cruz descreve Deus guiando a alma pelo desconhecido: não por mistério cruel, mas porque quem precisasse enxergar o caminho inteiro antes de começar nunca daria o primeiro passo.\n\nUm vídeo pra quem olha pra frente da jornada espiritual e sente que o tamanho da tarefa já desanima antes de começar.\n\nÉ assim que o Sacrarium foi desenhado: um dia de cada vez, sem exigir que você veja o horizonte inteiro.\n\nConheça o Sacrarium.",
+      "tags": [
+        "oração católica",
+        "vida espiritual",
+        "Sacrarium",
+        "espiritualidade católica",
+        "mestres da oração"
+      ],
+      "category_id": 27,
+      "pinned_comment": "O que trava mais você: começar, ou manter depois de começar? Quero saber sua resposta aqui embaixo.\nO Sacrarium entrega só o próximo passo, nunca a jornada inteira de uma vez.\nConheça: https://sacrarium-app.netlify.app/"
+    },
+    {
+      "id": "SACRARIUM_S20_FB",
+      "canal": "sacrarium",
+      "plataforma": "facebook",
+      "tipo": "reels",
+      "publish_at": "2026-08-12T12:12:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S20_nao_precisa_ver_o_caminho_todo.mp4",
+      "caption": "Você Não Precisa Ver os 230 Dias, Só o Dia de Hoje\n\nDuzentos e trinta dias de jornada espiritual soa como muito tempo — mas ninguém vive duzentos e trinta dias ao mesmo tempo. Vive-se hoje, depois amanhã, depois o outro dia.",
+      "first_comment": "O que trava mais você: começar, ou manter depois de começar? Quero saber sua resposta aqui embaixo.\nO Sacrarium entrega só o próximo passo, nunca a jornada inteira de uma vez.\nConheça: https://sacrarium-app.netlify.app/"
+    },
+    {
+      "id": "SACRARIUM_S20_IG",
+      "canal": "sacrarium",
+      "plataforma": "instagram",
+      "tipo": "reels",
+      "publish_at": "2026-08-12T12:15:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S20_nao_precisa_ver_o_caminho_todo.mp4",
+      "caption": "Você Não Precisa Ver os 230 Dias, Só o Dia de Hoje\n\nDuzentos e trinta dias de jornada espiritual soa como muito tempo — mas ninguém vive duzentos e trinta dias ao mesmo tempo. Vive-se hoje, depois amanhã, depois o outro dia.",
+      "first_comment": "O que trava mais você: começar, ou manter depois de começar? Quero saber sua resposta aqui embaixo.\nO Sacrarium entrega só o próximo passo, nunca a jornada inteira de uma vez.\nConheça: https://sacrarium-app.netlify.app/"
+    },
+    {
+      "id": "METODOANA_S20_YT",
+      "canal": "metodoana",
+      "plataforma": "youtube",
+      "tipo": "reels",
+      "publish_at": "2026-08-12T12:20:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S20_Como_Fazer_Amortizacao_Antecipada.mp4",
+      "thumb_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\03_Estrutura_Canais\\MetodoANA\\04-Pack de Postagem\\Thumbnails\\S20_Como_Fazer_Amortizacao_Antecipada.jpeg",
+      "title": "R$50 a Mais na Parcela Pode Sumir com Meses de Financiamento",
+      "description": "Se você acha que só vale a pena amortizar dívida quando sobra muito dinheiro, esse vídeo mostra o contrário.\n\nPagar R$20 ou R$50 a mais que a parcela, direto no aplicativo do banco, manda esse valor pra abater o saldo — não pro juro. Dependendo do contrato, isso pode eliminar uma ou duas parcelas inteiras do final. Quando você amortiza, o banco recalcula o que falta e desconta o juro que ainda não tinha sido cobrado.\n\nQuanto mais cedo no contrato você faz isso, maior a economia, porque é no início que o juro pesa mais.\n\nSou Ana, mãe de 4 filhos, servidora pública, e uso esse hábito nos meus próprios consignados enquanto quito minhas dívidas.",
+      "tags": [
+        "educação financeira",
+        "sair das dívidas",
+        "Método ANA",
+        "organização financeira",
+        "renda extra"
+      ],
+      "category_id": 27,
+      "pinned_comment": "Já testou amortizar com um valor pequeno no app do banco? Comenta o que aconteceu. A calculadora gratuita que simula quanto você economiza fazendo isso tá no link da bio."
+    },
+    {
+      "id": "METODOANA_S20_FB",
+      "canal": "metodoana",
+      "plataforma": "facebook",
+      "tipo": "reels",
+      "publish_at": "2026-08-12T12:22:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S20_Como_Fazer_Amortizacao_Antecipada.mp4",
+      "caption": "R$50 a Mais na Parcela Pode Sumir com Meses de Financiamento\n\nSe você acha que só vale a pena amortizar dívida quando sobra muito dinheiro, esse vídeo mostra o contrário.",
+      "first_comment": "Já testou amortizar com um valor pequeno no app do banco? Comenta o que aconteceu. A calculadora gratuita que simula quanto você economiza fazendo isso tá no link da bio."
+    },
+    {
+      "id": "METODOANA_S20_IG",
+      "canal": "metodoana",
+      "plataforma": "instagram",
+      "tipo": "reels",
+      "publish_at": "2026-08-12T12:25:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S20_Como_Fazer_Amortizacao_Antecipada.mp4",
+      "caption": "R$50 a Mais na Parcela Pode Sumir com Meses de Financiamento\n\nSe você acha que só vale a pena amortizar dívida quando sobra muito dinheiro, esse vídeo mostra o contrário.",
+      "first_comment": "Já testou amortizar com um valor pequeno no app do banco? Comenta o que aconteceu. A calculadora gratuita que simula quanto você economiza fazendo isso tá no link da bio."
+    },
+    {
+      "id": "CP_V18_YT",
+      "canal": "cathedrapetri",
+      "plataforma": "youtube",
+      "tipo": "video",
+      "publish_at": "2026-08-12T12:35:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V18_PT_TEP_A_verdade_escondida_nas_Catacumbas.mp4",
+      "thumb_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\03_Estrutura_Canais\\Cathedra Petri\\04-Pack de Postagem\\Thumbnails\\CPV18.jpeg",
+      "title": "Oitocentos Quilômetros de Túneis: O que os Cristãos Escreveram Debaixo de Roma Antes de Constantino",
+      "description": "Este vídeo é um documentário histórico investigativo sobre as catacumbas de Roma — mais de 800 quilômetros de galerias subterrâneas que abrigaram cerca de 4 milhões de sepultamentos. Com base nos registros de Giovanni Battista de Rossi, considerado o pai da arqueologia cristã, a investigação examina a epigrafia funerária das catacumbas de São Calisto, São Sebastião e Santa Priscila.\n\nO vídeo compara as inscrições pagãs da Via Ápia, marcadas por desesperança (\"Não fui, fui, não sou, não me importa\"), com as inscrições cristãs \"In pace\" (em paz), analisa o afresco \"Fractio Panis\" da Capela Grega de Santa Priscila, datado do início do século II, cruzando-o com o capítulo 14 da Didaqué, e examina a Cripta dos Papas em São Calisto, onde nove bispos de Roma do século III foram sepultados com o título \"Epíscopo\". Também aborda a ausência de imagens da crucificação nas catacumbas dos três primeiros séculos.\n\nÉ um documentário de apologética histórica católica com foco em arqueologia cristã primitiva e liturgia. Período histórico específico: do final do século I d.C. ao início do século IV d.C., em Roma.",
+      "tags": [
+        "apologética católica",
+        "história da Igreja",
+        "Cathedra Petri",
+        "Igreja primitiva",
+        "patrística"
+      ],
+      "category_id": 27,
+      "pinned_comment": "Nos três primeiros séculos, não existe uma única imagem de crucificação nas catacumbas de Roma — só o Bom Pastor, Jonas e a ressurreição. Por que você acha que os primeiros cristãos escolheram não desenhar a cruz?"
+    },
+    {
+      "id": "FT_V12_YT",
+      "canal": "forjandotitas",
+      "plataforma": "youtube",
+      "tipo": "video",
+      "publish_at": "2026-08-12T12:00:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V12_FT_motivacao_vs_estrutura.mp4",
+      "thumb_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\03_Estrutura_Canais\\ForjandoTitas\\04-Pack de Postagem\\Thumbnails\\V12_motivacao_vs_estrutura.jpeg",
+      "title": "Você Não é Preguiçoso. Está Usando a Ferramenta Errada Pro Seu Dinheiro",
+      "description": "Pra homem que já se animou várias vezes pra organizar a vida financeira, abriu planilha, fez lista de dívida, prometeu que dessa vez seria diferente — e viu o ânimo durar poucas semanas. Esse vídeo mostra por que motivação nunca foi a ferramenta certa pra esse trabalho.\n\nO conteúdo explica a Armadilha da Motivação (usar o sentimento certo pro trabalho errado) e detalha três mecanismos de estrutura que substituem a dependência de estar com vontade: automatização de decisão (transferência automática antes de qualquer emergência criativa aparecer), revisão cadenciada em data fixa, e filtro de espera de vinte e quatro horas antes de gastos maiores.\n\nTraz uma comparação numérica entre quem tenta guardar dinheiro na motivação e quem tem sistema implementado, mostrando a diferença acumulada em um, dois e cinco anos.\n\nConteúdo de comportamento financeiro pra quem consome conteúdo sobre dinheiro, sabe o que precisa fazer, mas nunca sustenta a mudança por mais de algumas semanas.",
+      "tags": [
+        "educação financeira masculina",
+        "Forjando Titãs",
+        "renda extra",
+        "disciplina financeira",
+        "mentalidade"
+      ],
+      "category_id": 27,
+      "pinned_comment": "Dos três mecanismos — automação, revisão cadenciada e filtro de espera — qual você ainda não tem implementado de verdade? Se você já tem dívida ativa crescendo, o Protocolo 4D resolve essa base antes de montar qualquer sistema de acumulação: https://protocolo-4d.netlify.app/"
+    },
+    {
+      "id": "SACRARIUM_V07_YT",
+      "canal": "sacrarium",
+      "plataforma": "youtube",
+      "tipo": "video",
+      "publish_at": "2026-08-12T20:00:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V07_Como_o_Sacrarium_funciona_na_pratica.mp4",
+      "thumb_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\03_Estrutura_Canais\\Sacrarium\\04-Pack de Postagem\\Thumbnails\\V07_Como_o_Sacrarium_funciona_na_pratica.jpeg",
+      "title": "Como o Sacrarium Funciona na Prática — Tour Completo do App",
+      "description": "Você já entendeu o conceito do Sacrarium, o jardim interior, a jornada espiritual, a metáfora das Moradas de Santa Teresa de Ávila. Mas talvez ainda reste a pergunta prática: como funciona de verdade? O que eu vejo quando abro o app?\n\nNeste vídeo, eu mostro seção por seção como o Sacrarium funciona na prática, sem abstrações: a tela inicial que muda conforme o período do dia, o Diretor Espiritual com a jornada das oito Fases, as Trilhas temáticas, o Diário Espiritual de discernimento e o Mural de Intercessão.\n\nPra quem já conhece o Sacrarium de longe e quer ver como ele realmente funciona por dentro antes de começar.\n\nNo final, mostro a funcionalidade que mais surpreende as pessoas quando chegam: o Jardim das Virtudes.\n\nBaixe e comece a Fase 1 gratuita do Sacrarium.",
+      "tags": [
+        "oração católica",
+        "vida espiritual",
+        "Sacrarium",
+        "espiritualidade católica",
+        "mestres da oração"
+      ],
+      "category_id": 27,
+      "pinned_comment": "Qual dessas seções do app mais despertou sua curiosidade: o Diretor Espiritual, as Trilhas, o Diário ou o Mural de Intercessão? Me conta aqui embaixo.\nA Fase 1 completa, 21 dias, é 100% gratuita. Conheça o Sacrarium: https://sacrarium-app.netlify.app/"
+    },
+    {
+      "id": "SACRARIUM_V07_FB",
+      "canal": "sacrarium",
+      "plataforma": "facebook",
+      "tipo": "video",
+      "publish_at": "2026-08-12T20:05:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V07_Como_o_Sacrarium_funciona_na_pratica.mp4",
+      "caption": "Como o Sacrarium Funciona na Prática — Tour Completo do App\n\nVocê já entendeu o conceito do Sacrarium, o jardim interior, a jornada espiritual, a metáfora das Moradas de Santa Teresa de Ávila. Mas talvez ainda reste a pergunta prática: como funciona de verdade? O que eu vejo quando abro o app?",
+      "first_comment": "Qual dessas seções do app mais despertou sua curiosidade: o Diretor Espiritual, as Trilhas, o Diário ou o Mural de Intercessão? Me conta aqui embaixo.\nA Fase 1 completa, 21 dias, é 100% gratuita. Conheça o Sacrarium: https://sacrarium-app.netlify.app/"
+    },
+    {
+      "id": "METODOANA_V07_YT",
+      "canal": "metodoana",
+      "plataforma": "youtube",
+      "tipo": "video",
+      "publish_at": "2026-08-12T20:30:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V07_Como_negociar_divida_com_banco.mp4",
+      "thumb_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\03_Estrutura_Canais\\MetodoANA\\04-Pack de Postagem\\Thumbnails\\V07_Como_negociar_divida_com_banco.jpeg",
+      "title": "O Documento que Todo Endividado Devia Pedir Antes de Negociar",
+      "description": "Se você quer negociar uma dívida com o banco mas não sabe por onde começar, esse vídeo separa os dois cenários que a maioria confunde.\n\nDívida ativa e em dia, como consignado: o banco não tem interesse em renegociar, e a redução real de custo vem da amortização antecipada — um direito seu, não uma negociação. Dívida inadimplente há meses: aí existe espaço real pra desconto, principalmente à vista.\n\nExplico o processo que uso: pedir o DED (Demonstrativo de Evolução da Dívida), tentar pelo aplicativo ou SAC, formalizar pelo consumidor.gov.br se não der certo, e nunca fechar acordo sem proposta por escrito.\n\nSou Ana, mãe de 4 filhos, servidora pública, e uso essa mesma lógica nos meus contratos em tempo real — inclusive quando quitei um deles à vista em setembro de 2025.",
+      "tags": [
+        "educação financeira",
+        "sair das dívidas",
+        "Método ANA",
+        "organização financeira",
+        "renda extra"
+      ],
+      "category_id": 27,
+      "pinned_comment": "Você já tentou negociar com algum banco? Como foi? Comenta aqui embaixo. O passo a passo completo do DED e os scripts que eu uso estão reunidos no ebook Mãe, Concursada e Endividada."
+    },
+    {
+      "id": "METODOANA_V07_FB",
+      "canal": "metodoana",
+      "plataforma": "facebook",
+      "tipo": "video",
+      "publish_at": "2026-08-12T20:35:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V07_Como_negociar_divida_com_banco.mp4",
+      "caption": "O Documento que Todo Endividado Devia Pedir Antes de Negociar\n\nSe você quer negociar uma dívida com o banco mas não sabe por onde começar, esse vídeo separa os dois cenários que a maioria confunde.",
+      "first_comment": "Você já tentou negociar com algum banco? Como foi? Comenta aqui embaixo. O passo a passo completo do DED e os scripts que eu uso estão reunidos no ebook Mãe, Concursada e Endividada."
+    },
+    {
+      "id": "METODOANA_S20_IG_CARROSSEL",
+      "canal": "metodoana",
+      "plataforma": "instagram",
+      "tipo": "carrossel",
+      "publish_at": "2026-08-12T18:00:00-03:00",
+      "status": "pendente",
+      "image_paths": [
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_MetodoANA_S20\\01.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_MetodoANA_S20\\02.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_MetodoANA_S20\\03.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_MetodoANA_S20\\04.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_MetodoANA_S20\\05.jpg",
+        "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_MetodoANA_S20\\06.jpg"
+      ],
+      "caption": "Você não precisa de um dinheiro extra grande pra encurtar sua dívida.\n\nR$20, R$30, R$50 a mais na parcela — direto no app do banco — já mandam esse valor pro saldo, não pro juro. Isso pode apagar uma parcela inteira lá do final do contrato.\n\nQuanto antes você faz isso, maior a diferença.\n\nGuarda esse post pra usar da próxima vez que sobrar um trocado.",
+      "first_comment": "Já tentou amortizar com um valor pequeno? Comenta como foi. Simulador grátis no link da bio."
+    },
+    {
+      "id": "METODOANA_S20_FB_FOTO",
+      "canal": "metodoana",
+      "plataforma": "facebook",
+      "tipo": "foto",
+      "publish_at": "2026-08-12T18:00:00-03:00",
+      "status": "pendente",
+      "image_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Post Facebook\\04 Imagens Geradas\\S20 Amortizacao Antecipada.jpg",
+      "caption": "Descobri um botão no aplicativo do banco que muita gente nunca usa: amortizar com qualquer valor, não só com \"muito dinheiro sobrando\".\n\nR$50 direcionados assim já apagaram parcela inteira lá do final do meu contrato.\n\nVocês já mexeram nessa opção do app de vocês? Compartilha essa foto com quem ainda não sabe que ela existe.",
+      "first_comment": "Simulador gratuito de amortização Método ANA, no link no site da página."
+    }
+  ]
+}
