@@ -3626,5 +3626,17 @@
       "video_id": "NVE1CzfSv_Q",
       "url": "https://youtube.com/watch?v=NVE1CzfSv_Q"
     }
+  },
+  "sacrarium|instagram|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S18_vida_espiritual_tem_fases.mp4": {
+    "id": "SACRARIUM_S18_IG",
+    "canal": "sacrarium",
+    "plataforma": "instagram",
+    "publish_at": "2026-08-10T12:15:00-03:00",
+    "postado_em_utc": "2026-08-10T15:18:18Z",
+    "resultado": {
+      "media_id": "18073312223397741",
+      "url": "https://www.instagram.com/reel/18073312223397741",
+      "comentario": "postado na hora"
+    }
   }
 }

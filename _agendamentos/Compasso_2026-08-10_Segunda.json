@@ -107,12 +107,17 @@
       "plataforma": "instagram",
       "tipo": "reels",
       "publish_at": "2026-08-10T12:15:00-03:00",
-      "status": "pendente",
+      "status": "publicado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S18_vida_espiritual_tem_fases.mp4",
       "caption": "Santa Teresa Mapeou Sete Fases da Vida Espiritual — Você Está em Qual?\n\nSanta Teresa de Ávila descreveu a alma como um castelo de sete moradas — uma jornada longa e graduada, não um estado espiritual único. São João da Cruz complementa com as noites ativas e passivas, mostrando que cada fase é purificada de um jeito diferente.",
       "first_comment": "Se você tivesse que chutar, em que morada acha que está hoje? Não precisa ter certeza, é só um chute mesmo.\nO Sacrarium usa esse mesmo mapa pra ajudar você a discernir onde está, sem comparar com a fase de ninguém.\nConheça: https://sacrarium-app.netlify.app/",
       "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/instagram/SACRARIUM_S18_IG_video_S18_vida_espiritual_tem_fases.mp4",
-      "video_url_nuvem_remoto": "sacrarium/instagram/SACRARIUM_S18_IG_video_S18_vida_espiritual_tem_fases.mp4"
+      "video_url_nuvem_remoto": "sacrarium/instagram/SACRARIUM_S18_IG_video_S18_vida_espiritual_tem_fases.mp4",
+      "resultado": {
+        "media_id": "18073312223397741",
+        "url": "https://www.instagram.com/reel/18073312223397741",
+        "comentario": "postado na hora"
+      }
     },
     {
       "id": "METODOANA_S18_YT",
