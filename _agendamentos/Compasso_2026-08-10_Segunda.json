@@ -229,7 +229,7 @@
       "plataforma": "instagram",
       "tipo": "carrossel",
       "publish_at": "2026-08-10T17:00:00-03:00",
-      "status": "publicado",
+      "status": "pulado: ja publicado (duplicata dentro deste lote)",
       "image_paths": [
         "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Protocolo4D_S18\\01.jpg",
         "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Protocolo4D_S18\\02.jpg",
@@ -252,12 +252,7 @@
         "protocolo4d/instagram/PROTOCOLO4D_S18_IG_CARROSSEL_img2_03.jpg",
         "protocolo4d/instagram/PROTOCOLO4D_S18_IG_CARROSSEL_img3_04.jpg",
         "protocolo4d/instagram/PROTOCOLO4D_S18_IG_CARROSSEL_img4_05.jpg"
-      ],
-      "resultado": {
-        "media_id": "18127344823735875",
-        "url": "https://www.instagram.com/p/18127344823735875",
-        "comentario": "postado na hora"
-      }
+      ]
     },
     {
       "id": "PROTOCOLO4D_S18_FB_FOTO",
