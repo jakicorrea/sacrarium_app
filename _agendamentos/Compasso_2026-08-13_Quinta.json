@@ -7,7 +7,7 @@
       "plataforma": "youtube",
       "tipo": "reels",
       "publish_at": "2026-08-13T12:00:00-03:00",
-      "status": "pendente",
+      "status": "agendado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S21_P4D_pix_nao_e_dinheiro.mp4",
       "thumb_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\03_Estrutura_Canais\\Protocolo4D\\04-Pack de Postagem\\Thumbnails\\S21_pix_nao_e_dinheiro.jpeg",
       "title": "Pix Não é Dinheiro. É Isso Que Te Funde",
@@ -20,7 +20,11 @@
         "crédito"
       ],
       "category_id": 27,
-      "pinned_comment": "Pra colocar teto no seu gasto variável antes do próximo Pix, deixei aqui embaixo a Planilha do Protocolo 4D, gratuita: https://protocolo-4d.netlify.app/lp-planilha"
+      "pinned_comment": "Pra colocar teto no seu gasto variável antes do próximo Pix, deixei aqui embaixo a Planilha do Protocolo 4D, gratuita: https://protocolo-4d.netlify.app/lp-planilha",
+      "resultado": {
+        "video_id": "0Dl-kXkt0Wc",
+        "url": "https://youtube.com/watch?v=0Dl-kXkt0Wc"
+      }
     },
     {
       "id": "P4D_S21_FB",
@@ -28,10 +32,15 @@
       "plataforma": "facebook",
       "tipo": "reels",
       "publish_at": "2026-08-13T12:00:00-03:00",
-      "status": "pendente",
+      "status": "agendado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S21_P4D_pix_nao_e_dinheiro.mp4",
       "caption": "Pix Não é Dinheiro. É Isso Que Te Funde\n\nPix facilita demais a vida. E é exatamente isso que faz dele uma armadilha pra quem não tem orçamento estruturado.",
-      "first_comment": "Pra colocar teto no seu gasto variável antes do próximo Pix, deixei aqui embaixo a Planilha do Protocolo 4D, gratuita: https://protocolo-4d.netlify.app/lp-planilha"
+      "first_comment": "Pra colocar teto no seu gasto variável antes do próximo Pix, deixei aqui embaixo a Planilha do Protocolo 4D, gratuita: https://protocolo-4d.netlify.app/lp-planilha",
+      "resultado": {
+        "video_id": "3003973869994891",
+        "agendado": true,
+        "url": "https://www.facebook.com/reel/3003973869994891"
+      }
     },
     {
       "id": "P4D_S21_IG",
@@ -42,7 +51,9 @@
       "status": "pendente",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S21_P4D_pix_nao_e_dinheiro.mp4",
       "caption": "Pix Não é Dinheiro. É Isso Que Te Funde\n\nPix facilita demais a vida. E é exatamente isso que faz dele uma armadilha pra quem não tem orçamento estruturado.",
-      "first_comment": "Pra colocar teto no seu gasto variável antes do próximo Pix, deixei aqui embaixo a Planilha do Protocolo 4D, gratuita: https://protocolo-4d.netlify.app/lp-planilha"
+      "first_comment": "Pra colocar teto no seu gasto variável antes do próximo Pix, deixei aqui embaixo a Planilha do Protocolo 4D, gratuita: https://protocolo-4d.netlify.app/lp-planilha",
+      "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/protocolo4d/instagram/P4D_S21_IG_video_S21_P4D_pix_nao_e_dinheiro.mp4",
+      "video_url_nuvem_remoto": "protocolo4d/instagram/P4D_S21_IG_video_S21_P4D_pix_nao_e_dinheiro.mp4"
     },
     {
       "id": "SACRARIUM_S21_YT",
@@ -50,7 +61,7 @@
       "plataforma": "youtube",
       "tipo": "reels",
       "publish_at": "2026-08-13T12:00:00-03:00",
-      "status": "pendente",
+      "status": "agendado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S21_como_voltar_depois_de_anos.mp4",
       "thumb_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\03_Estrutura_Canais\\Sacrarium\\04-Pack de Postagem\\Thumbnails\\S21_como_voltar_depois_de_anos.jpeg",
       "title": "Faz Anos Que Você Não Reza — Como Voltar de Verdade",
@@ -63,7 +74,11 @@
         "mestres da oração"
       ],
       "category_id": 27,
-      "pinned_comment": "Quanto tempo faz desde a última vez que você rezou de verdade? Pode escrever aqui, sem julgamento nenhum.\nO Sacrarium começa do ponto em que você está hoje, não de onde você \"deveria\" estar.\nConheça: https://sacrarium-app.netlify.app/"
+      "pinned_comment": "Quanto tempo faz desde a última vez que você rezou de verdade? Pode escrever aqui, sem julgamento nenhum.\nO Sacrarium começa do ponto em que você está hoje, não de onde você \"deveria\" estar.\nConheça: https://sacrarium-app.netlify.app/",
+      "resultado": {
+        "video_id": "f1Suc7cNzUQ",
+        "url": "https://youtube.com/watch?v=f1Suc7cNzUQ"
+      }
     },
     {
       "id": "SACRARIUM_S21_FB",
@@ -71,10 +86,15 @@
       "plataforma": "facebook",
       "tipo": "reels",
       "publish_at": "2026-08-13T12:00:00-03:00",
-      "status": "pendente",
+      "status": "agendado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S21_como_voltar_depois_de_anos.mp4",
       "caption": "Faz Anos Que Você Não Reza — Como Voltar de Verdade\n\nVoltar a rezar depois de anos afastado parece exigir um ritual especial, uma virada dramática, uma explicação. Não precisa.",
-      "first_comment": "Quanto tempo faz desde a última vez que você rezou de verdade? Pode escrever aqui, sem julgamento nenhum.\nO Sacrarium começa do ponto em que você está hoje, não de onde você \"deveria\" estar.\nConheça: https://sacrarium-app.netlify.app/"
+      "first_comment": "Quanto tempo faz desde a última vez que você rezou de verdade? Pode escrever aqui, sem julgamento nenhum.\nO Sacrarium começa do ponto em que você está hoje, não de onde você \"deveria\" estar.\nConheça: https://sacrarium-app.netlify.app/",
+      "resultado": {
+        "video_id": "1704676561662995",
+        "agendado": true,
+        "url": "https://www.facebook.com/reel/1704676561662995"
+      }
     },
     {
       "id": "SACRARIUM_S21_IG",
@@ -85,7 +105,9 @@
       "status": "pendente",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S21_como_voltar_depois_de_anos.mp4",
       "caption": "Faz Anos Que Você Não Reza — Como Voltar de Verdade\n\nVoltar a rezar depois de anos afastado parece exigir um ritual especial, uma virada dramática, uma explicação. Não precisa.",
-      "first_comment": "Quanto tempo faz desde a última vez que você rezou de verdade? Pode escrever aqui, sem julgamento nenhum.\nO Sacrarium começa do ponto em que você está hoje, não de onde você \"deveria\" estar.\nConheça: https://sacrarium-app.netlify.app/"
+      "first_comment": "Quanto tempo faz desde a última vez que você rezou de verdade? Pode escrever aqui, sem julgamento nenhum.\nO Sacrarium começa do ponto em que você está hoje, não de onde você \"deveria\" estar.\nConheça: https://sacrarium-app.netlify.app/",
+      "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/instagram/SACRARIUM_S21_IG_video_S21_como_voltar_depois_de_anos.mp4",
+      "video_url_nuvem_remoto": "sacrarium/instagram/SACRARIUM_S21_IG_video_S21_como_voltar_depois_de_anos.mp4"
     },
     {
       "id": "METODOANA_S21_YT",
@@ -93,7 +115,7 @@
       "plataforma": "youtube",
       "tipo": "reels",
       "publish_at": "2026-08-13T12:00:00-03:00",
-      "status": "pendente",
+      "status": "agendado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S21_Calculo_da_Economia_na_Quitacao.mp4",
       "thumb_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\03_Estrutura_Canais\\MetodoANA\\04-Pack de Postagem\\Thumbnails\\S21_Calculo_da_Economia_na_Quitacao.jpeg",
       "title": "Simulei a Quitação Antecipada e a Diferença Foi de R$7.500",
@@ -106,7 +128,11 @@
         "renda extra"
       ],
       "category_id": 27,
-      "pinned_comment": "Já fez essa conta com algum contrato seu? Comenta o resultado aqui embaixo. A calculadora gratuita que faz essa simulação automaticamente tá no link da bio."
+      "pinned_comment": "Já fez essa conta com algum contrato seu? Comenta o resultado aqui embaixo. A calculadora gratuita que faz essa simulação automaticamente tá no link da bio.",
+      "resultado": {
+        "video_id": "0IqChVCMbYg",
+        "url": "https://youtube.com/watch?v=0IqChVCMbYg"
+      }
     },
     {
       "id": "METODOANA_S21_FB",
@@ -114,10 +140,15 @@
       "plataforma": "facebook",
       "tipo": "reels",
       "publish_at": "2026-08-13T12:00:00-03:00",
-      "status": "pendente",
+      "status": "agendado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S21_Calculo_da_Economia_na_Quitacao.mp4",
       "caption": "Simulei a Quitação Antecipada e a Diferença Foi de R$7.500\n\nSe você já pensou em quitar um consignado antes do prazo mas não sabe se vale a pena, esse vídeo mostra a conta exata pra descobrir.",
-      "first_comment": "Já fez essa conta com algum contrato seu? Comenta o resultado aqui embaixo. A calculadora gratuita que faz essa simulação automaticamente tá no link da bio."
+      "first_comment": "Já fez essa conta com algum contrato seu? Comenta o resultado aqui embaixo. A calculadora gratuita que faz essa simulação automaticamente tá no link da bio.",
+      "resultado": {
+        "video_id": "1764251244598171",
+        "agendado": true,
+        "url": "https://www.facebook.com/reel/1764251244598171"
+      }
     },
     {
       "id": "METODOANA_S21_IG",
@@ -128,7 +159,9 @@
       "status": "pendente",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S21_Calculo_da_Economia_na_Quitacao.mp4",
       "caption": "Simulei a Quitação Antecipada e a Diferença Foi de R$7.500\n\nSe você já pensou em quitar um consignado antes do prazo mas não sabe se vale a pena, esse vídeo mostra a conta exata pra descobrir.",
-      "first_comment": "Já fez essa conta com algum contrato seu? Comenta o resultado aqui embaixo. A calculadora gratuita que faz essa simulação automaticamente tá no link da bio."
+      "first_comment": "Já fez essa conta com algum contrato seu? Comenta o resultado aqui embaixo. A calculadora gratuita que faz essa simulação automaticamente tá no link da bio.",
+      "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/instagram/METODOANA_S21_IG_video_S21_Calculo_da_Economia_na_Quitacao.mp4",
+      "video_url_nuvem_remoto": "metodoana/instagram/METODOANA_S21_IG_video_S21_Calculo_da_Economia_na_Quitacao.mp4"
     },
     {
       "id": "FT_V13_YT",
@@ -136,7 +169,7 @@
       "plataforma": "youtube",
       "tipo": "video",
       "publish_at": "2026-08-13T12:00:00-03:00",
-      "status": "pendente",
+      "status": "agendado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V13_FT_crenca_dinheiro_familias.mp4",
       "thumb_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\03_Estrutura_Canais\\ForjandoTitas\\04-Pack de Postagem\\Thumbnails\\V13 - FRASE DE 6 PALAVRAS.jpeg",
       "title": "A Frase de Seis Palavras Que Vira Desculpa Pra Nunca Encarar as Contas",
@@ -149,7 +182,11 @@
         "mentalidade"
       ],
       "category_id": 27,
-      "pinned_comment": "Qual convicção sobre dinheiro você percebe que mais te trava — pode ser essa frase ou outra que você já ouviu em casa a vida toda? Tem um método completo do diagnóstico à blindagem financeira no Protocolo 4D: https://protocolo-4d.netlify.app/"
+      "pinned_comment": "Qual convicção sobre dinheiro você percebe que mais te trava — pode ser essa frase ou outra que você já ouviu em casa a vida toda? Tem um método completo do diagnóstico à blindagem financeira no Protocolo 4D: https://protocolo-4d.netlify.app/",
+      "resultado": {
+        "video_id": "uy83ENx6vmo",
+        "url": "https://youtube.com/watch?v=uy83ENx6vmo"
+      }
     },
     {
       "id": "PROTOCOLO4D_S21_IG_CARROSSEL",
@@ -166,7 +203,21 @@
         "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Protocolo4D_S21\\05.jpg"
       ],
       "caption": "Seu cérebro trata Pix diferente de dinheiro vivo. E é por isso que ele some mais rápido. 📲\n\nZero atrito na hora de pagar não é conveniência de graça — sem orçamento estruturado, essa facilidade vira gasto acelerado. A saída não é abandonar o Pix, é dar um teto pra ele.\n\nSalva esse carrossel antes do próximo Pix do mês.",
-      "first_comment": "Link na bio pra Planilha do Protocolo 4D, gratuita, pra você travar esse teto de vez."
+      "first_comment": "Link na bio pra Planilha do Protocolo 4D, gratuita, pra você travar esse teto de vez.",
+      "image_urls_nuvem": [
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/protocolo4d/instagram/PROTOCOLO4D_S21_IG_CARROSSEL_img0_01.jpg",
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/protocolo4d/instagram/PROTOCOLO4D_S21_IG_CARROSSEL_img1_02.jpg",
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/protocolo4d/instagram/PROTOCOLO4D_S21_IG_CARROSSEL_img2_03.jpg",
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/protocolo4d/instagram/PROTOCOLO4D_S21_IG_CARROSSEL_img3_04.jpg",
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/protocolo4d/instagram/PROTOCOLO4D_S21_IG_CARROSSEL_img4_05.jpg"
+      ],
+      "image_urls_nuvem_remoto": [
+        "protocolo4d/instagram/PROTOCOLO4D_S21_IG_CARROSSEL_img0_01.jpg",
+        "protocolo4d/instagram/PROTOCOLO4D_S21_IG_CARROSSEL_img1_02.jpg",
+        "protocolo4d/instagram/PROTOCOLO4D_S21_IG_CARROSSEL_img2_03.jpg",
+        "protocolo4d/instagram/PROTOCOLO4D_S21_IG_CARROSSEL_img3_04.jpg",
+        "protocolo4d/instagram/PROTOCOLO4D_S21_IG_CARROSSEL_img4_05.jpg"
+      ]
     },
     {
       "id": "PROTOCOLO4D_S21_FB_FOTO",
@@ -174,10 +225,15 @@
       "plataforma": "facebook",
       "tipo": "foto",
       "publish_at": "2026-08-13T09:00:00-03:00",
-      "status": "pendente",
+      "status": "agendado",
       "image_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Post Facebook\\04 Imagens Geradas\\S21 Pix Nao E Dinheiro.jpg",
       "caption": "Desabafo: desde que passei a pagar quase tudo por Pix, ficou muito mais difícil sentir o dinheiro saindo. Antes, contava as notas. Agora é só um toque e a digital.\n\nNão acho que a solução seja parar de usar. Acho que falta um teto claro pro que pode ser gasto no mês.\n\nVocê já reparou se gasta mais desde que o Pix virou o método padrão? Comenta.",
-      "first_comment": "A planilha que ajuda a colocar esse teto no papel está gratuita no link no site da página."
+      "first_comment": "A planilha que ajuda a colocar esse teto no papel está gratuita no link no site da página.",
+      "resultado": {
+        "object_id": "122115351783394338",
+        "agendado": true,
+        "url": "https://www.facebook.com/122115351783394338"
+      }
     },
     {
       "id": "SACRARIUM_S21_IG_CARROSSEL",
@@ -195,7 +251,23 @@
         "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Sacrarium\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Sacrarium_S21\\06.jpg"
       ],
       "caption": "\"Tarde Te amei, ó beleza tão antiga e tão nova.\" 👇\n\nFoi assim que Santo Agostinho escreveu depois de décadas longe de Deus. Não voltou como estranho. Voltou como quem reconhece algo que nunca deixou de ser dele.\n\nA vida espiritual não é uma escada onde você cai e recomeça do zero. É um jardim onde o terreno continua lá, mesmo quando o jardineiro esteve ausente.\n\nO retorno não precisa de ritual, nem de explicação. Precisa só de uma decisão simples: aparecer, hoje, com o que você tem.\n\nMarca alguém que precisa ler isso hoje. 🌿",
-      "first_comment": "Quanto tempo faz desde a sua última oração de verdade? Pode escrever, sem julgamento nenhum 👇 Link na bio."
+      "first_comment": "Quanto tempo faz desde a sua última oração de verdade? Pode escrever, sem julgamento nenhum 👇 Link na bio.",
+      "image_urls_nuvem": [
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/instagram/SACRARIUM_S21_IG_CARROSSEL_img0_01.jpg",
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/instagram/SACRARIUM_S21_IG_CARROSSEL_img1_02.jpg",
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/instagram/SACRARIUM_S21_IG_CARROSSEL_img2_03.jpg",
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/instagram/SACRARIUM_S21_IG_CARROSSEL_img3_04.jpg",
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/instagram/SACRARIUM_S21_IG_CARROSSEL_img4_05.jpg",
+        "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/instagram/SACRARIUM_S21_IG_CARROSSEL_img5_06.jpg"
+      ],
+      "image_urls_nuvem_remoto": [
+        "sacrarium/instagram/SACRARIUM_S21_IG_CARROSSEL_img0_01.jpg",
+        "sacrarium/instagram/SACRARIUM_S21_IG_CARROSSEL_img1_02.jpg",
+        "sacrarium/instagram/SACRARIUM_S21_IG_CARROSSEL_img2_03.jpg",
+        "sacrarium/instagram/SACRARIUM_S21_IG_CARROSSEL_img3_04.jpg",
+        "sacrarium/instagram/SACRARIUM_S21_IG_CARROSSEL_img4_05.jpg",
+        "sacrarium/instagram/SACRARIUM_S21_IG_CARROSSEL_img5_06.jpg"
+      ]
     },
     {
       "id": "SACRARIUM_S21_FB_FOTO",
@@ -203,10 +275,15 @@
       "plataforma": "facebook",
       "tipo": "foto",
       "publish_at": "2026-08-13T09:00:00-03:00",
-      "status": "pendente",
+      "status": "agendado",
       "image_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Sacrarium\\Post Facebook\\04 Imagens Geradas\\S21 Como Voltar Depois De Anos.jpg",
       "caption": "Tem gente que passa anos afastada da vida de oração e depois sente vergonha demais de voltar. Sabia que Santo Agostinho passou décadas assim?\n\nQuando ele voltou, escreveu: \"tarde Te amei, ó beleza tão antiga e tão nova.\" Não voltou como estranho. Voltou como quem reencontra algo que sempre foi dele.\n\nA vida espiritual não é escada, onde cair te joga lá embaixo de novo. É jardim — o terreno continua lá, esperando.\n\nSe você está pensando em voltar a rezar depois de muito tempo, o que está te segurando?",
-      "first_comment": "O Sacrarium começa do ponto em que você está agora, sem cobrar explicação nenhuma pelo tempo ausente. Link no site da nossa página."
+      "first_comment": "O Sacrarium começa do ponto em que você está agora, sem cobrar explicação nenhuma pelo tempo ausente. Link no site da nossa página.",
+      "resultado": {
+        "object_id": "122120532975386492",
+        "agendado": true,
+        "url": "https://www.facebook.com/122120532975386492"
+      }
     },
     {
       "id": "SACRARIUM_V08_YT",
@@ -214,7 +291,7 @@
       "plataforma": "youtube",
       "tipo": "video",
       "publish_at": "2026-08-13T17:00:00-03:00",
-      "status": "pendente",
+      "status": "agendado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V08_O_que_significa_cultivar_um_jardim_interi.mp4",
       "thumb_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\03_Estrutura_Canais\\Sacrarium\\04-Pack de Postagem\\Thumbnails\\V08_O_que_significa_cultivar_um_jardim_interior.jpeg",
       "title": "Por Que a Vida Espiritual É Mais Jardim do Que Corrida",
@@ -227,7 +304,11 @@
         "mestres da oração"
       ],
       "category_id": 27,
-      "pinned_comment": "Na sua vida espiritual hoje, você sente que está mais no balde, na nora, no aqueduto ou na chuva de Santa Teresa? Conta aqui embaixo.\nO Jardim das Virtudes do Sacrarium acompanha esse cultivo dia após dia. Conheça: https://sacrarium-app.netlify.app/"
+      "pinned_comment": "Na sua vida espiritual hoje, você sente que está mais no balde, na nora, no aqueduto ou na chuva de Santa Teresa? Conta aqui embaixo.\nO Jardim das Virtudes do Sacrarium acompanha esse cultivo dia após dia. Conheça: https://sacrarium-app.netlify.app/",
+      "resultado": {
+        "video_id": "wSX8gkEsaFo",
+        "url": "https://youtube.com/watch?v=wSX8gkEsaFo"
+      }
     },
     {
       "id": "SACRARIUM_V08_FB",
@@ -235,10 +316,15 @@
       "plataforma": "facebook",
       "tipo": "video",
       "publish_at": "2026-08-13T17:00:00-03:00",
-      "status": "pendente",
+      "status": "agendado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V08_O_que_significa_cultivar_um_jardim_interi.mp4",
       "caption": "Por Que a Vida Espiritual É Mais Jardim do Que Corrida\n\nQuando a maioria das pessoas pensa em vida espiritual, a imagem é de esforço, disciplina rígida, uma corrida que ninguém sustenta pra sempre. Mas Santa Teresa de Ávila usou outra imagem, no Livro da Vida: a oração como regar um jardim.",
-      "first_comment": "Na sua vida espiritual hoje, você sente que está mais no balde, na nora, no aqueduto ou na chuva de Santa Teresa? Conta aqui embaixo.\nO Jardim das Virtudes do Sacrarium acompanha esse cultivo dia após dia. Conheça: https://sacrarium-app.netlify.app/"
+      "first_comment": "Na sua vida espiritual hoje, você sente que está mais no balde, na nora, no aqueduto ou na chuva de Santa Teresa? Conta aqui embaixo.\nO Jardim das Virtudes do Sacrarium acompanha esse cultivo dia após dia. Conheça: https://sacrarium-app.netlify.app/",
+      "resultado": {
+        "object_id": "1586492753211140",
+        "agendado": true,
+        "url": "https://www.facebook.com/1586492753211140"
+      }
     },
     {
       "id": "METODOANA_V08_YT",
@@ -246,7 +332,7 @@
       "plataforma": "youtube",
       "tipo": "video",
       "publish_at": "2026-08-13T17:00:00-03:00",
-      "status": "pendente",
+      "status": "agendado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V08_Devo_investir_mesmo_endividada.mp4",
       "thumb_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\03_Estrutura_Canais\\MetodoANA\\04-Pack de Postagem\\Thumbnails\\V08_Devo_investir_mesmo_endividada.jpeg",
       "title": "Por Que Eu Invisto Enquanto Ainda Devo R$185 Mil",
@@ -259,7 +345,11 @@
         "renda extra"
       ],
       "category_id": 27,
-      "pinned_comment": "Você investe ou só paga dívida agora? Comenta sua faixa de juro aqui embaixo. A árvore de decisão completa, com exemplo pra cada faixa, está no ebook Mãe, Concursada e Endividada."
+      "pinned_comment": "Você investe ou só paga dívida agora? Comenta sua faixa de juro aqui embaixo. A árvore de decisão completa, com exemplo pra cada faixa, está no ebook Mãe, Concursada e Endividada.",
+      "resultado": {
+        "video_id": "2OAZdaNAhmw",
+        "url": "https://youtube.com/watch?v=2OAZdaNAhmw"
+      }
     },
     {
       "id": "METODOANA_V08_FB",
@@ -267,10 +357,15 @@
       "plataforma": "facebook",
       "tipo": "video",
       "publish_at": "2026-08-13T17:00:00-03:00",
-      "status": "pendente",
+      "status": "agendado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V08_Devo_investir_mesmo_endividada.mp4",
       "caption": "Por Que Eu Invisto Enquanto Ainda Devo R$185 Mil\n\n'Enquanto tiver dívida, não invista' é o conselho mais repetido — e incompleto. Esse vídeo é pra quem tem dívida ativa e quer saber se dá pra investir ao mesmo tempo, sem virar irresponsabilidade.",
-      "first_comment": "Você investe ou só paga dívida agora? Comenta sua faixa de juro aqui embaixo. A árvore de decisão completa, com exemplo pra cada faixa, está no ebook Mãe, Concursada e Endividada."
+      "first_comment": "Você investe ou só paga dívida agora? Comenta sua faixa de juro aqui embaixo. A árvore de decisão completa, com exemplo pra cada faixa, está no ebook Mãe, Concursada e Endividada.",
+      "resultado": {
+        "object_id": "931736242555600",
+        "agendado": true,
+        "url": "https://www.facebook.com/931736242555600"
+      }
     }
   ]
 }

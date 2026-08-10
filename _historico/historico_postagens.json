@@ -3257,5 +3257,155 @@
       "video_id": "Xm-BMv41w-c",
       "url": "https://youtube.com/watch?v=Xm-BMv41w-c"
     }
+  },
+  "protocolo4d|facebook|C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Protocolo 4D\\Post Facebook\\04 Imagens Geradas\\S21 Pix Nao E Dinheiro.jpg": {
+    "id": "PROTOCOLO4D_S21_FB_FOTO",
+    "canal": "protocolo4d",
+    "plataforma": "facebook",
+    "publish_at": "2026-08-13T09:00:00-03:00",
+    "postado_em_utc": "2026-08-10T13:46:01Z",
+    "resultado": {
+      "object_id": "122115351783394338",
+      "agendado": true,
+      "url": "https://www.facebook.com/122115351783394338"
+    }
+  },
+  "protocolo4d|youtube|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S21_P4D_pix_nao_e_dinheiro.mp4": {
+    "id": "P4D_S21_YT",
+    "canal": "protocolo4d",
+    "plataforma": "youtube",
+    "publish_at": "2026-08-13T12:00:00-03:00",
+    "postado_em_utc": "2026-08-10T13:46:29Z",
+    "resultado": {
+      "video_id": "0Dl-kXkt0Wc",
+      "url": "https://youtube.com/watch?v=0Dl-kXkt0Wc"
+    }
+  },
+  "protocolo4d|facebook|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S21_P4D_pix_nao_e_dinheiro.mp4": {
+    "id": "P4D_S21_FB",
+    "canal": "protocolo4d",
+    "plataforma": "facebook",
+    "publish_at": "2026-08-13T12:00:00-03:00",
+    "postado_em_utc": "2026-08-10T13:47:03Z",
+    "resultado": {
+      "video_id": "3003973869994891",
+      "agendado": true,
+      "url": "https://www.facebook.com/reel/3003973869994891"
+    }
+  },
+  "metodoana|youtube|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S21_Calculo_da_Economia_na_Quitacao.mp4": {
+    "id": "METODOANA_S21_YT",
+    "canal": "metodoana",
+    "plataforma": "youtube",
+    "publish_at": "2026-08-13T12:00:00-03:00",
+    "postado_em_utc": "2026-08-10T13:47:33Z",
+    "resultado": {
+      "video_id": "0IqChVCMbYg",
+      "url": "https://youtube.com/watch?v=0IqChVCMbYg"
+    }
+  },
+  "metodoana|facebook|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S21_Calculo_da_Economia_na_Quitacao.mp4": {
+    "id": "METODOANA_S21_FB",
+    "canal": "metodoana",
+    "plataforma": "facebook",
+    "publish_at": "2026-08-13T12:00:00-03:00",
+    "postado_em_utc": "2026-08-10T13:48:07Z",
+    "resultado": {
+      "video_id": "1764251244598171",
+      "agendado": true,
+      "url": "https://www.facebook.com/reel/1764251244598171"
+    }
+  },
+  "metodoana|youtube|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V08_Devo_investir_mesmo_endividada.mp4": {
+    "id": "METODOANA_V08_YT",
+    "canal": "metodoana",
+    "plataforma": "youtube",
+    "publish_at": "2026-08-13T17:00:00-03:00",
+    "postado_em_utc": "2026-08-10T13:49:25Z",
+    "resultado": {
+      "video_id": "2OAZdaNAhmw",
+      "url": "https://youtube.com/watch?v=2OAZdaNAhmw"
+    }
+  },
+  "metodoana|facebook|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V08_Devo_investir_mesmo_endividada.mp4": {
+    "id": "METODOANA_V08_FB",
+    "canal": "metodoana",
+    "plataforma": "facebook",
+    "publish_at": "2026-08-13T17:00:00-03:00",
+    "postado_em_utc": "2026-08-10T13:51:31Z",
+    "resultado": {
+      "object_id": "931736242555600",
+      "agendado": true,
+      "url": "https://www.facebook.com/931736242555600"
+    }
+  },
+  "sacrarium|facebook|C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Sacrarium\\Post Facebook\\04 Imagens Geradas\\S21 Como Voltar Depois De Anos.jpg": {
+    "id": "SACRARIUM_S21_FB_FOTO",
+    "canal": "sacrarium",
+    "plataforma": "facebook",
+    "publish_at": "2026-08-13T09:00:00-03:00",
+    "postado_em_utc": "2026-08-10T13:51:34Z",
+    "resultado": {
+      "object_id": "122120532975386492",
+      "agendado": true,
+      "url": "https://www.facebook.com/122120532975386492"
+    }
+  },
+  "sacrarium|youtube|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S21_como_voltar_depois_de_anos.mp4": {
+    "id": "SACRARIUM_S21_YT",
+    "canal": "sacrarium",
+    "plataforma": "youtube",
+    "publish_at": "2026-08-13T12:00:00-03:00",
+    "postado_em_utc": "2026-08-10T13:52:03Z",
+    "resultado": {
+      "video_id": "f1Suc7cNzUQ",
+      "url": "https://youtube.com/watch?v=f1Suc7cNzUQ"
+    }
+  },
+  "sacrarium|facebook|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S21_como_voltar_depois_de_anos.mp4": {
+    "id": "SACRARIUM_S21_FB",
+    "canal": "sacrarium",
+    "plataforma": "facebook",
+    "publish_at": "2026-08-13T12:00:00-03:00",
+    "postado_em_utc": "2026-08-10T13:52:47Z",
+    "resultado": {
+      "video_id": "1704676561662995",
+      "agendado": true,
+      "url": "https://www.facebook.com/reel/1704676561662995"
+    }
+  },
+  "sacrarium|youtube|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V08_O_que_significa_cultivar_um_jardim_interi.mp4": {
+    "id": "SACRARIUM_V08_YT",
+    "canal": "sacrarium",
+    "plataforma": "youtube",
+    "publish_at": "2026-08-13T17:00:00-03:00",
+    "postado_em_utc": "2026-08-10T13:55:06Z",
+    "resultado": {
+      "video_id": "wSX8gkEsaFo",
+      "url": "https://youtube.com/watch?v=wSX8gkEsaFo"
+    }
+  },
+  "sacrarium|facebook|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V08_O_que_significa_cultivar_um_jardim_interi.mp4": {
+    "id": "SACRARIUM_V08_FB",
+    "canal": "sacrarium",
+    "plataforma": "facebook",
+    "publish_at": "2026-08-13T17:00:00-03:00",
+    "postado_em_utc": "2026-08-10T14:00:14Z",
+    "resultado": {
+      "object_id": "1586492753211140",
+      "agendado": true,
+      "url": "https://www.facebook.com/1586492753211140"
+    }
+  },
+  "forjandotitas|youtube|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V13_FT_crenca_dinheiro_familias.mp4": {
+    "id": "FT_V13_YT",
+    "canal": "forjandotitas",
+    "plataforma": "youtube",
+    "publish_at": "2026-08-13T12:00:00-03:00",
+    "postado_em_utc": "2026-08-10T14:03:03Z",
+    "resultado": {
+      "video_id": "uy83ENx6vmo",
+      "url": "https://youtube.com/watch?v=uy83ENx6vmo"
+    }
   }
 }
