@@ -48,12 +48,17 @@
       "plataforma": "instagram",
       "tipo": "reels",
       "publish_at": "2026-08-11T08:05:00-03:00",
-      "status": "pendente",
+      "status": "publicado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S19_P4D_salario_dura_dez_dias.mp4",
       "caption": "Por Que Seu Salário Só Dura Dez Dias\n\nTem gente que vê o salário cair e em dez dias já não sabe onde foi. Não é falta de memória. É falta de destino.",
       "first_comment": "Pra dar destino a cada real antes do próximo salário cair, deixei aqui embaixo a Planilha do Protocolo 4D, gratuita: https://protocolo-4d.netlify.app/lp-planilha",
       "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/protocolo4d/instagram/P4D_S19_IG_video_S19_P4D_salario_dura_dez_dias.mp4",
-      "video_url_nuvem_remoto": "protocolo4d/instagram/P4D_S19_IG_video_S19_P4D_salario_dura_dez_dias.mp4"
+      "video_url_nuvem_remoto": "protocolo4d/instagram/P4D_S19_IG_video_S19_P4D_salario_dura_dez_dias.mp4",
+      "resultado": {
+        "media_id": "18410791432153545",
+        "url": "https://www.instagram.com/reel/18410791432153545",
+        "comentario": "postado na hora"
+      }
     },
     {
       "id": "SACRARIUM_S19_YT",
