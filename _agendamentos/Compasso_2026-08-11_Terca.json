@@ -102,17 +102,12 @@
       "plataforma": "instagram",
       "tipo": "reels",
       "publish_at": "2026-08-11T12:15:00-03:00",
-      "status": "publicado",
+      "status": "pendente",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S19_o_que_e_maturidade_na_oracao.mp4",
       "caption": "Por Que Quem Reza Há Mais Tempo Fala Menos na Oração\n\nParece lógico pensar que amadurecer na oração significa rezar mais palavras, pedir mais coisas, saber mais orações de cor. Os grandes mestres da espiritualidade descrevem o oposto.",
       "first_comment": "Sua oração hoje tem mais silêncio ou mais palavras? Não tem resposta certa, só me conta como é a sua.\nO Sacrarium acompanha essa busca de aprofundamento, sem prometer onde cada um vai chegar.\nConheça: https://sacrarium-app.netlify.app/",
       "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/instagram/SACRARIUM_S19_IG_video_S19_o_que_e_maturidade_na_oracao.mp4",
-      "video_url_nuvem_remoto": "sacrarium/instagram/SACRARIUM_S19_IG_video_S19_o_que_e_maturidade_na_oracao.mp4",
-      "resultado": {
-        "media_id": "18111137119792193",
-        "url": "https://www.instagram.com/reel/18111137119792193",
-        "comentario": "postado na hora"
-      }
+      "video_url_nuvem_remoto": "sacrarium/instagram/SACRARIUM_S19_IG_video_S19_o_que_e_maturidade_na_oracao.mp4"
     },
     {
       "id": "METODOANA_S19_YT",
@@ -161,12 +156,17 @@
       "plataforma": "instagram",
       "tipo": "reels",
       "publish_at": "2026-08-11T12:25:00-03:00",
-      "status": "pendente",
+      "status": "publicado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S19_Ataque_o_Rotativo_Primeiro.mp4",
       "caption": "A Dívida Pequena que Cresce Mais Rápido que Todas as Outras\n\nPra quem tem rotativo do cartão ou cheque especial em aberto, junto com outras dívidas maiores: esse vídeo explica por que essas duas entram na frente de tudo, mesmo sendo geralmente as menores em saldo.",
       "first_comment": "Você tem rotativo ou cheque especial aberto agora? Comenta aqui embaixo. A calculadora gratuita que mostra quanto isso está custando por mês tá no link da bio.",
       "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/instagram/METODOANA_S19_IG_video_S19_Ataque_o_Rotativo_Primeiro.mp4",
-      "video_url_nuvem_remoto": "metodoana/instagram/METODOANA_S19_IG_video_S19_Ataque_o_Rotativo_Primeiro.mp4"
+      "video_url_nuvem_remoto": "metodoana/instagram/METODOANA_S19_IG_video_S19_Ataque_o_Rotativo_Primeiro.mp4",
+      "resultado": {
+        "media_id": "17887929231439810",
+        "url": "https://www.instagram.com/reel/17887929231439810",
+        "comentario": "postado na hora"
+      }
     },
     {
       "id": "FT_V11_YT",
