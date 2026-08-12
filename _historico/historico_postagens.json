@@ -3770,5 +3770,17 @@
       "url": "https://www.instagram.com/reel/18391221826200290",
       "comentario": "postado na hora"
     }
+  },
+  "metodoana|instagram|C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_MetodoANA_S20\\01.jpg|C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_MetodoANA_S20\\02.jpg|C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_MetodoANA_S20\\03.jpg|C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_MetodoANA_S20\\04.jpg|C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_MetodoANA_S20\\05.jpg|C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Método ANA\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_MetodoANA_S20\\06.jpg": {
+    "id": "METODOANA_S20_IG_CARROSSEL",
+    "canal": "metodoana",
+    "plataforma": "instagram",
+    "publish_at": "2026-08-12T18:00:00-03:00",
+    "postado_em_utc": "2026-08-12T21:01:15Z",
+    "resultado": {
+      "media_id": "17967881913134444",
+      "url": "https://www.instagram.com/p/17967881913134444",
+      "comentario": "postado na hora"
+    }
   }
 }
