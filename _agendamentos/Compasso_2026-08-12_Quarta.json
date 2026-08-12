@@ -102,17 +102,12 @@
       "plataforma": "instagram",
       "tipo": "reels",
       "publish_at": "2026-08-12T12:15:00-03:00",
-      "status": "publicado",
+      "status": "pendente",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S20_nao_precisa_ver_o_caminho_todo.mp4",
       "caption": "Você Não Precisa Ver os 230 Dias, Só o Dia de Hoje\n\nDuzentos e trinta dias de jornada espiritual soa como muito tempo — mas ninguém vive duzentos e trinta dias ao mesmo tempo. Vive-se hoje, depois amanhã, depois o outro dia.",
       "first_comment": "O que trava mais você: começar, ou manter depois de começar? Quero saber sua resposta aqui embaixo.\nO Sacrarium entrega só o próximo passo, nunca a jornada inteira de uma vez.\nConheça: https://sacrarium-app.netlify.app/",
       "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/instagram/SACRARIUM_S20_IG_video_S20_nao_precisa_ver_o_caminho_todo.mp4",
-      "video_url_nuvem_remoto": "sacrarium/instagram/SACRARIUM_S20_IG_video_S20_nao_precisa_ver_o_caminho_todo.mp4",
-      "resultado": {
-        "media_id": "18092493833422583",
-        "url": "https://www.instagram.com/reel/18092493833422583",
-        "comentario": "postado na hora"
-      }
+      "video_url_nuvem_remoto": "sacrarium/instagram/SACRARIUM_S20_IG_video_S20_nao_precisa_ver_o_caminho_todo.mp4"
     },
     {
       "id": "METODOANA_S20_YT",
@@ -161,12 +156,17 @@
       "plataforma": "instagram",
       "tipo": "reels",
       "publish_at": "2026-08-12T12:25:00-03:00",
-      "status": "pendente",
+      "status": "publicado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S20_Como_Fazer_Amortizacao_Antecipada.mp4",
       "caption": "R$50 a Mais na Parcela Pode Sumir com Meses de Financiamento\n\nSe você acha que só vale a pena amortizar dívida quando sobra muito dinheiro, esse vídeo mostra o contrário.",
       "first_comment": "Já testou amortizar com um valor pequeno no app do banco? Comenta o que aconteceu. A calculadora gratuita que simula quanto você economiza fazendo isso tá no link da bio.",
       "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/instagram/METODOANA_S20_IG_video_S20_Como_Fazer_Amortizacao_Antecipada.mp4",
-      "video_url_nuvem_remoto": "metodoana/instagram/METODOANA_S20_IG_video_S20_Como_Fazer_Amortizacao_Antecipada.mp4"
+      "video_url_nuvem_remoto": "metodoana/instagram/METODOANA_S20_IG_video_S20_Como_Fazer_Amortizacao_Antecipada.mp4",
+      "resultado": {
+        "media_id": "18391221826200290",
+        "url": "https://www.instagram.com/reel/18391221826200290",
+        "comentario": "postado na hora"
+      }
     },
     {
       "id": "FT_V12_YT",
