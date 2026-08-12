@@ -48,12 +48,17 @@
       "plataforma": "instagram",
       "tipo": "reels",
       "publish_at": "2026-08-12T08:05:00-03:00",
-      "status": "pendente",
+      "status": "publicado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S20_P4D_refinanciamento_cilada.mp4",
       "caption": "O Refinanciamento Que Custa R$2.400 a Mais\n\nSe o banco te oferecer refinanciar a dívida pra uma parcela menor, parece alívio. Mas parcela menor quase sempre significa prazo maior, e prazo maior significa muito mais juro no total.",
       "first_comment": "Antes de assinar qualquer refinanciamento, roda o número real na Calculadora da Liberdade, gratuita, aqui embaixo: https://protocolo-4d.netlify.app/lp-calculadora",
       "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/protocolo4d/instagram/P4D_S20_IG_video_S20_P4D_refinanciamento_cilada.mp4",
-      "video_url_nuvem_remoto": "protocolo4d/instagram/P4D_S20_IG_video_S20_P4D_refinanciamento_cilada.mp4"
+      "video_url_nuvem_remoto": "protocolo4d/instagram/P4D_S20_IG_video_S20_P4D_refinanciamento_cilada.mp4",
+      "resultado": {
+        "media_id": "18112592549515385",
+        "url": "https://www.instagram.com/reel/18112592549515385",
+        "comentario": "postado na hora"
+      }
     },
     {
       "id": "SACRARIUM_S20_YT",
