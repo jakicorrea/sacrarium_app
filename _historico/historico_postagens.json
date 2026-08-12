@@ -3746,5 +3746,17 @@
       "url": "https://www.instagram.com/reel/18112592549515385",
       "comentario": "postado na hora"
     }
+  },
+  "sacrarium|instagram|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S20_nao_precisa_ver_o_caminho_todo.mp4": {
+    "id": "SACRARIUM_S20_IG",
+    "canal": "sacrarium",
+    "plataforma": "instagram",
+    "publish_at": "2026-08-12T12:15:00-03:00",
+    "postado_em_utc": "2026-08-12T15:18:38Z",
+    "resultado": {
+      "media_id": "18092493833422583",
+      "url": "https://www.instagram.com/reel/18092493833422583",
+      "comentario": "postado na hora"
+    }
   }
 }
