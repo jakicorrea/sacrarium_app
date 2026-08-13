@@ -3830,5 +3830,17 @@
       "url": "https://www.instagram.com/reel/18123184207763278",
       "comentario": "postado na hora"
     }
+  },
+  "sacrarium|instagram|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S21_como_voltar_depois_de_anos.mp4": {
+    "id": "SACRARIUM_S21_IG",
+    "canal": "sacrarium",
+    "plataforma": "instagram",
+    "publish_at": "2026-08-13T12:00:00-03:00",
+    "postado_em_utc": "2026-08-13T15:14:30Z",
+    "resultado": {
+      "media_id": "18083507651666157",
+      "url": "https://www.instagram.com/reel/18083507651666157",
+      "comentario": "postado na hora"
+    }
   }
 }

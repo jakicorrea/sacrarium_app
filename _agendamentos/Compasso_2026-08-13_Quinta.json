@@ -102,12 +102,17 @@
       "plataforma": "instagram",
       "tipo": "reels",
       "publish_at": "2026-08-13T12:00:00-03:00",
-      "status": "pendente",
+      "status": "publicado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S21_como_voltar_depois_de_anos.mp4",
       "caption": "Faz Anos Que Você Não Reza — Como Voltar de Verdade\n\nVoltar a rezar depois de anos afastado parece exigir um ritual especial, uma virada dramática, uma explicação. Não precisa.",
       "first_comment": "Quanto tempo faz desde a última vez que você rezou de verdade? Pode escrever aqui, sem julgamento nenhum.\nO Sacrarium começa do ponto em que você está hoje, não de onde você \"deveria\" estar.\nConheça: https://sacrarium-app.netlify.app/",
       "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/instagram/SACRARIUM_S21_IG_video_S21_como_voltar_depois_de_anos.mp4",
-      "video_url_nuvem_remoto": "sacrarium/instagram/SACRARIUM_S21_IG_video_S21_como_voltar_depois_de_anos.mp4"
+      "video_url_nuvem_remoto": "sacrarium/instagram/SACRARIUM_S21_IG_video_S21_como_voltar_depois_de_anos.mp4",
+      "resultado": {
+        "media_id": "18083507651666157",
+        "url": "https://www.instagram.com/reel/18083507651666157",
+        "comentario": "postado na hora"
+      }
     },
     {
       "id": "METODOANA_S21_YT",
