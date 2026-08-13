@@ -3806,5 +3806,17 @@
       "url": "https://www.instagram.com/p/17906970231470370",
       "comentario": "postado na hora"
     }
+  },
+  "protocolo4d|instagram|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S21_P4D_pix_nao_e_dinheiro.mp4": {
+    "id": "P4D_S21_IG",
+    "canal": "protocolo4d",
+    "plataforma": "instagram",
+    "publish_at": "2026-08-13T12:00:00-03:00",
+    "postado_em_utc": "2026-08-13T15:05:12Z",
+    "resultado": {
+      "media_id": "18130856053711048",
+      "url": "https://www.instagram.com/reel/18130856053711048",
+      "comentario": "postado na hora"
+    }
   }
 }

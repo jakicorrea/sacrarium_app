@@ -48,12 +48,17 @@
       "plataforma": "instagram",
       "tipo": "reels",
       "publish_at": "2026-08-13T12:00:00-03:00",
-      "status": "pendente",
+      "status": "publicado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S21_P4D_pix_nao_e_dinheiro.mp4",
       "caption": "Pix Não é Dinheiro. É Isso Que Te Funde\n\nPix facilita demais a vida. E é exatamente isso que faz dele uma armadilha pra quem não tem orçamento estruturado.",
       "first_comment": "Pra colocar teto no seu gasto variável antes do próximo Pix, deixei aqui embaixo a Planilha do Protocolo 4D, gratuita: https://protocolo-4d.netlify.app/lp-planilha",
       "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/protocolo4d/instagram/P4D_S21_IG_video_S21_P4D_pix_nao_e_dinheiro.mp4",
-      "video_url_nuvem_remoto": "protocolo4d/instagram/P4D_S21_IG_video_S21_P4D_pix_nao_e_dinheiro.mp4"
+      "video_url_nuvem_remoto": "protocolo4d/instagram/P4D_S21_IG_video_S21_P4D_pix_nao_e_dinheiro.mp4",
+      "resultado": {
+        "media_id": "18130856053711048",
+        "url": "https://www.instagram.com/reel/18130856053711048",
+        "comentario": "postado na hora"
+      }
     },
     {
       "id": "SACRARIUM_S21_YT",
