@@ -156,12 +156,17 @@
       "plataforma": "instagram",
       "tipo": "reels",
       "publish_at": "2026-08-13T12:00:00-03:00",
-      "status": "pendente",
+      "status": "publicado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S21_Calculo_da_Economia_na_Quitacao.mp4",
       "caption": "Simulei a Quitação Antecipada e a Diferença Foi de R$7.500\n\nSe você já pensou em quitar um consignado antes do prazo mas não sabe se vale a pena, esse vídeo mostra a conta exata pra descobrir.",
       "first_comment": "Já fez essa conta com algum contrato seu? Comenta o resultado aqui embaixo. A calculadora gratuita que faz essa simulação automaticamente tá no link da bio.",
       "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/instagram/METODOANA_S21_IG_video_S21_Calculo_da_Economia_na_Quitacao.mp4",
-      "video_url_nuvem_remoto": "metodoana/instagram/METODOANA_S21_IG_video_S21_Calculo_da_Economia_na_Quitacao.mp4"
+      "video_url_nuvem_remoto": "metodoana/instagram/METODOANA_S21_IG_video_S21_Calculo_da_Economia_na_Quitacao.mp4",
+      "resultado": {
+        "media_id": "18123184207763278",
+        "url": "https://www.instagram.com/reel/18123184207763278",
+        "comentario": "postado na hora"
+      }
     },
     {
       "id": "FT_V13_YT",
