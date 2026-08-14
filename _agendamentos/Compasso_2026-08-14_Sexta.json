@@ -161,12 +161,17 @@
       "plataforma": "instagram",
       "tipo": "reels",
       "publish_at": "2026-08-14T12:00:00-03:00",
-      "status": "pendente",
+      "status": "publicado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S22_Os_Cortes_de_864_Reais.mp4",
       "caption": "Encontrei R$864 por Mês Sem Cortar o Necessário\n\nSe você já ouviu 'corta o cafezinho' e sabe que isso não resolve uma dívida grande, esse vídeo mostra onde eu realmente encontrei espaço no meu orçamento.",
       "first_comment": "Qual desses sete gastos você nunca tinha reparado no seu próprio orçamento? Comenta aqui embaixo. O mini-ebook gratuito com esse e outros cálculos tá no link da bio.",
       "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/instagram/METODOANA_S22_IG_video_S22_Os_Cortes_de_864_Reais.mp4",
-      "video_url_nuvem_remoto": "metodoana/instagram/METODOANA_S22_IG_video_S22_Os_Cortes_de_864_Reais.mp4"
+      "video_url_nuvem_remoto": "metodoana/instagram/METODOANA_S22_IG_video_S22_Os_Cortes_de_864_Reais.mp4",
+      "resultado": {
+        "media_id": "17954070954212617",
+        "url": "https://www.instagram.com/reel/17954070954212617",
+        "comentario": "postado na hora"
+      }
     },
     {
       "id": "FT_V14_YT",
