@@ -48,12 +48,17 @@
       "plataforma": "instagram",
       "tipo": "reels",
       "publish_at": "2026-08-14T12:00:00-03:00",
-      "status": "pendente",
+      "status": "publicado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S22_P4D_dinheiro_extra_sem_regra.mp4",
       "caption": "Décimo Terceiro Sem Regra Some Em Duas Semanas\n\nTem gente que recebe décimo terceiro e em duas semanas o dinheiro já sumiu sem lembrar onde foi. Não é falta de memória. É falta de regra.",
       "first_comment": "A lógica completa de alocação de entrada extra dentro do método está no Mapa do Protocolo 4D, gratuito, aqui embaixo: https://protocolo-4d.netlify.app/lp-mapa",
       "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/protocolo4d/instagram/P4D_S22_IG_video_S22_P4D_dinheiro_extra_sem_regra.mp4",
-      "video_url_nuvem_remoto": "protocolo4d/instagram/P4D_S22_IG_video_S22_P4D_dinheiro_extra_sem_regra.mp4"
+      "video_url_nuvem_remoto": "protocolo4d/instagram/P4D_S22_IG_video_S22_P4D_dinheiro_extra_sem_regra.mp4",
+      "resultado": {
+        "media_id": "18024686414900183",
+        "url": "https://www.instagram.com/reel/18024686414900183",
+        "comentario": "postado na hora"
+      }
     },
     {
       "id": "SACRARIUM_S22_YT",
