@@ -161,12 +161,17 @@
       "plataforma": "instagram",
       "tipo": "reels",
       "publish_at": "2026-08-15T12:00:00-03:00",
-      "status": "pendente",
+      "status": "publicado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S23_Regra_dos_100_Primeiros.mp4",
       "caption": "Vendeu 5 e Desistiu? O Problema Não é o Produto\n\nSe você já tentou uma renda extra, vendeu pouco nas primeiras vezes e desistiu achando que não era pra você, esse vídeo explica por que isso quase sempre é engano.",
       "first_comment": "Qual renda extra você já largou antes da hora? Comenta aqui embaixo. O guia gratuito pra saber quanto da sua parcela é só juro está no link da bio.",
       "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/instagram/METODOANA_S23_IG_video_S23_Regra_dos_100_Primeiros.mp4",
-      "video_url_nuvem_remoto": "metodoana/instagram/METODOANA_S23_IG_video_S23_Regra_dos_100_Primeiros.mp4"
+      "video_url_nuvem_remoto": "metodoana/instagram/METODOANA_S23_IG_video_S23_Regra_dos_100_Primeiros.mp4",
+      "resultado": {
+        "media_id": "17982239550062277",
+        "url": "https://www.instagram.com/reel/17982239550062277",
+        "comentario": "postado na hora"
+      }
     },
     {
       "id": "FT_V15_YT",
