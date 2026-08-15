@@ -3926,5 +3926,17 @@
       "url": "https://www.instagram.com/p/18114654800083894",
       "comentario": "postado na hora"
     }
+  },
+  "protocolo4d|instagram|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S23_P4D_tres_dividas_qual_primeiro.mp4": {
+    "id": "P4D_S23_IG",
+    "canal": "protocolo4d",
+    "plataforma": "instagram",
+    "publish_at": "2026-08-15T12:00:00-03:00",
+    "postado_em_utc": "2026-08-15T15:04:07Z",
+    "resultado": {
+      "media_id": "17956341134998934",
+      "url": "https://www.instagram.com/reel/17956341134998934",
+      "comentario": "postado na hora"
+    }
   }
 }
