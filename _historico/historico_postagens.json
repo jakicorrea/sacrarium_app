@@ -3914,5 +3914,17 @@
       "url": "https://www.instagram.com/p/17960829822178889",
       "comentario": "postado na hora"
     }
+  },
+  "sacrarium|instagram|C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Sacrarium\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Sacrarium_S23\\01.jpg|C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Sacrarium\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Sacrarium_S23\\02.jpg|C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Sacrarium\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Sacrarium_S23\\03.jpg|C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Sacrarium\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Sacrarium_S23\\04.jpg|C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Sacrarium\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Sacrarium_S23\\05.jpg|C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\06_Instagram e Facebook\\Sacrarium\\Instagram Carrossel\\04 Imagens Geradas\\Carrossel_Sacrarium_S23\\06.jpg": {
+    "id": "SACRARIUM_S23_IG_CARROSSEL",
+    "canal": "sacrarium",
+    "plataforma": "instagram",
+    "publish_at": "2026-08-15T09:00:00-03:00",
+    "postado_em_utc": "2026-08-15T12:02:33Z",
+    "resultado": {
+      "media_id": "18114654800083894",
+      "url": "https://www.instagram.com/p/18114654800083894",
+      "comentario": "postado na hora"
+    }
   }
 }
