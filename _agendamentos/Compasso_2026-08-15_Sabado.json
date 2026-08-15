@@ -48,17 +48,12 @@
       "plataforma": "instagram",
       "tipo": "reels",
       "publish_at": "2026-08-15T12:00:00-03:00",
-      "status": "publicado",
+      "status": "pulado: ja publicado (duplicata dentro deste lote)",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S23_P4D_tres_dividas_qual_primeiro.mp4",
       "caption": "Não é a Maior Dívida. É a Mais Cara\n\nQuem tem cartão, empréstimo e financiamento ao mesmo tempo se pergunta qual atacar primeiro. A resposta muda quanto você vai pagar no total.",
       "first_comment": "Pra listar suas dívidas com taxa, saldo e mínimo antes de decidir qual atacar primeiro, deixei aqui embaixo a Planilha do Protocolo 4D, gratuita: https://protocolo-4d.netlify.app/lp-planilha",
       "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/protocolo4d/instagram/P4D_S23_IG_video_S23_P4D_tres_dividas_qual_primeiro.mp4",
-      "video_url_nuvem_remoto": "protocolo4d/instagram/P4D_S23_IG_video_S23_P4D_tres_dividas_qual_primeiro.mp4",
-      "resultado": {
-        "media_id": "17956341134998934",
-        "url": "https://www.instagram.com/reel/17956341134998934",
-        "comentario": "postado na hora"
-      }
+      "video_url_nuvem_remoto": "protocolo4d/instagram/P4D_S23_IG_video_S23_P4D_tres_dividas_qual_primeiro.mp4"
     },
     {
       "id": "SACRARIUM_S23_YT",
@@ -107,17 +102,12 @@
       "plataforma": "instagram",
       "tipo": "reels",
       "publish_at": "2026-08-15T12:00:00-03:00",
-      "status": "publicado",
+      "status": "pendente",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S23_obrigacao_ou_encontro.mp4",
       "caption": "Você Reza por Obrigação ou por Encontro? A Diferença É Tudo\n\nExiste uma diferença enorme entre rezar porque tem que cumprir um horário e rezar porque quer estar ali. A primeira tem linha de chegada. A segunda, não.",
       "first_comment": "Hoje, sua oração está mais perto de obrigação ou de encontro? Sem se cobrar, só uma reflexão honesta aqui embaixo.\nO Sacrarium cultiva presença, não cumprimento de metas.\nConheça: https://sacrarium-app.netlify.app/",
       "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/instagram/SACRARIUM_S23_IG_video_S23_obrigacao_ou_encontro.mp4",
-      "video_url_nuvem_remoto": "sacrarium/instagram/SACRARIUM_S23_IG_video_S23_obrigacao_ou_encontro.mp4",
-      "resultado": {
-        "media_id": "18084948704671822",
-        "url": "https://www.instagram.com/reel/18084948704671822",
-        "comentario": "postado na hora"
-      }
+      "video_url_nuvem_remoto": "sacrarium/instagram/SACRARIUM_S23_IG_video_S23_obrigacao_ou_encontro.mp4"
     },
     {
       "id": "METODOANA_S23_YT",
@@ -166,17 +156,12 @@
       "plataforma": "instagram",
       "tipo": "reels",
       "publish_at": "2026-08-15T12:00:00-03:00",
-      "status": "publicado",
+      "status": "pendente",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S23_Regra_dos_100_Primeiros.mp4",
       "caption": "Vendeu 5 e Desistiu? O Problema Não é o Produto\n\nSe você já tentou uma renda extra, vendeu pouco nas primeiras vezes e desistiu achando que não era pra você, esse vídeo explica por que isso quase sempre é engano.",
       "first_comment": "Qual renda extra você já largou antes da hora? Comenta aqui embaixo. O guia gratuito pra saber quanto da sua parcela é só juro está no link da bio.",
       "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/instagram/METODOANA_S23_IG_video_S23_Regra_dos_100_Primeiros.mp4",
-      "video_url_nuvem_remoto": "metodoana/instagram/METODOANA_S23_IG_video_S23_Regra_dos_100_Primeiros.mp4",
-      "resultado": {
-        "media_id": "17982239550062277",
-        "url": "https://www.instagram.com/reel/17982239550062277",
-        "comentario": "postado na hora"
-      }
+      "video_url_nuvem_remoto": "metodoana/instagram/METODOANA_S23_IG_video_S23_Regra_dos_100_Primeiros.mp4"
     },
     {
       "id": "FT_V15_YT",
