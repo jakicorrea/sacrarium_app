@@ -3950,5 +3950,17 @@
       "url": "https://www.instagram.com/reel/17982239550062277",
       "comentario": "postado na hora"
     }
+  },
+  "sacrarium|instagram|D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S23_obrigacao_ou_encontro.mp4": {
+    "id": "SACRARIUM_S23_IG",
+    "canal": "sacrarium",
+    "plataforma": "instagram",
+    "publish_at": "2026-08-15T12:00:00-03:00",
+    "postado_em_utc": "2026-08-15T15:09:52Z",
+    "resultado": {
+      "media_id": "18084948704671822",
+      "url": "https://www.instagram.com/reel/18084948704671822",
+      "comentario": "postado na hora"
+    }
   }
 }

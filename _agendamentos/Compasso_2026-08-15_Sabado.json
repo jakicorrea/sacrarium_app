@@ -107,12 +107,17 @@
       "plataforma": "instagram",
       "tipo": "reels",
       "publish_at": "2026-08-15T12:00:00-03:00",
-      "status": "pendente",
+      "status": "publicado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S23_obrigacao_ou_encontro.mp4",
       "caption": "Você Reza por Obrigação ou por Encontro? A Diferença É Tudo\n\nExiste uma diferença enorme entre rezar porque tem que cumprir um horário e rezar porque quer estar ali. A primeira tem linha de chegada. A segunda, não.",
       "first_comment": "Hoje, sua oração está mais perto de obrigação ou de encontro? Sem se cobrar, só uma reflexão honesta aqui embaixo.\nO Sacrarium cultiva presença, não cumprimento de metas.\nConheça: https://sacrarium-app.netlify.app/",
       "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/instagram/SACRARIUM_S23_IG_video_S23_obrigacao_ou_encontro.mp4",
-      "video_url_nuvem_remoto": "sacrarium/instagram/SACRARIUM_S23_IG_video_S23_obrigacao_ou_encontro.mp4"
+      "video_url_nuvem_remoto": "sacrarium/instagram/SACRARIUM_S23_IG_video_S23_obrigacao_ou_encontro.mp4",
+      "resultado": {
+        "media_id": "18084948704671822",
+        "url": "https://www.instagram.com/reel/18084948704671822",
+        "comentario": "postado na hora"
+      }
     },
     {
       "id": "METODOANA_S23_YT",
