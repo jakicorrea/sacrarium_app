@@ -1,0 +1,351 @@
+{
+  "lote": "VoxDeCaelo Clipe01 + ForjandoTitas V18 + CathedraPetri V20 + Hearth&Grace Clipe01 + LarDeGraca Clipe01 + VoxDomini Clipe02 - 25/08/2026",
+  "jobs": [
+    {
+      "id": "VC_C01_YT",
+      "canal": "voxdecaelo",
+      "plataforma": "youtube",
+      "tipo": "video",
+      "publish_at": "2026-08-25T09:00:00-03:00",
+      "status": "editado_manual_via_api",
+      "video_id": "cs41JMIkK0w",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\Clipe 01 - Vox de Caelo.mp4",
+      "title": "Debaixo das Tuas Asas: Piano Instrumental para Descanso e Proteção (Salmo 91 e Salmo 23)",
+      "description": "Debaixo das Tuas Asas reúne as duas primeiras faixas do Álbum \"Diante da Presença\", só piano, do início ao fim, pra quem busca um refúgio sonoro antes de dormir ou durante um momento de silêncio diante do Santíssimo.\n\nO vídeo abre com um versículo e uma reflexão curta antes de a música começar — não é enfeite, é o convite pra você realmente parar antes de entrar em oração. Depois entram Debaixo das Tuas Asas (inspirada no Salmo 91) e Junto às Águas (inspirada no Salmo 23), piano puro, sem pressa.\n\nEste é o primeiro vídeo do Vox de Caelo. Se esse tipo de música instrumental te ajuda a rezar ou a descansar, deixa o like e se inscreve — isso ajuda o canal a alcançar mais gente buscando silêncio pra orar.\n\n#MúsicaInstrumentalCatólica #PianoParaOrar #AdoraçãoEucarística #VoxDeCaelo #MúsicaParaDormir",
+      "comentario_fixado": "Você ouviu essa faixa rezando, descansando ou só em silêncio? Conta aqui embaixo qual dos dois salmos mais te tocou — o 91 ou o 23.",
+      "capitulos": [
+        {
+          "tempo": "0:00",
+          "faixa": "Abertura falada + Debaixo das Tuas Asas (Sl 91)"
+        },
+        {
+          "tempo": "aprox. metade do vídeo",
+          "faixa": "Junto às Águas (Sl 23)"
+        }
+      ],
+      "tags_youtube": [
+        "musica instrumental catolica",
+        "piano para orar",
+        "piano para dormir",
+        "adoracao eucaristica musica",
+        "salmo 91 musica",
+        "salmo 23 musica",
+        "musica catolica instrumental piano",
+        "musica para lectio divina",
+        "vox de caelo",
+        "piano sacro",
+        "musica para descanso catolico",
+        "musica instrumental para rezar"
+      ],
+      "category_id": 10,
+      "link_produto": null,
+      "thumbnail_texto": "PAZ E DESCANSO",
+      "observacao": "Primeiro vídeo do canal (backlog reativado). Só 2 faixas inéditas (Clipe 01, Pacote A), conforme plano em 06_Pack de Postagem/Postagens.txt — sem repescagem ainda. video_path é o nome esperado seguindo o padrão dos outros arquivos já exportados na pasta '02 Postar'; confirmar nome exato do arquivo quando a exportação terminar."
+    },
+    {
+      "id": "FT_V18_YT",
+      "canal": "forjandotitas",
+      "plataforma": "youtube",
+      "tipo": "video",
+      "publish_at": "2026-08-25T10:00:00-03:00",
+      "status": "editado_manual_via_api",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V18_FT_sistema_financeiro.mp4",
+      "thumb_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\03_Estrutura_Canais\\ForjandoTitas\\04-Pack de Postagem\\Thumbnails\\Thumbnails Organizar\\FTV18 - Elimine a complexidade financeira.jpeg",
+      "title": "Por Que Toda Planilha Financeira Morre Antes do Segundo Mês",
+      "description": "Você já tentou montar aquela planilha financeira perfeita e abandonou tudo antes do segundo mês? Não foi falta de força de vontade.\n\nNeste vídeo eu mostro por que sistema financeiro complexo demais morre rápido, e qual é o mínimo que sobrevive até no seu pior dia — cansado, com pressa, sem paciência pra nada.\n\nEsse canal é feito pro homem que já tentou se organizar várias vezes e sempre volta pro caos em poucas semanas. Aqui não tem planilha de trinta abas. Tá armado!\n\nManter o comportamento simples o suficiente pra caber em qualquer dia da tua semana, isso é parte do que o Protocolo 4D organiza do diagnóstico até a blindagem. Tá feito.\n\nAssista até o final pra pegar o cálculo exato dos três números que decidem se sobra dinheiro pra te tirar do buraco ou não.\n\n⚔️ Conheça o Protocolo 4D: link no comentário fixado.\n\n---------------------------\nEste vídeo foi produzido com auxílio de Inteligência Artificial para roteirização e suporte visual.\n⚠️ AVISO LEGAL: Este conteúdo é educacional e não constitui consultoria financeira, jurídica ou de investimentos. As simulações apresentadas são baseadas em princípios financeiros, mas não garantem resultados futuros. Cada situação é única. Sempre consulte um profissional certificado antes de tomar decisões financeiras. Forjando Titãs não se responsabiliza por decisões individuais baseadas neste conteúdo.",
+      "tags": [
+        "educação financeira",
+        "sistema financeiro pessoal",
+        "organizgeção financeira simples",
+        "finanças para homens",
+        "planejamento financeiro",
+        "como organizar as finanças",
+        "protocolo 4d",
+        "controle financeiro pessoal",
+        "orçamento familiar",
+        "sair das dívidas",
+        "finanças pessoais",
+        "gestão financeira pessoal"
+      ],
+      "category_id": 27,
+      "pinned_comment": "Quantos sistemas ou planilhas financeiras você já abandonou esse ano? Comenta aqui embaixo. Pro guia rápido de ação imediata, o Cheat Sheet é gratuito: https://protocolo-4d.netlify.app/lp-cheatsheet e o Protocolo 4D organiza o resto: https://protocolo-4d.netlify.app/",
+      "_channel": "forjandotitas",
+      "video_id": "ShVqmQOfZxQ"
+    },
+    {
+      "id": "FT_V18_IG",
+      "canal": "forjandotitas",
+      "plataforma": "instagram",
+      "tipo": "reels",
+      "publish_at": "2026-08-25T09:40:00-03:00",
+      "status": "pausado: FT nao vai pro Insta hoje (pedido da Jaqueline 2026-08-25)",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V18_FT_sistema_financeiro.mp4",
+      "caption": "Você já tentou aquela planilha \"perfeita\"?\n\nE abandonou tudo em duas semanas?\n\nNão é falta de força de vontade.\n\nÉ sistema complexo demais pra sobreviver ao teu pior dia.\n\nNeste vídeo mostro o mínimo que funciona mesmo cansado, com pressa, sem motivação nenhuma.",
+      "first_comment": "Quantos sistemas financeiros você já abandonou esse ano? Conta aqui embaixo. O link do Protocolo 4D tá na bio."
+    },
+    {
+      "id": "CP_V20_YT",
+      "canal": "cathedrapetri",
+      "plataforma": "youtube",
+      "tipo": "video",
+      "publish_at": "2026-08-25T10:40:00-03:00",
+      "status": "editado_manual_via_api",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V20_PT_TEP_Tácito_e_o_testemunho_pagão_sobre_o_martírio_sob_Nero.mp4",
+      "title": "Tácito: Odiava os Cristãos, Mas o que Escreveu É Perturbador",
+      "description": "No ano 64 depois de Cristo, um incêndio destruiu boa parte de Roma. O historiador romano Cornélio Tácito registrou o que aconteceu depois: Nero precisava de um culpado, e encontrou nos cristãos um alvo conveniente.\n\nTácito não era cristão. Não simpatizava com a fé que descrevia — décadas depois ainda os chamaria de seguidores de uma \"superstição destrutiva\". E é justamente por isso que seu relato importa: um historiador hostil ao cristianismo confirma, sem querer ajudar ninguém, que em 64 d.C. os cristãos já eram uma comunidade conhecida em Roma, perseguida com uma crueldade tão extrema que despertou piedade até na própria população romana.\n\nNeste vídeo eu cruzo o relato de Tácito com a Primeira Carta de Clemente Romano, que menciona Pedro e Paulo como mártires \"perto de nós\", e com a Didaché, pra reconstruir o que os documentos do século I realmente provam sobre a presença da Igreja em Roma — muito antes de qualquer concílio medieval.\n\nProdução audiovisual com suporte de tecnologias de Inteligência Artificial para recriação histórica e visual. Este conteúdo possui caráter de investigação histórica e documental baseada em interpretações de fontes primárias antigas; não constitui aconselhamento teológico ou consultoria acadêmica oficial.",
+      "tags": [
+        "tacito e os cristaos",
+        "perseguição de nero",
+        "incendio de roma 64",
+        "historia da igreja primitiva",
+        "apologética católica",
+        "clemente romano",
+        "cristãos no império romano",
+        "cornelio tacito anais",
+        "martírio dos cristãos",
+        "prova historica do cristianismo",
+        "cáthedra petri",
+        "historia biblica narrada"
+      ],
+      "category_id": 27,
+      "pinned_comment": "O que mais te surpreendeu: o fato de um inimigo do cristianismo ter registrado isso, ou a piedade que surgiu no povo romano depois da perseguição? Comenta aqui embaixo.",
+      "observacao": "video_path segue o nome do roteiro final em 02_Roteiros/03 A postar/03 Roteiro Final - Corrigido Manualmente; confirmar nome exato do .mp4 exportado antes de agendar de verdade.",
+      "_channel": "cathedrapetri",
+      "video_id": "3IwlL7c1kiQ"
+    },
+    {
+      "id": "HG_C01_YT",
+      "canal": "hearthandgrace",
+      "plataforma": "youtube",
+      "tipo": "video",
+      "publish_at": "2026-08-25T20:00:00-03:00",
+      "status": "editado_manual_via_api",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\Clipe 01 - Hearth & Grace.mp4",
+      "duracao": "13:16",
+      "titulo": "Vintage Catholic Music for a Productive and Blessed Cleaning Day",
+      "descricao": "The work nobody applauds: 8 vintage Catholic hymns from Hearth & Grace for the folding, the sweeping, the garden, the table no one photographs. No one claps when the laundry's done. No one notices the swept floor. But every task done with love is seen.\n\nLeave this playing while you fold, sweep, tend the garden, set the table. This one is for the home only God sees.\n\nTRACKLIST:\n0:00 Hands That Rock the Cradle\n1:40 The Table of Friends\n3:19 Sunday Bells\n4:59 Laundry on the Line\n6:38 Flour on My Hands\n8:18 Autumn Harvest\n9:57 Garden in May\n11:37 Grateful for You\n\nIf your quiet work matters too, please like and subscribe — it helps Hearth & Grace reach more women who care for their homes with faith.\n\n#CatholicMusic #VintageHymns #HearthAndGrace #CatholicHomemaking #1950sMusic",
+      "comentario_fixado": "What's the task at home that nobody notices but you do it with love anyway? Tell us below.",
+      "capitulos": [
+        {
+          "tempo": "0:00",
+          "faixa": "Hands That Rock the Cradle"
+        },
+        {
+          "tempo": "1:40",
+          "faixa": "The Table of Friends"
+        },
+        {
+          "tempo": "3:19",
+          "faixa": "Sunday Bells"
+        },
+        {
+          "tempo": "4:59",
+          "faixa": "Laundry on the Line"
+        },
+        {
+          "tempo": "6:38",
+          "faixa": "Flour on My Hands"
+        },
+        {
+          "tempo": "8:18",
+          "faixa": "Autumn Harvest"
+        },
+        {
+          "tempo": "9:57",
+          "faixa": "Garden in May"
+        },
+        {
+          "tempo": "11:37",
+          "faixa": "Grateful for You"
+        }
+      ],
+      "tags_youtube": [
+        "vintage catholic hymns",
+        "catholic music for homemakers",
+        "1950s catholic music",
+        "old catholic hymns",
+        "catholic music for cleaning",
+        "catholic music for laundry",
+        "hearth and grace",
+        "catholic instrumental for home",
+        "music for setting the table",
+        "catholic music for women",
+        "vintage catholic music",
+        "catholic music for family"
+      ],
+      "link_produto": null,
+      "thumbnail_texto": "Unseen Work",
+      "observacao": "Tempos das faixas calculados dividindo a duração total (13:16) igualmente entre as 8 faixas na ordem definida em 01_Letras/Album 1/03 Ordem Final do Album/plano_lancamento_album_01.json (clipe_01: M05,M08,M03,M10,M02,M07,M04,M06). São aproximados — ajustar depois de conferir os cortes reais no CapCut.",
+      "_channel": "hearthandgrace",
+      "title": "Vintage Catholic Music for a Productive and Blessed Cleaning Day",
+      "description": "The work nobody applauds: 8 vintage Catholic hymns from Hearth & Grace for the folding, the sweeping, the garden, the table no one photographs. No one claps when the laundry's done. No one notices the swept floor. But every task done with love is seen.\n\nLeave this playing while you fold, sweep, tend the garden, set the table. This one is for the home only God sees.\n\nTRACKLIST:\n0:00 Hands That Rock the Cradle\n1:40 The Table of Friends\n3:19 Sunday Bells\n4:59 Laundry on the Line\n6:38 Flour on My Hands\n8:18 Autumn Harvest\n9:57 Garden in May\n11:37 Grateful for You\n\nIf your quiet work matters too, please like and subscribe — it helps Hearth & Grace reach more women who care for their homes with faith.\n\n#CatholicMusic #VintageHymns #HearthAndGrace #CatholicHomemaking #1950sMusic",
+      "video_id": "XWKZS1EkDIc"
+    },
+    {
+      "id": "LG_C01_YT",
+      "canal": "lardegraca",
+      "plataforma": "youtube",
+      "tipo": "video",
+      "publish_at": "2026-08-25T20:30:00-03:00",
+      "status": "editado_manual_via_api",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\Clipe 01 - Lar de Graça.mp4",
+      "duracao": "14:05",
+      "titulo": "Música Vintage Católica para uma Faxina Produtiva e Abençoada",
+      "descricao": "O trabalho que ninguém aplaude: 8 músicas católicas vintage do Lar de Graça pra dobrar roupa, varrer, cuidar do jardim, arrumar a mesa que ninguém fotografa. Ninguém bate palma quando a roupa fica pronta. Ninguém repara no chão varrido. Mas toda tarefa feita com amor é vista.\n\nDeixe tocando enquanto dobra, varre, cuida do jardim, arruma a mesa. Essa é pra quem cuida da casa que só Deus vê de verdade.\n\nFAIXAS:\n0:00 Mãos que Embalam\n1:46 A Mesa dos Amigos\n3:31 Domingo de Sino\n5:17 Roupa no Varal\n7:02 Manhãs de Farinha\n8:48 Colheita de Outono\n10:34 Jardim de Maio\n12:19 Grata por Ti\n\nSe o teu trabalho silencioso também importa, deixa o like e se inscreve — ajuda o Lar de Graça a chegar em mais mulheres católicas que cuidam da casa com fé.\n\n#MúsicaCatólica #LarDeGraça #MúsicaVintage #MúsicaParaFaxina #HinosCatólicos",
+      "comentario_fixado": "Qual tarefa em casa ninguém percebe, mas você faz com amor mesmo assim? Conta aqui embaixo.",
+      "capitulos": [
+        {
+          "tempo": "0:00",
+          "faixa": "Mãos que Embalam"
+        },
+        {
+          "tempo": "1:46",
+          "faixa": "A Mesa dos Amigos"
+        },
+        {
+          "tempo": "3:31",
+          "faixa": "Domingo de Sino"
+        },
+        {
+          "tempo": "5:17",
+          "faixa": "Roupa no Varal"
+        },
+        {
+          "tempo": "7:02",
+          "faixa": "Manhãs de Farinha"
+        },
+        {
+          "tempo": "8:48",
+          "faixa": "Colheita de Outono"
+        },
+        {
+          "tempo": "10:34",
+          "faixa": "Jardim de Maio"
+        },
+        {
+          "tempo": "12:19",
+          "faixa": "Grata por Ti"
+        }
+      ],
+      "tags_youtube": [
+        "musicas catolicas vintage",
+        "hinos catolicos antigos",
+        "musica catolica para faxina",
+        "musica catolica para dona de casa",
+        "musica catolica anos 50",
+        "lar de graca",
+        "musica catolica instrumental para casa",
+        "musica para lavar roupa",
+        "musica para jardim",
+        "musica catolica feminina",
+        "louvor catolico antigo",
+        "musica catolica para familia"
+      ],
+      "link_produto": null,
+      "thumbnail_texto": "Trabalho Invisível",
+      "observacao": "Mesma lógica de tempos aproximados do Hearth & Grace, calculada sobre a duração total real do arquivo (14:05) dividida pelas 8 faixas na mesma ordem (M05,M08,M03,M10,M02,M07,M04,M06). Ajustar depois de conferir os cortes reais.",
+      "_channel": "lardegraca",
+      "title": "Música Vintage Católica para uma Faxina Produtiva e Abençoada",
+      "description": "O trabalho que ninguém aplaude: 8 músicas católicas vintage do Lar de Graça pra dobrar roupa, varrer, cuidar do jardim, arrumar a mesa que ninguém fotografa. Ninguém bate palma quando a roupa fica pronta. Ninguém repara no chão varrido. Mas toda tarefa feita com amor é vista.\n\nDeixe tocando enquanto dobra, varre, cuida do jardim, arruma a mesa. Essa é pra quem cuida da casa que só Deus vê de verdade.\n\nFAIXAS:\n0:00 Mãos que Embalam\n1:46 A Mesa dos Amigos\n3:31 Domingo de Sino\n5:17 Roupa no Varal\n7:02 Manhãs de Farinha\n8:48 Colheita de Outono\n10:34 Jardim de Maio\n12:19 Grata por Ti\n\nSe o teu trabalho silencioso também importa, deixa o like e se inscreve — ajuda o Lar de Graça a chegar em mais mulheres católicas que cuidam da casa com fé.\n\n#MúsicaCatólica #LarDeGraça #MúsicaVintage #MúsicaParaFaxina #HinosCatólicos",
+      "video_id": "iOy9OTqDRIQ"
+    },
+    {
+      "id": "VD_C02_YT",
+      "canal": "voxdomini",
+      "plataforma": "youtube",
+      "tipo": "video",
+      "publish_at": "2026-08-25T21:00:00-03:00",
+      "status": "editado_manual_via_api",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\Clipe 02 - Vox Domini.mp4",
+      "titulo": "Onde Tua Carne Se Faz Pão | Música Católica para Adoração ao Santíssimo (Súplica e Rock Católico)",
+      "descricao": "Onde Tua Carne Se Faz Pão reúne as mesmas 8 músicas de \"Antes do Amanhecer\", agora em outra ordem, pra quem quer deixar tocando durante a adoração ao Santíssimo — não pra atravessar a madrugada, mas pra ficar parado diante d'Ele.\n\nRock católico e súplica, cantado por Davi Silveira, pra quando você já não sabe mais o que pedir e só quer ficar.\n\nFAIXAS:\n0:00 Onde Tua Carne Se Faz Pão\n5:43 Faz de Mim\n11:26 Estava Ali\n17:09 Acalma Essa Casa\n22:52 Antes Que Apague\n28:35 Mais Que Milagre\n34:18 Quando Eu Não Dou Conta\n40:01 Esse Corredor\n\nSe esse álbum te ajuda a ficar parado diante do Santíssimo, deixa o like e se inscreve — ajuda o Vox Domini a chegar em mais gente que também precisa de silêncio pra adorar.\n\n#MúsicaCatólica #AdoraçãoEucarística #RockCatólico #VoxDomini #MúsicaParaOrar",
+      "comentario_fixado": "Você ouve esse álbum mais pra adoração, pra dormir ou pra atravessar um dia difícil? Comenta aqui embaixo qual faixa mais te tocou dessa vez.",
+      "capitulos": [
+        {
+          "tempo": "0:00",
+          "faixa": "Onde Tua Carne Se Faz Pão"
+        },
+        {
+          "tempo": "5:43",
+          "faixa": "Faz de Mim"
+        },
+        {
+          "tempo": "11:26",
+          "faixa": "Estava Ali"
+        },
+        {
+          "tempo": "17:09",
+          "faixa": "Acalma Essa Casa"
+        },
+        {
+          "tempo": "22:52",
+          "faixa": "Antes Que Apague"
+        },
+        {
+          "tempo": "28:35",
+          "faixa": "Mais Que Milagre"
+        },
+        {
+          "tempo": "34:18",
+          "faixa": "Quando Eu Não Dou Conta"
+        },
+        {
+          "tempo": "40:01",
+          "faixa": "Esse Corredor"
+        }
+      ],
+      "tags_youtube": [
+        "musica catolica",
+        "adoracao eucaristica musica",
+        "rock catolico",
+        "musica catolica para adoracao",
+        "vox domini",
+        "musica para adorar",
+        "musica catolica rock",
+        "musica de fe",
+        "1 hora de musica catolica",
+        "musica catolica para rezar",
+        "album catolico completo",
+        "santissimo sacramento musica"
+      ],
+      "link_produto": null,
+      "observacao_estilo": "Mesmas 8 faixas do Clipe 01 ('Antes do Amanhecer'), reordenadas e reenquadradas pra adoração eucarística em vez de 'madrugada difícil', pra não repostar idêntico. Timestamps recalculados proporcionalmente sobre os ~45:46 totais do Clipe 01, já que ainda não temos os mp3s individuais à mão pra medir de novo — conferir duração real depois de exportado.",
+      "observacao": "Não existe plano formal de faixas pro Clipe 02 do Vox Domini como existe pro Vox de Caelo e pro Lar de Graça — essa escolha (reordenar as mesmas 8 faixas com foco em adoração) foi uma decisão minha pra manter o padrão de variação; validar com a Jaqueline antes de publicar de verdade.",
+      "_channel": "voxdomini",
+      "title": "Onde Tua Carne Se Faz Pão | Música Católica para Adoração ao Santíssimo (Súplica e Rock Católico)",
+      "description": "Onde Tua Carne Se Faz Pão reúne as mesmas 8 músicas de \"Antes do Amanhecer\", agora em outra ordem, pra quem quer deixar tocando durante a adoração ao Santíssimo — não pra atravessar a madrugada, mas pra ficar parado diante d'Ele.\n\nRock católico e súplica, cantado por Davi Silveira, pra quando você já não sabe mais o que pedir e só quer ficar.\n\nFAIXAS:\n0:00 Onde Tua Carne Se Faz Pão\n5:43 Faz de Mim\n11:26 Estava Ali\n17:09 Acalma Essa Casa\n22:52 Antes Que Apague\n28:35 Mais Que Milagre\n34:18 Quando Eu Não Dou Conta\n40:01 Esse Corredor\n\nSe esse álbum te ajuda a ficar parado diante do Santíssimo, deixa o like e se inscreve — ajuda o Vox Domini a chegar em mais gente que também precisa de silêncio pra adorar.\n\n#MúsicaCatólica #AdoraçãoEucarística #RockCatólico #VoxDomini #MúsicaParaOrar",
+      "video_id": "8bLP9kpAuJY"
+    },
+    {
+      "id": "SACRARIUM_S26_IG",
+      "canal": "sacrarium",
+      "plataforma": "instagram",
+      "tipo": "reels",
+      "publish_at": "2026-08-25T11:00:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S26_ervas_daninhas_da_alma.mp4",
+      "caption": "Santa Teresa de Ávila falava dos répteis que vivem no fosso em volta do castelo da alma.\n\nNão é imagem poética. É diagnóstico.\n\nAs ervas daninhas não são os pecados grandes que você já percebe. São o ressentimento nunca entregue, a vaidade disfarçada de virtude, o julgamento vestido de discernimento.\n\nCrescem enquanto você está ocupado com outra coisa.",
+      "first_comment": "O exame de consciência guiado do Sacrarium existe pra você ver esse jardim com honestidade. Link na bio.",
+      "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/instagram/SACRARIUM_S26_IG_video_S26_ervas_daninhas_da_alma.mp4",
+      "video_url_nuvem_remoto": "sacrarium/instagram/SACRARIUM_S26_IG_video_S26_ervas_daninhas_da_alma.mp4"
+    },
+    {
+      "id": "SACRARIUM_S26_FB",
+      "canal": "sacrarium",
+      "plataforma": "facebook",
+      "tipo": "reels",
+      "publish_at": "2026-08-25T20:15:00-03:00",
+      "status": "agendado",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S26_ervas_daninhas_da_alma.mp4",
+      "caption": "Todo jardim tem ervas daninhas. A alma também.\n\nSanta Teresa de Ávila via a alma como um castelo cercado por um fosso cheio de répteis — imagem que ela usava como diagnóstico espiritual, não decoração.\n\nO exame de consciência serve pra olhar esse jardim com honestidade, sem se condenar, só pra ver o que precisa sair antes de tomar o espaço do que é bom.",
+      "first_comment": "O exame de consciência guiado do Sacrarium foi feito pra isso. Link no site da nossa página.",
+      "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/facebook/SACRARIUM_S26_FB_video_S26_ervas_daninhas_da_alma.mp4",
+      "video_url_nuvem_remoto": "sacrarium/facebook/SACRARIUM_S26_FB_video_S26_ervas_daninhas_da_alma.mp4",
+      "resultado": {
+        "video_id": "1516293663584054",
+        "agendado": true,
+        "url": "https://www.facebook.com/reel/1516293663584054"
+      }
+    }
+  ]
+}
