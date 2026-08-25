@@ -322,12 +322,17 @@
       "plataforma": "instagram",
       "tipo": "reels",
       "publish_at": "2026-08-25T11:00:00-03:00",
-      "status": "pendente",
+      "status": "publicado",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S26_ervas_daninhas_da_alma.mp4",
       "caption": "Santa Teresa de Ávila falava dos répteis que vivem no fosso em volta do castelo da alma.\n\nNão é imagem poética. É diagnóstico.\n\nAs ervas daninhas não são os pecados grandes que você já percebe. São o ressentimento nunca entregue, a vaidade disfarçada de virtude, o julgamento vestido de discernimento.\n\nCrescem enquanto você está ocupado com outra coisa.",
       "first_comment": "O exame de consciência guiado do Sacrarium existe pra você ver esse jardim com honestidade. Link na bio.",
       "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/instagram/SACRARIUM_S26_IG_video_S26_ervas_daninhas_da_alma.mp4",
-      "video_url_nuvem_remoto": "sacrarium/instagram/SACRARIUM_S26_IG_video_S26_ervas_daninhas_da_alma.mp4"
+      "video_url_nuvem_remoto": "sacrarium/instagram/SACRARIUM_S26_IG_video_S26_ervas_daninhas_da_alma.mp4",
+      "resultado": {
+        "media_id": "18174547303432133",
+        "url": "https://www.instagram.com/reel/18174547303432133",
+        "comentario": "postado na hora"
+      }
     },
     {
       "id": "SACRARIUM_S26_FB",
