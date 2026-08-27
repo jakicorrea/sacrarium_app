@@ -1,0 +1,68 @@
+{
+  "lote": "Sacrarium S28 (Insta+Face) + Hearth&Grace Clipe03 + CathedraPetri (aguardando) - 27/08/2026",
+  "jobs": [
+    {
+      "id": "SAC_S28_IG",
+      "canal": "sacrarium",
+      "plataforma": "instagram",
+      "tipo": "reels",
+      "publish_at": "2026-08-27T11:00:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S28_presenca_de_deus_no_dia.mp4",
+      "caption": "Você reza todo dia e mesmo assim termina sem sentir que percebeu Deus em lugar nenhum?\n\nTalvez o problema não seja rezar pouco.\n\nSeja nunca ter sido formada pra perceber.\n\nSanto Inácio de Loyola ensinava um exercício simples de poucos minutos — mais importante, segundo ele, do que a meditação longa.\n\nÉ isso que forma a atenção que falta.",
+      "first_comment": "O Sacrarium te guia nesse exame passo a passo. Link na bio."
+    },
+    {
+      "id": "SAC_S28_FB",
+      "canal": "sacrarium",
+      "plataforma": "facebook",
+      "tipo": "reels",
+      "publish_at": "2026-08-27T11:00:00-03:00",
+      "status": "agendado",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S28_presenca_de_deus_no_dia.mp4",
+      "caption": "Por que você pode rezar o dia inteiro e ainda sentir que não viu Deus em lugar nenhum?\n\nSanto Inácio de Loyola tinha um exercício de poucos minutos que ele considerava mais importante que meditação longa — porque forma exatamente a atenção que costuma faltar.\n\nO Sacrarium guia esse exame passo a passo, todas as noites.",
+      "first_comment": "Pra conhecer o Sacrarium: link no site da nossa página.",
+      "resultado": {
+        "video_id": "1700642791019279",
+        "agendado": true,
+        "url": "https://www.facebook.com/reel/1700642791019279"
+      }
+    },
+    {
+      "id": "HG_C03_YT",
+      "canal": "hearthandgrace",
+      "plataforma": "youtube",
+      "tipo": "video",
+      "publish_at": "2026-08-27T15:00:00-03:00",
+      "status": "editado_manual_via_api",
+      "video_id": "218xAtZNIIw",
+      "title": "Vintage Christian Hymns for Cooking with Faith and Patience",
+      "description": "Vintage Christian hymns to play in the kitchen while the sauce simmers and the bread rises — for cooking done with love, not just duty.\n\nLeave this playing while you prepare a meal, wait for dough to rise, or just tidy the pantry.\n\nIf this soundtrack keeps you company in the kitchen, like and subscribe — it helps Hearth & Grace reach more Christian women who care for their homes with faith.\n\n#ChristianMusic #HearthAndGrace #VintageHymns #MusicForCooking #ChristianHomemaking",
+      "tags": [
+        "vintage christian hymns",
+        "christian music for cooking",
+        "christian music for baking",
+        "1950s christian music",
+        "christian music for home",
+        "hearth and grace",
+        "christian instrumental for kitchen",
+        "music for making bread",
+        "christian music for women",
+        "vintage christian music",
+        "christian devotional music",
+        "christian music for family"
+      ],
+      "category_id": 10,
+      "observacao": "Excepcional: 3º vídeo do canal no mesmo dia (26-27/08), por causa do atraso do Clipe 02 que precisou ser reenviado. Aplicar via API direta (video já upado, só falta título/descrição/tags e agendar publishAt pras 15h) -- não usar youtube_edit_existente.py (ele acharia o upload mais recente errado, que pode já ser outro por essa hora)."
+    },
+    {
+      "id": "CP_YT",
+      "canal": "cathedrapetri",
+      "plataforma": "youtube",
+      "tipo": "video",
+      "publish_at": "2026-08-27T11:00:00-03:00",
+      "status": "aguardando_exportacao",
+      "observacao": "Jaqueline ainda gerando as imagens. Avisa quando terminar de exportar e subir -- então aplicar via API pelo video_id direto (upload mais recente do canal), sem confundir com outro vídeo."
+    }
+  ]
+}
