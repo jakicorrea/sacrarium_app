@@ -1,0 +1,42 @@
+{
+  "lote": "Hearth&Grace Clipe04 + LarDeGraca Clipe04 (publicados) + Sacrarium S29 (IG+FB) + CP V21 (aguardando reauth) - 28/08/2026",
+  "jobs": [
+    {
+      "id": "SAC_S29_IG",
+      "canal": "sacrarium",
+      "plataforma": "instagram",
+      "tipo": "reels",
+      "publish_at": "2026-08-28T11:00:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S29_como_voltar_para_deus.mp4",
+      "caption": "Faz tempo que você se afastou de Deus?\n\nA parábola do filho pródigo responde em dois versículos.\n\n\"O filho levantou-se e foi.\"\n\nNão mandou mensagem avisando. Não esperou estar arrependido por completo. Só se levantou e foi.\n\n\"E o pai viu-o ainda de longe.\"\n\nO pai não esperava notificação — estava olhando pro horizonte o tempo todo.",
+      "first_comment": "O Sacrarium acompanha esse retorno do ponto exato em que você está. Link na bio."
+    },
+    {
+      "id": "SAC_S29_FB",
+      "canal": "sacrarium",
+      "plataforma": "facebook",
+      "tipo": "reels",
+      "publish_at": "2026-08-28T11:00:00-03:00",
+      "status": "agendado",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S29_como_voltar_para_deus.mp4",
+      "caption": "Como voltar pra Deus depois de tempo longe? A parábola do filho pródigo responde em dois versículos.\n\n\"O filho levantou-se e foi\" — sem plano elaborado, sem esperar estar completamente pronto.\n\n\"E o pai viu-o ainda de longe\" — porque nunca parou de olhar pro horizonte.\n\nO retorno não precisa ser grandioso. Precisa de um passo. E depois do próximo.",
+      "first_comment": "O Sacrarium acompanha esse retorno do ponto em que você está. Link no site da nossa página.",
+      "resultado": {
+        "video_id": "1013874805036124",
+        "agendado": true,
+        "url": "https://www.facebook.com/reel/1013874805036124"
+      }
+    },
+    {
+      "id": "CP_V21_YT",
+      "canal": "cathedrapetri",
+      "plataforma": "youtube",
+      "tipo": "video",
+      "publish_at": "2026-08-28T11:00:00-03:00",
+      "status": "editado_manual_via_api",
+      "observacao": "Vídeo já foi enviado ontem mas não deu tempo de postar (token expirado). Aguardando a Jaqueline reautorizar o canal no link do OAuth antes de aplicar título/descrição/tags. Achar o upload mais recente do canal via API assim que autorizar.",
+      "video_id": "ssmuvHIBzuI"
+    }
+  ]
+}
