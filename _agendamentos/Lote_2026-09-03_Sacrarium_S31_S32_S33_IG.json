@@ -1,0 +1,44 @@
+{
+  "lote": "02/09/2026 - Sacrarium S31/S32/S33 Instagram (cloud/GitHub Actions) - horarios 03-05/09 11h",
+  "jobs": [
+    {
+      "id": "SAC_S31_IG",
+      "canal": "sacrarium",
+      "plataforma": "instagram",
+      "tipo": "reels",
+      "publish_at": "2026-09-03T11:00:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S31_exame_consciencia_inacio.mp4",
+      "caption": "Santo Inacio de Loyola achava o Exame de Consciencia mais importante que a meditacao longa.\n\nNao por ser penitencia. Por formar a atencao.\n\nCinco passos, cinco minutos: agradecer, pedir luz, rever o dia, pedir perdao, decidir amanha.\n\nE a pergunta que importa nao e quantos pecados voce achou. E quantas vezes Deus estava ali e voce passou reto.",
+      "first_comment": "O Sacrarium traz esse exame guiado todas as noites. Link na bio.",
+      "video_url_nuvem": "https://zfzhelrucgjwhyxliikw.supabase.co/storage/v1/object/public/postagens-insta/sacrarium/instagram/SAC_S31_IG_video_S31_exame_consciencia_inacio.mp4",
+      "video_url_nuvem_remoto": "sacrarium/instagram/SAC_S31_IG_video_S31_exame_consciencia_inacio.mp4"
+    },
+    {
+      "id": "SAC_S32_IG",
+      "canal": "sacrarium",
+      "plataforma": "instagram",
+      "tipo": "reels",
+      "publish_at": "2026-09-04T11:00:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S32_consolacoes_e_desolacoes.mp4",
+      "caption": "Tem dia que voce quer rezar. Tem dia que parece impossivel.\n\nSanto Inacio deu nome aos dois: consolacao e desolacao. E disse que os dois sao normais.\n\nA regra que muda tudo: na consolacao, nao tome decisoes por impulso. Na desolacao, nao volte atras no que decidiu quando estava firme.\n\nDistinguir os dois estados e onde comeca o discernimento.",
+      "first_comment": "O Sacrarium acompanha a consolacao e a desolacao. Link na bio.",
+      "video_url_nuvem": "https://zfzhelrucgjwhyxliikw.supabase.co/storage/v1/object/public/postagens-insta/sacrarium/instagram/SAC_S32_IG_video_S32_consolacoes_e_desolacoes.mp4",
+      "video_url_nuvem_remoto": "sacrarium/instagram/SAC_S32_IG_video_S32_consolacoes_e_desolacoes.mp4"
+    },
+    {
+      "id": "SAC_S33_IG",
+      "canal": "sacrarium",
+      "plataforma": "instagram",
+      "tipo": "reels",
+      "publish_at": "2026-09-05T11:00:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S33_soberba_raiz_de_tudo.mp4",
+      "caption": "A Igreja chama a soberba de raiz de todos os pecados. Nao e forca de expressao.\n\nSoberba nao e so arrogancia. E rezar alto pra ser admirado. E comparar a sua devocao com a do vizinho. E ajudar, mas precisar que saibam que voce ajudou.\n\nTomas de Aquino: e a desordem que inverte a relacao entre criatura e Criador. Por isso a vida espiritual comeca pelo autoconhecimento, nao pela performance.",
+      "first_comment": "No Sacrarium, o autoconhecimento e a porta de entrada de cada fase. Link na bio.",
+      "video_url_nuvem": "https://zfzhelrucgjwhyxliikw.supabase.co/storage/v1/object/public/postagens-insta/sacrarium/instagram/SAC_S33_IG_video_S33_soberba_raiz_de_tudo.mp4",
+      "video_url_nuvem_remoto": "sacrarium/instagram/SAC_S33_IG_video_S33_soberba_raiz_de_tudo.mp4"
+    }
+  ]
+}
