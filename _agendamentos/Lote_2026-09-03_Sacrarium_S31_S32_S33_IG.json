@@ -7,7 +7,7 @@
       "plataforma": "instagram",
       "tipo": "reels",
       "publish_at": "2026-09-03T11:00:00-03:00",
-      "status": "pendente",
+      "status": "erro: HTTPSConnectionPool(host='onnpdtyntvhcrxtivbmp.supabase.co', port=443): Max retries exceeded with url: /storage/v1/object/PostagensInsta/1788446075_ig_reencode_1788445986_nuvem_1788445985_6258.mp4 (Caused by NameResolutionError(\"HTTPSConnection(host='onnpdtyntvhcrxtivbmp.supabase.co', port=443): Failed to resolve 'onnpdtyntvhcrxtivbmp.supabase.co' ([Errno -2] Name or service not known)\"))",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S31_exame_consciencia_inacio.mp4",
       "caption": "Santo Inacio de Loyola achava o Exame de Consciencia mais importante que a meditacao longa.\n\nNao por ser penitencia. Por formar a atencao.\n\nCinco passos, cinco minutos: agradecer, pedir luz, rever o dia, pedir perdao, decidir amanha.\n\nE a pergunta que importa nao e quantos pecados voce achou. E quantas vezes Deus estava ali e voce passou reto.",
       "first_comment": "O Sacrarium traz esse exame guiado todas as noites. Link na bio.",
