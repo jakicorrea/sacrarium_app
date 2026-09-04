@@ -20,7 +20,7 @@
       "plataforma": "instagram",
       "tipo": "reels",
       "publish_at": "2026-09-04T11:00:00-03:00",
-      "status": "pendente",
+      "status": "erro: HTTPSConnectionPool(host='onnpdtyntvhcrxtivbmp.supabase.co', port=443): Max retries exceeded with url: /storage/v1/object/PostagensInsta/1788530512_ig_reencode_1788530422_nuvem_1788530421_2340.mp4 (Caused by NameResolutionError(\"HTTPSConnection(host='onnpdtyntvhcrxtivbmp.supabase.co', port=443): Failed to resolve 'onnpdtyntvhcrxtivbmp.supabase.co' ([Errno -2] Name or service not known)\"))",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S32_consolacoes_e_desolacoes.mp4",
       "caption": "Tem dia que voce quer rezar. Tem dia que parece impossivel.\n\nSanto Inacio deu nome aos dois: consolacao e desolacao. E disse que os dois sao normais.\n\nA regra que muda tudo: na consolacao, nao tome decisoes por impulso. Na desolacao, nao volte atras no que decidiu quando estava firme.\n\nDistinguir os dois estados e onde comeca o discernimento.",
       "first_comment": "O Sacrarium acompanha a consolacao e a desolacao. Link na bio.",
