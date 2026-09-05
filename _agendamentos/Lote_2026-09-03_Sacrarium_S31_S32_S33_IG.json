@@ -33,7 +33,7 @@
       "plataforma": "instagram",
       "tipo": "reels",
       "publish_at": "2026-09-05T11:00:00-03:00",
-      "status": "pendente",
+      "status": "erro: HTTPSConnectionPool(host='onnpdtyntvhcrxtivbmp.supabase.co', port=443): Max retries exceeded with url: /storage/v1/object/PostagensInsta/1788622936_ig_reencode_1788622850_nuvem_1788622849_4840.mp4 (Caused by NameResolutionError(\"HTTPSConnection(host='onnpdtyntvhcrxtivbmp.supabase.co', port=443): Failed to resolve 'onnpdtyntvhcrxtivbmp.supabase.co' ([Errno -2] Name or service not known)\"))",
       "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S33_soberba_raiz_de_tudo.mp4",
       "caption": "A Igreja chama a soberba de raiz de todos os pecados. Nao e forca de expressao.\n\nSoberba nao e so arrogancia. E rezar alto pra ser admirado. E comparar a sua devocao com a do vizinho. E ajudar, mas precisar que saibam que voce ajudou.\n\nTomas de Aquino: e a desordem que inverte a relacao entre criatura e Criador. Por isso a vida espiritual comeca pelo autoconhecimento, nao pela performance.",
       "first_comment": "No Sacrarium, o autoconhecimento e a porta de entrada de cada fase. Link na bio.",
