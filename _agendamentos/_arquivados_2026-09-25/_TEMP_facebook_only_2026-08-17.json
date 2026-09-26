@@ -1,0 +1,44 @@
+{
+  "lote": "FACEBOOK-ONLY temp run 2026-08-17 (YouTube tokens expirados, rodando so Facebook nesta chamada)",
+  "jobs": [
+    {
+      "id": "SACRARIUM_S24_FB",
+      "canal": "sacrarium",
+      "plataforma": "facebook",
+      "tipo": "reels",
+      "publish_at": "2026-08-17T19:30:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S24_amizade_com_deus.mp4",
+      "caption": "Fazer amizade com Deus.\n\nParece estranho escrever assim, mas foi como Santa Teresa de Ávila definiu a oração.\n\nUm trato de amizade.\nEstando a sós com quem sabemos que nos ama.\n\nToda amizade cresce em etapas.\nPresença. Familiaridade. Confiança. Intimidade.\n\nNenhuma delas acontece de um dia pro outro.",
+      "first_comment": "Se a oração fosse uma amizade, em que etapa ela estaria hoje pra você? Conta aqui embaixo.\nO Sacrarium existe pra cultivar essa amizade todos os dias.\nConheça: https://sacrarium-app.netlify.app/",
+      "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/facebook/SACRARIUM_S24_FB_video_S24_amizade_com_deus.mp4",
+      "video_url_nuvem_remoto": "sacrarium/facebook/SACRARIUM_S24_FB_video_S24_amizade_com_deus.mp4"
+    },
+    {
+      "id": "METODOANA_S24_FB",
+      "canal": "metodoana",
+      "plataforma": "facebook",
+      "tipo": "reels",
+      "publish_at": "2026-08-17T19:30:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S24_Consumidor_gov_br_Depois_do_Nao.mp4",
+      "caption": "O SAC do banco te disse não?\n\nTem um próximo passo que quase ninguém usa.\n\nConsumidor.gov.br.\n\nEsse portal tem força jurídica. O banco é obrigado a responder, com prazo.\n\nDiferente do SAC, aqui tudo fica registrado, com número de protocolo.",
+      "first_comment": "Já tentou negociar com o SAC e recebeu um não? Comenta aqui embaixo como foi. Guia gratuito no link da bio.",
+      "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/facebook/METODOANA_S24_FB_video_S24_Consumidor_gov_br_Depois_do_Nao.mp4",
+      "video_url_nuvem_remoto": "metodoana/facebook/METODOANA_S24_FB_video_S24_Consumidor_gov_br_Depois_do_Nao.mp4"
+    },
+    {
+      "id": "P4D_S24_FB",
+      "canal": "protocolo4d",
+      "plataforma": "facebook",
+      "tipo": "reels",
+      "publish_at": "2026-08-17T19:30:00-03:00",
+      "status": "pendente",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S24_P4D_banco_lucra_com_minimo.mp4",
+      "caption": "O banco prefere que você pague o mínimo do cartão.\n\nVocê sabe por quê?\n\nO mínimo é o produto mais lucrativo que ele tem.\n\nVocê paga o mínimo. O banco ganha juro do rotativo sobre o resto. Mês seguinte, o saldo é maior. Você paga o mínimo de novo. Mais juro.",
+      "first_comment": "Você já calculou quanto do seu saldo hoje é só juro acumulado? Comenta aqui embaixo. Calculadora gratuita: https://protocolo-4d.netlify.app/lp-calculadora-dividas",
+      "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/protocolo4d/facebook/P4D_S24_FB_video_S24_P4D_banco_lucra_com_minimo.mp4",
+      "video_url_nuvem_remoto": "protocolo4d/facebook/P4D_S24_FB_video_S24_P4D_banco_lucra_com_minimo.mp4"
+    }
+  ]
+}

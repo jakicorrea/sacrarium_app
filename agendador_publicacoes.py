@@ -156,6 +156,7 @@ CONTA_FB = {
     "metodoana": "cofrinhodefe",
     "sacrarium": "sacrarium",
     "protocolo4d": "protocolo4d",
+    "forjandotitas": "protocolo4d",  # FT usa a pagina de Face do Protocolo4D (25/09/2026)
 }
 CONTA_IG = {
     "metodoana": "cofrinhodefe",
@@ -718,6 +719,7 @@ def _ig_publicar_reels(job):
             "media_type": "REELS",
             "video_url": video_url,
             "caption": job.get("caption", ""),
+            "is_ai_generated": "true",  # USO DE IA: SEMPRE declarado (regra dela 25/09/2026)
             "access_token": token,
         }, timeout=60))
         container_id = r.json()["id"]
@@ -778,6 +780,7 @@ def _ig_publicar_carrossel(job):
             "media_type": "CAROUSEL",
             "children": ",".join(children),
             "caption": job.get("caption", ""),
+            "is_ai_generated": "true",  # USO DE IA: SEMPRE declarado (regra dela 25/09/2026)
             "access_token": token,
         }, timeout=60))
         container_id = r_parent.json()["id"]
@@ -827,6 +830,7 @@ def _ig_publicar_foto_unica(job):
         r = _checar(requests.post(f"{GRAPH}/{ig_id}/media", data={
             "image_url": url_publica,
             "caption": job.get("caption", ""),
+            "is_ai_generated": "true",  # USO DE IA: SEMPRE declarado (regra dela 25/09/2026)
             "access_token": token,
         }, timeout=60))
         container_id = r.json()["id"]

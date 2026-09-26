@@ -47,6 +47,7 @@ import time
 import tempfile
 import argparse
 import subprocess
+import datetime as dt
 from pathlib import Path
 
 import requests
@@ -157,6 +158,23 @@ def _upload_se_preciso(url, key, bucket, caminho_local, caminho_remoto):
     return f"{url}/storage/v1/object/public/{bucket}/{caminho_remoto}"
 
 
+def _agora_iso():
+    return dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+
+
+def _idade_dias(iso_str):
+    """Dias corridos desde `iso_str` (formato de _agora_iso). None se
+    iso_str for vazio/invalido -- chamador trata como 'nao sabemos a idade',
+    nunca como 'e' velho o suficiente'."""
+    if not iso_str:
+        return None
+    try:
+        momento = dt.datetime.strptime(iso_str, "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=dt.timezone.utc)
+    except ValueError:
+        return None
+    return (dt.datetime.now(dt.timezone.utc) - momento).total_seconds() / 86400.0
+
+
 def _apagar(url, key, bucket, caminho_remoto):
     try:
         requests.delete(f"{url}/storage/v1/object/{bucket}",
@@ -237,6 +255,18 @@ def sincronizar_arquivo(jobs_path, url, key, bucket):
         except Exception as e:
             print(f"  [ERRO] {job.get('id')} (thumb): {e} — pulando esse job, continuando com os outros")
 
+    # Timestamp de "entrou na nuvem" -- usado pela limpeza automatica
+    # (--limpar-automatico) pra saber a IDADE do item, alem do status. So'
+    # carimba uma vez (na primeira URL que sobe pra aquele job) e nunca
+    # sobrescreve depois.
+    if mudou:
+        for job in data.get("jobs", []):
+            if not job.get("_nuvem_enviado_em") and (
+                job.get("video_url_nuvem") or job.get("image_url_nuvem")
+                or job.get("image_urls_nuvem") or job.get("thumb_url_nuvem")
+            ):
+                job["_nuvem_enviado_em"] = _agora_iso()
+
     if mudou:
         jobs_path.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
         print(f"  {jobs_path.name}: atualizado com URLs da nuvem.")
@@ -272,11 +302,96 @@ def limpar_publicados(jobs_paths, url, key, bucket):
             print(f"  {jobs_path.name}: limpo (jobs concluidos apagados do bucket permanente).")
 
 
+def limpar_automatico(jobs_paths, url, key, bucket, idade_minima_dias=2.0):
+    """Limpeza AUTOMATICA (chamada pelo botao 'Subir' da tela Postar, sem
+    confirmacao manual dela a cada clique -- autorizado por ela em 15/09/2026,
+    com a condicao de uma dupla checagem de seguranca). So apaga um item se
+    AS DUAS coisas forem verdade ao mesmo tempo:
+      (a) IDADE: `_nuvem_enviado_em` existe e ja se passaram
+          `idade_minima_dias` (padrao 2) desde entao;
+      (b) STATUS CONFIRMADO: `status` e' EXATAMENTE "publicado" (nao conta
+          "agendado" nem "erro: ..." -- so' "publicado" e' confirmacao real
+          de sucesso escrita pelo workflow do GitHub Actions).
+    Qualquer duvida (idade desconhecida, status vazio/pendente/erro/agendado,
+    ou so' um dos dois criterios bate) => NAO apaga, so' registra um aviso
+    pra ela auditar depois. Nunca lanca excecao -- devolve um resumo
+    detalhado (apagados/avisados) que o main.js loga inteiro no debug.log.
+    Continua tao 'so' apaga do Supabase + edita o json local' quanto o
+    `--limpar-publicados` manual -- o commit/push dessa mudanca no repo
+    continua exigindo o mesmo botao de confirmacao separado."""
+    resumo = {"apagados": [], "avisos": []}
+    for jobs_path in jobs_paths:
+        data = json.loads(jobs_path.read_text(encoding="utf-8"))
+        mudou = False
+        for job in data.get("jobs", []):
+            status = job.get("status", "pendente")
+            enviado_em = job.get("_nuvem_enviado_em")
+            idade = _idade_dias(enviado_em)
+            tem_midia_na_nuvem = any(job.get(c) for c in (
+                "video_url_nuvem_remoto", "image_url_nuvem_remoto", "thumb_url_nuvem_remoto",
+                "image_urls_nuvem_remoto",
+            ))
+            if not tem_midia_na_nuvem:
+                continue  # nada pra apagar nesse job de qualquer forma
+
+            idade_ok = idade is not None and idade >= idade_minima_dias
+            status_ok = status == "publicado"
+
+            if idade_ok and status_ok:
+                for campo_url, campo_remoto in [
+                    ("video_url_nuvem", "video_url_nuvem_remoto"),
+                    ("image_url_nuvem", "image_url_nuvem_remoto"),
+                    ("thumb_url_nuvem", "thumb_url_nuvem_remoto"),
+                ]:
+                    if job.get(campo_remoto):
+                        _apagar(url, key, bucket, job[campo_remoto])
+                        del job[campo_remoto]
+                        del job[campo_url]
+                        mudou = True
+                if job.get("image_urls_nuvem_remoto"):
+                    for remoto in job["image_urls_nuvem_remoto"]:
+                        _apagar(url, key, bucket, remoto)
+                    del job["image_urls_nuvem_remoto"]
+                    del job["image_urls_nuvem"]
+                    mudou = True
+                resumo["apagados"].append({
+                    "arquivo": jobs_path.name, "id": job.get("id"), "canal": job.get("canal"),
+                    "status": status, "idade_dias": round(idade, 1), "enviado_em": enviado_em,
+                })
+                print(f"  [AUTO-LIMPEZA] apagado: {jobs_path.name} / {job.get('id')} "
+                      f"(status={status}, idade={idade:.1f}d)")
+            elif idade_ok and not status_ok:
+                # Esse e' o caso que ela pediu explicitamente pra NUNCA decidir
+                # sozinho: tem 2+ dias mas o status nao confirma sucesso.
+                resumo["avisos"].append({
+                    "arquivo": jobs_path.name, "id": job.get("id"), "canal": job.get("canal"),
+                    "status": status, "idade_dias": round(idade, 1) if idade is not None else None,
+                    "enviado_em": enviado_em,
+                    "motivo": f"idade >= {idade_minima_dias}d mas status ('{status}') nao confirma "
+                              "sucesso -- NAO apagado, confira manualmente.",
+                })
+                print(f"  [AVISO] NAO apagado (status nao confirmado): {jobs_path.name} / "
+                      f"{job.get('id')} -- status='{status}', idade={idade:.1f}d")
+            # idade_ok == False (ou idade desconhecida): silencioso, e' o caso
+            # normal de "ainda nao fez os 2 dias" -- nao precisa avisar toda hora.
+        if mudou:
+            jobs_path.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
+    print(f"\n[AUTO-LIMPEZA] resumo: {len(resumo['apagados'])} apagado(s), "
+          f"{len(resumo['avisos'])} aviso(s) (2+ dias mas status nao confirmado).")
+    print("RESUMO_JSON:" + json.dumps(resumo, ensure_ascii=False))
+    return resumo
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("jobs_path", nargs="?")
     ap.add_argument("--limpar-publicados", action="store_true",
-                     help="apaga do bucket permanente os arquivos de jobs ja publicados/agendados/erro")
+                     help="[MANUAL] apaga do bucket permanente os arquivos de jobs ja "
+                          "publicados/agendados/erro -- sem checar idade, so' status != pendente")
+    ap.add_argument("--limpar-automatico", action="store_true",
+                     help="[AUTOMATICO, chamado pelo botao Subir] so' apaga se status == "
+                          "'publicado' E _nuvem_enviado_em tiver 2+ dias -- qualquer duvida vira "
+                          "aviso, nunca apaga sozinho")
     args = ap.parse_args()
 
     url, key, bucket = _supabase_creds()
@@ -290,6 +405,10 @@ def main():
 
     if args.limpar_publicados:
         limpar_publicados(arquivos, url, key, bucket)
+        return
+
+    if args.limpar_automatico:
+        limpar_automatico(arquivos, url, key, bucket)
         return
 
     if not arquivos:

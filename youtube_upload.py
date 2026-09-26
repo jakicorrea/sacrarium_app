@@ -14,7 +14,7 @@ jobs.json: lista de objetos, cada um com:
     video_path, thumb_path, title, description, tags (lista), category_id,
     publish_at (ISO 8601 UTC, ex: "2026-07-09T15:00:00Z"), pinned_comment (opcional),
     language (opcional, padrao "pt" — define idioma do video e do audio),
-    contains_synthetic_media (opcional, padrao True — disclosure de conteudo com IA),
+    (uso de IA: SEMPRE declarado "Sim" -- containsSyntheticMedia=True fixo, sem opcao de desligar),
     embeddable (opcional, padrao False — permitir incorporacao em outros sites),
     playlists (opcional — lista de chaves de playlist dentro de youtube_playlists_<canal>.json,
     criadas com 01_Scripts/criar_playlist.py; um video pode entrar em varias, ex:
@@ -88,6 +88,13 @@ def get_credentials(channel):
                 print(f">>> [aviso] refresh do token de '{channel}' falhou ({e}) — "
                       f"token provavelmente revogado, pedindo autorizacao nova.", flush=True)
         if not refrescou:
+            # MRD: sem terminal (rodando pelo app, stdin fechado) o login abaixo
+            # ficaria esperando pra sempre sem ninguem ver (auditoria M6 25/09/2026).
+            # Falha na hora, com mensagem clara, em vez de travar.
+            if not (sys.stdin and sys.stdin.isatty()):
+                raise RuntimeError(f"YouTube do canal '{channel}' precisa ser autorizado de novo "
+                                   f"(token vencido/revogado). Rode a autorizacao no terminal: "
+                                   f"py youtube_upload.py --check-pendentes {channel}  (abre o link de autorizacao).")
             client_secret_path = Path(CLIENT_SECRET_PATH_FILE.read_text(encoding="utf-8-sig").strip())
             flow = InstalledAppFlow.from_client_secrets_file(str(client_secret_path), SCOPES)
             print(f">>> Abra este link no navegador pra autorizar o canal '{channel}':", flush=True)
@@ -153,11 +160,9 @@ def upload_video(youtube, job, channel):
             "privacyStatus": "private",
             "publishAt": job["publish_at"],
             "selfDeclaredMadeForKids": False,
-            # Disclosure de conteudo alterado/sintetico (2026-07-08): quase todo video
-            # dessa pipeline usa voz/imagem gerada por IA, entao o padrao e True.
-            # Passar "contains_synthetic_media": false no job so no caso raro de um
-            # video sem nenhum elemento de IA.
-            "containsSyntheticMedia": job.get("contains_synthetic_media", True),
+            # USO DE IA: SEMPRE "Sim" (regra dela, 25/09/2026 -- risco de strike).
+            # Nao existe excecao: nenhum job consegue desligar isso.
+            "containsSyntheticMedia": True,
             # Padrao do canal (2026-07-08, pedido da Jaqueline): incorporacao e
             # remixagem desligadas por padrao. Passar "embeddable": true no job pra
             # liberar excecao especifica.

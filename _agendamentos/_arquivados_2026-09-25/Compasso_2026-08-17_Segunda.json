@@ -1,0 +1,216 @@
+{
+  "lote": "Segunda 17/08/2026 - Sacrarium S24 + MetodoANA S24 + P4D S24 + FT V16. Todos agendados pra 19:30:00 (fora da janela 12h-19h, tratados como atrasado do dia por decisao da Jaqueline: preparo do pack levou alem do meio-dia). Metodo ANA e obrigatoriamente 19h30 nas 3 redes por instrucao direta. P4D linka FT V16 (mesmo lote, reuso ja documentado em Vinculos_Video_Relacionado.txt). Sem thumb_path explicito nos 3 shorts novos (S24) -- ainda nao geradas, script busca automatico e segue sem thumb se nao achar (comportamento normal). FT V16 usa thumb existente 'VELHAS THUMBS FT/V16 - PAGAR O MINIMO.jpeg'.",
+  "jobs": [
+    {
+      "id": "SACRARIUM_S24_YT",
+      "canal": "sacrarium",
+      "plataforma": "youtube",
+      "tipo": "reels",
+      "publish_at": "2026-08-17T19:30:00-03:00",
+      "status": "agendado",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S24_amizade_com_deus.mp4",
+      "title": "Fazer Amizade com Deus. Isso É Possível?",
+      "description": "Existe uma definição de oração que Santa Teresa de Ávila deixou e que muda como a gente encara esse tempo com Deus: um trato de amizade, estando a sós com quem sabemos que nos ama.\n\nNeste vídeo, eu explico por que essa definição tira o peso da 'técnica' e da 'obrigação' e devolve a oração pro lugar de relação. Como toda amizade, ela cresce em etapas — presença, familiaridade, confiança, intimidade — e nenhuma dessas etapas se constrói de um dia pro outro.\n\nTambém falo sobre o que acontece quando essa presença regular falta: assim como amigos que somem por meses precisam reconstruir o que foi perdido, a vida de oração funciona do mesmo jeito.\n\nUm vídeo pra quem já ouviu que oração é 'obrigação' e nunca tinha pensado nela como amizade.\n\nFoi sobre essa amizade que o Sacrarium nasceu. Conheça o Sacrarium.",
+      "tags": [
+        "oração católica",
+        "vida espiritual",
+        "Sacrarium",
+        "espiritualidade católica",
+        "Santa Teresa de Ávila"
+      ],
+      "category_id": 27,
+      "pinned_comment": "Se a oração fosse uma amizade, em que etapa ela estaria hoje pra você? Presença, familiaridade, confiança ou intimidade? Conta aqui embaixo.\nO Sacrarium existe pra cultivar essa amizade todos os dias.\nConheça: https://sacrarium-app.netlify.app/",
+      "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/youtube/SACRARIUM_S24_YT_video_S24_amizade_com_deus.mp4",
+      "video_url_nuvem_remoto": "sacrarium/youtube/SACRARIUM_S24_YT_video_S24_amizade_com_deus.mp4",
+      "resultado": {
+        "video_id": "ub_gCLPjgAU",
+        "url": "https://youtube.com/watch?v=ub_gCLPjgAU"
+      }
+    },
+    {
+      "id": "SACRARIUM_S24_FB",
+      "canal": "sacrarium",
+      "plataforma": "facebook",
+      "tipo": "reels",
+      "publish_at": "2026-08-17T19:30:00-03:00",
+      "status": "publicado",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S24_amizade_com_deus.mp4",
+      "caption": "Fazer amizade com Deus.\n\nParece estranho escrever assim, mas foi como Santa Teresa de Ávila definiu a oração.\n\nUm trato de amizade.\nEstando a sós com quem sabemos que nos ama.\n\nToda amizade cresce em etapas.\nPresença. Familiaridade. Confiança. Intimidade.\n\nNenhuma delas acontece de um dia pro outro.",
+      "first_comment": "Se a oração fosse uma amizade, em que etapa ela estaria hoje pra você? Conta aqui embaixo.\nO Sacrarium existe pra cultivar essa amizade todos os dias.\nConheça: https://sacrarium-app.netlify.app/",
+      "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/facebook/SACRARIUM_S24_FB_video_S24_amizade_com_deus.mp4",
+      "video_url_nuvem_remoto": "sacrarium/facebook/SACRARIUM_S24_FB_video_S24_amizade_com_deus.mp4",
+      "resultado": {
+        "video_id": "1063127592977173",
+        "agendado": false,
+        "url": "https://www.facebook.com/reel/1063127592977173"
+      }
+    },
+    {
+      "id": "SACRARIUM_S24_IG",
+      "canal": "sacrarium",
+      "plataforma": "instagram",
+      "tipo": "reels",
+      "publish_at": "2026-08-17T19:30:00-03:00",
+      "status": "publicado",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S24_amizade_com_deus.mp4",
+      "caption": "Fazer amizade com Deus.\n\nParece estranho escrever assim, mas foi como Santa Teresa de Ávila definiu a oração.\n\nUm trato de amizade.\nEstando a sós com quem sabemos que nos ama.\n\nToda amizade cresce em etapas.\nPresença. Familiaridade. Confiança. Intimidade.\n\nNenhuma delas acontece de um dia pro outro.\n\nO Sacrarium nasceu pra cultivar exatamente essa amizade, todos os dias.\n\nLink na bio.",
+      "first_comment": "Em que etapa dessa amizade sua oração está hoje? Conta aqui embaixo. Link na bio.",
+      "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/sacrarium/instagram/SACRARIUM_S24_IG_video_S24_amizade_com_deus.mp4",
+      "video_url_nuvem_remoto": "sacrarium/instagram/SACRARIUM_S24_IG_video_S24_amizade_com_deus.mp4",
+      "resultado": {
+        "media_id": "17916846879428326",
+        "url": "https://www.instagram.com/reel/17916846879428326",
+        "comentario": "postado na hora"
+      }
+    },
+    {
+      "id": "METODOANA_S24_YT",
+      "canal": "metodoana",
+      "plataforma": "youtube",
+      "tipo": "reels",
+      "publish_at": "2026-08-17T19:30:00-03:00",
+      "status": "agendado",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S24_Consumidor_gov_br_Depois_do_Nao.mp4",
+      "title": "O Banco Disse Não? Tem um Próximo Passo que Quase Ninguém Usa",
+      "description": "Se o SAC do seu banco já te disse não e você achou que o assunto tinha acabado ali, esse vídeo mostra o próximo passo que a maioria das pessoas não conhece.\n\nO consumidor.gov.br é um portal com força jurídica: o banco é obrigado a responder de forma fundamentada e dentro de um prazo. Diferente da ligação pro SAC, onde a conversa é verbal e some, aqui tudo fica registrado com número de protocolo.\n\nExplico o passo a passo: acessar o site, pesquisar o banco pelo nome, registrar a reclamação descrevendo o contrato e o que você quer, e avaliar a resposta recebida.\n\nFunciona especialmente pra quem está inadimplente e o banco não quer negociar pelo canal normal.\n\nSou Ana, mãe de 4 filhos, servidora pública, e uso essa ferramenta nas minhas próprias negociações de dívida.",
+      "tags": [
+        "educação financeira",
+        "sair das dívidas",
+        "Método ANA",
+        "negociação de dívida",
+        "consumidor.gov.br"
+      ],
+      "category_id": 27,
+      "pinned_comment": "Já tentou negociar com o SAC e recebeu um não? Comenta aqui embaixo como foi. O guia gratuito com esse e outros passos de negociação tá no link da bio.",
+      "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/youtube/METODOANA_S24_YT_video_S24_Consumidor_gov_br_Depois_do_Nao.mp4",
+      "video_url_nuvem_remoto": "metodoana/youtube/METODOANA_S24_YT_video_S24_Consumidor_gov_br_Depois_do_Nao.mp4",
+      "resultado": {
+        "video_id": "pwtJKsstagk",
+        "url": "https://youtube.com/watch?v=pwtJKsstagk"
+      }
+    },
+    {
+      "id": "METODOANA_S24_FB",
+      "canal": "metodoana",
+      "plataforma": "facebook",
+      "tipo": "reels",
+      "publish_at": "2026-08-17T19:30:00-03:00",
+      "status": "publicado",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S24_Consumidor_gov_br_Depois_do_Nao.mp4",
+      "caption": "O SAC do banco te disse não?\n\nTem um próximo passo que quase ninguém usa.\n\nConsumidor.gov.br.\n\nEsse portal tem força jurídica. O banco é obrigado a responder, com prazo.\n\nDiferente do SAC, aqui tudo fica registrado, com número de protocolo.",
+      "first_comment": "Já tentou negociar com o SAC e recebeu um não? Comenta aqui embaixo como foi. Guia gratuito no link da bio.",
+      "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/facebook/METODOANA_S24_FB_video_S24_Consumidor_gov_br_Depois_do_Nao.mp4",
+      "video_url_nuvem_remoto": "metodoana/facebook/METODOANA_S24_FB_video_S24_Consumidor_gov_br_Depois_do_Nao.mp4",
+      "resultado": {
+        "video_id": "1241247818106608",
+        "agendado": false,
+        "url": "https://www.facebook.com/reel/1241247818106608"
+      }
+    },
+    {
+      "id": "METODOANA_S24_IG",
+      "canal": "metodoana",
+      "plataforma": "instagram",
+      "tipo": "reels",
+      "publish_at": "2026-08-17T19:30:00-03:00",
+      "status": "publicado",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S24_Consumidor_gov_br_Depois_do_Nao.mp4",
+      "caption": "O SAC do banco te disse não?\n\nTem um próximo passo que quase ninguém usa.\n\nConsumidor.gov.br.\n\nEsse portal tem força jurídica. O banco é obrigado a responder, com prazo.\n\nDiferente do SAC, aqui tudo fica registrado, com número de protocolo.\n\nFunciona especialmente pra quem está inadimplente e o banco não quer negociar pelo canal normal.\n\nA pior resposta que você pode receber é não. E o não você já tem.\n\nLink na bio.",
+      "first_comment": "Já tentou negociar com o SAC e recebeu um não? Comenta aqui embaixo como foi. Guia gratuito no link da bio.",
+      "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/metodoana/instagram/METODOANA_S24_IG_video_S24_Consumidor_gov_br_Depois_do_Nao.mp4",
+      "video_url_nuvem_remoto": "metodoana/instagram/METODOANA_S24_IG_video_S24_Consumidor_gov_br_Depois_do_Nao.mp4",
+      "resultado": {
+        "media_id": "17897165577370740",
+        "url": "https://www.instagram.com/reel/17897165577370740",
+        "comentario": "postado na hora"
+      }
+    },
+    {
+      "id": "P4D_S24_YT",
+      "canal": "protocolo4d",
+      "plataforma": "youtube",
+      "tipo": "reels",
+      "publish_at": "2026-08-17T19:30:00-03:00",
+      "status": "agendado",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S24_P4D_banco_lucra_com_minimo.mp4",
+      "title": "O Mínimo do Cartão é o Produto Mais Lucrativo que o Banco Tem",
+      "description": "Você sabe por que o banco prefere que você pague o mínimo do cartão em vez do total?\n\nO mínimo é o produto mais lucrativo que o banco tem. Quando você paga só o mínimo, o banco ganha o juro do rotativo sobre o restante. No mês seguinte o saldo é maior porque os juros foram adicionados, e o ciclo se repete — um cliente que paga o mínimo todos os meses pode pagar o valor original da dívida três vezes em juros antes de zerar o saldo.\n\nO banco não é inimigo. É um negócio que funciona dentro das regras do sistema — quem não conhece essas regras perde dinheiro sem perceber.\n\nAssista ao vídeo completo sobre esse mesmo ciclo de juros no Canal Forjando Titãs: https://youtu.be/E8Hj7_Ydd1s (\"Como calcular o custo real da sua dívida\").\n\nO Ebook das Dez Armadilhas Bancárias explica esse e outros mecanismos com os números reais.",
+      "tags": [
+        "educação financeira masculina",
+        "dívidas",
+        "Protocolo 4D",
+        "cartão de crédito",
+        "juros rotativo"
+      ],
+      "category_id": 27,
+      "pinned_comment": "Você já parou pra calcular quanto do seu saldo do cartão hoje é só juro acumulado de mínimos anteriores? Comenta aqui embaixo. A calculadora gratuita que mostra em quantos meses você quita tudo está no link: https://protocolo-4d.netlify.app/lp-calculadora-dividas",
+      "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/protocolo4d/youtube/P4D_S24_YT_video_S24_P4D_banco_lucra_com_minimo.mp4",
+      "video_url_nuvem_remoto": "protocolo4d/youtube/P4D_S24_YT_video_S24_P4D_banco_lucra_com_minimo.mp4",
+      "resultado": {
+        "video_id": "vFe4e_-qTug",
+        "url": "https://youtube.com/watch?v=vFe4e_-qTug"
+      }
+    },
+    {
+      "id": "P4D_S24_FB",
+      "canal": "protocolo4d",
+      "plataforma": "facebook",
+      "tipo": "reels",
+      "publish_at": "2026-08-17T19:30:00-03:00",
+      "status": "publicado",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S24_P4D_banco_lucra_com_minimo.mp4",
+      "caption": "O banco prefere que você pague o mínimo do cartão.\n\nVocê sabe por quê?\n\nO mínimo é o produto mais lucrativo que ele tem.\n\nVocê paga o mínimo. O banco ganha juro do rotativo sobre o resto. Mês seguinte, o saldo é maior. Você paga o mínimo de novo. Mais juro.",
+      "first_comment": "Você já calculou quanto do seu saldo hoje é só juro acumulado? Comenta aqui embaixo. Calculadora gratuita: https://protocolo-4d.netlify.app/lp-calculadora-dividas",
+      "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/protocolo4d/facebook/P4D_S24_FB_video_S24_P4D_banco_lucra_com_minimo.mp4",
+      "video_url_nuvem_remoto": "protocolo4d/facebook/P4D_S24_FB_video_S24_P4D_banco_lucra_com_minimo.mp4",
+      "resultado": {
+        "video_id": "1529858171749218",
+        "agendado": false,
+        "url": "https://www.facebook.com/reel/1529858171749218"
+      }
+    },
+    {
+      "id": "P4D_S24_IG",
+      "canal": "protocolo4d",
+      "plataforma": "instagram",
+      "tipo": "reels",
+      "publish_at": "2026-08-17T19:30:00-03:00",
+      "status": "publicado",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\S24_P4D_banco_lucra_com_minimo.mp4",
+      "caption": "O banco prefere que você pague o mínimo do cartão.\n\nVocê sabe por quê?\n\nO mínimo é o produto mais lucrativo que ele tem.\n\nVocê paga o mínimo. O banco ganha juro do rotativo sobre o resto. Mês seguinte, o saldo é maior. Você paga o mínimo de novo. Mais juro.\n\nQuem paga só o mínimo todo mês pode pagar o valor original da dívida três vezes em juros antes de zerar.\n\nO banco não é inimigo. É um negócio que funciona dentro das regras.\n\nLink na bio.",
+      "first_comment": "Você já calculou quanto do seu saldo hoje é só juro acumulado de mínimos anteriores? Comenta aqui embaixo. Link na bio.",
+      "video_url_nuvem": "https://onnpdtyntvhcrxtivbmp.supabase.co/storage/v1/object/public/pipeline-midia/protocolo4d/instagram/P4D_S24_IG_video_S24_P4D_banco_lucra_com_minimo.mp4",
+      "video_url_nuvem_remoto": "protocolo4d/instagram/P4D_S24_IG_video_S24_P4D_banco_lucra_com_minimo.mp4",
+      "resultado": {
+        "media_id": "18101522687194013",
+        "url": "https://www.instagram.com/reel/18101522687194013",
+        "comentario": "postado na hora"
+      }
+    },
+    {
+      "id": "FT_V16_YT",
+      "canal": "forjandotitas",
+      "plataforma": "youtube",
+      "tipo": "video",
+      "publish_at": "2026-08-17T19:30:00-03:00",
+      "status": "agendado",
+      "video_path": "D:\\Projeto Renda Extra\\Youtube\\02 Postar\\V16_FT_unico_numero_juros.mp4",
+      "thumb_path": "C:\\Users\\Jaqueline\\Documents\\Projeto Renda Extra\\pipeline_completa\\pipeline\\03_Estrutura_Canais\\ForjandoTitas\\04-Pack de Postagem\\Thumbnails\\VELHAS THUMBS FT\\V16 - PAGAR O MÍNIMO.jpeg",
+      "title": "443% ao Ano: o Juro Que Está Rodando na Sua Conta Agora",
+      "description": "Pra homem que tem mais de uma dívida ativa ao mesmo tempo — cartão, financiamento, parcela de loja, empréstimo pessoal — e vem pagando um pouco de cada, achando que está sendo equilibrado. Esse vídeo mostra por que essa estratégia mantém a pessoa endividada por mais tempo, e qual é o único número que deveria decidir a ordem de ataque.\n\nO conteúdo explica a diferença entre valor da dívida e taxa de juros mensal, mostra como a Operação de Reconhecimento funciona (listar nome, saldo e taxa mensal de cada dívida, usando o direito de exigir o CET da instituição), e detalha por que concentrar o dinheiro excedente no Alvo Principal — a dívida de maior taxa — bate distribuir entre todas.\n\nTraz uma comparação de dois anos entre quem distribui e quem concentra, com a mesma renda e o mesmo total de dívida.\n\nConteúdo de estratégia de quitação de dívida, pra quem tem mais de uma dívida ativa e nunca comparou as taxas lado a lado antes de decidir onde colocar o dinheiro que sobra.",
+      "tags": [
+        "educação financeira masculina",
+        "Forjando Titãs",
+        "dívidas",
+        "juros",
+        "quitação de dívida"
+      ],
+      "category_id": 27,
+      "pinned_comment": "Abre agora o contrato de cada dívida que você tem e encontra a taxa mensal de cada uma. Depois volta aqui e comenta qual foi a maior taxa que você achou. Tem uma calculadora gratuita que mostra em quantos meses você quita tudo na ordem certa: https://protocolo-4d.netlify.app/lp-calculadora-dividas",
+      "resultado": {
+        "video_id": "WRM2FjNbcM8",
+        "url": "https://youtube.com/watch?v=WRM2FjNbcM8"
+      }
+    }
+  ]
+}
